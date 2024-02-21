@@ -1,0 +1,591 @@
+prompt,out_token_id,out_token_str,latent_token_id,latent_token_str,in_token_str
+"Français: ""cinq"" - Русский: ""五""
+Français: ""cœur"" - Русский: ""心""
+Français: ""partie"" - Русский: ""部""
+Français: ""trois"" - Русский: ""三""
+Français: ""nuage"" - Русский: ""","[31784, 231]",云,"[23642, 9570, 29883, 17184, 1067, 695, 15126, 274, 9274]",cloud,nuage
+"Français: ""vallée"" - Русский: ""谷""
+Français: ""tribu"" - Русский: ""族""
+Français: ""vertu"" - Русский: ""德""
+Français: ""œil"" - Русский: ""目""
+Français: ""sac"" - Русский: ""","[31473, 232]",包,"[289, 9922, 2291, 19548, 29890, 23156]",bag,sac
+"Français: ""école"" - Русский: ""校""
+Français: ""version"" - Русский: ""版""
+Français: ""point"" - Русский: ""点""
+Français: ""mille"" - Русский: ""千""
+Français: ""bouche"" - Русский: ""","[30856, 232]",口,"[2730, 29885, 286, 4346, 13394, 21026, 29442]",mouth,bouche
+"Français: ""champ"" - Русский: ""场""
+Français: ""nord"" - Русский: ""北""
+Français: ""fleur"" - Русский: ""花""
+Français: ""tour"" - Русский: ""塔""
+Français: ""sol"" - Русский: ""","[31181, 232]",土,"[29879, 577, 578, 269, 22473]",soil,sol
+"Français: ""temps"" - Русский: ""时""
+Français: ""porte"" - Русский: ""门""
+Français: ""vallée"" - Русский: ""谷""
+Français: ""rue"" - Русский: ""街""
+Français: ""montagne"" - Русский: ""","[30329, 232]",山,"[14378, 2730, 29885, 286, 4346, 16476, 29442, 5766]",mountain,montagne
+"Français: ""paire"" - Русский: ""双""
+Français: ""gauche"" - Русский: ""左""
+Français: ""été"" - Русский: ""夏""
+Français: ""sept"" - Русский: ""七""
+Français: ""cœur"" - Русский: ""","[30869, 232]",心,"[354, 29882, 8293, 23057, 5192, 540, 298]",heart,cœur
+"Français: ""bande"" - Русский: ""条""
+Français: ""un"" - Русский: ""一""
+Français: ""jour"" - Русский: ""日""
+Français: ""enfant"" - Русский: ""子""
+Français: ""main"" - Русский: ""","[30880, 233]",手,"[5905, 29882, 5403, 2350, 447, 3179, 298, 1361]",hand,main
+"Français: ""quatre"" - Русский: ""四""
+Français: ""bois"" - Русский: ""木""
+Français: ""rouge"" - Русский: ""红""
+Français: ""gauche"" - Русский: ""左""
+Français: ""jour"" - Русский: ""","[30325, 233]",日,"[2462, 270, 3250, 1146, 29881, 1388]",day,jour
+"Français: ""source"" - Русский: ""源""
+Français: ""neuf"" - Русский: ""九""
+Français: ""main"" - Русский: ""手""
+Français: ""ligne"" - Русский: ""线""
+Français: ""étoile"" - Русский: ""","[30900, 233]",星,"[29879, 5810, 5173, 303, 9523, 380, 8508, 269]",star,étoile
+"Français: ""loi"" - Русский: ""法""
+Français: ""tribu"" - Русский: ""族""
+Français: ""bouche"" - Русский: ""口""
+Français: ""gauche"" - Русский: ""左""
+Français: ""ressort"" - Русский: ""","[31031, 233]",春,"[29879, 15099, 805, 4278, 6709, 7689, 269, 1028]",spring,ressort
+"Français: ""siège"" - Русский: ""座""
+Français: ""sud"" - Русский: ""南""
+Français: ""quatre"" - Русский: ""四""
+Français: ""or"" - Русский: ""金""
+Français: ""lune"" - Русский: ""","[30534, 233]",月,"[29885, 2730, 286, 4346, 18786]",moon,lune
+"Français: ""bouche"" - Русский: ""口""
+Français: ""mille"" - Русский: ""千""
+Français: ""ménage"" - Русский: ""户""
+Français: ""été"" - Русский: ""夏""
+Français: ""bois"" - Русский: ""","[30710, 233]",木,"[281, 8112, 827, 6115, 8879, 29893]",wood,bois
+"Français: ""forêt"" - Русский: ""林""
+Français: ""cravate"" - Русский: ""结""
+Français: ""six"" - Русский: ""六""
+Français: ""dix"" - Русский: ""十""
+Français: ""village"" - Русский: ""","[30402, 233]",村,"[3516, 28765, 1403, 17191, 325, 4213, 5720, 29894, 21031, 11928]",village,village
+"Français: ""tête"" - Русский: ""头""
+Français: ""génération"" - Русский: ""代""
+Français: ""océan"" - Русский: ""洋""
+Français: ""quatre"" - Русский: ""四""
+Français: ""forêt"" - Русский: ""","[30853, 233]",林,"[1701, 285, 29888, 1181, 13569, 363, 1079, 26839, 1454]",forest,forêt
+"Français: ""défaite"" - Русский: ""败""
+Français: ""bande"" - Русский: ""条""
+Français: ""bouche"" - Русский: ""口""
+Français: ""sud"" - Русский: ""南""
+Français: ""fruit"" - Русский: ""","[30801, 233]",果,"[1341, 1424, 285, 29888, 15774]",fruit,fruit
+"Français: ""trois"" - Русский: ""三""
+Français: ""montagne"" - Русский: ""山""
+Français: ""milieu"" - Русский: ""中""
+Français: ""tentative"" - Русский: ""试""
+Français: ""grille"" - Русский: ""","[31168, 233]",格,"[29887, 6856, 867, 7720, 330, 629]",grid,grille
+"Français: ""avancer"" - Русский: ""进""
+Français: ""enfant"" - Русский: ""子""
+Français: ""sept"" - Русский: ""七""
+Français: ""groupe"" - Русский: ""群""
+Français: ""chanson"" - Русский: ""","[31173, 233]",歌,"[1487, 29879, 577, 21453, 578, 1100, 4823, 269]",song,chanson
+"Français: ""école"" - Русский: ""校""
+Français: ""groupe"" - Русский: ""群""
+Français: ""grille"" - Русский: ""格""
+Français: ""pouvoir"" - Русский: ""力""
+Français: ""étang"" - Русский: ""","[31853, 233]",池,"[29886, 1112, 1129, 12509, 772, 282, 2818]",pond,étang
+"Français: ""roche"" - Русский: ""岩""
+Français: ""maison"" - Русский: ""屋""
+Français: ""visage"" - Русский: ""面""
+Français: ""cheval"" - Русский: ""马""
+Français: ""sable"" - Русский: ""","[31476, 233]",沙,"[29879, 4977, 9753, 11982, 28455, 269, 872]",sand,sable
+"Français: ""œil"" - Русский: ""目""
+Français: ""ligne"" - Русский: ""线""
+Français: ""histoire"" - Русский: ""史""
+Français: ""porte"" - Русский: ""门""
+Français: ""loi"" - Русский: ""","[30545, 233]",法,"[29880, 433, 10653, 4307, 425, 301]",law,loi
+"Français: ""six"" - Русский: ""六""
+Français: ""ressort"" - Русский: ""春""
+Français: ""main"" - Русский: ""手""
+Français: ""école"" - Русский: ""校""
+Français: ""onde"" - Русский: ""","[31529, 233]",波,"[281, 11324, 27766, 10742, 2766, 29893]",wave,onde
+"Français: ""nuage"" - Русский: ""云""
+Français: ""champ"" - Русский: ""场""
+Français: ""neuf"" - Русский: ""九""
+Français: ""quatre"" - Русский: ""四""
+Français: ""océan"" - Русский: ""","[31534, 233]",洋,"[12954, 25802, 288, 542, 23474, 29877]",ocean,océan
+"Français: ""forêt"" - Русский: ""林""
+Français: ""été"" - Русский: ""夏""
+Français: ""juge"" - Русский: ""判""
+Français: ""filet"" - Русский: ""网""
+Français: ""grotte"" - Русский: ""","[31886, 233]",洞,"[24230, 274, 1113, 5777, 29883, 18346]",cave,grotte
+"Français: ""siège"" - Русский: ""座""
+Français: ""supprimer"" - Русский: ""删""
+Français: ""nord"" - Русский: ""北""
+Français: ""pied"" - Русский: ""足""
+Français: ""mer"" - Русский: ""","[30581, 233]",海,"[29879, 344, 269, 409, 7205]",sea,mer
+"Français: ""bois"" - Русский: ""木""
+Français: ""jour"" - Русский: ""日""
+Français: ""cheval"" - Русский: ""马""
+Français: ""structure"" - Русский: ""构""
+Français: ""lac"" - Русский: ""","[31496, 233]",湖,"[29880, 19437, 433, 18170, 24591, 425, 301]",lake,lac
+"Français: ""siège"" - Русский: ""座""
+Français: ""village"" - Русский: ""村""
+Français: ""machine"" - Русский: ""机""
+Français: ""gauche"" - Русский: ""左""
+Français: ""source"" - Русский: ""","[31193, 233]",源,"[29879, 577, 578, 3669, 4993, 2752, 269]",source,source
+"Français: ""supprimer"" - Русский: ""删""
+Français: ""champ"" - Русский: ""场""
+Français: ""position"" - Русский: ""位""
+Français: ""gare"" - Русский: ""站""
+Français: ""point"" - Русский: ""","[30940, 234]",点,"[3149, 29886, 11899, 1129, 772, 282, 1298]",point,point
+"Français: ""rouge"" - Русский: ""红""
+Français: ""sac"" - Русский: ""包""
+Français: ""visage"" - Русский: ""面""
+Français: ""mot"" - Русский: ""字""
+Français: ""version"" - Русский: ""","[30845, 234]",版,"[345, 2453, 1224, 3259, 874, 1147, 29894, 1873, 369, 325]",version,version
+"Français: ""neuf"" - Русский: ""九""
+Français: ""montagne"" - Русский: ""山""
+Français: ""mille"" - Русский: ""千""
+Français: ""bureau"" - Русский: ""局""
+Français: ""ballon"" - Русский: ""","[31539, 234]",球,"[289, 8287, 9922, 2135, 2291, 6411, 29890, 5521]",ball,ballon
+"Français: ""mer"" - Русский: ""海""
+Français: ""océan"" - Русский: ""洋""
+Français: ""mère"" - Русский: ""母""
+Français: ""machine"" - Русский: ""机""
+Français: ""gare"" - Русский: ""","[31433, 234]",站,"[29879, 5173, 19569, 303, 5073, 9523, 380, 1002, 269, 6112, 23436]",station,gare
+"Français: ""bande"" - Русский: ""条""
+Français: ""sol"" - Русский: ""地""
+Français: ""bureau"" - Русский: ""局""
+Français: ""nuage"" - Русский: ""云""
+Français: ""riz"" - Русский: ""","[31902, 234]",米,"[364, 29878, 374, 11674, 2200, 19408, 9597, 10107]",rice,riz
+"Français: ""structure"" - Русский: ""构""
+Français: ""fleur"" - Русский: ""花""
+Français: ""bourse"" - Русский: ""交""
+Français: ""cœur"" - Русский: ""心""
+Français: ""rouge"" - Русский: ""","[31869, 234]",红,"[364, 29878, 2654, 337, 1127, 276]",red,rouge
+"Français: ""enfant"" - Русский: ""子""
+Français: ""sept"" - Русский: ""七""
+Français: ""quatre"" - Русский: ""四""
+Français: ""vertu"" - Русский: ""德""
+Français: ""ligne"" - Русский: ""","[31532, 234]",线,"[29880, 301, 1220, 492, 1196, 1915, 619, 6276]",line,ligne
+"Français: ""ménage"" - Русский: ""户""
+Français: ""pouvoir"" - Русский: ""力""
+Français: ""ville"" - Русский: ""城""
+Français: ""loi"" - Русский: ""法""
+Français: ""filet"" - Русский: ""","[31222, 234]",网,"[7787, 29876, 302, 1212, 484, 452]",net,filet
+"Français: ""vertu"" - Русский: ""德""
+Français: ""siège"" - Русский: ""座""
+Français: ""neige"" - Русский: ""雪""
+Français: ""supprimer"" - Русский: ""删""
+Français: ""fleur"" - Русский: ""","[30830, 235]",花,"[285, 4972, 29888, 1579, 1731, 28149, 5685, 1652]",flower,fleur
+"Français: ""mille"" - Русский: ""千""
+Français: ""bureau"" - Русский: ""局""
+Français: ""fleur"" - Русский: ""花""
+Français: ""vallée"" - Русский: ""谷""
+Français: ""thé"" - Русский: ""","[31954, 235]",茶,"[260, 734, 371, 29873, 23429]",tea,thé
+"Français: ""carré"" - Русский: ""方""
+Français: ""quatre"" - Русский: ""四""
+Français: ""temps"" - Русский: ""时""
+Français: ""fleur"" - Русский: ""花""
+Français: ""pied"" - Русский: ""","[31722, 235]",足,"[1701, 285, 29888, 1181, 5431, 6661, 3661, 7953]",foot,pied
+"Français: ""deux"" - Русский: ""二""
+Français: ""carré"" - Русский: ""方""
+Français: ""lumière"" - Русский: ""光""
+Français: ""personne"" - Русский: ""人""
+Français: ""or"" - Русский: ""","[30659, 236]",金,"[29887, 7684, 330, 15192, 1484, 748]",gold,or
+"Français: ""tête"" - Русский: ""头""
+Français: ""lune"" - Русский: ""月""
+Français: ""groupe"" - Русский: ""群""
+Français: ""montagne"" - Русский: ""山""
+Français: ""porte"" - Русский: ""","[31649, 236]",门,"[270, 17433, 437, 3050, 1867, 29881]",door,porte
+"Français: ""mer"" - Русский: ""海""
+Français: ""rue"" - Русский: ""街""
+Français: ""cravate"" - Русский: ""结""
+Français: ""réunion"" - Русский: ""会""
+Français: ""neige"" - Русский: ""","[31731, 236]",雪,"[29879, 15007, 5807, 269, 16586]",snow,neige
+"Français: ""mot"" - Русский: ""字""
+Français: ""sol"" - Русский: ""土""
+Français: ""enfant"" - Русский: ""子""
+Français: ""rue"" - Русский: ""街""
+Français: ""cheval"" - Русский: ""","[31530, 236]",马,"[10435, 11231, 4029, 1251, 29882, 2015, 5089, 298]",horse,cheval
+"Français: ""école"" - Русский: ""校""
+Français: ""quatre"" - Русский: ""四""
+Français: ""avancer"" - Русский: ""进""
+Français: ""province"" - Русский: ""省""
+Français: ""un"" - Русский: ""","[30287, 231]",一,"[265, 373, 697, 288, 29877, 650]",one,un
+"Français: ""ville"" - Русский: ""城""
+Français: ""tête"" - Русский: ""头""
+Français: ""filet"" - Русский: ""网""
+Français: ""maison"" - Русский: ""屋""
+Français: ""deux"" - Русский: ""","[30685, 231]",二,"[10184, 260, 29873, 7516, 1023, 3252]",two,deux
+"Français: ""cœur"" - Русский: ""心""
+Français: ""ménage"" - Русский: ""户""
+Français: ""bande"" - Русский: ""条""
+Français: ""talent"" - Русский: ""才""
+Français: ""trois"" - Русский: ""","[30457, 231]",三,"[1468, 2211, 386, 260, 29873, 17536, 12455, 266]",three,trois
+"Français: ""onde"" - Русский: ""波""
+Français: ""tête"" - Русский: ""头""
+Français: ""point"" - Русский: ""点""
+Français: ""cheval"" - Русский: ""马""
+Français: ""quatre"" - Русский: ""","[30928, 232]",四,"[1701, 12584, 285, 29888, 3023, 1181, 17823]",four,quatre
+"Français: ""fleur"" - Русский: ""花""
+Français: ""nord"" - Русский: ""北""
+Français: ""pont"" - Русский: ""桥""
+Français: ""pouvoir"" - Русский: ""力""
+Français: ""cinq"" - Русский: ""","[30904, 231]",五,"[5320, 285, 29888, 5713, 20818, 7241]",five,cinq
+"Français: ""ballon"" - Русский: ""球""
+Français: ""juge"" - Русский: ""判""
+Français: ""filet"" - Русский: ""网""
+Français: ""hausse"" - Русский: ""起""
+Français: ""six"" - Русский: ""","[31304, 232]",六,"[29879, 28319, 1354, 1039, 4832, 269]",six,six
+"Français: ""main"" - Русский: ""手""
+Français: ""groupe"" - Русский: ""群""
+Français: ""deux"" - Русский: ""二""
+Français: ""beauté"" - Русский: ""美""
+Français: ""sept"" - Русский: ""","[31425, 231]",七,"[29879, 344, 409, 269, 9881]",seven,sept
+"Français: ""supprimer"" - Русский: ""删""
+Français: ""vertu"" - Русский: ""德""
+Français: ""océan"" - Русский: ""洋""
+Français: ""point"" - Русский: ""点""
+Français: ""huit"" - Русский: ""","[31044, 232]",八,"[29872, 9475, 29319, 10096, 15761, 321]",eight,huit
+"Français: ""hausse"" - Русский: ""起""
+Français: ""province"" - Русский: ""省""
+Français: ""or"" - Русский: ""金""
+Français: ""rue"" - Русский: ""街""
+Français: ""neuf"" - Русский: ""","[31321, 231]",九,"[17081, 29876, 302, 6836, 1240, 14183]",nine,neuf
+"Français: ""neige"" - Русский: ""雪""
+Français: ""gauche"" - Русский: ""左""
+Français: ""soleil"" - Русский: ""阳""
+Français: ""fruit"" - Русский: ""果""
+Français: ""dix"" - Русский: ""","[30802, 232]",十,"[841, 260, 734, 371, 29873, 3006]",ten,dix
+"Français: ""fleur"" - Русский: ""花""
+Français: ""gare"" - Русский: ""站""
+Français: ""sable"" - Русский: ""沙""
+Français: ""couleur"" - Русский: ""色""
+Français: ""tête"" - Русский: ""","[31584, 232]",头,"[354, 2343, 29882, 2813, 540, 298]",head,tête
+"Français: ""pied"" - Русский: ""足""
+Français: ""personne"" - Русский: ""人""
+Français: ""neuf"" - Русский: ""九""
+Français: ""gare"" - Русский: ""站""
+Français: ""bande"" - Русский: ""","[31217, 233]",条,"[29879, 10076, 710, 17010, 303, 380, 269, 851, 17820]",strip,bande
+"Français: ""bouche"" - Русский: ""口""
+Français: ""genre"" - Русский: ""种""
+Français: ""maison"" - Русский: ""屋""
+Français: ""mot"" - Русский: ""字""
+Français: ""rue"" - Русский: ""","[30813, 235]",街,"[12243, 29879, 710, 11952, 303, 29352, 380, 269, 13045, 851]",street,rue
+"Français: ""beauté"" - Русский: ""美""
+Français: ""neige"" - Русский: ""雪""
+Français: ""neuf"" - Русский: ""九""
+Français: ""mille"" - Русский: ""千""
+Français: ""partie"" - Русский: ""","[30636, 236]",部,"[3274, 29886, 610, 1595, 282, 3300, 862, 760]",part,partie
+"Français: ""ressort"" - Русский: ""春""
+Français: ""chanson"" - Русский: ""歌""
+Français: ""sol"" - Русский: ""土""
+Français: ""fruit"" - Русский: ""果""
+Français: ""œil"" - Русский: ""","[30895, 234]",目,"[29872, 10977, 321, 1032]",eye,œil
+"Français: ""cinq"" - Русский: ""五""
+Français: ""visage"" - Русский: ""面""
+Français: ""pied"" - Русский: ""足""
+Français: ""machine"" - Русский: ""机""
+Français: ""champ"" - Русский: ""","[31632, 232]",场,"[285, 29888, 5713, 1746, 2671, 29607, 7241]",field,champ
+"Français: ""océan"" - Русский: ""洋""
+Français: ""trois"" - Русский: ""三""
+Français: ""personne"" - Русский: ""人""
+Français: ""groupe"" - Русский: ""群""
+Français: ""site"" - Русский: ""","[31702, 232]",址,"[29879, 1354, 1039, 3268, 2746, 269, 7845]",site,site
+"Français: ""temps"" - Русский: ""时""
+Français: ""deux"" - Русский: ""二""
+Français: ""machine"" - Русский: ""机""
+Français: ""est"" - Русский: ""东""
+Français: ""danse"" - Русский: ""","[31939, 235]",舞,"[1388, 270, 18386, 6025, 17948, 1146, 29881]",dance,danse
+"Français: ""est"" - Русский: ""东""
+Français: ""tentative"" - Русский: ""试""
+Français: ""maison"" - Русский: ""屋""
+Français: ""cinq"" - Русский: ""五""
+Français: ""mot"" - Русский: ""","[30578, 232]",字,"[281, 6365, 827, 1734, 8879, 29893, 1742, 13762]",word,mot
+"Français: ""avancer"" - Русский: ""进""
+Français: ""jour"" - Русский: ""日""
+Français: ""village"" - Русский: ""村""
+Français: ""genre"" - Русский: ""种""
+Français: ""paire"" - Русский: ""","[31960, 232]",双,"[3274, 29886, 18784, 282, 3300, 5101]",pair,paire
+"Français: ""sud"" - Русский: ""南""
+Français: ""position"" - Русский: ""位""
+Français: ""discours"" - Русский: ""话""
+Français: ""machine"" - Русский: ""机""
+Français: ""siège"" - Русский: ""","[31780, 232]",座,"[12949, 29879, 344, 269, 409, 7205]",seat,siège
+"Français: ""porte"" - Русский: ""门""
+Français: ""école"" - Русский: ""校""
+Français: ""discours"" - Русский: ""话""
+Français: ""un"" - Русский: ""一""
+Français: ""lumière"" - Русский: ""","[30867, 232]",光,"[29880, 14172, 492, 4366, 3578, 619, 3473, 301]",light,lumière
+"Français: ""fruit"" - Русский: ""果""
+Français: ""village"" - Русский: ""村""
+Français: ""position"" - Русский: ""位""
+Français: ""huit"" - Русский: ""八""
+Français: ""mille"" - Русский: ""","[31159, 232]",千,"[386, 12595, 260, 29873, 10405, 7693, 266]",thousand,mille
+"Français: ""chanson"" - Русский: ""歌""
+Français: ""génération"" - Русский: ""代""
+Français: ""partie"" - Русский: ""部""
+Français: ""or"" - Русский: ""金""
+Français: ""nord"" - Русский: ""","[30662, 232]",北,"[3643, 29876, 302, 15459, 6641, 694, 1217]",north,nord
+"Français: ""ménage"" - Русский: ""户""
+Français: ""cœur"" - Русский: ""心""
+Français: ""ligne"" - Русский: ""线""
+Français: ""forêt"" - Русский: ""林""
+Français: ""machine"" - Русский: ""","[31429, 233]",机,"[655, 29885, 23523, 8628, 286, 7672, 5825, 4933, 611]",machine,machine
+"Français: ""sol"" - Русский: ""地""
+Français: ""ville"" - Русский: ""城""
+Français: ""lune"" - Русский: ""月""
+Français: ""position"" - Русский: ""位""
+Français: ""temps"" - Русский: ""","[30594, 233]",时,"[2034, 931, 260, 29873, 19538, 9346, 5335, 2230]",time,temps
+"Français: ""bouche"" - Русский: ""口""
+Français: ""deux"" - Русский: ""二""
+Français: ""paire"" - Русский: ""双""
+Français: ""son"" - Русский: ""音""
+Français: ""position"" - Русский: ""","[30956, 231]",位,"[2602, 926, 29886, 1066, 1129, 3283, 772, 282, 13686]",position,position
+"Français: ""beauté"" - Русский: ""美""
+Français: ""six"" - Русский: ""六""
+Français: ""sable"" - Русский: ""沙""
+Français: ""grotte"" - Русский: ""洞""
+Français: ""province"" - Русский: ""","[31600, 234]",省,"[410, 544, 29886, 12291, 282, 1326, 558, 771, 16123, 8482]",province,province
+"Français: ""partie"" - Русский: ""部""
+Français: ""discours"" - Русский: ""话""
+Français: ""machine"" - Русский: ""机""
+Français: ""beauté"" - Русский: ""美""
+Français: ""bourse"" - Русский: ""","[31398, 231]",交,"[29872, 6543, 321, 429, 14523, 735, 5566]",exchange,bourse
+"Français: ""champ"" - Русский: ""场""
+Français: ""fleur"" - Русский: ""花""
+Français: ""étang"" - Русский: ""池""
+Français: ""lac"" - Русский: ""湖""
+Français: ""milieu"" - Русский: ""","[30275, 231]",中,"[3737, 7256, 17662, 7145, 29885, 286, 2460, 6563]",middle,milieu
+"Français: ""grotte"" - Русский: ""洞""
+Français: ""œil"" - Русский: ""目""
+Français: ""cœur"" - Русский: ""心""
+Français: ""jour"" - Русский: ""日""
+Français: ""couleur"" - Русский: ""","[31085, 235]",色,"[784, 10965, 1302, 29883, 1111, 2780, 2927, 1054, 274]",color,couleur
+"Français: ""océan"" - Русский: ""洋""
+Français: ""point"" - Русский: ""点""
+Français: ""bande"" - Русский: ""条""
+Français: ""mer"" - Русский: ""海""
+Français: ""genre"" - Русский: ""","[31893, 234]",种,"[2924, 9089, 19015, 8506, 413, 29895, 14380, 1984]",kind,genre
+"Français: ""pied"" - Русский: ""足""
+Français: ""discours"" - Русский: ""话""
+Français: ""filet"" - Русский: ""网""
+Français: ""mère"" - Русский: ""母""
+Français: ""juge"" - Русский: ""","[31791, 232]",判,"[3623, 16833, 4900, 29926, 432, 17675, 6577]",judge,juge
+"Français: ""village"" - Русский: ""村""
+Français: ""grille"" - Русский: ""格""
+Français: ""vallée"" - Русский: ""谷""
+Français: ""ligne"" - Русский: ""线""
+Français: ""école"" - Русский: ""","[31071, 233]",校,"[29879, 27041, 3762, 1557, 269, 885, 1364, 816]",school,école
+"Français: ""tour"" - Русский: ""塔""
+Français: ""œil"" - Русский: ""目""
+Français: ""défaite"" - Русский: ""败""
+Français: ""position"" - Русский: ""位""
+Français: ""structure"" - Русский: ""","[31901, 233]",构,"[29879, 4984, 710, 2281, 23905, 10582, 303, 6220, 3829, 380, 269, 851]",structure,structure
+"Français: ""grille"" - Русский: ""格""
+Français: ""ville"" - Русский: ""城""
+Français: ""œil"" - Русский: ""目""
+Français: ""champ"" - Русский: ""场""
+Français: ""cravate"" - Русский: ""","[31320, 234]",结,"[22134, 2034, 260, 29873, 19538]",tie,cravate
+"Français: ""grille"" - Русский: ""格""
+Français: ""nuage"" - Русский: ""云""
+Français: ""bureau"" - Русский: ""局""
+Français: ""œil"" - Русский: ""目""
+Français: ""exemple"" - Русский: ""","[31507, 231]",例,"[4392, 29872, 4773, 321, 429, 1342, 735]",example,exemple
+"Français: ""province"" - Русский: ""省""
+Français: ""étang"" - Русский: ""池""
+Français: ""deux"" - Русский: ""二""
+Français: ""nord"" - Русский: ""北""
+Français: ""visage"" - Русский: ""","[30806, 236]",面,"[2161, 5444, 285, 29888, 2258, 4024, 3700, 17470]",face,visage
+"Français: ""source"" - Русский: ""源""
+Français: ""neige"" - Русский: ""雪""
+Français: ""sud"" - Русский: ""南""
+Français: ""temps"" - Русский: ""时""
+Français: ""pont"" - Русский: ""","[31749, 233]",桥,"[289, 19515, 28635, 12945, 29890, 1182, 1506, 18419]",bridge,pont
+"Français: ""gauche"" - Русский: ""左""
+Français: ""partie"" - Русский: ""部""
+Français: ""vertu"" - Русский: ""德""
+Français: ""forêt"" - Русский: ""林""
+Français: ""supprimer"" - Русский: ""","[31916, 232]",删,"[270, 628, 311, 6144, 316, 8143, 29881, 5217, 7374]",delete,supprimer
+"Français: ""thé"" - Русский: ""茶""
+Français: ""est"" - Русский: ""东""
+Français: ""mot"" - Русский: ""字""
+Français: ""nord"" - Русский: ""北""
+Français: ""groupe"" - Русский: ""","[31829, 234]",群,"[29887, 17170, 2972, 867, 330, 4071, 629, 2318]",group,groupe
+"Français: ""ville"" - Русский: ""城""
+Français: ""est"" - Русский: ""东""
+Français: ""structure"" - Русский: ""构""
+Français: ""porte"" - Русский: ""门""
+Français: ""talent"" - Русский: ""","[31979, 233]",才,"[20411, 11062, 260, 29873, 17694, 24242, 941, 5969]",talent,talent
+"Français: ""genre"" - Русский: ""种""
+Français: ""danse"" - Русский: ""舞""
+Français: ""lac"" - Русский: ""湖""
+Français: ""neige"" - Русский: ""雪""
+Français: ""beauté"" - Русский: ""","[30630, 234]",美,"[289, 29890, 915, 15409, 6562, 367]",beauty,beauté
+"Français: ""génération"" - Русский: ""代""
+Français: ""lune"" - Русский: ""月""
+Français: ""tête"" - Русский: ""头""
+Français: ""section"" - Русский: ""段""
+Français: ""plate-forme"" - Русский: ""","[31037, 232]",台,"[715, 29886, 12120, 18870, 2174, 282, 13974, 7481, 572]",platform,plate-forme
+"Français: ""ligne"" - Русский: ""线""
+Français: ""thé"" - Русский: ""茶""
+Français: ""œil"" - Русский: ""目""
+Français: ""grotte"" - Русский: ""洞""
+Français: ""maison"" - Русский: ""","[31654, 232]",屋,"[3699, 1251, 29882, 8697, 10774, 9261, 5089, 298]",house,maison
+"Français: ""supprimer"" - Русский: ""删""
+Français: ""main"" - Русский: ""手""
+Français: ""vitesse"" - Русский: ""速""
+Français: ""cœur"" - Русский: ""心""
+Français: ""soleil"" - Русский: ""","[31430, 236]",阳,"[29879, 480, 2146, 6575, 269, 11445]",sun,soleil
+"Français: ""mot"" - Русский: ""字""
+Français: ""version"" - Русский: ""版""
+Français: ""tentative"" - Русский: ""试""
+Français: ""vertu"" - Русский: ""德""
+Français: ""réunion"" - Русский: ""","[30437, 231]",会,"[1004, 17897, 29885, 592, 286, 5870, 11781]",meeting,réunion
+"Français: ""carré"" - Русский: ""方""
+Français: ""tête"" - Русский: ""头""
+Français: ""thé"" - Русский: ""茶""
+Français: ""œil"" - Русский: ""目""
+Français: ""histoire"" - Русский: ""","[30911, 232]",史,"[22880, 670, 29882, 4955, 7251, 2918, 9825, 3603, 16211, 18434, 298]",history,histoire
+"Français: ""discours"" - Русский: ""话""
+Français: ""bande"" - Русский: ""条""
+Français: ""thé"" - Русский: ""茶""
+Français: ""soleil"" - Русский: ""阳""
+Français: ""vallée"" - Русский: ""","[31112, 235]",谷,"[19599, 1564, 791, 659, 28519, 2947, 22044, 29894, 325]",valley,vallée
+"Français: ""jour"" - Русский: ""日""
+Français: ""sable"" - Русский: ""沙""
+Français: ""un"" - Русский: ""一""
+Français: ""histoire"" - Русский: ""史""
+Français: ""carré"" - Русский: ""","[30525, 233]",方,"[29879, 17619, 18074, 3044, 26613, 10674, 269, 6862]",square,carré
+"Français: ""jour"" - Русский: ""日""
+Français: ""soleil"" - Русский: ""阳""
+Français: ""vitesse"" - Русский: ""速""
+Français: ""or"" - Русский: ""金""
+Français: ""génération"" - Русский: ""","[30690, 231]",代,"[4738, 2531, 12623, 1737, 1176, 18530, 29887, 330, 479, 1885]",generation,génération
+"Français: ""forêt"" - Русский: ""林""
+Français: ""avancer"" - Русский: ""进""
+Français: ""genre"" - Русский: ""种""
+Français: ""jour"" - Русский: ""日""
+Français: ""sud"" - Русский: ""","[30601, 232]",南,"[29879, 577, 7062, 578, 3669, 13267, 269]",south,sud
+"Français: ""école"" - Русский: ""校""
+Français: ""chanson"" - Русский: ""歌""
+Français: ""sept"" - Русский: ""七""
+Français: ""section"" - Русский: ""段""
+Français: ""vertu"" - Русский: ""","[31169, 232]",德,"[4610, 3516, 1403, 10636, 2405, 27935, 29894, 15389, 325]",virtue,vertu
+"Français: ""vitesse"" - Русский: ""速""
+Français: ""danse"" - Русский: ""舞""
+Français: ""paire"" - Русский: ""双""
+Français: ""rue"" - Русский: ""街""
+Français: ""tribu"" - Русский: ""","[30999, 233]",族,"[29563, 3626, 260, 29873, 9434, 3367, 534, 509]",tribe,tribu
+"Français: ""plate-forme"" - Русский: ""台""
+Français: ""milieu"" - Русский: ""中""
+Français: ""six"" - Русский: ""六""
+Français: ""vallée"" - Русский: ""谷""
+Français: ""ville"" - Русский: ""","[30626, 232]",城,"[4583, 455, 4272, 7537, 29883, 12690, 20752, 274]",city,ville
+"Français: ""lumière"" - Русский: ""光""
+Français: ""porte"" - Русский: ""门""
+Français: ""ville"" - Русский: ""城""
+Français: ""queue"" - Русский: ""尾""
+Français: ""vitesse"" - Русский: ""","[31859, 236]",速,"[29879, 19322, 805, 961, 6210, 269, 1028, 5965]",speed,vitesse
+"Français: ""supprimer"" - Русский: ""删""
+Français: ""groupe"" - Русский: ""群""
+Français: ""œil"" - Русский: ""目""
+Français: ""danse"" - Русский: ""舞""
+Français: ""sol"" - Русский: ""","[30533, 232]",地,"[29887, 2057, 17170, 629, 867, 330, 4071, 5962]",ground,sol
+"Français: ""province"" - Русский: ""省""
+Français: ""structure"" - Русский: ""构""
+Français: ""milieu"" - Русский: ""中""
+Français: ""bureau"" - Русский: ""局""
+Français: ""avancer"" - Русский: ""","[31174, 235]",进,"[29874, 328, 263, 594, 17263, 3061, 6564]",advance,avancer
+"Français: ""temps"" - Русский: ""时""
+Français: ""maison"" - Русский: ""屋""
+Français: ""mot"" - Русский: ""字""
+Français: ""est"" - Русский: ""东""
+Français: ""tentative"" - Русский: ""","[31787, 235]",试,"[15127, 29874, 4218, 21609, 263, 1098, 472, 271, 1131]",attempt,tentative
+"Français: ""rue"" - Русский: ""街""
+Français: ""huit"" - Русский: ""八""
+Français: ""école"" - Русский: ""校""
+Français: ""mer"" - Русский: ""海""
+Français: ""défaite"" - Русский: ""","[31955, 235]",败,"[20653, 270, 8686, 822, 311, 316, 1753, 29881]",defeat,défaite
+"Français: ""retour"" - Русский: ""回""
+Français: ""village"" - Русский: ""村""
+Français: ""enfant"" - Русский: ""子""
+Français: ""cravate"" - Русский: ""结""
+Français: ""queue"" - Русский: ""","[31631, 232]",尾,"[11062, 260, 29873, 18237, 941, 12464]",tail,queue
+"Français: ""structure"" - Русский: ""构""
+Français: ""roche"" - Русский: ""岩""
+Français: ""pouvoir"" - Русский: ""力""
+Français: ""forêt"" - Русский: ""林""
+Français: ""mère"" - Русский: ""","[31763, 233]",母,"[25550, 3184, 2730, 29885, 286, 5637, 4346, 14817]",mother,mère
+"Français: ""supprimer"" - Русский: ""删""
+Français: ""temps"" - Русский: ""时""
+Français: ""dix"" - Русский: ""十""
+Français: ""bande"" - Русский: ""条""
+Français: ""est"" - Русский: ""","[30979, 231]",东,"[29872, 23027, 2240, 321, 9755, 11248]",east,est
+"Français: ""sac"" - Русский: ""包""
+Français: ""genre"" - Русский: ""种""
+Français: ""cinq"" - Русский: ""五""
+Français: ""œil"" - Русский: ""目""
+Français: ""retour"" - Русский: ""","[30742, 232]",回,"[364, 29878, 2457, 2267, 3240, 337, 736, 276]",return,retour
+"Français: ""tour"" - Русский: ""塔""
+Français: ""été"" - Русский: ""夏""
+Français: ""bourse"" - Русский: ""交""
+Français: ""version"" - Русский: ""版""
+Français: ""discours"" - Русский: ""","[31852, 235]",话,"[29879, 805, 961, 269, 1028, 12032, 5965]",speech,discours
+"Français: ""tentative"" - Русский: ""试""
+Français: ""ressort"" - Русский: ""春""
+Français: ""danse"" - Русский: ""舞""
+Français: ""couleur"" - Русский: ""色""
+Français: ""enfant"" - Русский: ""","[30319, 232]",子,"[4161, 274, 5145, 29883, 305, 2278, 18558, 521]",child,enfant
+"Français: ""maison"" - Русский: ""屋""
+Français: ""queue"" - Русский: ""尾""
+Français: ""thé"" - Русский: ""茶""
+Français: ""version"" - Русский: ""版""
+Français: ""tour"" - Русский: ""","[31831, 232]",塔,"[260, 29873, 304, 517, 19372]",tower,tour
+"Français: ""mère"" - Русский: ""母""
+Français: ""été"" - Русский: ""夏""
+Français: ""cœur"" - Русский: ""心""
+Français: ""bande"" - Русский: ""条""
+Français: ""ménage"" - Русский: ""","[31229, 233]",户,"[3699, 1251, 29882, 8697, 10774, 22329, 9261, 5089, 298]",household,ménage
+"Français: ""vertu"" - Русский: ""德""
+Français: ""ligne"" - Русский: ""线""
+Français: ""lune"" - Русский: ""月""
+Français: ""ville"" - Русский: ""城""
+Français: ""personne"" - Русский: ""","[30313, 231]",人,"[1236, 639, 10532, 29886, 2022, 546, 6774, 282, 3736, 412]",person,personne
+"Français: ""océan"" - Русский: ""洋""
+Français: ""soleil"" - Русский: ""阳""
+Français: ""rue"" - Русский: ""街""
+Français: ""enfant"" - Русский: ""子""
+Français: ""section"" - Русский: ""","[31559, 233]",段,"[29879, 3471, 2042, 344, 8803, 21149, 4004, 409, 5226, 269]",section,section
+"Français: ""école"" - Русский: ""校""
+Français: ""sud"" - Русский: ""南""
+Français: ""cravate"" - Русский: ""结""
+Français: ""sac"" - Русский: ""包""
+Français: ""bureau"" - Русский: ""","[31655, 232]",局,"[974, 2696, 310, 20205, 288, 1283, 29877, 3344, 8034]",office,bureau
+"Français: ""couleur"" - Русский: ""色""
+Français: ""deux"" - Русский: ""二""
+Français: ""discours"" - Русский: ""话""
+Français: ""plate-forme"" - Русский: ""台""
+Français: ""roche"" - Русский: ""","[31753, 232]",岩,"[364, 29878, 307, 696, 7679, 20821, 10198]",rock,roche
+"Français: ""tentative"" - Русский: ""试""
+Français: ""lac"" - Русский: ""湖""
+Français: ""œil"" - Русский: ""目""
+Français: ""forêt"" - Русский: ""林""
+Français: ""hausse"" - Русский: ""","[31558, 235]",起,"[364, 29878, 374, 5161, 3780, 10107, 14451]",rise,hausse
+"Français: ""visage"" - Русский: ""面""
+Français: ""juge"" - Русский: ""判""
+Français: ""grille"" - Русский: ""格""
+Français: ""est"" - Русский: ""东""
+Français: ""gauche"" - Русский: ""","[31651, 232]",左,"[29880, 25874, 1563, 2175, 280, 454, 301]",left,gauche
+"Français: ""océan"" - Русский: ""洋""
+Français: ""sable"" - Русский: ""沙""
+Français: ""cinq"" - Русский: ""五""
+Français: ""huit"" - Русский: ""八""
+Français: ""son"" - Русский: ""","[30941, 236]",音,"[6047, 577, 29879, 578, 3669, 269, 29802]",sound,son
+"Français: ""chanson"" - Русский: ""歌""
+Français: ""son"" - Русский: ""音""
+Français: ""milieu"" - Русский: ""中""
+Français: ""roche"" - Русский: ""岩""
+Français: ""pouvoir"" - Русский: ""","[31074, 232]",力,"[3081, 29886, 12248, 1129, 13519, 772, 282, 4764]",power,pouvoir
+"Français: ""bois"" - Русский: ""木""
+Français: ""son"" - Русский: ""音""
+Français: ""vallée"" - Русский: ""谷""
+Français: ""avancer"" - Русский: ""进""
+Français: ""été"" - Русский: ""","[31241, 232]",夏,"[22792, 29879, 2083, 480, 11801, 2146, 269, 2533]",summer,été
