@@ -1,0 +1,696 @@
+prompt,out_token_id,out_token_str,latent_token_id,latent_token_str,in_token_str
+"Deutsch: ""例"" - Deutsch: ""例""
+Deutsch: ""南"" - Deutsch: ""南""
+Deutsch: ""木"" - Deutsch: ""木""
+Deutsch: ""洞"" - Deutsch: ""洞""
+Deutsch: ""书"" - Deutsch: """,[31900],书,"[2909, 1045, 833, 289, 3143, 29890]",book,书
+"Deutsch: ""舞"" - Deutsch: ""舞""
+Deutsch: ""网"" - Deutsch: ""网""
+Deutsch: ""友"" - Deutsch: ""友""
+Deutsch: ""花"" - Deutsch: ""花""
+Deutsch: ""云"" - Deutsch: """,[31784],云,"[9274, 23642, 29883, 1067, 274, 15126, 695, 17184, 9570]",cloud,云
+"Deutsch: ""音"" - Deutsch: ""音""
+Deutsch: ""林"" - Deutsch: ""林""
+Deutsch: ""山"" - Deutsch: ""山""
+Deutsch: ""线"" - Deutsch: ""线""
+Deutsch: ""包"" - Deutsch: """,[31473],包,"[2291, 23156, 19548, 289, 9922, 29890]",bag,包
+"Deutsch: ""歌"" - Deutsch: ""歌""
+Deutsch: ""千"" - Deutsch: ""千""
+Deutsch: ""金"" - Deutsch: ""金""
+Deutsch: ""校"" - Deutsch: ""校""
+Deutsch: ""口"" - Deutsch: """,[30856],口,"[29885, 29442, 21026, 4346, 2730, 13394, 286]",mouth,口
+"Deutsch: ""局"" - Deutsch: ""局""
+Deutsch: ""七"" - Deutsch: ""七""
+Deutsch: ""址"" - Deutsch: ""址""
+Deutsch: ""方"" - Deutsch: ""方""
+Deutsch: ""土"" - Deutsch: """,[31181],土,"[29879, 269, 578, 22473, 577]",soil,土
+"Deutsch: ""茶"" - Deutsch: ""茶""
+Deutsch: ""语"" - Deutsch: ""语""
+Deutsch: ""足"" - Deutsch: ""足""
+Deutsch: ""速"" - Deutsch: ""速""
+Deutsch: ""山"" - Deutsch: """,[30329],山,"[29885, 29442, 5766, 4346, 2730, 14378, 16476, 286]",mountain,山
+"Deutsch: ""美"" - Deutsch: ""美""
+Deutsch: ""交"" - Deutsch: ""交""
+Deutsch: ""会"" - Deutsch: ""会""
+Deutsch: ""法"" - Deutsch: ""法""
+Deutsch: ""布"" - Deutsch: """,[31454],布,"[29883, 1067, 274, 15126, 695, 17184, 13950]",cloth,布
+"Deutsch: ""果"" - Deutsch: ""果""
+Deutsch: ""阳"" - Deutsch: ""阳""
+Deutsch: ""九"" - Deutsch: ""九""
+Deutsch: ""起"" - Deutsch: ""起""
+Deutsch: ""心"" - Deutsch: """,[30869],心,"[354, 5192, 23057, 29882, 298, 8293, 540]",heart,心
+"Deutsch: ""址"" - Deutsch: ""址""
+Deutsch: ""金"" - Deutsch: ""金""
+Deutsch: ""口"" - Deutsch: ""口""
+Deutsch: ""村"" - Deutsch: ""村""
+Deutsch: ""手"" - Deutsch: """,[30880],手,"[5403, 2350, 298, 447, 3179, 1361, 29882, 5905]",hand,手
+"Deutsch: ""林"" - Deutsch: ""林""
+Deutsch: ""才"" - Deutsch: ""才""
+Deutsch: ""字"" - Deutsch: ""字""
+Deutsch: ""中"" - Deutsch: ""中""
+Deutsch: ""日"" - Deutsch: """,[30325],日,"[1146, 29881, 3250, 2462, 270, 1388]",day,日
+"Deutsch: ""红"" - Deutsch: ""红""
+Deutsch: ""米"" - Deutsch: ""米""
+Deutsch: ""南"" - Deutsch: ""南""
+Deutsch: ""三"" - Deutsch: ""三""
+Deutsch: ""星"" - Deutsch: """,[30900],星,"[5810, 303, 29879, 380, 269, 9523, 5173, 8508]",star,星
+"Deutsch: ""沙"" - Deutsch: ""沙""
+Deutsch: ""布"" - Deutsch: ""布""
+Deutsch: ""二"" - Deutsch: ""二""
+Deutsch: ""址"" - Deutsch: ""址""
+Deutsch: ""春"" - Deutsch: """,[31031],春,"[7689, 1028, 29879, 4278, 269, 805, 6709, 15099]",spring,春
+"Deutsch: ""心"" - Deutsch: ""心""
+Deutsch: ""发"" - Deutsch: ""发""
+Deutsch: ""种"" - Deutsch: ""种""
+Deutsch: ""歌"" - Deutsch: ""歌""
+Deutsch: ""月"" - Deutsch: """,[30534],月,"[29885, 4346, 2730, 286, 18786]",moon,月
+"Deutsch: ""友"" - Deutsch: ""友""
+Deutsch: ""书"" - Deutsch: ""书""
+Deutsch: ""段"" - Deutsch: ""段""
+Deutsch: ""岩"" - Deutsch: ""岩""
+Deutsch: ""木"" - Deutsch: """,[30710],木,"[8112, 281, 29893, 827, 6115, 8879]",wood,木
+"Deutsch: ""败"" - Deutsch: ""败""
+Deutsch: ""址"" - Deutsch: ""址""
+Deutsch: ""布"" - Deutsch: ""布""
+Deutsch: ""水"" - Deutsch: ""水""
+Deutsch: ""村"" - Deutsch: """,[30402],村,"[4213, 17191, 11928, 29894, 325, 1403, 21031, 28765, 5720, 3516]",village,村
+"Deutsch: ""尾"" - Deutsch: ""尾""
+Deutsch: ""汉"" - Deutsch: ""汉""
+Deutsch: ""茶"" - Deutsch: ""茶""
+Deutsch: ""交"" - Deutsch: ""交""
+Deutsch: ""林"" - Deutsch: """,[30853],林,"[1079, 13569, 285, 363, 1181, 29888, 1454, 26839, 1701]",forest,林
+"Deutsch: ""九"" - Deutsch: ""九""
+Deutsch: ""才"" - Deutsch: ""才""
+Deutsch: ""百"" - Deutsch: ""百""
+Deutsch: ""户"" - Deutsch: ""户""
+Deutsch: ""果"" - Deutsch: """,[30801],果,"[285, 1424, 15774, 29888, 1341]",fruit,果
+"Deutsch: ""二"" - Deutsch: ""二""
+Deutsch: ""例"" - Deutsch: ""例""
+Deutsch: ""双"" - Deutsch: ""双""
+Deutsch: ""花"" - Deutsch: ""花""
+Deutsch: ""格"" - Deutsch: """,[31168],格,"[29887, 629, 867, 330, 7720, 6856]",grid,格
+"Deutsch: ""五"" - Deutsch: ""五""
+Deutsch: ""山"" - Deutsch: ""山""
+Deutsch: ""场"" - Deutsch: ""场""
+Deutsch: ""构"" - Deutsch: ""构""
+Deutsch: ""歌"" - Deutsch: """,[31173],歌,"[1487, 4823, 1100, 29879, 21453, 269, 578, 577]",song,歌
+"Deutsch: ""球"" - Deutsch: ""球""
+Deutsch: ""五"" - Deutsch: ""五""
+Deutsch: ""米"" - Deutsch: ""米""
+Deutsch: ""八"" - Deutsch: ""八""
+Deutsch: ""水"" - Deutsch: """,[30716],水,"[281, 11324, 4094, 29893, 13405, 2766, 16699]",water,水
+"Deutsch: ""局"" - Deutsch: ""局""
+Deutsch: ""心"" - Deutsch: ""心""
+Deutsch: ""网"" - Deutsch: ""网""
+Deutsch: ""户"" - Deutsch: ""户""
+Deutsch: ""汉"" - Deutsch: """,[31593],汉,"[29950, 7169, 24704, 5952, 379]",Han,汉
+"Deutsch: ""二"" - Deutsch: ""二""
+Deutsch: ""三"" - Deutsch: ""三""
+Deutsch: ""星"" - Deutsch: ""星""
+Deutsch: ""址"" - Deutsch: ""址""
+Deutsch: ""池"" - Deutsch: """,[31853],池,"[772, 12509, 29886, 282, 1112, 1129, 2818]",pond,池
+"Deutsch: ""米"" - Deutsch: ""米""
+Deutsch: ""站"" - Deutsch: ""站""
+Deutsch: ""母"" - Deutsch: ""母""
+Deutsch: ""局"" - Deutsch: ""局""
+Deutsch: ""沙"" - Deutsch: """,[31476],沙,"[4977, 29879, 28455, 11982, 872, 269, 9753]",sand,沙
+"Deutsch: ""美"" - Deutsch: ""美""
+Deutsch: ""址"" - Deutsch: ""址""
+Deutsch: ""地"" - Deutsch: ""地""
+Deutsch: ""局"" - Deutsch: ""局""
+Deutsch: ""河"" - Deutsch: """,[30828],河,"[3511, 8580, 1150, 29878, 9050, 374, 4401, 364, 10107]",river,河
+"Deutsch: ""八"" - Deutsch: ""八""
+Deutsch: ""洋"" - Deutsch: ""洋""
+Deutsch: ""台"" - Deutsch: ""台""
+Deutsch: ""河"" - Deutsch: ""河""
+Deutsch: ""法"" - Deutsch: """,[30545],法,"[301, 425, 10653, 4307, 433, 29880]",law,法
+"Deutsch: ""段"" - Deutsch: ""段""
+Deutsch: ""判"" - Deutsch: ""判""
+Deutsch: ""网"" - Deutsch: ""网""
+Deutsch: ""日"" - Deutsch: ""日""
+Deutsch: ""波"" - Deutsch: """,[31529],波,"[281, 11324, 29893, 10742, 27766, 2766]",wave,波
+"Deutsch: ""目"" - Deutsch: ""目""
+Deutsch: ""格"" - Deutsch: ""格""
+Deutsch: ""屋"" - Deutsch: ""屋""
+Deutsch: ""试"" - Deutsch: ""试""
+Deutsch: ""洋"" - Deutsch: """,[31534],洋,"[25802, 12954, 23474, 288, 29877, 542]",ocean,洋
+"Deutsch: ""结"" - Deutsch: ""结""
+Deutsch: ""网"" - Deutsch: ""网""
+Deutsch: ""删"" - Deutsch: ""删""
+Deutsch: ""林"" - Deutsch: ""林""
+Deutsch: ""洞"" - Deutsch: """,[31886],洞,"[5777, 1113, 29883, 18346, 274, 24230]",cave,洞
+"Deutsch: ""七"" - Deutsch: ""七""
+Deutsch: ""北"" - Deutsch: ""北""
+Deutsch: ""删"" - Deutsch: ""删""
+Deutsch: ""意"" - Deutsch: ""意""
+Deutsch: ""海"" - Deutsch: """,[30581],海,"[29879, 269, 344, 7205, 409]",sea,海
+"Deutsch: ""门"" - Deutsch: ""门""
+Deutsch: ""例"" - Deutsch: ""例""
+Deutsch: ""户"" - Deutsch: ""户""
+Deutsch: ""光"" - Deutsch: ""光""
+Deutsch: ""湖"" - Deutsch: """,[31496],湖,"[301, 425, 24591, 29880, 433, 18170, 19437]",lake,湖
+"Deutsch: ""回"" - Deutsch: ""回""
+Deutsch: ""部"" - Deutsch: ""部""
+Deutsch: ""黄"" - Deutsch: ""黄""
+Deutsch: ""海"" - Deutsch: ""海""
+Deutsch: ""源"" - Deutsch: """,[31193],源,"[3669, 29879, 2752, 269, 4993, 578, 577]",source,源
+"Deutsch: ""场"" - Deutsch: ""场""
+Deutsch: ""五"" - Deutsch: ""五""
+Deutsch: ""种"" - Deutsch: ""种""
+Deutsch: ""汉"" - Deutsch: ""汉""
+Deutsch: ""火"" - Deutsch: """,[31313],火,"[8696, 285, 3974, 7241, 29888, 28034, 5713, 13734]",fire,火
+"Deutsch: ""南"" - Deutsch: ""南""
+Deutsch: ""男"" - Deutsch: ""男""
+Deutsch: ""七"" - Deutsch: ""七""
+Deutsch: ""时"" - Deutsch: ""时""
+Deutsch: ""点"" - Deutsch: """,[30940],点,"[772, 29886, 282, 1129, 3149, 11899, 1298]",point,点
+"Deutsch: ""校"" - Deutsch: ""校""
+Deutsch: ""黄"" - Deutsch: ""黄""
+Deutsch: ""方"" - Deutsch: ""方""
+Deutsch: ""地"" - Deutsch: ""地""
+Deutsch: ""版"" - Deutsch: """,[30845],版,"[1147, 2453, 325, 29894, 1873, 345, 369, 3259, 1224, 874]",version,版
+"Deutsch: ""群"" - Deutsch: ""群""
+Deutsch: ""岩"" - Deutsch: ""岩""
+Deutsch: ""米"" - Deutsch: ""米""
+Deutsch: ""进"" - Deutsch: ""进""
+Deutsch: ""球"" - Deutsch: """,[31539],球,"[2291, 8287, 6411, 289, 9922, 2135, 29890, 5521]",ball,球
+"Deutsch: ""湖"" - Deutsch: ""湖""
+Deutsch: ""段"" - Deutsch: ""段""
+Deutsch: ""岩"" - Deutsch: ""岩""
+Deutsch: ""座"" - Deutsch: ""座""
+Deutsch: ""画"" - Deutsch: """,[31046],画,"[29886, 282, 3274, 6788, 3300, 20413, 10675]",painting,画
+"Deutsch: ""山"" - Deutsch: ""山""
+Deutsch: ""南"" - Deutsch: ""南""
+Deutsch: ""平"" - Deutsch: ""平""
+Deutsch: ""时"" - Deutsch: ""时""
+Deutsch: ""站"" - Deutsch: """,[31433],站,"[23436, 303, 29879, 6112, 1002, 380, 269, 9523, 19569, 5173, 5073]",station,站
+"Deutsch: ""门"" - Deutsch: ""门""
+Deutsch: ""母"" - Deutsch: ""母""
+Deutsch: ""桥"" - Deutsch: ""桥""
+Deutsch: ""足"" - Deutsch: ""足""
+Deutsch: ""米"" - Deutsch: """,[31902],米,"[29878, 2200, 9597, 374, 19408, 11674, 364, 10107]",rice,米
+"Deutsch: ""桥"" - Deutsch: ""桥""
+Deutsch: ""回"" - Deutsch: ""回""
+Deutsch: ""米"" - Deutsch: ""米""
+Deutsch: ""头"" - Deutsch: ""头""
+Deutsch: ""红"" - Deutsch: """,[31869],红,"[337, 1127, 29878, 2654, 276, 364]",red,红
+"Deutsch: ""例"" - Deutsch: ""例""
+Deutsch: ""布"" - Deutsch: ""布""
+Deutsch: ""画"" - Deutsch: ""画""
+Deutsch: ""点"" - Deutsch: ""点""
+Deutsch: ""线"" - Deutsch: """,[31532],线,"[301, 619, 492, 1915, 6276, 1220, 1196, 29880]",line,线
+"Deutsch: ""中"" - Deutsch: ""中""
+Deutsch: ""八"" - Deutsch: ""八""
+Deutsch: ""机"" - Deutsch: ""机""
+Deutsch: ""省"" - Deutsch: ""省""
+Deutsch: ""网"" - Deutsch: """,[31222],网,"[484, 302, 7787, 452, 29876, 1212]",net,网
+"Deutsch: ""德"" - Deutsch: ""德""
+Deutsch: ""版"" - Deutsch: ""版""
+Deutsch: ""手"" - Deutsch: ""手""
+Deutsch: ""源"" - Deutsch: ""源""
+Deutsch: ""花"" - Deutsch: """,[30830],花,"[4972, 285, 29888, 1579, 1731, 28149, 1652, 5685]",flower,花
+"Deutsch: ""桥"" - Deutsch: ""桥""
+Deutsch: ""格"" - Deutsch: ""格""
+Deutsch: ""回"" - Deutsch: ""回""
+Deutsch: ""村"" - Deutsch: ""村""
+Deutsch: ""茶"" - Deutsch: """,[31954],茶,"[260, 29873, 371, 23429, 734]",tea,茶
+"Deutsch: ""七"" - Deutsch: ""七""
+Deutsch: ""时"" - Deutsch: ""时""
+Deutsch: ""南"" - Deutsch: ""南""
+Deutsch: ""湖"" - Deutsch: ""湖""
+Deutsch: ""足"" - Deutsch: """,[31722],足,"[3661, 285, 1181, 29888, 6661, 7953, 5431, 1701]",foot,足
+"Deutsch: ""包"" - Deutsch: ""包""
+Deutsch: ""百"" - Deutsch: ""百""
+Deutsch: ""色"" - Deutsch: ""色""
+Deutsch: ""十"" - Deutsch: ""十""
+Deutsch: ""金"" - Deutsch: """,[30659],金,"[29887, 1484, 7684, 748, 15192, 330]",gold,金
+"Deutsch: ""地"" - Deutsch: ""地""
+Deutsch: ""电"" - Deutsch: ""电""
+Deutsch: ""判"" - Deutsch: ""判""
+Deutsch: ""位"" - Deutsch: ""位""
+Deutsch: ""门"" - Deutsch: """,[31649],门,"[437, 1867, 29881, 270, 17433, 3050]",door,门
+"Deutsch: ""口"" - Deutsch: ""口""
+Deutsch: ""日"" - Deutsch: ""日""
+Deutsch: ""春"" - Deutsch: ""春""
+Deutsch: ""书"" - Deutsch: ""书""
+Deutsch: ""雪"" - Deutsch: """,[31731],雪,"[5807, 16586, 29879, 269, 15007]",snow,雪
+"Deutsch: ""点"" - Deutsch: ""点""
+Deutsch: ""部"" - Deutsch: ""部""
+Deutsch: ""米"" - Deutsch: ""米""
+Deutsch: ""子"" - Deutsch: ""子""
+Deutsch: ""马"" - Deutsch: """,[31530],马,"[5089, 10435, 11231, 1251, 2015, 29882, 298, 4029]",horse,马
+"Deutsch: ""平"" - Deutsch: ""平""
+Deutsch: ""人"" - Deutsch: ""人""
+Deutsch: ""色"" - Deutsch: ""色""
+Deutsch: ""歌"" - Deutsch: ""歌""
+Deutsch: ""黄"" - Deutsch: """,[31491],黄,"[8007, 4099, 13328, 29891, 29136, 343]",yellow,黄
+"Deutsch: ""族"" - Deutsch: ""族""
+Deutsch: ""马"" - Deutsch: ""马""
+Deutsch: ""才"" - Deutsch: ""才""
+Deutsch: ""门"" - Deutsch: ""门""
+Deutsch: ""白"" - Deutsch: """,[30868],白,"[1332, 10921, 281, 377, 29893, 4796]",white,白
+"Deutsch: ""河"" - Deutsch: ""河""
+Deutsch: ""发"" - Deutsch: ""发""
+Deutsch: ""马"" - Deutsch: ""马""
+Deutsch: ""水"" - Deutsch: ""水""
+Deutsch: ""一"" - Deutsch: """,[30287],一,"[265, 373, 650, 288, 29877, 697]",one,一
+"Deutsch: ""土"" - Deutsch: ""土""
+Deutsch: ""池"" - Deutsch: ""池""
+Deutsch: ""字"" - Deutsch: ""字""
+Deutsch: ""速"" - Deutsch: ""速""
+Deutsch: ""二"" - Deutsch: """,[30685],二,"[10184, 260, 29873, 1023, 3252, 7516]",two,二
+"Deutsch: ""金"" - Deutsch: ""金""
+Deutsch: ""土"" - Deutsch: ""土""
+Deutsch: ""才"" - Deutsch: ""才""
+Deutsch: ""黄"" - Deutsch: ""黄""
+Deutsch: ""三"" - Deutsch: """,[30457],三,"[386, 2211, 17536, 1468, 12455, 260, 29873, 266]",three,三
+"Deutsch: ""话"" - Deutsch: ""话""
+Deutsch: ""六"" - Deutsch: ""六""
+Deutsch: ""面"" - Deutsch: ""面""
+Deutsch: ""水"" - Deutsch: ""水""
+Deutsch: ""四"" - Deutsch: """,[30928],四,"[12584, 285, 1181, 17823, 29888, 3023, 1701]",four,四
+"Deutsch: ""心"" - Deutsch: ""心""
+Deutsch: ""桥"" - Deutsch: ""桥""
+Deutsch: ""头"" - Deutsch: ""头""
+Deutsch: ""色"" - Deutsch: ""色""
+Deutsch: ""五"" - Deutsch: """,[30904],五,"[285, 5320, 7241, 29888, 20818, 5713]",five,五
+"Deutsch: ""部"" - Deutsch: ""部""
+Deutsch: ""版"" - Deutsch: ""版""
+Deutsch: ""波"" - Deutsch: ""波""
+Deutsch: ""速"" - Deutsch: ""速""
+Deutsch: ""六"" - Deutsch: """,[31304],六,"[1039, 4832, 1354, 29879, 28319, 269]",six,六
+"Deutsch: ""点"" - Deutsch: ""点""
+Deutsch: ""败"" - Deutsch: ""败""
+Deutsch: ""址"" - Deutsch: ""址""
+Deutsch: ""种"" - Deutsch: ""种""
+Deutsch: ""七"" - Deutsch: """,[31425],七,"[9881, 29879, 269, 344, 409]",seven,七
+"Deutsch: ""项"" - Deutsch: ""项""
+Deutsch: ""会"" - Deutsch: ""会""
+Deutsch: ""方"" - Deutsch: ""方""
+Deutsch: ""木"" - Deutsch: ""木""
+Deutsch: ""八"" - Deutsch: """,[31044],八,"[321, 29319, 10096, 29872, 9475, 15761]",eight,八
+"Deutsch: ""局"" - Deutsch: ""局""
+Deutsch: ""果"" - Deutsch: ""果""
+Deutsch: ""目"" - Deutsch: ""目""
+Deutsch: ""回"" - Deutsch: ""回""
+Deutsch: ""九"" - Deutsch: """,[31321],九,"[14183, 302, 6836, 17081, 29876, 1240]",nine,九
+"Deutsch: ""版"" - Deutsch: ""版""
+Deutsch: ""山"" - Deutsch: ""山""
+Deutsch: ""岩"" - Deutsch: ""岩""
+Deutsch: ""心"" - Deutsch: ""心""
+Deutsch: ""十"" - Deutsch: """,[30802],十,"[260, 3006, 841, 29873, 371, 734]",ten,十
+"Deutsch: ""千"" - Deutsch: ""千""
+Deutsch: ""百"" - Deutsch: ""百""
+Deutsch: ""书"" - Deutsch: ""书""
+Deutsch: ""沙"" - Deutsch: ""沙""
+Deutsch: ""头"" - Deutsch: """,[31584],头,"[354, 2813, 2343, 29882, 298, 540]",head,头
+"Deutsch: ""汉"" - Deutsch: ""汉""
+Deutsch: ""项"" - Deutsch: ""项""
+Deutsch: ""三"" - Deutsch: ""三""
+Deutsch: ""画"" - Deutsch: ""画""
+Deutsch: ""店"" - Deutsch: """,[31758],店,"[19032, 845, 29879, 528, 18296, 269, 17394]",shop,店
+"Deutsch: ""电"" - Deutsch: ""电""
+Deutsch: ""木"" - Deutsch: ""木""
+Deutsch: ""花"" - Deutsch: ""花""
+Deutsch: ""男"" - Deutsch: ""男""
+Deutsch: ""条"" - Deutsch: """,[31217],条,"[17820, 10076, 303, 29879, 851, 380, 269, 710, 17010]",strip,条
+"Deutsch: ""局"" - Deutsch: ""局""
+Deutsch: ""人"" - Deutsch: ""人""
+Deutsch: ""速"" - Deutsch: ""速""
+Deutsch: ""阳"" - Deutsch: ""阳""
+Deutsch: ""街"" - Deutsch: """,[30813],街,"[303, 29879, 851, 380, 11952, 269, 13045, 12243, 29352, 710]",street,街
+"Deutsch: ""户"" - Deutsch: ""户""
+Deutsch: ""黄"" - Deutsch: ""黄""
+Deutsch: ""三"" - Deutsch: ""三""
+Deutsch: ""双"" - Deutsch: ""双""
+Deutsch: ""部"" - Deutsch: """,[30636],部,"[862, 610, 1595, 29886, 282, 760, 3274, 3300]",part,部
+"Deutsch: ""八"" - Deutsch: ""八""
+Deutsch: ""沙"" - Deutsch: ""沙""
+Deutsch: ""美"" - Deutsch: ""美""
+Deutsch: ""格"" - Deutsch: ""格""
+Deutsch: ""目"" - Deutsch: """,[30895],目,"[10977, 321, 1032, 29872]",eye,目
+"Deutsch: ""条"" - Deutsch: ""条""
+Deutsch: ""版"" - Deutsch: ""版""
+Deutsch: ""汉"" - Deutsch: ""汉""
+Deutsch: ""岩"" - Deutsch: ""岩""
+Deutsch: ""场"" - Deutsch: """,[31632],场,"[29607, 285, 2671, 7241, 29888, 5713, 1746]",field,场
+"Deutsch: ""网"" - Deutsch: ""网""
+Deutsch: ""左"" - Deutsch: ""左""
+Deutsch: ""舞"" - Deutsch: ""舞""
+Deutsch: ""种"" - Deutsch: ""种""
+Deutsch: ""址"" - Deutsch: """,[31702],址,"[1039, 1354, 29879, 269, 7845, 3268, 2746]",site,址
+"Deutsch: ""史"" - Deutsch: ""史""
+Deutsch: ""布"" - Deutsch: ""布""
+Deutsch: ""北"" - Deutsch: ""北""
+Deutsch: ""屋"" - Deutsch: ""屋""
+Deutsch: ""意"" - Deutsch: """,[31474],意,"[6593, 29885, 2099, 1004, 286, 592, 12676]",meaning,意
+"Deutsch: ""局"" - Deutsch: ""局""
+Deutsch: ""败"" - Deutsch: ""败""
+Deutsch: ""沙"" - Deutsch: ""沙""
+Deutsch: ""方"" - Deutsch: ""方""
+Deutsch: ""舞"" - Deutsch: """,[31939],舞,"[1146, 29881, 270, 1388, 18386, 17948, 6025]",dance,舞
+"Deutsch: ""五"" - Deutsch: ""五""
+Deutsch: ""春"" - Deutsch: ""春""
+Deutsch: ""才"" - Deutsch: ""才""
+Deutsch: ""速"" - Deutsch: ""速""
+Deutsch: ""字"" - Deutsch: """,[30578],字,"[6365, 281, 29893, 13762, 1734, 827, 1742, 8879]",word,字
+"Deutsch: ""河"" - Deutsch: ""河""
+Deutsch: ""洋"" - Deutsch: ""洋""
+Deutsch: ""方"" - Deutsch: ""方""
+Deutsch: ""海"" - Deutsch: ""海""
+Deutsch: ""双"" - Deutsch: """,[31960],双,"[5101, 18784, 29886, 282, 3274, 3300]",pair,双
+"Deutsch: ""话"" - Deutsch: ""话""
+Deutsch: ""火"" - Deutsch: ""火""
+Deutsch: ""校"" - Deutsch: ""校""
+Deutsch: ""网"" - Deutsch: ""网""
+Deutsch: ""座"" - Deutsch: """,[31780],座,"[12949, 29879, 269, 344, 7205, 409]",seat,座
+"Deutsch: ""池"" - Deutsch: ""池""
+Deutsch: ""场"" - Deutsch: ""场""
+Deutsch: ""音"" - Deutsch: ""音""
+Deutsch: ""平"" - Deutsch: ""平""
+Deutsch: ""光"" - Deutsch: """,[30867],光,"[3578, 301, 4366, 619, 3473, 492, 14172, 29880]",light,光
+"Deutsch: ""土"" - Deutsch: ""土""
+Deutsch: ""发"" - Deutsch: ""发""
+Deutsch: ""法"" - Deutsch: ""法""
+Deutsch: ""门"" - Deutsch: ""门""
+Deutsch: ""千"" - Deutsch: """,[31159],千,"[386, 12595, 10405, 260, 7693, 29873, 266]",thousand,千
+"Deutsch: ""速"" - Deutsch: ""速""
+Deutsch: ""塔"" - Deutsch: ""塔""
+Deutsch: ""左"" - Deutsch: ""左""
+Deutsch: ""德"" - Deutsch: ""德""
+Deutsch: ""北"" - Deutsch: """,[30662],北,"[1217, 302, 694, 15459, 29876, 3643, 6641]",north,北
+"Deutsch: ""方"" - Deutsch: ""方""
+Deutsch: ""木"" - Deutsch: ""木""
+Deutsch: ""洞"" - Deutsch: ""洞""
+Deutsch: ""进"" - Deutsch: ""进""
+Deutsch: ""机"" - Deutsch: """,[31429],机,"[29885, 4933, 5825, 8628, 7672, 655, 286, 23523, 611]",machine,机
+"Deutsch: ""官"" - Deutsch: ""官""
+Deutsch: ""千"" - Deutsch: ""千""
+Deutsch: ""心"" - Deutsch: ""心""
+Deutsch: ""土"" - Deutsch: ""土""
+Deutsch: ""时"" - Deutsch: """,[30594],时,"[2230, 9346, 5335, 2034, 260, 29873, 931, 19538]",time,时
+"Deutsch: ""败"" - Deutsch: ""败""
+Deutsch: ""夏"" - Deutsch: ""夏""
+Deutsch: ""村"" - Deutsch: ""村""
+Deutsch: ""百"" - Deutsch: ""百""
+Deutsch: ""利"" - Deutsch: """,[31107],利,"[367, 13982, 14169, 3856, 915, 1785, 289, 7795, 29890]",benefit,利
+"Deutsch: ""村"" - Deutsch: ""村""
+Deutsch: ""机"" - Deutsch: ""机""
+Deutsch: ""平"" - Deutsch: ""平""
+Deutsch: ""城"" - Deutsch: ""城""
+Deutsch: ""位"" - Deutsch: """,[30956],位,"[926, 13686, 772, 29886, 282, 3283, 1129, 1066, 2602]",position,位
+"Deutsch: ""金"" - Deutsch: ""金""
+Deutsch: ""删"" - Deutsch: ""删""
+Deutsch: ""布"" - Deutsch: ""布""
+Deutsch: ""街"" - Deutsch: ""街""
+Deutsch: ""省"" - Deutsch: """,[31600],省,"[771, 12291, 558, 544, 1326, 282, 29886, 410, 16123, 8482]",province,省
+"Deutsch: ""街"" - Deutsch: ""街""
+Deutsch: ""种"" - Deutsch: ""种""
+Deutsch: ""电"" - Deutsch: ""电""
+Deutsch: ""子"" - Deutsch: ""子""
+Deutsch: ""交"" - Deutsch: """,[31398],交,"[735, 321, 6543, 29872, 5566, 14523, 429]",exchange,交
+"Deutsch: ""色"" - Deutsch: ""色""
+Deutsch: ""户"" - Deutsch: ""户""
+Deutsch: ""站"" - Deutsch: ""站""
+Deutsch: ""判"" - Deutsch: ""判""
+Deutsch: ""中"" - Deutsch: """,[30275],中,"[29885, 17662, 2460, 6563, 3737, 7256, 286, 7145]",middle,中
+"Deutsch: ""手"" - Deutsch: ""手""
+Deutsch: ""九"" - Deutsch: ""九""
+Deutsch: ""米"" - Deutsch: ""米""
+Deutsch: ""夏"" - Deutsch: ""夏""
+Deutsch: ""友"" - Deutsch: """,[31373],友,"[7932, 285, 1424, 29888, 3484, 18326, 5121, 1341]",friend,友
+"Deutsch: ""左"" - Deutsch: ""左""
+Deutsch: ""段"" - Deutsch: ""段""
+Deutsch: ""进"" - Deutsch: ""进""
+Deutsch: ""子"" - Deutsch: ""子""
+Deutsch: ""色"" - Deutsch: """,[31085],色,"[784, 2780, 2927, 1111, 10965, 29883, 1302, 274, 1054]",color,色
+"Deutsch: ""金"" - Deutsch: ""金""
+Deutsch: ""线"" - Deutsch: ""线""
+Deutsch: ""木"" - Deutsch: ""木""
+Deutsch: ""色"" - Deutsch: ""色""
+Deutsch: ""种"" - Deutsch: """,[31893],种,"[29895, 413, 8506, 9089, 14380, 19015, 2924, 1984]",kind,种
+"Deutsch: ""洋"" - Deutsch: ""洋""
+Deutsch: ""位"" - Deutsch: ""位""
+Deutsch: ""足"" - Deutsch: ""足""
+Deutsch: ""美"" - Deutsch: ""美""
+Deutsch: ""判"" - Deutsch: """,[31791],判,"[16833, 29926, 17675, 6577, 4900, 432, 3623]",judge,判
+"Deutsch: ""址"" - Deutsch: ""址""
+Deutsch: ""云"" - Deutsch: ""云""
+Deutsch: ""友"" - Deutsch: ""友""
+Deutsch: ""汉"" - Deutsch: ""汉""
+Deutsch: ""校"" - Deutsch: """,[31071],校,"[29879, 885, 27041, 269, 816, 1364, 1557, 3762]",school,校
+"Deutsch: ""云"" - Deutsch: ""云""
+Deutsch: ""沙"" - Deutsch: ""沙""
+Deutsch: ""力"" - Deutsch: ""力""
+Deutsch: ""站"" - Deutsch: ""站""
+Deutsch: ""构"" - Deutsch: """,[31901],构,"[4984, 303, 23905, 29879, 10582, 851, 380, 2281, 269, 6220, 710, 3829]",structure,构
+"Deutsch: ""省"" - Deutsch: ""省""
+Deutsch: ""色"" - Deutsch: ""色""
+Deutsch: ""月"" - Deutsch: ""月""
+Deutsch: ""种"" - Deutsch: ""种""
+Deutsch: ""结"" - Deutsch: """,[31320],结,"[2034, 22134, 260, 29873, 19538]",tie,结
+"Deutsch: ""电"" - Deutsch: ""电""
+Deutsch: ""地"" - Deutsch: ""地""
+Deutsch: ""洋"" - Deutsch: ""洋""
+Deutsch: ""屋"" - Deutsch: ""屋""
+Deutsch: ""例"" - Deutsch: """,[31507],例,"[735, 321, 4773, 4392, 429, 29872, 1342]",example,例
+"Deutsch: ""谷"" - Deutsch: ""谷""
+Deutsch: ""包"" - Deutsch: ""包""
+Deutsch: ""群"" - Deutsch: ""群""
+Deutsch: ""八"" - Deutsch: ""八""
+Deutsch: ""面"" - Deutsch: """,[30806],面,"[2258, 285, 4024, 29888, 5444, 17470, 3700, 2161]",face,面
+"Deutsch: ""族"" - Deutsch: ""族""
+Deutsch: ""群"" - Deutsch: ""群""
+Deutsch: ""东"" - Deutsch: ""东""
+Deutsch: ""七"" - Deutsch: ""七""
+Deutsch: ""桥"" - Deutsch: """,[31749],桥,"[19515, 1182, 1506, 28635, 18419, 289, 29890, 12945]",bridge,桥
+"Deutsch: ""部"" - Deutsch: ""部""
+Deutsch: ""四"" - Deutsch: ""四""
+Deutsch: ""屋"" - Deutsch: ""屋""
+Deutsch: ""色"" - Deutsch: ""色""
+Deutsch: ""项"" - Deutsch: """,[31888],项,"[568, 474, 29875, 372, 2944, 667, 277]",item,项
+"Deutsch: ""岩"" - Deutsch: ""岩""
+Deutsch: ""十"" - Deutsch: ""十""
+Deutsch: ""点"" - Deutsch: ""点""
+Deutsch: ""法"" - Deutsch: ""法""
+Deutsch: ""删"" - Deutsch: """,[31916],删,"[628, 311, 29881, 270, 7374, 5217, 6144, 8143, 316]",delete,删
+"Deutsch: ""三"" - Deutsch: ""三""
+Deutsch: ""村"" - Deutsch: ""村""
+Deutsch: ""画"" - Deutsch: ""画""
+Deutsch: ""字"" - Deutsch: ""字""
+Deutsch: ""群"" - Deutsch: """,[31829],群,"[29887, 2318, 2972, 629, 867, 330, 17170, 4071]",group,群
+"Deutsch: ""金"" - Deutsch: ""金""
+Deutsch: ""红"" - Deutsch: ""红""
+Deutsch: ""人"" - Deutsch: ""人""
+Deutsch: ""男"" - Deutsch: ""男""
+Deutsch: ""才"" - Deutsch: """,[31979],才,"[5969, 24242, 11062, 260, 20411, 17694, 29873, 941]",talent,才
+"Deutsch: ""败"" - Deutsch: ""败""
+Deutsch: ""千"" - Deutsch: ""千""
+Deutsch: ""湖"" - Deutsch: ""湖""
+Deutsch: ""头"" - Deutsch: ""头""
+Deutsch: ""美"" - Deutsch: """,[30630],美,"[367, 915, 289, 15409, 6562, 29890]",beauty,美
+"Deutsch: ""白"" - Deutsch: ""白""
+Deutsch: ""岩"" - Deutsch: ""岩""
+Deutsch: ""座"" - Deutsch: ""座""
+Deutsch: ""人"" - Deutsch: ""人""
+Deutsch: ""台"" - Deutsch: """,[31037],台,"[715, 12120, 29886, 282, 7481, 18870, 2174, 13974, 572]",platform,台
+"Deutsch: ""果"" - Deutsch: ""果""
+Deutsch: ""目"" - Deutsch: ""目""
+Deutsch: ""种"" - Deutsch: ""种""
+Deutsch: ""阳"" - Deutsch: ""阳""
+Deutsch: ""屋"" - Deutsch: """,[31654],屋,"[5089, 3699, 8697, 1251, 10774, 29882, 9261, 298]",house,屋
+"Deutsch: ""平"" - Deutsch: ""平""
+Deutsch: ""千"" - Deutsch: ""千""
+Deutsch: ""法"" - Deutsch: ""法""
+Deutsch: ""构"" - Deutsch: ""构""
+Deutsch: ""阳"" - Deutsch: """,[31430],阳,"[480, 6575, 2146, 29879, 269, 11445]",sun,阳
+"Deutsch: ""岩"" - Deutsch: ""岩""
+Deutsch: ""构"" - Deutsch: ""构""
+Deutsch: ""街"" - Deutsch: ""街""
+Deutsch: ""谷"" - Deutsch: ""谷""
+Deutsch: ""会"" - Deutsch: """,[30437],会,"[29885, 11781, 5870, 17897, 1004, 286, 592]",meeting,会
+"Deutsch: ""雪"" - Deutsch: ""雪""
+Deutsch: ""平"" - Deutsch: ""平""
+Deutsch: ""屋"" - Deutsch: ""屋""
+Deutsch: ""德"" - Deutsch: ""德""
+Deutsch: ""史"" - Deutsch: """,[30911],史,"[22880, 2918, 18434, 4955, 3603, 16211, 670, 29882, 298, 9825, 7251]",history,史
+"Deutsch: ""史"" - Deutsch: ""史""
+Deutsch: ""光"" - Deutsch: ""光""
+Deutsch: ""男"" - Deutsch: ""男""
+Deutsch: ""土"" - Deutsch: ""土""
+Deutsch: ""谷"" - Deutsch: """,[31112],谷,"[2947, 19599, 659, 325, 29894, 1564, 22044, 28519, 791]",valley,谷
+"Deutsch: ""男"" - Deutsch: ""男""
+Deutsch: ""点"" - Deutsch: ""点""
+Deutsch: ""地"" - Deutsch: ""地""
+Deutsch: ""夏"" - Deutsch: ""夏""
+Deutsch: ""方"" - Deutsch: """,[30525],方,"[10674, 3044, 29879, 17619, 269, 6862, 18074, 26613]",square,方
+"Deutsch: ""项"" - Deutsch: ""项""
+Deutsch: ""春"" - Deutsch: ""春""
+Deutsch: ""试"" - Deutsch: ""试""
+Deutsch: ""座"" - Deutsch: ""座""
+Deutsch: ""代"" - Deutsch: """,[30690],代,"[2531, 479, 1737, 1885, 18530, 4738, 12623, 29887, 330, 1176]",generation,代
+"Deutsch: ""金"" - Deutsch: ""金""
+Deutsch: ""海"" - Deutsch: ""海""
+Deutsch: ""母"" - Deutsch: ""母""
+Deutsch: ""平"" - Deutsch: ""平""
+Deutsch: ""南"" - Deutsch: """,[30601],南,"[3669, 13267, 7062, 29879, 269, 578, 577]",south,南
+"Deutsch: ""日"" - Deutsch: ""日""
+Deutsch: ""地"" - Deutsch: ""地""
+Deutsch: ""删"" - Deutsch: ""删""
+Deutsch: ""北"" - Deutsch: ""北""
+Deutsch: ""德"" - Deutsch: """,[31169],德,"[4610, 15389, 29894, 325, 2405, 1403, 27935, 10636, 3516]",virtue,德
+"Deutsch: ""尾"" - Deutsch: ""尾""
+Deutsch: ""书"" - Deutsch: ""书""
+Deutsch: ""千"" - Deutsch: ""千""
+Deutsch: ""花"" - Deutsch: ""花""
+Deutsch: ""族"" - Deutsch: """,[30999],族,"[9434, 509, 260, 3367, 29873, 3626, 29563, 534]",tribe,族
+"Deutsch: ""街"" - Deutsch: ""街""
+Deutsch: ""白"" - Deutsch: ""白""
+Deutsch: ""源"" - Deutsch: ""源""
+Deutsch: ""座"" - Deutsch: ""座""
+Deutsch: ""城"" - Deutsch: """,[30626],城,"[455, 29883, 7537, 12690, 4272, 274, 20752, 4583]",city,城
+"Deutsch: ""发"" - Deutsch: ""发""
+Deutsch: ""地"" - Deutsch: ""地""
+Deutsch: ""花"" - Deutsch: ""花""
+Deutsch: ""河"" - Deutsch: ""河""
+Deutsch: ""语"" - Deutsch: """,[31505],语,"[301, 6361, 425, 10906, 3893, 11675, 6468, 433, 29880, 4086]",language,语
+"Deutsch: ""项"" - Deutsch: ""项""
+Deutsch: ""子"" - Deutsch: ""子""
+Deutsch: ""黄"" - Deutsch: ""黄""
+Deutsch: ""九"" - Deutsch: ""九""
+Deutsch: ""速"" - Deutsch: """,[31859],速,"[1028, 961, 6210, 29879, 269, 805, 19322, 5965]",speed,速
+"Deutsch: ""四"" - Deutsch: ""四""
+Deutsch: ""八"" - Deutsch: ""八""
+Deutsch: ""户"" - Deutsch: ""户""
+Deutsch: ""音"" - Deutsch: ""音""
+Deutsch: ""地"" - Deutsch: """,[30533],地,"[29887, 2057, 629, 867, 330, 17170, 4071, 5962]",ground,地
+"Deutsch: ""德"" - Deutsch: ""德""
+Deutsch: ""地"" - Deutsch: ""地""
+Deutsch: ""利"" - Deutsch: ""利""
+Deutsch: ""画"" - Deutsch: ""画""
+Deutsch: ""进"" - Deutsch: """,[31174],进,"[3061, 263, 6564, 17263, 328, 594, 29874]",advance,进
+"Deutsch: ""河"" - Deutsch: ""河""
+Deutsch: ""茶"" - Deutsch: ""茶""
+Deutsch: ""红"" - Deutsch: ""红""
+Deutsch: ""门"" - Deutsch: ""门""
+Deutsch: ""试"" - Deutsch: """,[31787],试,"[4218, 263, 1098, 1131, 21609, 29874, 271, 472, 15127]",attempt,试
+"Deutsch: ""河"" - Deutsch: ""河""
+Deutsch: ""花"" - Deutsch: ""花""
+Deutsch: ""字"" - Deutsch: ""字""
+Deutsch: ""回"" - Deutsch: ""回""
+Deutsch: ""败"" - Deutsch: """,[31955],败,"[311, 29881, 822, 270, 1753, 20653, 8686, 316]",defeat,败
+"Deutsch: ""屋"" - Deutsch: ""屋""
+Deutsch: ""交"" - Deutsch: ""交""
+Deutsch: ""法"" - Deutsch: ""法""
+Deutsch: ""判"" - Deutsch: ""判""
+Deutsch: ""尾"" - Deutsch: """,[31631],尾,"[18237, 11062, 260, 12464, 29873, 941]",tail,尾
+"Deutsch: ""网"" - Deutsch: ""网""
+Deutsch: ""云"" - Deutsch: ""云""
+Deutsch: ""电"" - Deutsch: ""电""
+Deutsch: ""谷"" - Deutsch: ""谷""
+Deutsch: ""母"" - Deutsch: """,[31763],母,"[29885, 4346, 2730, 5637, 14817, 25550, 286, 3184]",mother,母
+"Deutsch: ""德"" - Deutsch: ""德""
+Deutsch: ""例"" - Deutsch: ""例""
+Deutsch: ""左"" - Deutsch: ""左""
+Deutsch: ""桥"" - Deutsch: ""桥""
+Deutsch: ""东"" - Deutsch: """,[30979],东,"[321, 9755, 2240, 23027, 11248, 29872]",east,东
+"Deutsch: ""五"" - Deutsch: ""五""
+Deutsch: ""火"" - Deutsch: ""火""
+Deutsch: ""败"" - Deutsch: ""败""
+Deutsch: ""判"" - Deutsch: ""判""
+Deutsch: ""回"" - Deutsch: """,[30742],回,"[2267, 337, 2457, 29878, 3240, 276, 736, 364]",return,回
+"Deutsch: ""土"" - Deutsch: ""土""
+Deutsch: ""法"" - Deutsch: ""法""
+Deutsch: ""男"" - Deutsch: ""男""
+Deutsch: ""色"" - Deutsch: ""色""
+Deutsch: ""话"" - Deutsch: """,[31852],话,"[1028, 961, 29879, 5965, 269, 805, 12032]",speech,话
+"Deutsch: ""马"" - Deutsch: ""马""
+Deutsch: ""点"" - Deutsch: ""点""
+Deutsch: ""光"" - Deutsch: ""光""
+Deutsch: ""结"" - Deutsch: ""结""
+Deutsch: ""子"" - Deutsch: """,[30319],子,"[5145, 521, 2278, 29883, 4161, 305, 274, 18558]",child,子
+"Deutsch: ""心"" - Deutsch: ""心""
+Deutsch: ""花"" - Deutsch: ""花""
+Deutsch: ""阳"" - Deutsch: ""阳""
+Deutsch: ""美"" - Deutsch: ""美""
+Deutsch: ""塔"" - Deutsch: """,[31831],塔,"[304, 260, 517, 29873, 19372]",tower,塔
+"Deutsch: ""友"" - Deutsch: ""友""
+Deutsch: ""判"" - Deutsch: ""判""
+Deutsch: ""源"" - Deutsch: ""源""
+Deutsch: ""男"" - Deutsch: ""男""
+Deutsch: ""发"" - Deutsch: """,[30910],发,"[2350, 23535, 447, 11315, 29882, 298]",hair,发
+"Deutsch: ""一"" - Deutsch: ""一""
+Deutsch: ""白"" - Deutsch: ""白""
+Deutsch: ""语"" - Deutsch: ""语""
+Deutsch: ""德"" - Deutsch: ""德""
+Deutsch: ""平"" - Deutsch: """,[30606],平,"[17422, 285, 12151, 29888, 1579, 20620, 1652]",flat,平
+"Deutsch: ""春"" - Deutsch: ""春""
+Deutsch: ""画"" - Deutsch: ""画""
+Deutsch: ""千"" - Deutsch: ""千""
+Deutsch: ""金"" - Deutsch: ""金""
+Deutsch: ""男"" - Deutsch: """,[31203],男,"[29885, 19202, 14263, 4439, 655, 286, 5156, 611]",male,男
+"Deutsch: ""七"" - Deutsch: ""七""
+Deutsch: ""花"" - Deutsch: ""花""
+Deutsch: ""地"" - Deutsch: ""地""
+Deutsch: ""心"" - Deutsch: ""心""
+Deutsch: ""电"" - Deutsch: """,[31679],电,"[15436, 4552, 321, 6146, 560, 295, 3546, 12646, 29872]",electric,电
+"Deutsch: ""星"" - Deutsch: ""星""
+Deutsch: ""头"" - Deutsch: ""头""
+Deutsch: ""沙"" - Deutsch: ""沙""
+Deutsch: ""十"" - Deutsch: ""十""
+Deutsch: ""户"" - Deutsch: """,[31229],户,"[5089, 3699, 8697, 1251, 22329, 10774, 29882, 9261, 298]",household,户
+"Deutsch: ""站"" - Deutsch: ""站""
+Deutsch: ""平"" - Deutsch: ""平""
+Deutsch: ""力"" - Deutsch: ""力""
+Deutsch: ""版"" - Deutsch: ""版""
+Deutsch: ""人"" - Deutsch: """,[30313],人,"[3736, 29886, 1236, 282, 639, 546, 2022, 10532, 412, 6774]",person,人
+"Deutsch: ""百"" - Deutsch: ""百""
+Deutsch: ""败"" - Deutsch: ""败""
+Deutsch: ""座"" - Deutsch: ""座""
+Deutsch: ""一"" - Deutsch: ""一""
+Deutsch: ""段"" - Deutsch: """,[31559],段,"[4004, 5226, 2042, 29879, 3471, 8803, 269, 344, 21149, 409]",section,段
+"Deutsch: ""果"" - Deutsch: ""果""
+Deutsch: ""起"" - Deutsch: ""起""
+Deutsch: ""线"" - Deutsch: ""线""
+Deutsch: ""址"" - Deutsch: ""址""
+Deutsch: ""官"" - Deutsch: """,[31694],官,"[2696, 29158, 6221, 1283, 3344, 288, 29877, 974, 310]",official,官
+"Deutsch: ""判"" - Deutsch: ""判""
+Deutsch: ""东"" - Deutsch: ""东""
+Deutsch: ""线"" - Deutsch: ""线""
+Deutsch: ""十"" - Deutsch: ""十""
+Deutsch: ""百"" - Deutsch: """,[31047],百,"[9074, 6893, 22888, 29882, 6905, 298]",hundred,百
+"Deutsch: ""目"" - Deutsch: ""目""
+Deutsch: ""方"" - Deutsch: ""方""
+Deutsch: ""洞"" - Deutsch: ""洞""
+Deutsch: ""友"" - Deutsch: ""友""
+Deutsch: ""局"" - Deutsch: """,[31655],局,"[2696, 20205, 1283, 3344, 8034, 288, 29877, 974, 310]",office,局
+"Deutsch: ""夏"" - Deutsch: ""夏""
+Deutsch: ""月"" - Deutsch: ""月""
+Deutsch: ""湖"" - Deutsch: ""湖""
+Deutsch: ""沙"" - Deutsch: ""沙""
+Deutsch: ""岩"" - Deutsch: """,[31753],岩,"[307, 29878, 696, 10198, 7679, 20821, 364]",rock,岩
+"Deutsch: ""线"" - Deutsch: ""线""
+Deutsch: ""法"" - Deutsch: ""法""
+Deutsch: ""删"" - Deutsch: ""删""
+Deutsch: ""电"" - Deutsch: ""电""
+Deutsch: ""起"" - Deutsch: """,[31558],起,"[3780, 29878, 5161, 374, 14451, 364, 10107]",rise,起
+"Deutsch: ""方"" - Deutsch: ""方""
+Deutsch: ""舞"" - Deutsch: ""舞""
+Deutsch: ""马"" - Deutsch: ""马""
+Deutsch: ""黄"" - Deutsch: ""黄""
+Deutsch: ""左"" - Deutsch: """,[31651],左,"[1563, 301, 25874, 454, 280, 29880, 2175]",left,左
+"Deutsch: ""海"" - Deutsch: ""海""
+Deutsch: ""线"" - Deutsch: ""线""
+Deutsch: ""阳"" - Deutsch: ""阳""
+Deutsch: ""花"" - Deutsch: ""花""
+Deutsch: ""音"" - Deutsch: """,[30941],音,"[3669, 6047, 29879, 269, 29802, 578, 577]",sound,音
+"Deutsch: ""池"" - Deutsch: ""池""
+Deutsch: ""店"" - Deutsch: ""店""
+Deutsch: ""星"" - Deutsch: ""星""
+Deutsch: ""法"" - Deutsch: ""法""
+Deutsch: ""力"" - Deutsch: """,[31074],力,"[772, 13519, 29886, 12248, 282, 4764, 3081, 1129]",power,力
+"Deutsch: ""星"" - Deutsch: ""星""
+Deutsch: ""话"" - Deutsch: ""话""
+Deutsch: ""火"" - Deutsch: ""火""
+Deutsch: ""九"" - Deutsch: ""九""
+Deutsch: ""夏"" - Deutsch: """,[31241],夏,"[480, 11801, 22792, 2146, 29879, 269, 2533, 2083]",summer,夏

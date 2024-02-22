@@ -1,0 +1,591 @@
+prompt,out_token_id,out_token_str,latent_token_id,latent_token_str,in_token_str
+"English: ""five"" - Русский: ""五""
+English: ""heart"" - Русский: ""心""
+English: ""part"" - Русский: ""部""
+English: ""three"" - Русский: ""三""
+English: ""cloud"" - Русский: ""","[31784, 231]",云,"[9570, 1067, 17184, 29883, 9274, 15126, 274, 695, 23642]",cloud,cloud
+"English: ""valley"" - Русский: ""谷""
+English: ""tribe"" - Русский: ""族""
+English: ""virtue"" - Русский: ""德""
+English: ""eye"" - Русский: ""目""
+English: ""bag"" - Русский: ""","[31473, 232]",包,"[2291, 29890, 289, 19548, 23156, 9922]",bag,bag
+"English: ""school"" - Русский: ""校""
+English: ""version"" - Русский: ""版""
+English: ""point"" - Русский: ""点""
+English: ""thousand"" - Русский: ""千""
+English: ""mouth"" - Русский: ""","[30856, 232]",口,"[286, 13394, 21026, 4346, 29885, 2730, 29442]",mouth,mouth
+"English: ""field"" - Русский: ""场""
+English: ""north"" - Русский: ""北""
+English: ""flower"" - Русский: ""花""
+English: ""tower"" - Русский: ""塔""
+English: ""soil"" - Русский: ""","[31181, 232]",土,"[29879, 22473, 577, 578, 269]",soil,soil
+"English: ""time"" - Русский: ""时""
+English: ""door"" - Русский: ""门""
+English: ""valley"" - Русский: ""谷""
+English: ""street"" - Русский: ""街""
+English: ""mountain"" - Русский: ""","[30329, 232]",山,"[286, 16476, 14378, 4346, 5766, 29885, 2730, 29442]",mountain,mountain
+"English: ""pair"" - Русский: ""双""
+English: ""left"" - Русский: ""左""
+English: ""summer"" - Русский: ""夏""
+English: ""seven"" - Русский: ""七""
+English: ""heart"" - Русский: ""","[30869, 232]",心,"[354, 29882, 23057, 8293, 298, 540, 5192]",heart,heart
+"English: ""strip"" - Русский: ""条""
+English: ""one"" - Русский: ""一""
+English: ""day"" - Русский: ""日""
+English: ""child"" - Русский: ""子""
+English: ""hand"" - Русский: ""","[30880, 233]",手,"[5403, 29882, 447, 2350, 3179, 5905, 1361, 298]",hand,hand
+"English: ""four"" - Русский: ""四""
+English: ""wood"" - Русский: ""木""
+English: ""red"" - Русский: ""红""
+English: ""left"" - Русский: ""左""
+English: ""day"" - Русский: ""","[30325, 233]",日,"[29881, 270, 1146, 2462, 1388, 3250]",day,day
+"English: ""source"" - Русский: ""源""
+English: ""nine"" - Русский: ""九""
+English: ""hand"" - Русский: ""手""
+English: ""line"" - Русский: ""线""
+English: ""star"" - Русский: ""","[30900, 233]",星,"[8508, 380, 5173, 29879, 5810, 303, 9523, 269]",star,star
+"English: ""law"" - Русский: ""法""
+English: ""tribe"" - Русский: ""族""
+English: ""mouth"" - Русский: ""口""
+English: ""left"" - Русский: ""左""
+English: ""spring"" - Русский: ""","[31031, 233]",春,"[1028, 4278, 6709, 7689, 29879, 15099, 805, 269]",spring,spring
+"English: ""seat"" - Русский: ""座""
+English: ""south"" - Русский: ""南""
+English: ""four"" - Русский: ""四""
+English: ""gold"" - Русский: ""金""
+English: ""moon"" - Русский: ""","[30534, 233]",月,"[286, 4346, 18786, 29885, 2730]",moon,moon
+"English: ""mouth"" - Русский: ""口""
+English: ""thousand"" - Русский: ""千""
+English: ""household"" - Русский: ""户""
+English: ""summer"" - Русский: ""夏""
+English: ""wood"" - Русский: ""","[30710, 233]",木,"[6115, 8879, 8112, 281, 29893, 827]",wood,wood
+"English: ""forest"" - Русский: ""林""
+English: ""tie"" - Русский: ""结""
+English: ""six"" - Русский: ""六""
+English: ""ten"" - Русский: ""十""
+English: ""village"" - Русский: ""","[30402, 233]",村,"[1403, 17191, 325, 3516, 29894, 21031, 5720, 4213, 11928, 28765]",village,village
+"English: ""head"" - Русский: ""头""
+English: ""generation"" - Русский: ""代""
+English: ""ocean"" - Русский: ""洋""
+English: ""four"" - Русский: ""四""
+English: ""forest"" - Русский: ""","[30853, 233]",林,"[1181, 13569, 26839, 1701, 1454, 1079, 363, 285, 29888]",forest,forest
+"English: ""defeat"" - Русский: ""败""
+English: ""strip"" - Русский: ""条""
+English: ""mouth"" - Русский: ""口""
+English: ""south"" - Русский: ""南""
+English: ""fruit"" - Русский: ""","[30801, 233]",果,"[285, 1424, 15774, 1341, 29888]",fruit,fruit
+"English: ""three"" - Русский: ""三""
+English: ""mountain"" - Русский: ""山""
+English: ""middle"" - Русский: ""中""
+English: ""attempt"" - Русский: ""试""
+English: ""grid"" - Русский: ""","[31168, 233]",格,"[6856, 629, 330, 7720, 867, 29887]",grid,grid
+"English: ""advance"" - Русский: ""进""
+English: ""child"" - Русский: ""子""
+English: ""seven"" - Русский: ""七""
+English: ""group"" - Русский: ""群""
+English: ""song"" - Русский: ""","[31173, 233]",歌,"[29879, 4823, 269, 21453, 577, 578, 1100, 1487]",song,song
+"English: ""school"" - Русский: ""校""
+English: ""group"" - Русский: ""群""
+English: ""grid"" - Русский: ""格""
+English: ""power"" - Русский: ""力""
+English: ""pond"" - Русский: ""","[31853, 233]",池,"[772, 29886, 1129, 282, 2818, 12509, 1112]",pond,pond
+"English: ""rock"" - Русский: ""岩""
+English: ""house"" - Русский: ""屋""
+English: ""face"" - Русский: ""面""
+English: ""horse"" - Русский: ""马""
+English: ""sand"" - Русский: ""","[31476, 233]",沙,"[29879, 11982, 872, 9753, 4977, 28455, 269]",sand,sand
+"English: ""eye"" - Русский: ""目""
+English: ""line"" - Русский: ""线""
+English: ""history"" - Русский: ""史""
+English: ""door"" - Русский: ""门""
+English: ""law"" - Русский: ""","[30545, 233]",法,"[433, 425, 29880, 4307, 10653, 301]",law,law
+"English: ""six"" - Русский: ""六""
+English: ""spring"" - Русский: ""春""
+English: ""hand"" - Русский: ""手""
+English: ""school"" - Русский: ""校""
+English: ""wave"" - Русский: ""","[31529, 233]",波,"[27766, 2766, 10742, 281, 29893, 11324]",wave,wave
+"English: ""cloud"" - Русский: ""云""
+English: ""field"" - Русский: ""场""
+English: ""nine"" - Русский: ""九""
+English: ""four"" - Русский: ""四""
+English: ""ocean"" - Русский: ""","[31534, 233]",洋,"[29877, 12954, 288, 542, 25802, 23474]",ocean,ocean
+"English: ""forest"" - Русский: ""林""
+English: ""summer"" - Русский: ""夏""
+English: ""judge"" - Русский: ""判""
+English: ""net"" - Русский: ""网""
+English: ""cave"" - Русский: ""","[31886, 233]",洞,"[5777, 18346, 1113, 29883, 24230, 274]",cave,cave
+"English: ""seat"" - Русский: ""座""
+English: ""delete"" - Русский: ""删""
+English: ""north"" - Русский: ""北""
+English: ""foot"" - Русский: ""足""
+English: ""sea"" - Русский: ""","[30581, 233]",海,"[29879, 409, 344, 7205, 269]",sea,sea
+"English: ""wood"" - Русский: ""木""
+English: ""day"" - Русский: ""日""
+English: ""horse"" - Русский: ""马""
+English: ""structure"" - Русский: ""构""
+English: ""lake"" - Русский: ""","[31496, 233]",湖,"[433, 425, 29880, 19437, 301, 24591, 18170]",lake,lake
+"English: ""seat"" - Русский: ""座""
+English: ""village"" - Русский: ""村""
+English: ""machine"" - Русский: ""机""
+English: ""left"" - Русский: ""左""
+English: ""source"" - Русский: ""","[31193, 233]",源,"[29879, 4993, 3669, 577, 578, 269, 2752]",source,source
+"English: ""delete"" - Русский: ""删""
+English: ""field"" - Русский: ""场""
+English: ""position"" - Русский: ""位""
+English: ""station"" - Русский: ""站""
+English: ""point"" - Русский: ""","[30940, 234]",点,"[772, 3149, 1298, 29886, 1129, 282, 11899]",point,point
+"English: ""red"" - Русский: ""红""
+English: ""bag"" - Русский: ""包""
+English: ""face"" - Русский: ""面""
+English: ""word"" - Русский: ""字""
+English: ""version"" - Русский: ""","[30845, 234]",版,"[3259, 874, 325, 1224, 369, 29894, 2453, 1147, 1873, 345]",version,version
+"English: ""nine"" - Русский: ""九""
+English: ""mountain"" - Русский: ""山""
+English: ""thousand"" - Русский: ""千""
+English: ""office"" - Русский: ""局""
+English: ""ball"" - Русский: ""","[31539, 234]",球,"[2291, 29890, 289, 2135, 5521, 6411, 9922, 8287]",ball,ball
+"English: ""sea"" - Русский: ""海""
+English: ""ocean"" - Русский: ""洋""
+English: ""mother"" - Русский: ""母""
+English: ""machine"" - Русский: ""机""
+English: ""station"" - Русский: ""","[31433, 234]",站,"[1002, 380, 5173, 29879, 23436, 5073, 6112, 303, 19569, 9523, 269]",station,station
+"English: ""strip"" - Русский: ""条""
+English: ""ground"" - Русский: ""地""
+English: ""office"" - Русский: ""局""
+English: ""cloud"" - Русский: ""云""
+English: ""rice"" - Русский: ""","[31902, 234]",米,"[19408, 2200, 10107, 374, 9597, 11674, 29878, 364]",rice,rice
+"English: ""structure"" - Русский: ""构""
+English: ""flower"" - Русский: ""花""
+English: ""exchange"" - Русский: ""交""
+English: ""heart"" - Русский: ""心""
+English: ""red"" - Русский: ""","[31869, 234]",红,"[1127, 276, 337, 29878, 364, 2654]",red,red
+"English: ""child"" - Русский: ""子""
+English: ""seven"" - Русский: ""七""
+English: ""four"" - Русский: ""四""
+English: ""virtue"" - Русский: ""德""
+English: ""line"" - Русский: ""","[31532, 234]",线,"[1196, 29880, 301, 6276, 1220, 1915, 619, 492]",line,line
+"English: ""household"" - Русский: ""户""
+English: ""power"" - Русский: ""力""
+English: ""city"" - Русский: ""城""
+English: ""law"" - Русский: ""法""
+English: ""net"" - Русский: ""","[31222, 234]",网,"[484, 1212, 29876, 7787, 452, 302]",net,net
+"English: ""virtue"" - Русский: ""德""
+English: ""seat"" - Русский: ""座""
+English: ""snow"" - Русский: ""雪""
+English: ""delete"" - Русский: ""删""
+English: ""flower"" - Русский: ""","[30830, 235]",花,"[1731, 1652, 5685, 4972, 28149, 1579, 285, 29888]",flower,flower
+"English: ""thousand"" - Русский: ""千""
+English: ""office"" - Русский: ""局""
+English: ""flower"" - Русский: ""花""
+English: ""valley"" - Русский: ""谷""
+English: ""tea"" - Русский: ""","[31954, 235]",茶,"[260, 734, 23429, 371, 29873]",tea,tea
+"English: ""square"" - Русский: ""方""
+English: ""four"" - Русский: ""四""
+English: ""time"" - Русский: ""时""
+English: ""flower"" - Русский: ""花""
+English: ""foot"" - Русский: ""","[31722, 235]",足,"[3661, 1181, 6661, 1701, 5431, 7953, 285, 29888]",foot,foot
+"English: ""two"" - Русский: ""二""
+English: ""square"" - Русский: ""方""
+English: ""light"" - Русский: ""光""
+English: ""person"" - Русский: ""人""
+English: ""gold"" - Русский: ""","[30659, 236]",金,"[330, 748, 7684, 15192, 29887, 1484]",gold,gold
+"English: ""head"" - Русский: ""头""
+English: ""moon"" - Русский: ""月""
+English: ""group"" - Русский: ""群""
+English: ""mountain"" - Русский: ""山""
+English: ""door"" - Русский: ""","[31649, 236]",门,"[29881, 270, 3050, 1867, 437, 17433]",door,door
+"English: ""sea"" - Русский: ""海""
+English: ""street"" - Русский: ""街""
+English: ""tie"" - Русский: ""结""
+English: ""meeting"" - Русский: ""会""
+English: ""snow"" - Русский: ""","[31731, 236]",雪,"[16586, 15007, 29879, 5807, 269]",snow,snow
+"English: ""word"" - Русский: ""字""
+English: ""soil"" - Русский: ""土""
+English: ""child"" - Русский: ""子""
+English: ""street"" - Русский: ""街""
+English: ""horse"" - Русский: ""","[31530, 236]",马,"[29882, 5089, 10435, 2015, 11231, 298, 1251, 4029]",horse,horse
+"English: ""school"" - Русский: ""校""
+English: ""four"" - Русский: ""四""
+English: ""advance"" - Русский: ""进""
+English: ""province"" - Русский: ""省""
+English: ""one"" - Русский: ""","[30287, 231]",一,"[29877, 373, 697, 265, 650, 288]",one,one
+"English: ""city"" - Русский: ""城""
+English: ""head"" - Русский: ""头""
+English: ""net"" - Русский: ""网""
+English: ""house"" - Русский: ""屋""
+English: ""two"" - Русский: ""","[30685, 231]",二,"[260, 7516, 10184, 3252, 1023, 29873]",two,two
+"English: ""heart"" - Русский: ""心""
+English: ""household"" - Русский: ""户""
+English: ""strip"" - Русский: ""条""
+English: ""talent"" - Русский: ""才""
+English: ""three"" - Русский: ""","[30457, 231]",三,"[260, 1468, 386, 2211, 266, 17536, 29873, 12455]",three,three
+"English: ""wave"" - Русский: ""波""
+English: ""head"" - Русский: ""头""
+English: ""point"" - Русский: ""点""
+English: ""horse"" - Русский: ""马""
+English: ""four"" - Русский: ""","[30928, 232]",四,"[17823, 1181, 3023, 1701, 12584, 285, 29888]",four,four
+"English: ""flower"" - Русский: ""花""
+English: ""north"" - Русский: ""北""
+English: ""bridge"" - Русский: ""桥""
+English: ""power"" - Русский: ""力""
+English: ""five"" - Русский: ""","[30904, 231]",五,"[5320, 20818, 5713, 7241, 285, 29888]",five,five
+"English: ""ball"" - Русский: ""球""
+English: ""judge"" - Русский: ""判""
+English: ""net"" - Русский: ""网""
+English: ""rise"" - Русский: ""起""
+English: ""six"" - Русский: ""","[31304, 232]",六,"[29879, 1354, 28319, 4832, 1039, 269]",six,six
+"English: ""hand"" - Русский: ""手""
+English: ""group"" - Русский: ""群""
+English: ""two"" - Русский: ""二""
+English: ""beauty"" - Русский: ""美""
+English: ""seven"" - Русский: ""","[31425, 231]",七,"[9881, 29879, 409, 344, 269]",seven,seven
+"English: ""delete"" - Русский: ""删""
+English: ""virtue"" - Русский: ""德""
+English: ""ocean"" - Русский: ""洋""
+English: ""point"" - Русский: ""点""
+English: ""eight"" - Русский: ""","[31044, 232]",八,"[9475, 29319, 15761, 29872, 321, 10096]",eight,eight
+"English: ""rise"" - Русский: ""起""
+English: ""province"" - Русский: ""省""
+English: ""gold"" - Русский: ""金""
+English: ""street"" - Русский: ""街""
+English: ""nine"" - Русский: ""","[31321, 231]",九,"[14183, 29876, 17081, 1240, 6836, 302]",nine,nine
+"English: ""snow"" - Русский: ""雪""
+English: ""left"" - Русский: ""左""
+English: ""sun"" - Русский: ""阳""
+English: ""fruit"" - Русский: ""果""
+English: ""ten"" - Русский: ""","[30802, 232]",十,"[3006, 260, 734, 841, 371, 29873]",ten,ten
+"English: ""flower"" - Русский: ""花""
+English: ""station"" - Русский: ""站""
+English: ""sand"" - Русский: ""沙""
+English: ""color"" - Русский: ""色""
+English: ""head"" - Русский: ""","[31584, 232]",头,"[354, 29882, 2343, 2813, 298, 540]",head,head
+"English: ""foot"" - Русский: ""足""
+English: ""person"" - Русский: ""人""
+English: ""nine"" - Русский: ""九""
+English: ""station"" - Русский: ""站""
+English: ""strip"" - Русский: ""","[31217, 233]",条,"[851, 710, 380, 29879, 17010, 17820, 303, 10076, 269]",strip,strip
+"English: ""mouth"" - Русский: ""口""
+English: ""kind"" - Русский: ""种""
+English: ""house"" - Русский: ""屋""
+English: ""word"" - Русский: ""字""
+English: ""street"" - Русский: ""","[30813, 235]",街,"[851, 710, 380, 11952, 29879, 29352, 12243, 13045, 303, 269]",street,street
+"English: ""beauty"" - Русский: ""美""
+English: ""snow"" - Русский: ""雪""
+English: ""nine"" - Русский: ""九""
+English: ""thousand"" - Русский: ""千""
+English: ""part"" - Русский: ""","[30636, 236]",部,"[3274, 29886, 610, 3300, 282, 760, 1595, 862]",part,part
+"English: ""spring"" - Русский: ""春""
+English: ""song"" - Русский: ""歌""
+English: ""soil"" - Русский: ""土""
+English: ""fruit"" - Русский: ""果""
+English: ""eye"" - Русский: ""","[30895, 234]",目,"[1032, 29872, 10977, 321]",eye,eye
+"English: ""five"" - Русский: ""五""
+English: ""face"" - Русский: ""面""
+English: ""foot"" - Русский: ""足""
+English: ""machine"" - Русский: ""机""
+English: ""field"" - Русский: ""","[31632, 232]",场,"[1746, 29607, 7241, 5713, 2671, 285, 29888]",field,field
+"English: ""ocean"" - Русский: ""洋""
+English: ""three"" - Русский: ""三""
+English: ""person"" - Русский: ""人""
+English: ""group"" - Русский: ""群""
+English: ""site"" - Русский: ""","[31702, 232]",址,"[29879, 7845, 1354, 3268, 1039, 2746, 269]",site,site
+"English: ""time"" - Русский: ""时""
+English: ""two"" - Русский: ""二""
+English: ""machine"" - Русский: ""机""
+English: ""east"" - Русский: ""东""
+English: ""dance"" - Русский: ""","[31939, 235]",舞,"[270, 29881, 18386, 1146, 6025, 1388, 17948]",dance,dance
+"English: ""east"" - Русский: ""东""
+English: ""attempt"" - Русский: ""试""
+English: ""house"" - Русский: ""屋""
+English: ""five"" - Русский: ""五""
+English: ""word"" - Русский: ""","[30578, 232]",字,"[13762, 8879, 6365, 281, 29893, 1734, 827, 1742]",word,word
+"English: ""advance"" - Русский: ""进""
+English: ""day"" - Русский: ""日""
+English: ""village"" - Русский: ""村""
+English: ""kind"" - Русский: ""种""
+English: ""pair"" - Русский: ""","[31960, 232]",双,"[3274, 29886, 3300, 5101, 282, 18784]",pair,pair
+"English: ""south"" - Русский: ""南""
+English: ""position"" - Русский: ""位""
+English: ""speech"" - Русский: ""话""
+English: ""machine"" - Русский: ""机""
+English: ""seat"" - Русский: ""","[31780, 232]",座,"[29879, 409, 344, 7205, 269, 12949]",seat,seat
+"English: ""door"" - Русский: ""门""
+English: ""school"" - Русский: ""校""
+English: ""speech"" - Русский: ""话""
+English: ""one"" - Русский: ""一""
+English: ""light"" - Русский: ""","[30867, 232]",光,"[3473, 14172, 29880, 3578, 301, 4366, 619, 492]",light,light
+"English: ""fruit"" - Русский: ""果""
+English: ""village"" - Русский: ""村""
+English: ""position"" - Русский: ""位""
+English: ""eight"" - Русский: ""八""
+English: ""thousand"" - Русский: ""","[31159, 232]",千,"[7693, 260, 386, 266, 12595, 10405, 29873]",thousand,thousand
+"English: ""song"" - Русский: ""歌""
+English: ""generation"" - Русский: ""代""
+English: ""part"" - Русский: ""部""
+English: ""gold"" - Русский: ""金""
+English: ""north"" - Русский: ""","[30662, 232]",北,"[15459, 694, 29876, 3643, 1217, 6641, 302]",north,north
+"English: ""household"" - Русский: ""户""
+English: ""heart"" - Русский: ""心""
+English: ""line"" - Русский: ""线""
+English: ""forest"" - Русский: ""林""
+English: ""machine"" - Русский: ""","[31429, 233]",机,"[286, 8628, 655, 4933, 5825, 29885, 23523, 611, 7672]",machine,machine
+"English: ""ground"" - Русский: ""地""
+English: ""city"" - Русский: ""城""
+English: ""moon"" - Русский: ""月""
+English: ""position"" - Русский: ""位""
+English: ""time"" - Русский: ""","[30594, 233]",时,"[260, 2230, 19538, 5335, 2034, 931, 29873, 9346]",time,time
+"English: ""mouth"" - Русский: ""口""
+English: ""two"" - Русский: ""二""
+English: ""pair"" - Русский: ""双""
+English: ""sound"" - Русский: ""音""
+English: ""position"" - Русский: ""","[30956, 231]",位,"[772, 2602, 1066, 29886, 13686, 1129, 282, 3283, 926]",position,position
+"English: ""beauty"" - Русский: ""美""
+English: ""six"" - Русский: ""六""
+English: ""sand"" - Русский: ""沙""
+English: ""cave"" - Русский: ""洞""
+English: ""province"" - Русский: ""","[31600, 234]",省,"[12291, 8482, 29886, 544, 282, 1326, 771, 410, 16123, 558]",province,province
+"English: ""part"" - Русский: ""部""
+English: ""speech"" - Русский: ""话""
+English: ""machine"" - Русский: ""机""
+English: ""beauty"" - Русский: ""美""
+English: ""exchange"" - Русский: ""","[31398, 231]",交,"[735, 29872, 14523, 5566, 6543, 429, 321]",exchange,exchange
+"English: ""field"" - Русский: ""场""
+English: ""flower"" - Русский: ""花""
+English: ""pond"" - Русский: ""池""
+English: ""lake"" - Русский: ""湖""
+English: ""middle"" - Русский: ""","[30275, 231]",中,"[7256, 286, 3737, 6563, 17662, 29885, 7145, 2460]",middle,middle
+"English: ""cave"" - Русский: ""洞""
+English: ""eye"" - Русский: ""目""
+English: ""heart"" - Русский: ""心""
+English: ""day"" - Русский: ""日""
+English: ""color"" - Русский: ""","[31085, 235]",色,"[1111, 1302, 784, 2780, 1054, 29883, 2927, 10965, 274]",color,color
+"English: ""ocean"" - Русский: ""洋""
+English: ""point"" - Русский: ""点""
+English: ""strip"" - Русский: ""条""
+English: ""sea"" - Русский: ""海""
+English: ""kind"" - Русский: ""","[31893, 234]",种,"[2924, 14380, 1984, 19015, 29895, 9089, 413, 8506]",kind,kind
+"English: ""foot"" - Русский: ""足""
+English: ""speech"" - Русский: ""话""
+English: ""net"" - Русский: ""网""
+English: ""mother"" - Русский: ""母""
+English: ""judge"" - Русский: ""","[31791, 232]",判,"[17675, 29926, 16833, 6577, 3623, 4900, 432]",judge,judge
+"English: ""village"" - Русский: ""村""
+English: ""grid"" - Русский: ""格""
+English: ""valley"" - Русский: ""谷""
+English: ""line"" - Русский: ""线""
+English: ""school"" - Русский: ""","[31071, 233]",校,"[1364, 29879, 1557, 816, 3762, 885, 269, 27041]",school,school
+"English: ""tower"" - Русский: ""塔""
+English: ""eye"" - Русский: ""目""
+English: ""defeat"" - Русский: ""败""
+English: ""position"" - Русский: ""位""
+English: ""structure"" - Русский: ""","[31901, 233]",构,"[851, 710, 380, 29879, 3829, 2281, 6220, 23905, 303, 4984, 10582, 269]",structure,structure
+"English: ""grid"" - Русский: ""格""
+English: ""city"" - Русский: ""城""
+English: ""eye"" - Русский: ""目""
+English: ""field"" - Русский: ""场""
+English: ""tie"" - Русский: ""","[31320, 234]",结,"[22134, 260, 19538, 2034, 29873]",tie,tie
+"English: ""grid"" - Русский: ""格""
+English: ""cloud"" - Русский: ""云""
+English: ""office"" - Русский: ""局""
+English: ""eye"" - Русский: ""目""
+English: ""example"" - Русский: ""","[31507, 231]",例,"[4392, 735, 429, 1342, 4773, 29872, 321]",example,example
+"English: ""province"" - Русский: ""省""
+English: ""pond"" - Русский: ""池""
+English: ""two"" - Русский: ""二""
+English: ""north"" - Русский: ""北""
+English: ""face"" - Русский: ""","[30806, 236]",面,"[17470, 2161, 5444, 2258, 4024, 3700, 285, 29888]",face,face
+"English: ""source"" - Русский: ""源""
+English: ""snow"" - Русский: ""雪""
+English: ""south"" - Русский: ""南""
+English: ""time"" - Русский: ""时""
+English: ""bridge"" - Русский: ""","[31749, 233]",桥,"[29890, 289, 19515, 1506, 1182, 18419, 28635, 12945]",bridge,bridge
+"English: ""left"" - Русский: ""左""
+English: ""part"" - Русский: ""部""
+English: ""virtue"" - Русский: ""德""
+English: ""forest"" - Русский: ""林""
+English: ""delete"" - Русский: ""","[31916, 232]",删,"[270, 29881, 316, 5217, 8143, 7374, 6144, 311, 628]",delete,delete
+"English: ""tea"" - Русский: ""茶""
+English: ""east"" - Русский: ""东""
+English: ""word"" - Русский: ""字""
+English: ""north"" - Русский: ""北""
+English: ""group"" - Русский: ""","[31829, 234]",群,"[629, 17170, 330, 4071, 2972, 867, 29887, 2318]",group,group
+"English: ""city"" - Русский: ""城""
+English: ""east"" - Русский: ""东""
+English: ""structure"" - Русский: ""构""
+English: ""door"" - Русский: ""门""
+English: ""talent"" - Русский: ""","[31979, 233]",才,"[29873, 260, 20411, 5969, 17694, 24242, 941, 11062]",talent,talent
+"English: ""kind"" - Русский: ""种""
+English: ""dance"" - Русский: ""舞""
+English: ""lake"" - Русский: ""湖""
+English: ""snow"" - Русский: ""雪""
+English: ""beauty"" - Русский: ""","[30630, 234]",美,"[29890, 289, 915, 367, 15409, 6562]",beauty,beauty
+"English: ""generation"" - Русский: ""代""
+English: ""moon"" - Русский: ""月""
+English: ""head"" - Русский: ""头""
+English: ""section"" - Русский: ""段""
+English: ""platform"" - Русский: ""","[31037, 232]",台,"[2174, 12120, 29886, 7481, 572, 282, 715, 18870, 13974]",platform,platform
+"English: ""line"" - Русский: ""线""
+English: ""tea"" - Русский: ""茶""
+English: ""eye"" - Русский: ""目""
+English: ""cave"" - Русский: ""洞""
+English: ""house"" - Русский: ""","[31654, 232]",屋,"[8697, 9261, 29882, 5089, 3699, 10774, 298, 1251]",house,house
+"English: ""delete"" - Русский: ""删""
+English: ""hand"" - Русский: ""手""
+English: ""speed"" - Русский: ""速""
+English: ""heart"" - Русский: ""心""
+English: ""sun"" - Русский: ""","[31430, 236]",阳,"[2146, 11445, 29879, 480, 6575, 269]",sun,sun
+"English: ""word"" - Русский: ""字""
+English: ""version"" - Русский: ""版""
+English: ""attempt"" - Русский: ""试""
+English: ""virtue"" - Русский: ""德""
+English: ""meeting"" - Русский: ""","[30437, 231]",会,"[286, 17897, 1004, 592, 5870, 29885, 11781]",meeting,meeting
+"English: ""square"" - Русский: ""方""
+English: ""head"" - Русский: ""头""
+English: ""tea"" - Русский: ""茶""
+English: ""eye"" - Русский: ""目""
+English: ""history"" - Русский: ""","[30911, 232]",史,"[29882, 9825, 7251, 3603, 22880, 18434, 670, 2918, 4955, 298, 16211]",history,history
+"English: ""speech"" - Русский: ""话""
+English: ""strip"" - Русский: ""条""
+English: ""tea"" - Русский: ""茶""
+English: ""sun"" - Русский: ""阳""
+English: ""valley"" - Русский: ""","[31112, 235]",谷,"[791, 19599, 325, 29894, 22044, 1564, 659, 2947, 28519]",valley,valley
+"English: ""day"" - Русский: ""日""
+English: ""sand"" - Русский: ""沙""
+English: ""one"" - Русский: ""一""
+English: ""history"" - Русский: ""史""
+English: ""square"" - Русский: ""","[30525, 233]",方,"[6862, 10674, 29879, 17619, 3044, 26613, 18074, 269]",square,square
+"English: ""day"" - Русский: ""日""
+English: ""sun"" - Русский: ""阳""
+English: ""speed"" - Русский: ""速""
+English: ""gold"" - Русский: ""金""
+English: ""generation"" - Русский: ""","[30690, 231]",代,"[1176, 330, 1885, 4738, 2531, 18530, 1737, 479, 12623, 29887]",generation,generation
+"English: ""forest"" - Русский: ""林""
+English: ""advance"" - Русский: ""进""
+English: ""kind"" - Русский: ""种""
+English: ""day"" - Русский: ""日""
+English: ""south"" - Русский: ""","[30601, 232]",南,"[29879, 3669, 7062, 577, 578, 13267, 269]",south,south
+"English: ""school"" - Русский: ""校""
+English: ""song"" - Русский: ""歌""
+English: ""seven"" - Русский: ""七""
+English: ""section"" - Русский: ""段""
+English: ""virtue"" - Русский: ""","[31169, 232]",德,"[1403, 2405, 325, 3516, 10636, 4610, 29894, 15389, 27935]",virtue,virtue
+"English: ""speed"" - Русский: ""速""
+English: ""dance"" - Русский: ""舞""
+English: ""pair"" - Русский: ""双""
+English: ""street"" - Русский: ""街""
+English: ""tribe"" - Русский: ""","[30999, 233]",族,"[260, 9434, 534, 3367, 3626, 509, 29873, 29563]",tribe,tribe
+"English: ""platform"" - Русский: ""台""
+English: ""middle"" - Русский: ""中""
+English: ""six"" - Русский: ""六""
+English: ""valley"" - Русский: ""谷""
+English: ""city"" - Русский: ""","[30626, 232]",城,"[12690, 455, 20752, 29883, 4272, 4583, 7537, 274]",city,city
+"English: ""light"" - Русский: ""光""
+English: ""door"" - Русский: ""门""
+English: ""city"" - Русский: ""城""
+English: ""tail"" - Русский: ""尾""
+English: ""speed"" - Русский: ""","[31859, 236]",速,"[1028, 961, 29879, 6210, 5965, 19322, 805, 269]",speed,speed
+"English: ""delete"" - Русский: ""删""
+English: ""group"" - Русский: ""群""
+English: ""eye"" - Русский: ""目""
+English: ""dance"" - Русский: ""舞""
+English: ""ground"" - Русский: ""","[30533, 232]",地,"[2057, 629, 17170, 330, 4071, 5962, 867, 29887]",ground,ground
+"English: ""province"" - Русский: ""省""
+English: ""structure"" - Русский: ""构""
+English: ""middle"" - Русский: ""中""
+English: ""office"" - Русский: ""局""
+English: ""advance"" - Русский: ""","[31174, 235]",进,"[3061, 6564, 328, 17263, 594, 29874, 263]",advance,advance
+"English: ""time"" - Русский: ""时""
+English: ""house"" - Русский: ""屋""
+English: ""word"" - Русский: ""字""
+English: ""east"" - Русский: ""东""
+English: ""attempt"" - Русский: ""","[31787, 235]",试,"[21609, 15127, 29874, 271, 263, 472, 1098, 1131, 4218]",attempt,attempt
+"English: ""street"" - Русский: ""街""
+English: ""eight"" - Русский: ""八""
+English: ""school"" - Русский: ""校""
+English: ""sea"" - Русский: ""海""
+English: ""defeat"" - Русский: ""","[31955, 235]",败,"[270, 29881, 316, 20653, 311, 1753, 822, 8686]",defeat,defeat
+"English: ""return"" - Русский: ""回""
+English: ""village"" - Русский: ""村""
+English: ""child"" - Русский: ""子""
+English: ""tie"" - Русский: ""结""
+English: ""tail"" - Русский: ""","[31631, 232]",尾,"[260, 11062, 12464, 29873, 18237, 941]",tail,tail
+"English: ""structure"" - Русский: ""构""
+English: ""rock"" - Русский: ""岩""
+English: ""power"" - Русский: ""力""
+English: ""forest"" - Русский: ""林""
+English: ""mother"" - Русский: ""","[31763, 233]",母,"[286, 25550, 14817, 3184, 4346, 29885, 5637, 2730]",mother,mother
+"English: ""delete"" - Русский: ""删""
+English: ""time"" - Русский: ""时""
+English: ""ten"" - Русский: ""十""
+English: ""strip"" - Русский: ""条""
+English: ""east"" - Русский: ""","[30979, 231]",东,"[9755, 2240, 29872, 11248, 23027, 321]",east,east
+"English: ""bag"" - Русский: ""包""
+English: ""kind"" - Русский: ""种""
+English: ""five"" - Русский: ""五""
+English: ""eye"" - Русский: ""目""
+English: ""return"" - Русский: ""","[30742, 232]",回,"[736, 2267, 3240, 337, 276, 29878, 364, 2457]",return,return
+"English: ""tower"" - Русский: ""塔""
+English: ""summer"" - Русский: ""夏""
+English: ""exchange"" - Русский: ""交""
+English: ""version"" - Русский: ""版""
+English: ""speech"" - Русский: ""","[31852, 235]",话,"[1028, 961, 29879, 5965, 805, 12032, 269]",speech,speech
+"English: ""attempt"" - Русский: ""试""
+English: ""spring"" - Русский: ""春""
+English: ""dance"" - Русский: ""舞""
+English: ""color"" - Русский: ""色""
+English: ""child"" - Русский: ""","[30319, 232]",子,"[2278, 29883, 4161, 305, 5145, 521, 18558, 274]",child,child
+"English: ""house"" - Русский: ""屋""
+English: ""tail"" - Русский: ""尾""
+English: ""tea"" - Русский: ""茶""
+English: ""version"" - Русский: ""版""
+English: ""tower"" - Русский: ""","[31831, 232]",塔,"[260, 304, 29873, 19372, 517]",tower,tower
+"English: ""mother"" - Русский: ""母""
+English: ""summer"" - Русский: ""夏""
+English: ""heart"" - Русский: ""心""
+English: ""strip"" - Русский: ""条""
+English: ""household"" - Русский: ""","[31229, 233]",户,"[8697, 9261, 29882, 5089, 22329, 3699, 10774, 298, 1251]",household,household
+"English: ""virtue"" - Русский: ""德""
+English: ""line"" - Русский: ""线""
+English: ""moon"" - Русский: ""月""
+English: ""city"" - Русский: ""城""
+English: ""person"" - Русский: ""","[30313, 231]",人,"[546, 6774, 29886, 10532, 1236, 282, 412, 2022, 639, 3736]",person,person
+"English: ""ocean"" - Русский: ""洋""
+English: ""sun"" - Русский: ""阳""
+English: ""street"" - Русский: ""街""
+English: ""child"" - Русский: ""子""
+English: ""section"" - Русский: ""","[31559, 233]",段,"[4004, 29879, 409, 3471, 344, 8803, 21149, 2042, 5226, 269]",section,section
+"English: ""school"" - Русский: ""校""
+English: ""south"" - Русский: ""南""
+English: ""tie"" - Русский: ""结""
+English: ""bag"" - Русский: ""包""
+English: ""office"" - Русский: ""","[31655, 232]",局,"[29877, 2696, 20205, 3344, 974, 1283, 288, 8034, 310]",office,office
+"English: ""color"" - Русский: ""色""
+English: ""two"" - Русский: ""二""
+English: ""speech"" - Русский: ""话""
+English: ""platform"" - Русский: ""台""
+English: ""rock"" - Русский: ""","[31753, 232]",岩,"[696, 10198, 307, 7679, 29878, 364, 20821]",rock,rock
+"English: ""attempt"" - Русский: ""试""
+English: ""lake"" - Русский: ""湖""
+English: ""eye"" - Русский: ""目""
+English: ""forest"" - Русский: ""林""
+English: ""rise"" - Русский: ""","[31558, 235]",起,"[14451, 5161, 10107, 374, 3780, 29878, 364]",rise,rise
+"English: ""face"" - Русский: ""面""
+English: ""judge"" - Русский: ""判""
+English: ""grid"" - Русский: ""格""
+English: ""east"" - Русский: ""东""
+English: ""left"" - Русский: ""","[31651, 232]",左,"[2175, 1563, 29880, 280, 301, 454, 25874]",left,left
+"English: ""ocean"" - Русский: ""洋""
+English: ""sand"" - Русский: ""沙""
+English: ""five"" - Русский: ""五""
+English: ""eight"" - Русский: ""八""
+English: ""sound"" - Русский: ""","[30941, 236]",音,"[29879, 3669, 6047, 29802, 577, 578, 269]",sound,sound
+"English: ""song"" - Русский: ""歌""
+English: ""sound"" - Русский: ""音""
+English: ""middle"" - Русский: ""中""
+English: ""rock"" - Русский: ""岩""
+English: ""power"" - Русский: ""","[31074, 232]",力,"[772, 29886, 4764, 1129, 282, 13519, 3081, 12248]",power,power
+"English: ""wood"" - Русский: ""木""
+English: ""sound"" - Русский: ""音""
+English: ""valley"" - Русский: ""谷""
+English: ""advance"" - Русский: ""进""
+English: ""summer"" - Русский: ""","[31241, 232]",夏,"[2146, 2533, 29879, 480, 2083, 11801, 22792, 269]",summer,summer

@@ -1,0 +1,591 @@
+prompt,out_token_id,out_token_str,latent_token_id,latent_token_str,in_token_str
+"Français: ""cinq"" - English: ""five""
+Français: ""cœur"" - English: ""heart""
+Français: ""partie"" - English: ""part""
+Français: ""trois"" - English: ""three""
+Français: ""nuage"" - English: ""","[274, 9570, 695, 1067, 23642, 17184, 9274, 29883, 15126]",cloud,"[274, 9570, 695, 1067, 23642, 17184, 9274, 29883, 15126]",cloud,nuage
+"Français: ""vallée"" - English: ""valley""
+Français: ""tribu"" - English: ""tribe""
+Français: ""vertu"" - English: ""virtue""
+Français: ""œil"" - English: ""eye""
+Français: ""sac"" - English: ""","[289, 19548, 2291, 23156, 29890, 9922]",bag,"[289, 19548, 2291, 23156, 29890, 9922]",bag,sac
+"Français: ""école"" - English: ""school""
+Français: ""version"" - English: ""version""
+Français: ""point"" - English: ""point""
+Français: ""mille"" - English: ""thousand""
+Français: ""bouche"" - English: ""","[13394, 29442, 21026, 286, 4346, 2730, 29885]",mouth,"[13394, 29442, 21026, 286, 4346, 2730, 29885]",mouth,bouche
+"Français: ""champ"" - English: ""field""
+Français: ""nord"" - English: ""north""
+Français: ""fleur"" - English: ""flower""
+Français: ""tour"" - English: ""tower""
+Français: ""sol"" - English: ""","[578, 22473, 29879, 577, 269]",soil,"[578, 22473, 29879, 577, 269]",soil,sol
+"Français: ""temps"" - English: ""time""
+Français: ""porte"" - English: ""door""
+Français: ""vallée"" - English: ""valley""
+Français: ""rue"" - English: ""street""
+Français: ""montagne"" - English: ""","[5766, 29442, 14378, 286, 16476, 4346, 2730, 29885]",mountain,"[5766, 29442, 14378, 286, 16476, 4346, 2730, 29885]",mountain,montagne
+"Français: ""paire"" - English: ""pair""
+Français: ""gauche"" - English: ""left""
+Français: ""été"" - English: ""summer""
+Français: ""sept"" - English: ""seven""
+Français: ""cœur"" - English: ""","[5192, 540, 298, 8293, 23057, 354, 29882]",heart,"[5192, 540, 298, 8293, 23057, 354, 29882]",heart,cœur
+"Français: ""bande"" - English: ""strip""
+Français: ""un"" - English: ""one""
+Français: ""jour"" - English: ""day""
+Français: ""enfant"" - English: ""child""
+Français: ""main"" - English: ""","[2350, 5403, 447, 3179, 298, 1361, 5905, 29882]",hand,"[2350, 5403, 447, 3179, 298, 1361, 5905, 29882]",hand,main
+"Français: ""quatre"" - English: ""four""
+Français: ""bois"" - English: ""wood""
+Français: ""rouge"" - English: ""red""
+Français: ""gauche"" - English: ""left""
+Français: ""jour"" - English: ""","[1146, 3250, 2462, 29881, 270, 1388]",day,"[1146, 3250, 2462, 29881, 270, 1388]",day,jour
+"Français: ""source"" - English: ""source""
+Français: ""neuf"" - English: ""nine""
+Français: ""main"" - English: ""hand""
+Français: ""ligne"" - English: ""line""
+Français: ""étoile"" - English: ""","[380, 29879, 5810, 303, 5173, 8508, 9523, 269]",star,"[380, 29879, 5810, 303, 5173, 8508, 9523, 269]",star,étoile
+"Français: ""loi"" - English: ""law""
+Français: ""tribu"" - English: ""tribe""
+Français: ""bouche"" - English: ""mouth""
+Français: ""gauche"" - English: ""left""
+Français: ""ressort"" - English: ""","[6709, 805, 1028, 15099, 29879, 4278, 7689, 269]",spring,"[6709, 805, 1028, 15099, 29879, 4278, 7689, 269]",spring,ressort
+"Français: ""siège"" - English: ""seat""
+Français: ""sud"" - English: ""south""
+Français: ""quatre"" - English: ""four""
+Français: ""or"" - English: ""gold""
+Français: ""lune"" - English: ""","[286, 4346, 18786, 2730, 29885]",moon,"[286, 4346, 18786, 2730, 29885]",moon,lune
+"Français: ""bouche"" - English: ""mouth""
+Français: ""mille"" - English: ""thousand""
+Français: ""ménage"" - English: ""household""
+Français: ""été"" - English: ""summer""
+Français: ""bois"" - English: ""","[8112, 281, 827, 8879, 29893, 6115]",wood,"[8112, 281, 827, 8879, 29893, 6115]",wood,bois
+"Français: ""forêt"" - English: ""forest""
+Français: ""cravate"" - English: ""tie""
+Français: ""six"" - English: ""six""
+Français: ""dix"" - English: ""ten""
+Français: ""village"" - English: ""","[29894, 17191, 325, 1403, 4213, 11928, 5720, 28765, 21031, 3516]",village,"[29894, 17191, 325, 1403, 4213, 11928, 5720, 28765, 21031, 3516]",village,village
+"Français: ""tête"" - English: ""head""
+Français: ""génération"" - English: ""generation""
+Français: ""océan"" - English: ""ocean""
+Français: ""quatre"" - English: ""four""
+Français: ""forêt"" - English: ""","[26839, 1079, 363, 13569, 285, 1181, 1454, 1701, 29888]",forest,"[26839, 1079, 363, 13569, 285, 1181, 1454, 1701, 29888]",forest,forêt
+"Français: ""défaite"" - English: ""defeat""
+Français: ""bande"" - English: ""strip""
+Français: ""bouche"" - English: ""mouth""
+Français: ""sud"" - English: ""south""
+Français: ""fruit"" - English: ""","[15774, 1424, 285, 1341, 29888]",fruit,"[15774, 1424, 285, 1341, 29888]",fruit,fruit
+"Français: ""trois"" - English: ""three""
+Français: ""montagne"" - English: ""mountain""
+Français: ""milieu"" - English: ""middle""
+Français: ""tentative"" - English: ""attempt""
+Français: ""grille"" - English: ""","[629, 867, 7720, 29887, 6856, 330]",grid,"[629, 867, 7720, 29887, 6856, 330]",grid,grille
+"Français: ""avancer"" - English: ""advance""
+Français: ""enfant"" - English: ""child""
+Français: ""sept"" - English: ""seven""
+Français: ""groupe"" - English: ""group""
+Français: ""chanson"" - English: ""","[4823, 578, 1487, 29879, 21453, 577, 1100, 269]",song,"[4823, 578, 1487, 29879, 21453, 577, 1100, 269]",song,chanson
+"Français: ""école"" - English: ""school""
+Français: ""groupe"" - English: ""group""
+Français: ""grille"" - English: ""grid""
+Français: ""pouvoir"" - English: ""power""
+Français: ""étang"" - English: ""","[1129, 12509, 772, 29886, 2818, 282, 1112]",pond,"[1129, 12509, 772, 29886, 2818, 282, 1112]",pond,étang
+"Français: ""roche"" - English: ""rock""
+Français: ""maison"" - English: ""house""
+Français: ""visage"" - English: ""face""
+Français: ""cheval"" - English: ""horse""
+Français: ""sable"" - English: ""","[4977, 28455, 29879, 872, 9753, 11982, 269]",sand,"[4977, 28455, 29879, 872, 9753, 11982, 269]",sand,sable
+"Français: ""œil"" - English: ""eye""
+Français: ""ligne"" - English: ""line""
+Français: ""histoire"" - English: ""history""
+Français: ""porte"" - English: ""door""
+Français: ""loi"" - English: ""","[433, 4307, 425, 301, 10653, 29880]",law,"[433, 4307, 425, 301, 10653, 29880]",law,loi
+"Français: ""six"" - English: ""six""
+Français: ""ressort"" - English: ""spring""
+Français: ""main"" - English: ""hand""
+Français: ""école"" - English: ""school""
+Français: ""onde"" - English: ""","[281, 27766, 11324, 29893, 2766, 10742]",wave,"[281, 27766, 11324, 29893, 2766, 10742]",wave,onde
+"Français: ""nuage"" - English: ""cloud""
+Français: ""champ"" - English: ""field""
+Français: ""neuf"" - English: ""nine""
+Français: ""quatre"" - English: ""four""
+Français: ""océan"" - English: ""","[29877, 288, 25802, 23474, 12954, 542]",ocean,"[29877, 288, 25802, 23474, 12954, 542]",ocean,océan
+"Français: ""forêt"" - English: ""forest""
+Français: ""été"" - English: ""summer""
+Français: ""juge"" - English: ""judge""
+Français: ""filet"" - English: ""net""
+Français: ""grotte"" - English: ""","[274, 18346, 5777, 1113, 29883, 24230]",cave,"[274, 18346, 5777, 1113, 29883, 24230]",cave,grotte
+"Français: ""siège"" - English: ""seat""
+Français: ""supprimer"" - English: ""delete""
+Français: ""nord"" - English: ""north""
+Français: ""pied"" - English: ""foot""
+Français: ""mer"" - English: ""","[7205, 344, 29879, 409, 269]",sea,"[7205, 344, 29879, 409, 269]",sea,mer
+"Français: ""bois"" - English: ""wood""
+Français: ""jour"" - English: ""day""
+Français: ""cheval"" - English: ""horse""
+Français: ""structure"" - English: ""structure""
+Français: ""lac"" - English: ""","[433, 425, 301, 18170, 19437, 24591, 29880]",lake,"[433, 425, 301, 18170, 19437, 24591, 29880]",lake,lac
+"Français: ""siège"" - English: ""seat""
+Français: ""village"" - English: ""village""
+Français: ""machine"" - English: ""machine""
+Français: ""gauche"" - English: ""left""
+Français: ""source"" - English: ""","[2752, 578, 4993, 29879, 3669, 577, 269]",source,"[2752, 578, 4993, 29879, 3669, 577, 269]",source,source
+"Français: ""supprimer"" - English: ""delete""
+Français: ""champ"" - English: ""field""
+Français: ""position"" - English: ""position""
+Français: ""gare"" - English: ""station""
+Français: ""point"" - English: ""","[1129, 3149, 772, 29886, 282, 11899, 1298]",point,"[1129, 3149, 772, 29886, 282, 11899, 1298]",point,point
+"Français: ""rouge"" - English: ""red""
+Français: ""sac"" - English: ""bag""
+Français: ""visage"" - English: ""face""
+Français: ""mot"" - English: ""word""
+Français: ""version"" - English: ""","[29894, 325, 874, 345, 2453, 369, 3259, 1224, 1147, 1873]",version,"[29894, 325, 874, 345, 2453, 369, 3259, 1224, 1147, 1873]",version,version
+"Français: ""neuf"" - English: ""nine""
+Français: ""montagne"" - English: ""mountain""
+Français: ""mille"" - English: ""thousand""
+Français: ""bureau"" - English: ""office""
+Français: ""ballon"" - English: ""","[289, 2135, 6411, 2291, 29890, 8287, 5521, 9922]",ball,"[289, 2135, 6411, 2291, 29890, 8287, 5521, 9922]",ball,ballon
+"Français: ""mer"" - English: ""sea""
+Français: ""océan"" - English: ""ocean""
+Français: ""mère"" - English: ""mother""
+Français: ""machine"" - English: ""machine""
+Français: ""gare"" - English: ""","[380, 29879, 1002, 23436, 303, 5173, 19569, 5073, 6112, 9523, 269]",station,"[380, 29879, 1002, 23436, 303, 5173, 19569, 5073, 6112, 9523, 269]",station,gare
+"Français: ""bande"" - English: ""strip""
+Français: ""sol"" - English: ""ground""
+Français: ""bureau"" - English: ""office""
+Français: ""nuage"" - English: ""cloud""
+Français: ""riz"" - English: ""","[2200, 11674, 9597, 374, 10107, 19408, 29878, 364]",rice,"[2200, 11674, 9597, 374, 10107, 19408, 29878, 364]",rice,riz
+"Français: ""structure"" - English: ""structure""
+Français: ""fleur"" - English: ""flower""
+Français: ""bourse"" - English: ""exchange""
+Français: ""cœur"" - English: ""heart""
+Français: ""rouge"" - English: ""","[337, 364, 276, 1127, 29878, 2654]",red,"[337, 364, 276, 1127, 29878, 2654]",red,rouge
+"Français: ""enfant"" - English: ""child""
+Français: ""sept"" - English: ""seven""
+Français: ""quatre"" - English: ""four""
+Français: ""vertu"" - English: ""virtue""
+Français: ""ligne"" - English: ""","[619, 1220, 1196, 492, 301, 1915, 6276, 29880]",line,"[619, 1220, 1196, 492, 301, 1915, 6276, 29880]",line,ligne
+"Français: ""ménage"" - English: ""household""
+Français: ""pouvoir"" - English: ""power""
+Français: ""ville"" - English: ""city""
+Français: ""loi"" - English: ""law""
+Français: ""filet"" - English: ""","[484, 29876, 302, 1212, 452, 7787]",net,"[484, 29876, 302, 1212, 452, 7787]",net,filet
+"Français: ""vertu"" - English: ""virtue""
+Français: ""siège"" - English: ""seat""
+Français: ""neige"" - English: ""snow""
+Français: ""supprimer"" - English: ""delete""
+Français: ""fleur"" - English: ""","[4972, 28149, 5685, 1731, 285, 1579, 1652, 29888]",flower,"[4972, 28149, 5685, 1731, 285, 1579, 1652, 29888]",flower,fleur
+"Français: ""mille"" - English: ""thousand""
+Français: ""bureau"" - English: ""office""
+Français: ""fleur"" - English: ""flower""
+Français: ""vallée"" - English: ""valley""
+Français: ""thé"" - English: ""","[734, 260, 23429, 29873, 371]",tea,"[734, 260, 23429, 29873, 371]",tea,thé
+"Français: ""carré"" - English: ""square""
+Français: ""quatre"" - English: ""four""
+Français: ""temps"" - English: ""time""
+Français: ""fleur"" - English: ""flower""
+Français: ""pied"" - English: ""","[7953, 5431, 3661, 6661, 285, 1181, 1701, 29888]",foot,"[7953, 5431, 3661, 6661, 285, 1181, 1701, 29888]",foot,pied
+"Français: ""deux"" - English: ""two""
+Français: ""carré"" - English: ""square""
+Français: ""lumière"" - English: ""light""
+Français: ""personne"" - English: ""person""
+Français: ""or"" - English: ""","[1484, 7684, 29887, 748, 15192, 330]",gold,"[1484, 7684, 29887, 748, 15192, 330]",gold,or
+"Français: ""tête"" - English: ""head""
+Français: ""lune"" - English: ""moon""
+Français: ""groupe"" - English: ""group""
+Français: ""montagne"" - English: ""mountain""
+Français: ""porte"" - English: ""","[3050, 437, 1867, 17433, 29881, 270]",door,"[3050, 437, 1867, 17433, 29881, 270]",door,porte
+"Français: ""mer"" - English: ""sea""
+Français: ""rue"" - English: ""street""
+Français: ""cravate"" - English: ""tie""
+Français: ""réunion"" - English: ""meeting""
+Français: ""neige"" - English: ""","[16586, 29879, 15007, 5807, 269]",snow,"[16586, 29879, 15007, 5807, 269]",snow,neige
+"Français: ""mot"" - English: ""word""
+Français: ""sol"" - English: ""soil""
+Français: ""enfant"" - English: ""child""
+Français: ""rue"" - English: ""street""
+Français: ""cheval"" - English: ""","[11231, 298, 2015, 10435, 1251, 4029, 5089, 29882]",horse,"[11231, 298, 2015, 10435, 1251, 4029, 5089, 29882]",horse,cheval
+"Français: ""école"" - English: ""school""
+Français: ""quatre"" - English: ""four""
+Français: ""avancer"" - English: ""advance""
+Français: ""province"" - English: ""province""
+Français: ""un"" - English: ""","[29877, 288, 373, 650, 697, 265]",one,"[29877, 288, 373, 650, 697, 265]",one,un
+"Français: ""ville"" - English: ""city""
+Français: ""tête"" - English: ""head""
+Français: ""filet"" - English: ""net""
+Français: ""maison"" - English: ""house""
+Français: ""deux"" - English: ""","[7516, 260, 10184, 3252, 1023, 29873]",two,"[7516, 260, 10184, 3252, 1023, 29873]",two,deux
+"Français: ""cœur"" - English: ""heart""
+Français: ""ménage"" - English: ""household""
+Français: ""bande"" - English: ""strip""
+Français: ""talent"" - English: ""talent""
+Français: ""trois"" - English: ""","[260, 12455, 17536, 266, 1468, 29873, 2211, 386]",three,"[260, 12455, 17536, 266, 1468, 29873, 2211, 386]",three,trois
+"Français: ""onde"" - English: ""wave""
+Français: ""tête"" - English: ""head""
+Français: ""point"" - English: ""point""
+Français: ""cheval"" - English: ""horse""
+Français: ""quatre"" - English: ""","[3023, 17823, 285, 1181, 12584, 1701, 29888]",four,"[3023, 17823, 285, 1181, 12584, 1701, 29888]",four,quatre
+"Français: ""fleur"" - English: ""flower""
+Français: ""nord"" - English: ""north""
+Français: ""pont"" - English: ""bridge""
+Français: ""pouvoir"" - English: ""power""
+Français: ""cinq"" - English: ""","[5713, 20818, 5320, 7241, 285, 29888]",five,"[5713, 20818, 5320, 7241, 285, 29888]",five,cinq
+"Français: ""ballon"" - English: ""ball""
+Français: ""juge"" - English: ""judge""
+Français: ""filet"" - English: ""net""
+Français: ""hausse"" - English: ""rise""
+Français: ""six"" - English: ""","[4832, 29879, 1354, 1039, 28319, 269]",six,"[4832, 29879, 1354, 1039, 28319, 269]",six,six
+"Français: ""main"" - English: ""hand""
+Français: ""groupe"" - English: ""group""
+Français: ""deux"" - English: ""two""
+Français: ""beauté"" - English: ""beauty""
+Français: ""sept"" - English: ""","[344, 29879, 409, 9881, 269]",seven,"[344, 29879, 409, 9881, 269]",seven,sept
+"Français: ""supprimer"" - English: ""delete""
+Français: ""vertu"" - English: ""virtue""
+Français: ""océan"" - English: ""ocean""
+Français: ""point"" - English: ""point""
+Français: ""huit"" - English: ""","[10096, 9475, 29319, 15761, 321, 29872]",eight,"[10096, 9475, 29319, 15761, 321, 29872]",eight,huit
+"Français: ""hausse"" - English: ""rise""
+Français: ""province"" - English: ""province""
+Français: ""or"" - English: ""gold""
+Français: ""rue"" - English: ""street""
+Français: ""neuf"" - English: ""","[14183, 17081, 29876, 302, 6836, 1240]",nine,"[14183, 17081, 29876, 302, 6836, 1240]",nine,neuf
+"Français: ""neige"" - English: ""snow""
+Français: ""gauche"" - English: ""left""
+Français: ""soleil"" - English: ""sun""
+Français: ""fruit"" - English: ""fruit""
+Français: ""dix"" - English: ""","[734, 260, 841, 29873, 3006, 371]",ten,"[734, 260, 841, 29873, 3006, 371]",ten,dix
+"Français: ""fleur"" - English: ""flower""
+Français: ""gare"" - English: ""station""
+Français: ""sable"" - English: ""sand""
+Français: ""couleur"" - English: ""color""
+Français: ""tête"" - English: ""","[540, 298, 2343, 2813, 354, 29882]",head,"[540, 298, 2343, 2813, 354, 29882]",head,tête
+"Français: ""pied"" - English: ""foot""
+Français: ""personne"" - English: ""person""
+Français: ""neuf"" - English: ""nine""
+Français: ""gare"" - English: ""station""
+Français: ""bande"" - English: ""","[380, 17820, 10076, 29879, 851, 303, 17010, 710, 269]",strip,"[380, 17820, 10076, 29879, 851, 303, 17010, 710, 269]",strip,bande
+"Français: ""bouche"" - English: ""mouth""
+Français: ""genre"" - English: ""kind""
+Français: ""maison"" - English: ""house""
+Français: ""mot"" - English: ""word""
+Français: ""rue"" - English: ""","[29352, 13045, 380, 11952, 29879, 851, 303, 710, 12243, 269]",street,"[29352, 13045, 380, 11952, 29879, 851, 303, 710, 12243, 269]",street,rue
+"Français: ""beauté"" - English: ""beauty""
+Français: ""neige"" - English: ""snow""
+Français: ""neuf"" - English: ""nine""
+Français: ""mille"" - English: ""thousand""
+Français: ""partie"" - English: ""","[1595, 610, 29886, 760, 862, 282, 3300, 3274]",part,"[1595, 610, 29886, 760, 862, 282, 3300, 3274]",part,partie
+"Français: ""ressort"" - English: ""spring""
+Français: ""chanson"" - English: ""song""
+Français: ""sol"" - English: ""soil""
+Français: ""fruit"" - English: ""fruit""
+Français: ""œil"" - English: ""","[321, 1032, 10977, 29872]",eye,"[321, 1032, 10977, 29872]",eye,œil
+"Français: ""cinq"" - English: ""five""
+Français: ""visage"" - English: ""face""
+Français: ""pied"" - English: ""foot""
+Français: ""machine"" - English: ""machine""
+Français: ""champ"" - English: ""","[2671, 5713, 7241, 1746, 285, 29607, 29888]",field,"[2671, 5713, 7241, 1746, 285, 29607, 29888]",field,champ
+"Français: ""océan"" - English: ""ocean""
+Français: ""trois"" - English: ""three""
+Français: ""personne"" - English: ""person""
+Français: ""groupe"" - English: ""group""
+Français: ""site"" - English: ""","[3268, 7845, 29879, 1354, 1039, 2746, 269]",site,"[3268, 7845, 29879, 1354, 1039, 2746, 269]",site,site
+"Français: ""temps"" - English: ""time""
+Français: ""deux"" - English: ""two""
+Français: ""machine"" - English: ""machine""
+Français: ""est"" - English: ""east""
+Français: ""danse"" - English: ""","[1146, 1388, 17948, 29881, 6025, 18386, 270]",dance,"[1146, 1388, 17948, 29881, 6025, 18386, 270]",dance,danse
+"Français: ""est"" - English: ""east""
+Français: ""tentative"" - English: ""attempt""
+Français: ""maison"" - English: ""house""
+Français: ""cinq"" - English: ""five""
+Français: ""mot"" - English: ""","[827, 281, 13762, 1734, 8879, 29893, 6365, 1742]",word,"[827, 281, 13762, 1734, 8879, 29893, 6365, 1742]",word,mot
+"Français: ""avancer"" - English: ""advance""
+Français: ""jour"" - English: ""day""
+Français: ""village"" - English: ""village""
+Français: ""genre"" - English: ""kind""
+Français: ""paire"" - English: ""","[5101, 18784, 29886, 282, 3300, 3274]",pair,"[5101, 18784, 29886, 282, 3300, 3274]",pair,paire
+"Français: ""sud"" - English: ""south""
+Français: ""position"" - English: ""position""
+Français: ""discours"" - English: ""speech""
+Français: ""machine"" - English: ""machine""
+Français: ""siège"" - English: ""","[7205, 344, 29879, 409, 12949, 269]",seat,"[7205, 344, 29879, 409, 12949, 269]",seat,siège
+"Français: ""porte"" - English: ""door""
+Français: ""école"" - English: ""school""
+Français: ""discours"" - English: ""speech""
+Français: ""un"" - English: ""one""
+Français: ""lumière"" - English: ""","[4366, 619, 3578, 492, 301, 3473, 29880, 14172]",light,"[4366, 619, 3578, 492, 301, 3473, 29880, 14172]",light,lumière
+"Français: ""fruit"" - English: ""fruit""
+Français: ""village"" - English: ""village""
+Français: ""position"" - English: ""position""
+Français: ""huit"" - English: ""eight""
+Français: ""mille"" - English: ""","[260, 12595, 10405, 7693, 266, 29873, 386]",thousand,"[260, 12595, 10405, 7693, 266, 29873, 386]",thousand,mille
+"Français: ""chanson"" - English: ""song""
+Français: ""génération"" - English: ""generation""
+Français: ""partie"" - English: ""part""
+Français: ""or"" - English: ""gold""
+Français: ""nord"" - English: ""","[694, 29876, 1217, 15459, 302, 6641, 3643]",north,"[694, 29876, 1217, 15459, 302, 6641, 3643]",north,nord
+"Français: ""ménage"" - English: ""household""
+Français: ""cœur"" - English: ""heart""
+Français: ""ligne"" - English: ""line""
+Français: ""forêt"" - English: ""forest""
+Français: ""machine"" - English: ""","[29885, 8628, 5825, 286, 4933, 611, 23523, 7672, 655]",machine,"[29885, 8628, 5825, 286, 4933, 611, 23523, 7672, 655]",machine,machine
+"Français: ""sol"" - English: ""ground""
+Français: ""ville"" - English: ""city""
+Français: ""lune"" - English: ""moon""
+Français: ""position"" - English: ""position""
+Français: ""temps"" - English: ""","[931, 260, 5335, 9346, 29873, 2230, 2034, 19538]",time,"[931, 260, 5335, 9346, 29873, 2230, 2034, 19538]",time,temps
+"Français: ""bouche"" - English: ""mouth""
+Français: ""deux"" - English: ""two""
+Français: ""paire"" - English: ""pair""
+Français: ""son"" - English: ""sound""
+Français: ""position"" - English: ""","[1129, 3283, 1066, 772, 29886, 282, 926, 13686, 2602]",position,"[1129, 3283, 1066, 772, 29886, 282, 926, 13686, 2602]",position,position
+"Français: ""beauté"" - English: ""beauty""
+Français: ""six"" - English: ""six""
+Français: ""sable"" - English: ""sand""
+Français: ""grotte"" - English: ""cave""
+Français: ""province"" - English: ""","[12291, 558, 410, 1326, 29886, 771, 282, 544, 8482, 16123]",province,"[12291, 558, 410, 1326, 29886, 771, 282, 544, 8482, 16123]",province,province
+"Français: ""partie"" - English: ""part""
+Français: ""discours"" - English: ""speech""
+Français: ""machine"" - English: ""machine""
+Français: ""beauté"" - English: ""beauty""
+Français: ""bourse"" - English: ""","[14523, 429, 6543, 735, 321, 5566, 29872]",exchange,"[14523, 429, 6543, 735, 321, 5566, 29872]",exchange,bourse
+"Français: ""champ"" - English: ""field""
+Français: ""fleur"" - English: ""flower""
+Français: ""étang"" - English: ""pond""
+Français: ""lac"" - English: ""lake""
+Français: ""milieu"" - English: ""","[7256, 3737, 286, 6563, 17662, 7145, 29885, 2460]",middle,"[7256, 3737, 286, 6563, 17662, 7145, 29885, 2460]",middle,milieu
+"Français: ""grotte"" - English: ""cave""
+Français: ""œil"" - English: ""eye""
+Français: ""cœur"" - English: ""heart""
+Français: ""jour"" - English: ""day""
+Français: ""couleur"" - English: ""","[274, 1111, 1054, 10965, 2927, 2780, 1302, 29883, 784]",color,"[274, 1111, 1054, 10965, 2927, 2780, 1302, 29883, 784]",color,couleur
+"Français: ""océan"" - English: ""ocean""
+Français: ""point"" - English: ""point""
+Français: ""bande"" - English: ""strip""
+Français: ""mer"" - English: ""sea""
+Français: ""genre"" - English: ""","[19015, 29895, 14380, 9089, 8506, 413, 2924, 1984]",kind,"[19015, 29895, 14380, 9089, 8506, 413, 2924, 1984]",kind,genre
+"Français: ""pied"" - English: ""foot""
+Français: ""discours"" - English: ""speech""
+Français: ""filet"" - English: ""net""
+Français: ""mère"" - English: ""mother""
+Français: ""juge"" - English: ""","[16833, 29926, 17675, 432, 6577, 4900, 3623]",judge,"[16833, 29926, 17675, 432, 6577, 4900, 3623]",judge,juge
+"Français: ""village"" - English: ""village""
+Français: ""grille"" - English: ""grid""
+Français: ""vallée"" - English: ""valley""
+Français: ""ligne"" - English: ""line""
+Français: ""école"" - English: ""","[885, 1557, 29879, 816, 27041, 1364, 3762, 269]",school,"[885, 1557, 29879, 816, 27041, 1364, 3762, 269]",school,école
+"Français: ""tour"" - English: ""tower""
+Français: ""œil"" - English: ""eye""
+Français: ""défaite"" - English: ""defeat""
+Français: ""position"" - English: ""position""
+Français: ""structure"" - English: ""","[4984, 380, 10582, 6220, 29879, 851, 303, 2281, 3829, 23905, 710, 269]",structure,"[4984, 380, 10582, 6220, 29879, 851, 303, 2281, 3829, 23905, 710, 269]",structure,structure
+"Français: ""grille"" - English: ""grid""
+Français: ""ville"" - English: ""city""
+Français: ""œil"" - English: ""eye""
+Français: ""champ"" - English: ""field""
+Français: ""cravate"" - English: ""","[22134, 260, 29873, 2034, 19538]",tie,"[22134, 260, 29873, 2034, 19538]",tie,cravate
+"Français: ""grille"" - English: ""grid""
+Français: ""nuage"" - English: ""cloud""
+Français: ""bureau"" - English: ""office""
+Français: ""œil"" - English: ""eye""
+Français: ""exemple"" - English: ""","[429, 4773, 1342, 735, 321, 4392, 29872]",example,"[429, 4773, 1342, 735, 321, 4392, 29872]",example,exemple
+"Français: ""province"" - English: ""province""
+Français: ""étang"" - English: ""pond""
+Français: ""deux"" - English: ""two""
+Français: ""nord"" - English: ""north""
+Français: ""visage"" - English: ""","[4024, 3700, 2161, 17470, 2258, 285, 5444, 29888]",face,"[4024, 3700, 2161, 17470, 2258, 285, 5444, 29888]",face,visage
+"Français: ""source"" - English: ""source""
+Français: ""neige"" - English: ""snow""
+Français: ""sud"" - English: ""south""
+Français: ""temps"" - English: ""time""
+Français: ""pont"" - English: ""","[289, 19515, 18419, 1506, 1182, 12945, 29890, 28635]",bridge,"[289, 19515, 18419, 1506, 1182, 12945, 29890, 28635]",bridge,pont
+"Français: ""gauche"" - English: ""left""
+Français: ""partie"" - English: ""part""
+Français: ""vertu"" - English: ""virtue""
+Français: ""forêt"" - English: ""forest""
+Français: ""supprimer"" - English: ""","[6144, 7374, 316, 8143, 628, 311, 29881, 5217, 270]",delete,"[6144, 7374, 316, 8143, 628, 311, 29881, 5217, 270]",delete,supprimer
+"Français: ""thé"" - English: ""tea""
+Français: ""est"" - English: ""east""
+Français: ""mot"" - English: ""word""
+Français: ""nord"" - English: ""north""
+Français: ""groupe"" - English: ""","[2318, 629, 2972, 867, 29887, 4071, 17170, 330]",group,"[2318, 629, 2972, 867, 29887, 4071, 17170, 330]",group,groupe
+"Français: ""ville"" - English: ""city""
+Français: ""est"" - English: ""east""
+Français: ""structure"" - English: ""structure""
+Français: ""porte"" - English: ""door""
+Français: ""talent"" - English: ""","[24242, 260, 20411, 5969, 941, 17694, 29873, 11062]",talent,"[24242, 260, 20411, 5969, 941, 17694, 29873, 11062]",talent,talent
+"Français: ""genre"" - English: ""kind""
+Français: ""danse"" - English: ""dance""
+Français: ""lac"" - English: ""lake""
+Français: ""neige"" - English: ""snow""
+Français: ""beauté"" - English: ""","[289, 367, 15409, 915, 6562, 29890]",beauty,"[289, 367, 15409, 915, 6562, 29890]",beauty,beauté
+"Français: ""génération"" - English: ""generation""
+Français: ""lune"" - English: ""moon""
+Français: ""tête"" - English: ""head""
+Français: ""section"" - English: ""section""
+Français: ""plate-forme"" - English: ""","[715, 7481, 13974, 29886, 282, 2174, 12120, 572, 18870]",platform,"[715, 7481, 13974, 29886, 282, 2174, 12120, 572, 18870]",platform,plate-forme
+"Français: ""ligne"" - English: ""line""
+Français: ""thé"" - English: ""tea""
+Français: ""œil"" - English: ""eye""
+Français: ""grotte"" - English: ""cave""
+Français: ""maison"" - English: ""","[29882, 8697, 298, 10774, 1251, 3699, 5089, 9261]",house,"[29882, 8697, 298, 10774, 1251, 3699, 5089, 9261]",house,maison
+"Français: ""supprimer"" - English: ""delete""
+Français: ""main"" - English: ""hand""
+Français: ""vitesse"" - English: ""speed""
+Français: ""cœur"" - English: ""heart""
+Français: ""soleil"" - English: ""","[11445, 6575, 2146, 29879, 480, 269]",sun,"[11445, 6575, 2146, 29879, 480, 269]",sun,soleil
+"Français: ""mot"" - English: ""word""
+Français: ""version"" - English: ""version""
+Français: ""tentative"" - English: ""attempt""
+Français: ""vertu"" - English: ""virtue""
+Français: ""réunion"" - English: ""","[1004, 5870, 286, 17897, 592, 11781, 29885]",meeting,"[1004, 5870, 286, 17897, 592, 11781, 29885]",meeting,réunion
+"Français: ""carré"" - English: ""square""
+Français: ""tête"" - English: ""head""
+Français: ""thé"" - English: ""tea""
+Français: ""œil"" - English: ""eye""
+Français: ""histoire"" - English: ""","[22880, 3603, 298, 9825, 4955, 7251, 16211, 18434, 2918, 670, 29882]",history,"[22880, 3603, 298, 9825, 4955, 7251, 16211, 18434, 2918, 670, 29882]",history,histoire
+"Français: ""discours"" - English: ""speech""
+Français: ""bande"" - English: ""strip""
+Français: ""thé"" - English: ""tea""
+Français: ""soleil"" - English: ""sun""
+Français: ""vallée"" - English: ""","[29894, 19599, 325, 659, 1564, 22044, 2947, 28519, 791]",valley,"[29894, 19599, 325, 659, 1564, 22044, 2947, 28519, 791]",valley,vallée
+"Français: ""jour"" - English: ""day""
+Français: ""sable"" - English: ""sand""
+Français: ""un"" - English: ""one""
+Français: ""histoire"" - English: ""history""
+Français: ""carré"" - English: ""","[26613, 10674, 18074, 6862, 29879, 3044, 17619, 269]",square,"[26613, 10674, 18074, 6862, 29879, 3044, 17619, 269]",square,carré
+"Français: ""jour"" - English: ""day""
+Français: ""soleil"" - English: ""sun""
+Français: ""vitesse"" - English: ""speed""
+Français: ""or"" - English: ""gold""
+Français: ""génération"" - English: ""","[479, 4738, 1737, 2531, 18530, 29887, 1176, 330, 1885, 12623]",generation,"[479, 4738, 1737, 2531, 18530, 29887, 1176, 330, 1885, 12623]",generation,génération
+"Français: ""forêt"" - English: ""forest""
+Français: ""avancer"" - English: ""advance""
+Français: ""genre"" - English: ""kind""
+Français: ""jour"" - English: ""day""
+Français: ""sud"" - English: ""","[578, 7062, 29879, 3669, 577, 13267, 269]",south,"[578, 7062, 29879, 3669, 577, 13267, 269]",south,sud
+"Français: ""école"" - English: ""school""
+Français: ""chanson"" - English: ""song""
+Français: ""sept"" - English: ""seven""
+Français: ""section"" - English: ""section""
+Français: ""vertu"" - English: ""","[10636, 29894, 325, 4610, 1403, 2405, 27935, 15389, 3516]",virtue,"[10636, 29894, 325, 4610, 1403, 2405, 27935, 15389, 3516]",virtue,vertu
+"Français: ""vitesse"" - English: ""speed""
+Français: ""danse"" - English: ""dance""
+Français: ""paire"" - English: ""pair""
+Français: ""rue"" - English: ""street""
+Français: ""tribu"" - English: ""","[3626, 260, 29563, 534, 509, 29873, 3367, 9434]",tribe,"[3626, 260, 29563, 534, 509, 29873, 3367, 9434]",tribe,tribu
+"Français: ""plate-forme"" - English: ""platform""
+Français: ""milieu"" - English: ""middle""
+Français: ""six"" - English: ""six""
+Français: ""vallée"" - English: ""valley""
+Français: ""ville"" - English: ""","[274, 4583, 4272, 455, 12690, 29883, 20752, 7537]",city,"[274, 4583, 4272, 455, 12690, 29883, 20752, 7537]",city,ville
+"Français: ""lumière"" - English: ""light""
+Français: ""porte"" - English: ""door""
+Français: ""ville"" - English: ""city""
+Français: ""queue"" - English: ""tail""
+Français: ""vitesse"" - English: ""","[805, 6210, 1028, 29879, 5965, 19322, 961, 269]",speed,"[805, 6210, 1028, 29879, 5965, 19322, 961, 269]",speed,vitesse
+"Français: ""supprimer"" - English: ""delete""
+Français: ""groupe"" - English: ""group""
+Français: ""œil"" - English: ""eye""
+Français: ""danse"" - English: ""dance""
+Français: ""sol"" - English: ""","[629, 867, 29887, 5962, 4071, 2057, 17170, 330]",ground,"[629, 867, 29887, 5962, 4071, 2057, 17170, 330]",ground,sol
+"Français: ""province"" - English: ""province""
+Français: ""structure"" - English: ""structure""
+Français: ""milieu"" - English: ""middle""
+Français: ""bureau"" - English: ""office""
+Français: ""avancer"" - English: ""","[263, 3061, 29874, 328, 6564, 17263, 594]",advance,"[263, 3061, 29874, 328, 6564, 17263, 594]",advance,avancer
+"Français: ""temps"" - English: ""time""
+Français: ""maison"" - English: ""house""
+Français: ""mot"" - English: ""word""
+Français: ""est"" - English: ""east""
+Français: ""tentative"" - English: ""","[263, 1098, 29874, 271, 1131, 15127, 4218, 472, 21609]",attempt,"[263, 1098, 29874, 271, 1131, 15127, 4218, 472, 21609]",attempt,tentative
+"Français: ""rue"" - English: ""street""
+Français: ""huit"" - English: ""eight""
+Français: ""école"" - English: ""school""
+Français: ""mer"" - English: ""sea""
+Français: ""défaite"" - English: ""","[1753, 316, 311, 20653, 29881, 822, 8686, 270]",defeat,"[1753, 316, 311, 20653, 29881, 822, 8686, 270]",defeat,défaite
+"Français: ""retour"" - English: ""return""
+Français: ""village"" - English: ""village""
+Français: ""enfant"" - English: ""child""
+Français: ""cravate"" - English: ""tie""
+Français: ""queue"" - English: ""","[18237, 260, 941, 12464, 29873, 11062]",tail,"[18237, 260, 941, 12464, 29873, 11062]",tail,queue
+"Français: ""structure"" - English: ""structure""
+Français: ""roche"" - English: ""rock""
+Français: ""pouvoir"" - English: ""power""
+Français: ""forêt"" - English: ""forest""
+Français: ""mère"" - English: ""","[14817, 25550, 286, 5637, 4346, 3184, 2730, 29885]",mother,"[14817, 25550, 286, 5637, 4346, 3184, 2730, 29885]",mother,mère
+"Français: ""supprimer"" - English: ""delete""
+Français: ""temps"" - English: ""time""
+Français: ""dix"" - English: ""ten""
+Français: ""bande"" - English: ""strip""
+Français: ""est"" - English: ""","[9755, 11248, 321, 2240, 29872, 23027]",east,"[9755, 11248, 321, 2240, 29872, 23027]",east,est
+"Français: ""sac"" - English: ""bag""
+Français: ""genre"" - English: ""kind""
+Français: ""cinq"" - English: ""five""
+Français: ""œil"" - English: ""eye""
+Français: ""retour"" - English: ""","[337, 736, 3240, 276, 2457, 2267, 29878, 364]",return,"[337, 736, 3240, 276, 2457, 2267, 29878, 364]",return,retour
+"Français: ""tour"" - English: ""tower""
+Français: ""été"" - English: ""summer""
+Français: ""bourse"" - English: ""exchange""
+Français: ""version"" - English: ""version""
+Français: ""discours"" - English: ""","[805, 12032, 1028, 29879, 5965, 961, 269]",speech,"[805, 12032, 1028, 29879, 5965, 961, 269]",speech,discours
+"Français: ""tentative"" - English: ""attempt""
+Français: ""ressort"" - English: ""spring""
+Français: ""danse"" - English: ""dance""
+Français: ""couleur"" - English: ""color""
+Français: ""enfant"" - English: ""","[274, 521, 5145, 2278, 18558, 305, 4161, 29883]",child,"[274, 521, 5145, 2278, 18558, 305, 4161, 29883]",child,enfant
+"Français: ""maison"" - English: ""house""
+Français: ""queue"" - English: ""tail""
+Français: ""thé"" - English: ""tea""
+Français: ""version"" - English: ""version""
+Français: ""tour"" - English: ""","[304, 260, 517, 29873, 19372]",tower,"[304, 260, 517, 29873, 19372]",tower,tour
+"Français: ""mère"" - English: ""mother""
+Français: ""été"" - English: ""summer""
+Français: ""cœur"" - English: ""heart""
+Français: ""bande"" - English: ""strip""
+Français: ""ménage"" - English: ""","[22329, 29882, 8697, 298, 10774, 1251, 3699, 5089, 9261]",household,"[22329, 29882, 8697, 298, 10774, 1251, 3699, 5089, 9261]",household,ménage
+"Français: ""vertu"" - English: ""virtue""
+Français: ""ligne"" - English: ""line""
+Français: ""lune"" - English: ""moon""
+Français: ""ville"" - English: ""city""
+Français: ""personne"" - English: ""","[1236, 3736, 2022, 639, 10532, 29886, 282, 546, 412, 6774]",person,"[1236, 3736, 2022, 639, 10532, 29886, 282, 546, 412, 6774]",person,personne
+"Français: ""océan"" - English: ""ocean""
+Français: ""soleil"" - English: ""sun""
+Français: ""rue"" - English: ""street""
+Français: ""enfant"" - English: ""child""
+Français: ""section"" - English: ""","[344, 21149, 29879, 8803, 2042, 3471, 5226, 409, 4004, 269]",section,"[344, 21149, 29879, 8803, 2042, 3471, 5226, 409, 4004, 269]",section,section
+"Français: ""école"" - English: ""school""
+Français: ""sud"" - English: ""south""
+Français: ""cravate"" - English: ""tie""
+Français: ""sac"" - English: ""bag""
+Français: ""bureau"" - English: ""","[310, 29877, 2696, 8034, 20205, 288, 974, 3344, 1283]",office,"[310, 29877, 2696, 8034, 20205, 288, 974, 3344, 1283]",office,bureau
+"Français: ""couleur"" - English: ""color""
+Français: ""deux"" - English: ""two""
+Français: ""discours"" - English: ""speech""
+Français: ""plate-forme"" - English: ""platform""
+Français: ""roche"" - English: ""","[10198, 696, 7679, 307, 29878, 20821, 364]",rock,"[10198, 696, 7679, 307, 29878, 20821, 364]",rock,roche
+"Français: ""tentative"" - English: ""attempt""
+Français: ""lac"" - English: ""lake""
+Français: ""œil"" - English: ""eye""
+Français: ""forêt"" - English: ""forest""
+Français: ""hausse"" - English: ""","[5161, 374, 3780, 14451, 10107, 29878, 364]",rise,"[5161, 374, 3780, 14451, 10107, 29878, 364]",rise,hausse
+"Français: ""visage"" - English: ""face""
+Français: ""juge"" - English: ""judge""
+Français: ""grille"" - English: ""grid""
+Français: ""est"" - English: ""east""
+Français: ""gauche"" - English: ""","[25874, 1563, 2175, 280, 454, 301, 29880]",left,"[25874, 1563, 2175, 280, 454, 301, 29880]",left,gauche
+"Français: ""océan"" - English: ""ocean""
+Français: ""sable"" - English: ""sand""
+Français: ""cinq"" - English: ""five""
+Français: ""huit"" - English: ""eight""
+Français: ""son"" - English: ""","[578, 29879, 3669, 577, 6047, 29802, 269]",sound,"[578, 29879, 3669, 577, 6047, 29802, 269]",sound,son
+"Français: ""chanson"" - English: ""song""
+Français: ""son"" - English: ""sound""
+Français: ""milieu"" - English: ""middle""
+Français: ""roche"" - English: ""rock""
+Français: ""pouvoir"" - English: ""","[1129, 4764, 772, 29886, 12248, 13519, 282, 3081]",power,"[1129, 4764, 772, 29886, 12248, 13519, 282, 3081]",power,pouvoir
+"Français: ""bois"" - English: ""wood""
+Français: ""son"" - English: ""sound""
+Français: ""vallée"" - English: ""valley""
+Français: ""avancer"" - English: ""advance""
+Français: ""été"" - English: ""","[2533, 2146, 29879, 2083, 480, 11801, 22792, 269]",summer,"[2533, 2146, 29879, 2083, 480, 11801, 22792, 269]",summer,été

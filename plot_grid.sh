@@ -2,17 +2,17 @@
 
 #for size in '13b' 
 #do
-#    for input in 'zh' 'fr' 'de' 'ru' 'en' 
-#    do 
-#        for output in 'zh' 'fr' 'de' 'ru' 'en'
-#        do 
-#            echo "size: $size, input: $input, output: $output"
-#            papermill Translation.ipynb visuals/executed_notebooks/Translation_Final_${size}_${input}_${output}.ipynb -p model_size $size -p target_lang $output -p input_lang $input
-#        done 
-#    done 
+#   for input in 'zh' 'fr' 'de' 'ru' 'en' 
+#   do 
+#       for output in 'zh' 'fr' 'de' 'ru' 'en'
+#       do 
+#           echo "size: $size, input: $input, output: $output"
+#           papermill Translation.ipynb visuals/executed_notebooks/Translation_Final_${size}_${input}_${output}.ipynb -p model_size $size -p target_lang $output -p input_lang $input
+#       done 
+#   done 
 #done 
 
-for size in '7b'
+for size in '13b'
 do
     for output in 'zh' 'fr' 'de' 'ru' 'en'
     do 
