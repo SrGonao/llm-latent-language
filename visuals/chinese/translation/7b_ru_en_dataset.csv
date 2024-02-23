@@ -1,0 +1,591 @@
+prompt,out_token_id,out_token_str,latent_token_id,latent_token_str,in_token_str
+"Русский: ""cinq"" - English: ""five""
+Русский: ""cœur"" - English: ""heart""
+Русский: ""partie"" - English: ""part""
+Русский: ""trois"" - English: ""three""
+Русский: ""nuage"" - English: ""","[1067, 17184, 9570, 695, 23642, 15126, 9274, 274, 29883]",cloud,"[1067, 17184, 9570, 695, 23642, 15126, 9274, 274, 29883]",cloud,nuage
+"Русский: ""vallée"" - English: ""valley""
+Русский: ""tribu"" - English: ""tribe""
+Русский: ""vertu"" - English: ""virtue""
+Русский: ""œil"" - English: ""eye""
+Русский: ""sac"" - English: ""","[29890, 19548, 289, 23156, 9922, 2291]",bag,"[29890, 19548, 289, 23156, 9922, 2291]",bag,sac
+"Русский: ""école"" - English: ""school""
+Русский: ""version"" - English: ""version""
+Русский: ""point"" - English: ""point""
+Русский: ""mille"" - English: ""thousand""
+Русский: ""bouche"" - English: ""","[29885, 21026, 29442, 286, 2730, 4346, 13394]",mouth,"[29885, 21026, 29442, 286, 2730, 4346, 13394]",mouth,bouche
+"Русский: ""champ"" - English: ""field""
+Русский: ""nord"" - English: ""north""
+Русский: ""fleur"" - English: ""flower""
+Русский: ""tour"" - English: ""tower""
+Русский: ""sol"" - English: ""","[578, 29879, 269, 22473, 577]",soil,"[578, 29879, 269, 22473, 577]",soil,sol
+"Русский: ""temps"" - English: ""time""
+Русский: ""porte"" - English: ""door""
+Русский: ""vallée"" - English: ""valley""
+Русский: ""rue"" - English: ""street""
+Русский: ""montagne"" - English: ""","[16476, 29885, 286, 2730, 5766, 4346, 29442, 14378]",mountain,"[16476, 29885, 286, 2730, 5766, 4346, 29442, 14378]",mountain,montagne
+"Русский: ""paire"" - English: ""pair""
+Русский: ""gauche"" - English: ""left""
+Русский: ""été"" - English: ""summer""
+Русский: ""sept"" - English: ""seven""
+Русский: ""cœur"" - English: ""","[298, 5192, 354, 540, 29882, 8293, 23057]",heart,"[298, 5192, 354, 540, 29882, 8293, 23057]",heart,cœur
+"Русский: ""bande"" - English: ""strip""
+Русский: ""un"" - English: ""one""
+Русский: ""jour"" - English: ""day""
+Русский: ""enfant"" - English: ""child""
+Русский: ""main"" - English: ""","[298, 447, 5403, 29882, 3179, 1361, 2350, 5905]",hand,"[298, 447, 5403, 29882, 3179, 1361, 2350, 5905]",hand,main
+"Русский: ""quatre"" - English: ""four""
+Русский: ""bois"" - English: ""wood""
+Русский: ""rouge"" - English: ""red""
+Русский: ""gauche"" - English: ""left""
+Русский: ""jour"" - English: ""","[270, 2462, 29881, 1146, 1388, 3250]",day,"[270, 2462, 29881, 1146, 1388, 3250]",day,jour
+"Русский: ""source"" - English: ""source""
+Русский: ""neuf"" - English: ""nine""
+Русский: ""main"" - English: ""hand""
+Русский: ""ligne"" - English: ""line""
+Русский: ""étoile"" - English: ""","[9523, 5810, 5173, 29879, 303, 380, 269, 8508]",star,"[9523, 5810, 5173, 29879, 303, 380, 269, 8508]",star,étoile
+"Русский: ""loi"" - English: ""law""
+Русский: ""tribu"" - English: ""tribe""
+Русский: ""bouche"" - English: ""mouth""
+Русский: ""gauche"" - English: ""left""
+Русский: ""ressort"" - English: ""","[805, 4278, 29879, 269, 1028, 7689, 6709, 15099]",spring,"[805, 4278, 29879, 269, 1028, 7689, 6709, 15099]",spring,ressort
+"Русский: ""siège"" - English: ""seat""
+Русский: ""sud"" - English: ""south""
+Русский: ""quatre"" - English: ""four""
+Русский: ""or"" - English: ""gold""
+Русский: ""lune"" - English: ""","[29885, 286, 18786, 2730, 4346]",moon,"[29885, 286, 18786, 2730, 4346]",moon,lune
+"Русский: ""bouche"" - English: ""mouth""
+Русский: ""mille"" - English: ""thousand""
+Русский: ""ménage"" - English: ""household""
+Русский: ""été"" - English: ""summer""
+Русский: ""bois"" - English: ""","[281, 8879, 827, 6115, 29893, 8112]",wood,"[281, 8879, 827, 6115, 29893, 8112]",wood,bois
+"Русский: ""forêt"" - English: ""forest""
+Русский: ""cravate"" - English: ""tie""
+Русский: ""six"" - English: ""six""
+Русский: ""dix"" - English: ""ten""
+Русский: ""village"" - English: ""","[21031, 17191, 325, 28765, 11928, 4213, 3516, 29894, 5720, 1403]",village,"[21031, 17191, 325, 28765, 11928, 4213, 3516, 29894, 5720, 1403]",village,village
+"Русский: ""tête"" - English: ""head""
+Русский: ""génération"" - English: ""generation""
+Русский: ""océan"" - English: ""ocean""
+Русский: ""quatre"" - English: ""four""
+Русский: ""forêt"" - English: ""","[1079, 285, 26839, 1454, 1701, 363, 29888, 13569, 1181]",forest,"[1079, 285, 26839, 1454, 1701, 363, 29888, 13569, 1181]",forest,forêt
+"Русский: ""défaite"" - English: ""defeat""
+Русский: ""bande"" - English: ""strip""
+Русский: ""bouche"" - English: ""mouth""
+Русский: ""sud"" - English: ""south""
+Русский: ""fruit"" - English: ""","[15774, 285, 1424, 1341, 29888]",fruit,"[15774, 285, 1424, 1341, 29888]",fruit,fruit
+"Русский: ""trois"" - English: ""three""
+Русский: ""montagne"" - English: ""mountain""
+Русский: ""milieu"" - English: ""middle""
+Русский: ""tentative"" - English: ""attempt""
+Русский: ""grille"" - English: ""","[629, 867, 330, 29887, 6856, 7720]",grid,"[629, 867, 330, 29887, 6856, 7720]",grid,grille
+"Русский: ""avancer"" - English: ""advance""
+Русский: ""enfant"" - English: ""child""
+Русский: ""sept"" - English: ""seven""
+Русский: ""groupe"" - English: ""group""
+Русский: ""chanson"" - English: ""","[1100, 578, 1487, 29879, 269, 4823, 21453, 577]",song,"[1100, 578, 1487, 29879, 269, 4823, 21453, 577]",song,chanson
+"Русский: ""école"" - English: ""school""
+Русский: ""groupe"" - English: ""group""
+Русский: ""grille"" - English: ""grid""
+Русский: ""pouvoir"" - English: ""power""
+Русский: ""étang"" - English: ""","[1129, 1112, 29886, 12509, 282, 772, 2818]",pond,"[1129, 1112, 29886, 12509, 282, 772, 2818]",pond,étang
+"Русский: ""roche"" - English: ""rock""
+Русский: ""maison"" - English: ""house""
+Русский: ""visage"" - English: ""face""
+Русский: ""cheval"" - English: ""horse""
+Русский: ""sable"" - English: ""","[28455, 11982, 29879, 4977, 269, 9753, 872]",sand,"[28455, 11982, 29879, 4977, 269, 9753, 872]",sand,sable
+"Русский: ""œil"" - English: ""eye""
+Русский: ""ligne"" - English: ""line""
+Русский: ""histoire"" - English: ""history""
+Русский: ""porte"" - English: ""door""
+Русский: ""loi"" - English: ""","[4307, 29880, 433, 10653, 425, 301]",law,"[4307, 29880, 433, 10653, 425, 301]",law,loi
+"Русский: ""six"" - English: ""six""
+Русский: ""ressort"" - English: ""spring""
+Русский: ""main"" - English: ""hand""
+Русский: ""école"" - English: ""school""
+Русский: ""onde"" - English: ""","[281, 27766, 2766, 10742, 11324, 29893]",wave,"[281, 27766, 2766, 10742, 11324, 29893]",wave,onde
+"Русский: ""nuage"" - English: ""cloud""
+Русский: ""champ"" - English: ""field""
+Русский: ""neuf"" - English: ""nine""
+Русский: ""quatre"" - English: ""four""
+Русский: ""océan"" - English: ""","[25802, 12954, 542, 23474, 29877, 288]",ocean,"[25802, 12954, 542, 23474, 29877, 288]",ocean,océan
+"Русский: ""forêt"" - English: ""forest""
+Русский: ""été"" - English: ""summer""
+Русский: ""juge"" - English: ""judge""
+Русский: ""filet"" - English: ""net""
+Русский: ""grotte"" - English: ""","[5777, 18346, 24230, 274, 1113, 29883]",cave,"[5777, 18346, 24230, 274, 1113, 29883]",cave,grotte
+"Русский: ""siège"" - English: ""seat""
+Русский: ""supprimer"" - English: ""delete""
+Русский: ""nord"" - English: ""north""
+Русский: ""pied"" - English: ""foot""
+Русский: ""mer"" - English: ""","[409, 29879, 7205, 344, 269]",sea,"[409, 29879, 7205, 344, 269]",sea,mer
+"Русский: ""bois"" - English: ""wood""
+Русский: ""jour"" - English: ""day""
+Русский: ""cheval"" - English: ""horse""
+Русский: ""structure"" - English: ""structure""
+Русский: ""lac"" - English: ""","[18170, 29880, 433, 24591, 19437, 425, 301]",lake,"[18170, 29880, 433, 24591, 19437, 425, 301]",lake,lac
+"Русский: ""siège"" - English: ""seat""
+Русский: ""village"" - English: ""village""
+Русский: ""machine"" - English: ""machine""
+Русский: ""gauche"" - English: ""left""
+Русский: ""source"" - English: ""","[578, 29879, 4993, 269, 2752, 3669, 577]",source,"[578, 29879, 4993, 269, 2752, 3669, 577]",source,source
+"Русский: ""supprimer"" - English: ""delete""
+Русский: ""champ"" - English: ""field""
+Русский: ""position"" - English: ""position""
+Русский: ""gare"" - English: ""station""
+Русский: ""point"" - English: ""","[3149, 1129, 11899, 29886, 282, 772, 1298]",point,"[3149, 1129, 11899, 29886, 282, 772, 1298]",point,point
+"Русский: ""rouge"" - English: ""red""
+Русский: ""sac"" - English: ""bag""
+Русский: ""visage"" - English: ""face""
+Русский: ""mot"" - English: ""word""
+Русский: ""version"" - English: ""","[369, 874, 1224, 3259, 325, 29894, 345, 2453, 1873, 1147]",version,"[369, 874, 1224, 3259, 325, 29894, 345, 2453, 1873, 1147]",version,version
+"Русский: ""neuf"" - English: ""nine""
+Русский: ""montagne"" - English: ""mountain""
+Русский: ""mille"" - English: ""thousand""
+Русский: ""bureau"" - English: ""office""
+Русский: ""ballon"" - English: ""","[29890, 8287, 289, 5521, 9922, 6411, 2135, 2291]",ball,"[29890, 8287, 289, 5521, 9922, 6411, 2135, 2291]",ball,ballon
+"Русский: ""mer"" - English: ""sea""
+Русский: ""océan"" - English: ""ocean""
+Русский: ""mère"" - English: ""mother""
+Русский: ""machine"" - English: ""machine""
+Русский: ""gare"" - English: ""","[9523, 6112, 1002, 5173, 23436, 29879, 303, 5073, 380, 269, 19569]",station,"[9523, 6112, 1002, 5173, 23436, 29879, 303, 5073, 380, 269, 19569]",station,gare
+"Русский: ""bande"" - English: ""strip""
+Русский: ""sol"" - English: ""ground""
+Русский: ""bureau"" - English: ""office""
+Русский: ""nuage"" - English: ""cloud""
+Русский: ""riz"" - English: ""","[9597, 29878, 364, 19408, 10107, 2200, 11674, 374]",rice,"[9597, 29878, 364, 19408, 10107, 2200, 11674, 374]",rice,riz
+"Русский: ""structure"" - English: ""structure""
+Русский: ""fleur"" - English: ""flower""
+Русский: ""bourse"" - English: ""exchange""
+Русский: ""cœur"" - English: ""heart""
+Русский: ""rouge"" - English: ""","[29878, 364, 276, 1127, 2654, 337]",red,"[29878, 364, 276, 1127, 2654, 337]",red,rouge
+"Русский: ""enfant"" - English: ""child""
+Русский: ""sept"" - English: ""seven""
+Русский: ""quatre"" - English: ""four""
+Русский: ""vertu"" - English: ""virtue""
+Русский: ""ligne"" - English: ""","[1196, 1220, 1915, 29880, 6276, 619, 492, 301]",line,"[1196, 1220, 1915, 29880, 6276, 619, 492, 301]",line,ligne
+"Русский: ""ménage"" - English: ""household""
+Русский: ""pouvoir"" - English: ""power""
+Русский: ""ville"" - English: ""city""
+Русский: ""loi"" - English: ""law""
+Русский: ""filet"" - English: ""","[29876, 7787, 452, 302, 1212, 484]",net,"[29876, 7787, 452, 302, 1212, 484]",net,filet
+"Русский: ""vertu"" - English: ""virtue""
+Русский: ""siège"" - English: ""seat""
+Русский: ""neige"" - English: ""snow""
+Русский: ""supprimer"" - English: ""delete""
+Русский: ""fleur"" - English: ""","[4972, 28149, 1731, 285, 1579, 29888, 5685, 1652]",flower,"[4972, 28149, 1731, 285, 1579, 29888, 5685, 1652]",flower,fleur
+"Русский: ""mille"" - English: ""thousand""
+Русский: ""bureau"" - English: ""office""
+Русский: ""fleur"" - English: ""flower""
+Русский: ""vallée"" - English: ""valley""
+Русский: ""thé"" - English: ""","[260, 23429, 371, 29873, 734]",tea,"[260, 23429, 371, 29873, 734]",tea,thé
+"Русский: ""carré"" - English: ""square""
+Русский: ""quatre"" - English: ""four""
+Русский: ""temps"" - English: ""time""
+Русский: ""fleur"" - English: ""flower""
+Русский: ""pied"" - English: ""","[285, 6661, 1701, 29888, 5431, 7953, 3661, 1181]",foot,"[285, 6661, 1701, 29888, 5431, 7953, 3661, 1181]",foot,pied
+"Русский: ""deux"" - English: ""two""
+Русский: ""carré"" - English: ""square""
+Русский: ""lumière"" - English: ""light""
+Русский: ""personne"" - English: ""person""
+Русский: ""or"" - English: ""","[7684, 1484, 330, 29887, 748, 15192]",gold,"[7684, 1484, 330, 29887, 748, 15192]",gold,or
+"Русский: ""tête"" - English: ""head""
+Русский: ""lune"" - English: ""moon""
+Русский: ""groupe"" - English: ""group""
+Русский: ""montagne"" - English: ""mountain""
+Русский: ""porte"" - English: ""","[270, 437, 29881, 3050, 17433, 1867]",door,"[270, 437, 29881, 3050, 17433, 1867]",door,porte
+"Русский: ""mer"" - English: ""sea""
+Русский: ""rue"" - English: ""street""
+Русский: ""cravate"" - English: ""tie""
+Русский: ""réunion"" - English: ""meeting""
+Русский: ""neige"" - English: ""","[15007, 29879, 269, 5807, 16586]",snow,"[15007, 29879, 269, 5807, 16586]",snow,neige
+"Русский: ""mot"" - English: ""word""
+Русский: ""sol"" - English: ""soil""
+Русский: ""enfant"" - English: ""child""
+Русский: ""rue"" - English: ""street""
+Русский: ""cheval"" - English: ""","[298, 29882, 2015, 10435, 1251, 4029, 11231, 5089]",horse,"[298, 29882, 2015, 10435, 1251, 4029, 11231, 5089]",horse,cheval
+"Русский: ""école"" - English: ""school""
+Русский: ""quatre"" - English: ""four""
+Русский: ""avancer"" - English: ""advance""
+Русский: ""province"" - English: ""province""
+Русский: ""un"" - English: ""","[697, 265, 650, 373, 29877, 288]",one,"[697, 265, 650, 373, 29877, 288]",one,un
+"Русский: ""ville"" - English: ""city""
+Русский: ""tête"" - English: ""head""
+Русский: ""filet"" - English: ""net""
+Русский: ""maison"" - English: ""house""
+Русский: ""deux"" - English: ""","[3252, 260, 10184, 1023, 29873, 7516]",two,"[3252, 260, 10184, 1023, 29873, 7516]",two,deux
+"Русский: ""cœur"" - English: ""heart""
+Русский: ""ménage"" - English: ""household""
+Русский: ""bande"" - English: ""strip""
+Русский: ""talent"" - English: ""talent""
+Русский: ""trois"" - English: ""","[386, 260, 12455, 17536, 2211, 29873, 266, 1468]",three,"[386, 260, 12455, 17536, 2211, 29873, 266, 1468]",three,trois
+"Русский: ""onde"" - English: ""wave""
+Русский: ""tête"" - English: ""head""
+Русский: ""point"" - English: ""point""
+Русский: ""cheval"" - English: ""horse""
+Русский: ""quatre"" - English: ""","[12584, 285, 1701, 29888, 17823, 3023, 1181]",four,"[12584, 285, 1701, 29888, 17823, 3023, 1181]",four,quatre
+"Русский: ""fleur"" - English: ""flower""
+Русский: ""nord"" - English: ""north""
+Русский: ""pont"" - English: ""bridge""
+Русский: ""pouvoir"" - English: ""power""
+Русский: ""cinq"" - English: ""","[285, 5320, 29888, 5713, 7241, 20818]",five,"[285, 5320, 29888, 5713, 7241, 20818]",five,cinq
+"Русский: ""ballon"" - English: ""ball""
+Русский: ""juge"" - English: ""judge""
+Русский: ""filet"" - English: ""net""
+Русский: ""hausse"" - English: ""rise""
+Русский: ""six"" - English: ""","[4832, 29879, 28319, 269, 1039, 1354]",six,"[4832, 29879, 28319, 269, 1039, 1354]",six,six
+"Русский: ""main"" - English: ""hand""
+Русский: ""groupe"" - English: ""group""
+Русский: ""deux"" - English: ""two""
+Русский: ""beauté"" - English: ""beauty""
+Русский: ""sept"" - English: ""","[409, 29879, 344, 269, 9881]",seven,"[409, 29879, 344, 269, 9881]",seven,sept
+"Русский: ""supprimer"" - English: ""delete""
+Русский: ""vertu"" - English: ""virtue""
+Русский: ""océan"" - English: ""ocean""
+Русский: ""point"" - English: ""point""
+Русский: ""huit"" - English: ""","[15761, 29872, 9475, 321, 10096, 29319]",eight,"[15761, 29872, 9475, 321, 10096, 29319]",eight,huit
+"Русский: ""hausse"" - English: ""rise""
+Русский: ""province"" - English: ""province""
+Русский: ""or"" - English: ""gold""
+Русский: ""rue"" - English: ""street""
+Русский: ""neuf"" - English: ""","[17081, 14183, 29876, 302, 1240, 6836]",nine,"[17081, 14183, 29876, 302, 1240, 6836]",nine,neuf
+"Русский: ""neige"" - English: ""snow""
+Русский: ""gauche"" - English: ""left""
+Русский: ""soleil"" - English: ""sun""
+Русский: ""fruit"" - English: ""fruit""
+Русский: ""dix"" - English: ""","[260, 3006, 371, 29873, 841, 734]",ten,"[260, 3006, 371, 29873, 841, 734]",ten,dix
+"Русский: ""fleur"" - English: ""flower""
+Русский: ""gare"" - English: ""station""
+Русский: ""sable"" - English: ""sand""
+Русский: ""couleur"" - English: ""color""
+Русский: ""tête"" - English: ""","[298, 2343, 354, 540, 29882, 2813]",head,"[298, 2343, 354, 540, 29882, 2813]",head,tête
+"Русский: ""pied"" - English: ""foot""
+Русский: ""personne"" - English: ""person""
+Русский: ""neuf"" - English: ""nine""
+Русский: ""gare"" - English: ""station""
+Русский: ""bande"" - English: ""","[851, 17010, 17820, 29879, 303, 380, 269, 710, 10076]",strip,"[851, 17010, 17820, 29879, 303, 380, 269, 710, 10076]",strip,bande
+"Русский: ""bouche"" - English: ""mouth""
+Русский: ""genre"" - English: ""kind""
+Русский: ""maison"" - English: ""house""
+Русский: ""mot"" - English: ""word""
+Русский: ""rue"" - English: ""","[851, 13045, 12243, 29879, 11952, 303, 29352, 380, 269, 710]",street,"[851, 13045, 12243, 29879, 11952, 303, 29352, 380, 269, 710]",street,rue
+"Русский: ""beauté"" - English: ""beauty""
+Русский: ""neige"" - English: ""snow""
+Русский: ""neuf"" - English: ""nine""
+Русский: ""mille"" - English: ""thousand""
+Русский: ""partie"" - English: ""","[610, 1595, 862, 760, 29886, 282, 3300, 3274]",part,"[610, 1595, 862, 760, 29886, 282, 3300, 3274]",part,partie
+"Русский: ""ressort"" - English: ""spring""
+Русский: ""chanson"" - English: ""song""
+Русский: ""sol"" - English: ""soil""
+Русский: ""fruit"" - English: ""fruit""
+Русский: ""œil"" - English: ""","[29872, 321, 1032, 10977]",eye,"[29872, 321, 1032, 10977]",eye,œil
+"Русский: ""cinq"" - English: ""five""
+Русский: ""visage"" - English: ""face""
+Русский: ""pied"" - English: ""foot""
+Русский: ""machine"" - English: ""machine""
+Русский: ""champ"" - English: ""","[285, 1746, 5713, 29888, 7241, 29607, 2671]",field,"[285, 1746, 5713, 29888, 7241, 29607, 2671]",field,champ
+"Русский: ""océan"" - English: ""ocean""
+Русский: ""trois"" - English: ""three""
+Русский: ""personne"" - English: ""person""
+Русский: ""groupe"" - English: ""group""
+Русский: ""site"" - English: ""","[2746, 29879, 3268, 269, 1039, 7845, 1354]",site,"[2746, 29879, 3268, 269, 1039, 7845, 1354]",site,site
+"Русский: ""temps"" - English: ""time""
+Русский: ""deux"" - English: ""two""
+Русский: ""machine"" - English: ""machine""
+Русский: ""est"" - English: ""east""
+Русский: ""danse"" - English: ""","[6025, 270, 18386, 29881, 17948, 1146, 1388]",dance,"[6025, 270, 18386, 29881, 17948, 1146, 1388]",dance,danse
+"Русский: ""est"" - English: ""east""
+Русский: ""tentative"" - English: ""attempt""
+Русский: ""maison"" - English: ""house""
+Русский: ""cinq"" - English: ""five""
+Русский: ""mot"" - English: ""","[281, 6365, 8879, 1742, 827, 1734, 29893, 13762]",word,"[281, 6365, 8879, 1742, 827, 1734, 29893, 13762]",word,mot
+"Русский: ""avancer"" - English: ""advance""
+Русский: ""jour"" - English: ""day""
+Русский: ""village"" - English: ""village""
+Русский: ""genre"" - English: ""kind""
+Русский: ""paire"" - English: ""","[5101, 18784, 29886, 282, 3300, 3274]",pair,"[5101, 18784, 29886, 282, 3300, 3274]",pair,paire
+"Русский: ""sud"" - English: ""south""
+Русский: ""position"" - English: ""position""
+Русский: ""discours"" - English: ""speech""
+Русский: ""machine"" - English: ""machine""
+Русский: ""siège"" - English: ""","[409, 29879, 7205, 344, 269, 12949]",seat,"[409, 29879, 7205, 344, 269, 12949]",seat,siège
+"Русский: ""porte"" - English: ""door""
+Русский: ""école"" - English: ""school""
+Русский: ""discours"" - English: ""speech""
+Русский: ""un"" - English: ""one""
+Русский: ""lumière"" - English: ""","[4366, 3473, 301, 14172, 29880, 3578, 619, 492]",light,"[4366, 3473, 301, 14172, 29880, 3578, 619, 492]",light,lumière
+"Русский: ""fruit"" - English: ""fruit""
+Русский: ""village"" - English: ""village""
+Русский: ""position"" - English: ""position""
+Русский: ""huit"" - English: ""eight""
+Русский: ""mille"" - English: ""","[386, 260, 7693, 12595, 29873, 266, 10405]",thousand,"[386, 260, 7693, 12595, 29873, 266, 10405]",thousand,mille
+"Русский: ""chanson"" - English: ""song""
+Русский: ""génération"" - English: ""generation""
+Русский: ""partie"" - English: ""part""
+Русский: ""or"" - English: ""gold""
+Русский: ""nord"" - English: ""","[694, 6641, 3643, 1217, 29876, 15459, 302]",north,"[694, 6641, 3643, 1217, 29876, 15459, 302]",north,nord
+"Русский: ""ménage"" - English: ""household""
+Русский: ""cœur"" - English: ""heart""
+Русский: ""ligne"" - English: ""line""
+Русский: ""forêt"" - English: ""forest""
+Русский: ""machine"" - English: ""","[23523, 29885, 5825, 655, 611, 8628, 286, 4933, 7672]",machine,"[23523, 29885, 5825, 655, 611, 8628, 286, 4933, 7672]",machine,machine
+"Русский: ""sol"" - English: ""ground""
+Русский: ""ville"" - English: ""city""
+Русский: ""lune"" - English: ""moon""
+Русский: ""position"" - English: ""position""
+Русский: ""temps"" - English: ""","[260, 9346, 19538, 2034, 931, 29873, 2230, 5335]",time,"[260, 9346, 19538, 2034, 931, 29873, 2230, 5335]",time,temps
+"Русский: ""bouche"" - English: ""mouth""
+Русский: ""deux"" - English: ""two""
+Русский: ""paire"" - English: ""pair""
+Русский: ""son"" - English: ""sound""
+Русский: ""position"" - English: ""","[926, 1066, 1129, 29886, 772, 282, 3283, 13686, 2602]",position,"[926, 1066, 1129, 29886, 772, 282, 3283, 13686, 2602]",position,position
+"Русский: ""beauté"" - English: ""beauty""
+Русский: ""six"" - English: ""six""
+Русский: ""sable"" - English: ""sand""
+Русский: ""grotte"" - English: ""cave""
+Русский: ""province"" - English: ""","[771, 544, 8482, 558, 410, 12291, 29886, 16123, 282, 1326]",province,"[771, 544, 8482, 558, 410, 12291, 29886, 16123, 282, 1326]",province,province
+"Русский: ""partie"" - English: ""part""
+Русский: ""discours"" - English: ""speech""
+Русский: ""machine"" - English: ""machine""
+Русский: ""beauté"" - English: ""beauty""
+Русский: ""bourse"" - English: ""","[14523, 5566, 29872, 321, 6543, 429, 735]",exchange,"[14523, 5566, 29872, 321, 6543, 429, 735]",exchange,bourse
+"Русский: ""champ"" - English: ""field""
+Русский: ""fleur"" - English: ""flower""
+Русский: ""étang"" - English: ""pond""
+Русский: ""lac"" - English: ""lake""
+Русский: ""milieu"" - English: ""","[29885, 17662, 2460, 6563, 286, 7256, 7145, 3737]",middle,"[29885, 17662, 2460, 6563, 286, 7256, 7145, 3737]",middle,milieu
+"Русский: ""grotte"" - English: ""cave""
+Русский: ""œil"" - English: ""eye""
+Русский: ""cœur"" - English: ""heart""
+Русский: ""jour"" - English: ""day""
+Русский: ""couleur"" - English: ""","[2927, 10965, 1054, 784, 1302, 1111, 274, 2780, 29883]",color,"[2927, 10965, 1054, 784, 1302, 1111, 274, 2780, 29883]",color,couleur
+"Русский: ""océan"" - English: ""ocean""
+Русский: ""point"" - English: ""point""
+Русский: ""bande"" - English: ""strip""
+Русский: ""mer"" - English: ""sea""
+Русский: ""genre"" - English: ""","[1984, 14380, 9089, 19015, 2924, 8506, 29895, 413]",kind,"[1984, 14380, 9089, 19015, 2924, 8506, 29895, 413]",kind,genre
+"Русский: ""pied"" - English: ""foot""
+Русский: ""discours"" - English: ""speech""
+Русский: ""filet"" - English: ""net""
+Русский: ""mère"" - English: ""mother""
+Русский: ""juge"" - English: ""","[6577, 17675, 432, 29926, 16833, 4900, 3623]",judge,"[6577, 17675, 432, 29926, 16833, 4900, 3623]",judge,juge
+"Русский: ""village"" - English: ""village""
+Русский: ""grille"" - English: ""grid""
+Русский: ""vallée"" - English: ""valley""
+Русский: ""ligne"" - English: ""line""
+Русский: ""école"" - English: ""","[1364, 29879, 1557, 816, 27041, 269, 885, 3762]",school,"[1364, 29879, 1557, 816, 27041, 269, 885, 3762]",school,école
+"Русский: ""tour"" - English: ""tower""
+Русский: ""œil"" - English: ""eye""
+Русский: ""défaite"" - English: ""defeat""
+Русский: ""position"" - English: ""position""
+Русский: ""structure"" - English: ""","[6220, 851, 4984, 23905, 10582, 29879, 303, 380, 269, 3829, 710, 2281]",structure,"[6220, 851, 4984, 23905, 10582, 29879, 303, 380, 269, 3829, 710, 2281]",structure,structure
+"Русский: ""grille"" - English: ""grid""
+Русский: ""ville"" - English: ""city""
+Русский: ""œil"" - English: ""eye""
+Русский: ""champ"" - English: ""field""
+Русский: ""cravate"" - English: ""","[260, 22134, 19538, 2034, 29873]",tie,"[260, 22134, 19538, 2034, 29873]",tie,cravate
+"Русский: ""grille"" - English: ""grid""
+Русский: ""nuage"" - English: ""cloud""
+Русский: ""bureau"" - English: ""office""
+Русский: ""œil"" - English: ""eye""
+Русский: ""exemple"" - English: ""","[4773, 4392, 29872, 321, 429, 1342, 735]",example,"[4773, 4392, 29872, 321, 429, 1342, 735]",example,exemple
+"Русский: ""province"" - English: ""province""
+Русский: ""étang"" - English: ""pond""
+Русский: ""deux"" - English: ""two""
+Русский: ""nord"" - English: ""north""
+Русский: ""visage"" - English: ""","[17470, 285, 2161, 3700, 29888, 2258, 4024, 5444]",face,"[17470, 285, 2161, 3700, 29888, 2258, 4024, 5444]",face,visage
+"Русский: ""source"" - English: ""source""
+Русский: ""neige"" - English: ""snow""
+Русский: ""sud"" - English: ""south""
+Русский: ""temps"" - English: ""time""
+Русский: ""pont"" - English: ""","[29890, 19515, 1506, 1182, 289, 18419, 28635, 12945]",bridge,"[29890, 19515, 1506, 1182, 289, 18419, 28635, 12945]",bridge,pont
+"Русский: ""gauche"" - English: ""left""
+Русский: ""partie"" - English: ""part""
+Русский: ""vertu"" - English: ""virtue""
+Русский: ""forêt"" - English: ""forest""
+Русский: ""supprimer"" - English: ""","[311, 628, 270, 6144, 29881, 8143, 7374, 5217, 316]",delete,"[311, 628, 270, 6144, 29881, 8143, 7374, 5217, 316]",delete,supprimer
+"Русский: ""thé"" - English: ""tea""
+Русский: ""est"" - English: ""east""
+Русский: ""mot"" - English: ""word""
+Русский: ""nord"" - English: ""north""
+Русский: ""groupe"" - English: ""","[629, 4071, 867, 2972, 330, 2318, 29887, 17170]",group,"[629, 4071, 867, 2972, 330, 2318, 29887, 17170]",group,groupe
+"Русский: ""ville"" - English: ""city""
+Русский: ""est"" - English: ""east""
+Русский: ""structure"" - English: ""structure""
+Русский: ""porte"" - English: ""door""
+Русский: ""talent"" - English: ""","[260, 24242, 20411, 29873, 941, 11062, 17694, 5969]",talent,"[260, 24242, 20411, 29873, 941, 11062, 17694, 5969]",talent,talent
+"Русский: ""genre"" - English: ""kind""
+Русский: ""danse"" - English: ""dance""
+Русский: ""lac"" - English: ""lake""
+Русский: ""neige"" - English: ""snow""
+Русский: ""beauté"" - English: ""","[29890, 6562, 915, 367, 289, 15409]",beauty,"[29890, 6562, 915, 367, 289, 15409]",beauty,beauté
+"Русский: ""génération"" - English: ""generation""
+Русский: ""lune"" - English: ""moon""
+Русский: ""tête"" - English: ""head""
+Русский: ""section"" - English: ""section""
+Русский: ""plate-forme"" - English: ""","[18870, 12120, 572, 715, 7481, 29886, 2174, 282, 13974]",platform,"[18870, 12120, 572, 715, 7481, 29886, 2174, 282, 13974]",platform,plate-forme
+"Русский: ""ligne"" - English: ""line""
+Русский: ""thé"" - English: ""tea""
+Русский: ""œil"" - English: ""eye""
+Русский: ""grotte"" - English: ""cave""
+Русский: ""maison"" - English: ""","[298, 29882, 9261, 3699, 1251, 8697, 10774, 5089]",house,"[298, 29882, 9261, 3699, 1251, 8697, 10774, 5089]",house,maison
+"Русский: ""supprimer"" - English: ""delete""
+Русский: ""main"" - English: ""hand""
+Русский: ""vitesse"" - English: ""speed""
+Русский: ""cœur"" - English: ""heart""
+Русский: ""soleil"" - English: ""","[2146, 11445, 29879, 6575, 269, 480]",sun,"[2146, 11445, 29879, 6575, 269, 480]",sun,soleil
+"Русский: ""mot"" - English: ""word""
+Русский: ""version"" - English: ""version""
+Русский: ""tentative"" - English: ""attempt""
+Русский: ""vertu"" - English: ""virtue""
+Русский: ""réunion"" - English: ""","[29885, 5870, 286, 11781, 592, 17897, 1004]",meeting,"[29885, 5870, 286, 11781, 592, 17897, 1004]",meeting,réunion
+"Русский: ""carré"" - English: ""square""
+Русский: ""tête"" - English: ""head""
+Русский: ""thé"" - English: ""tea""
+Русский: ""œil"" - English: ""eye""
+Русский: ""histoire"" - English: ""","[3603, 2918, 298, 22880, 670, 7251, 29882, 16211, 18434, 9825, 4955]",history,"[3603, 2918, 298, 22880, 670, 7251, 29882, 16211, 18434, 9825, 4955]",history,histoire
+"Русский: ""discours"" - English: ""speech""
+Русский: ""bande"" - English: ""strip""
+Русский: ""thé"" - English: ""tea""
+Русский: ""soleil"" - English: ""sun""
+Русский: ""vallée"" - English: ""","[1564, 19599, 325, 791, 29894, 659, 2947, 22044, 28519]",valley,"[1564, 19599, 325, 791, 29894, 659, 2947, 22044, 28519]",valley,vallée
+"Русский: ""jour"" - English: ""day""
+Русский: ""sable"" - English: ""sand""
+Русский: ""un"" - English: ""one""
+Русский: ""histoire"" - English: ""history""
+Русский: ""carré"" - English: ""","[10674, 3044, 26613, 17619, 29879, 6862, 269, 18074]",square,"[10674, 3044, 26613, 17619, 29879, 6862, 269, 18074]",square,carré
+"Русский: ""jour"" - English: ""day""
+Русский: ""soleil"" - English: ""sun""
+Русский: ""vitesse"" - English: ""speed""
+Русский: ""or"" - English: ""gold""
+Русский: ""génération"" - English: ""","[1885, 330, 18530, 1737, 1176, 4738, 12623, 479, 29887, 2531]",generation,"[1885, 330, 18530, 1737, 1176, 4738, 12623, 479, 29887, 2531]",generation,génération
+"Русский: ""forêt"" - English: ""forest""
+Русский: ""avancer"" - English: ""advance""
+Русский: ""genre"" - English: ""kind""
+Русский: ""jour"" - English: ""day""
+Русский: ""sud"" - English: ""","[578, 29879, 13267, 269, 3669, 7062, 577]",south,"[578, 29879, 13267, 269, 3669, 7062, 577]",south,sud
+"Русский: ""école"" - English: ""school""
+Русский: ""chanson"" - English: ""song""
+Русский: ""sept"" - English: ""seven""
+Русский: ""section"" - English: ""section""
+Русский: ""vertu"" - English: ""","[10636, 15389, 2405, 325, 27935, 4610, 29894, 3516, 1403]",virtue,"[10636, 15389, 2405, 325, 27935, 4610, 29894, 3516, 1403]",virtue,vertu
+"Русский: ""vitesse"" - English: ""speed""
+Русский: ""danse"" - English: ""dance""
+Русский: ""paire"" - English: ""pair""
+Русский: ""rue"" - English: ""street""
+Русский: ""tribu"" - English: ""","[260, 509, 9434, 29873, 3367, 29563, 3626, 534]",tribe,"[260, 509, 9434, 29873, 3367, 29563, 3626, 534]",tribe,tribu
+"Русский: ""plate-forme"" - English: ""platform""
+Русский: ""milieu"" - English: ""middle""
+Русский: ""six"" - English: ""six""
+Русский: ""vallée"" - English: ""valley""
+Русский: ""ville"" - English: ""","[12690, 455, 4583, 7537, 20752, 4272, 274, 29883]",city,"[12690, 455, 4583, 7537, 20752, 4272, 274, 29883]",city,ville
+"Русский: ""lumière"" - English: ""light""
+Русский: ""porte"" - English: ""door""
+Русский: ""ville"" - English: ""city""
+Русский: ""queue"" - English: ""tail""
+Русский: ""vitesse"" - English: ""","[19322, 805, 961, 29879, 5965, 269, 1028, 6210]",speed,"[19322, 805, 961, 29879, 5965, 269, 1028, 6210]",speed,vitesse
+"Русский: ""supprimer"" - English: ""delete""
+Русский: ""groupe"" - English: ""group""
+Русский: ""œil"" - English: ""eye""
+Русский: ""danse"" - English: ""dance""
+Русский: ""sol"" - English: ""","[629, 2057, 4071, 867, 330, 29887, 17170, 5962]",ground,"[629, 2057, 4071, 867, 330, 29887, 17170, 5962]",ground,sol
+"Русский: ""province"" - English: ""province""
+Русский: ""structure"" - English: ""structure""
+Русский: ""milieu"" - English: ""middle""
+Русский: ""bureau"" - English: ""office""
+Русский: ""avancer"" - English: ""","[29874, 17263, 3061, 6564, 594, 263, 328]",advance,"[29874, 17263, 3061, 6564, 594, 263, 328]",advance,avancer
+"Русский: ""temps"" - English: ""time""
+Русский: ""maison"" - English: ""house""
+Русский: ""mot"" - English: ""word""
+Русский: ""est"" - English: ""east""
+Русский: ""tentative"" - English: ""","[29874, 15127, 21609, 263, 4218, 472, 1131, 271, 1098]",attempt,"[29874, 15127, 21609, 263, 4218, 472, 1131, 271, 1098]",attempt,tentative
+"Русский: ""rue"" - English: ""street""
+Русский: ""huit"" - English: ""eight""
+Русский: ""école"" - English: ""school""
+Русский: ""mer"" - English: ""sea""
+Русский: ""défaite"" - English: ""","[311, 270, 822, 8686, 29881, 1753, 316, 20653]",defeat,"[311, 270, 822, 8686, 29881, 1753, 316, 20653]",defeat,défaite
+"Русский: ""retour"" - English: ""return""
+Русский: ""village"" - English: ""village""
+Русский: ""enfant"" - English: ""child""
+Русский: ""cravate"" - English: ""tie""
+Русский: ""queue"" - English: ""","[260, 12464, 29873, 941, 11062, 18237]",tail,"[260, 12464, 29873, 941, 11062, 18237]",tail,queue
+"Русский: ""structure"" - English: ""structure""
+Русский: ""roche"" - English: ""rock""
+Русский: ""pouvoir"" - English: ""power""
+Русский: ""forêt"" - English: ""forest""
+Русский: ""mère"" - English: ""","[29885, 5637, 286, 14817, 2730, 3184, 4346, 25550]",mother,"[29885, 5637, 286, 14817, 2730, 3184, 4346, 25550]",mother,mère
+"Русский: ""supprimer"" - English: ""delete""
+Русский: ""temps"" - English: ""time""
+Русский: ""dix"" - English: ""ten""
+Русский: ""bande"" - English: ""strip""
+Русский: ""est"" - English: ""","[2240, 9755, 11248, 29872, 321, 23027]",east,"[2240, 9755, 11248, 29872, 321, 23027]",east,est
+"Русский: ""sac"" - English: ""bag""
+Русский: ""genre"" - English: ""kind""
+Русский: ""cinq"" - English: ""five""
+Русский: ""œil"" - English: ""eye""
+Русский: ""retour"" - English: ""","[736, 29878, 364, 3240, 276, 2457, 337, 2267]",return,"[736, 29878, 364, 3240, 276, 2457, 337, 2267]",return,retour
+"Русский: ""tour"" - English: ""tower""
+Русский: ""été"" - English: ""summer""
+Русский: ""bourse"" - English: ""exchange""
+Русский: ""version"" - English: ""version""
+Русский: ""discours"" - English: ""","[805, 961, 29879, 5965, 12032, 269, 1028]",speech,"[805, 961, 29879, 5965, 12032, 269, 1028]",speech,discours
+"Русский: ""tentative"" - English: ""attempt""
+Русский: ""ressort"" - English: ""spring""
+Русский: ""danse"" - English: ""dance""
+Русский: ""couleur"" - English: ""color""
+Русский: ""enfant"" - English: ""","[2278, 5145, 4161, 18558, 274, 305, 521, 29883]",child,"[2278, 5145, 4161, 18558, 274, 305, 521, 29883]",child,enfant
+"Русский: ""maison"" - English: ""house""
+Русский: ""queue"" - English: ""tail""
+Русский: ""thé"" - English: ""tea""
+Русский: ""version"" - English: ""version""
+Русский: ""tour"" - English: ""","[260, 29873, 517, 304, 19372]",tower,"[260, 29873, 517, 304, 19372]",tower,tour
+"Русский: ""mère"" - English: ""mother""
+Русский: ""été"" - English: ""summer""
+Русский: ""cœur"" - English: ""heart""
+Русский: ""bande"" - English: ""strip""
+Русский: ""ménage"" - English: ""","[298, 29882, 9261, 3699, 22329, 1251, 8697, 10774, 5089]",household,"[298, 29882, 9261, 3699, 22329, 1251, 8697, 10774, 5089]",household,ménage
+"Русский: ""vertu"" - English: ""virtue""
+Русский: ""ligne"" - English: ""line""
+Русский: ""lune"" - English: ""moon""
+Русский: ""ville"" - English: ""city""
+Русский: ""personne"" - English: ""","[546, 639, 412, 1236, 29886, 6774, 10532, 2022, 282, 3736]",person,"[546, 639, 412, 1236, 29886, 6774, 10532, 2022, 282, 3736]",person,personne
+"Русский: ""océan"" - English: ""ocean""
+Русский: ""soleil"" - English: ""sun""
+Русский: ""rue"" - English: ""street""
+Русский: ""enfant"" - English: ""child""
+Русский: ""section"" - English: ""","[409, 29879, 2042, 21149, 344, 269, 5226, 4004, 3471, 8803]",section,"[409, 29879, 2042, 21149, 344, 269, 5226, 4004, 3471, 8803]",section,section
+"Русский: ""école"" - English: ""school""
+Русский: ""sud"" - English: ""south""
+Русский: ""cravate"" - English: ""tie""
+Русский: ""sac"" - English: ""bag""
+Русский: ""bureau"" - English: ""","[8034, 20205, 1283, 974, 2696, 3344, 29877, 288, 310]",office,"[8034, 20205, 1283, 974, 2696, 3344, 29877, 288, 310]",office,bureau
+"Русский: ""couleur"" - English: ""color""
+Русский: ""deux"" - English: ""two""
+Русский: ""discours"" - English: ""speech""
+Русский: ""plate-forme"" - English: ""platform""
+Русский: ""roche"" - English: ""","[307, 29878, 364, 10198, 20821, 696, 7679]",rock,"[307, 29878, 364, 10198, 20821, 696, 7679]",rock,roche
+"Русский: ""tentative"" - English: ""attempt""
+Русский: ""lac"" - English: ""lake""
+Русский: ""œil"" - English: ""eye""
+Русский: ""forêt"" - English: ""forest""
+Русский: ""hausse"" - English: ""","[3780, 29878, 364, 14451, 10107, 5161, 374]",rise,"[3780, 29878, 364, 14451, 10107, 5161, 374]",rise,hausse
+"Русский: ""visage"" - English: ""face""
+Русский: ""juge"" - English: ""judge""
+Русский: ""grille"" - English: ""grid""
+Русский: ""est"" - English: ""east""
+Русский: ""gauche"" - English: ""","[1563, 301, 29880, 2175, 454, 25874, 280]",left,"[1563, 301, 29880, 2175, 454, 25874, 280]",left,gauche
+"Русский: ""océan"" - English: ""ocean""
+Русский: ""sable"" - English: ""sand""
+Русский: ""cinq"" - English: ""five""
+Русский: ""huit"" - English: ""eight""
+Русский: ""son"" - English: ""","[578, 29879, 6047, 269, 29802, 3669, 577]",sound,"[578, 29879, 6047, 269, 29802, 3669, 577]",sound,son
+"Русский: ""chanson"" - English: ""song""
+Русский: ""son"" - English: ""sound""
+Русский: ""milieu"" - English: ""middle""
+Русский: ""roche"" - English: ""rock""
+Русский: ""pouvoir"" - English: ""","[4764, 1129, 3081, 29886, 12248, 282, 772, 13519]",power,"[4764, 1129, 3081, 29886, 12248, 282, 772, 13519]",power,pouvoir
+"Русский: ""bois"" - English: ""wood""
+Русский: ""son"" - English: ""sound""
+Русский: ""vallée"" - English: ""valley""
+Русский: ""avancer"" - English: ""advance""
+Русский: ""été"" - English: ""","[2146, 11801, 29879, 2083, 269, 480, 22792, 2533]",summer,"[2146, 11801, 29879, 2083, 269, 480, 22792, 2533]",summer,été
