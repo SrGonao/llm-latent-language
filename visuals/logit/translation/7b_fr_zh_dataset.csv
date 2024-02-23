@@ -1,0 +1,591 @@
+prompt,out_token_id,out_token_str,latent_token_id,latent_token_str,in_token_str
+"Français: ""cinq"" - 中文: ""五""
+Français: ""cœur"" - 中文: ""心""
+Français: ""partie"" - 中文: ""部""
+Français: ""trois"" - 中文: ""三""
+Français: ""nuage"" - 中文: ""","[31784, 231]",云,"[29883, 274, 17184, 9274, 9570, 15126, 23642, 1067, 695]",cloud,nuage
+"Français: ""vallée"" - 中文: ""谷""
+Français: ""tribu"" - 中文: ""族""
+Français: ""vertu"" - 中文: ""德""
+Français: ""œil"" - 中文: ""目""
+Français: ""sac"" - 中文: ""","[31473, 232]",包,"[23156, 2291, 29890, 289, 19548, 9922]",bag,sac
+"Français: ""école"" - 中文: ""校""
+Français: ""version"" - 中文: ""版""
+Français: ""point"" - 中文: ""点""
+Français: ""mille"" - 中文: ""千""
+Français: ""bouche"" - 中文: ""","[30856, 232]",口,"[21026, 286, 13394, 29442, 29885, 2730, 4346]",mouth,bouche
+"Français: ""champ"" - 中文: ""场""
+Français: ""nord"" - 中文: ""北""
+Français: ""fleur"" - 中文: ""花""
+Français: ""tour"" - 中文: ""塔""
+Français: ""sol"" - 中文: ""","[31181, 232]",土,"[578, 577, 22473, 269, 29879]",soil,sol
+"Français: ""temps"" - 中文: ""时""
+Français: ""porte"" - 中文: ""门""
+Français: ""vallée"" - 中文: ""谷""
+Français: ""rue"" - 中文: ""街""
+Français: ""montagne"" - 中文: ""","[30329, 232]",山,"[16476, 5766, 286, 14378, 29885, 29442, 2730, 4346]",mountain,montagne
+"Français: ""paire"" - 中文: ""双""
+Français: ""gauche"" - 中文: ""左""
+Français: ""été"" - 中文: ""夏""
+Français: ""sept"" - 中文: ""七""
+Français: ""cœur"" - 中文: ""","[30869, 232]",心,"[29882, 540, 298, 5192, 23057, 8293, 354]",heart,cœur
+"Français: ""bande"" - 中文: ""条""
+Français: ""un"" - 中文: ""一""
+Français: ""jour"" - 中文: ""日""
+Français: ""enfant"" - 中文: ""子""
+Français: ""main"" - 中文: ""","[30880, 233]",手,"[1361, 447, 5905, 3179, 5403, 2350, 29882, 298]",hand,main
+"Français: ""quatre"" - 中文: ""四""
+Français: ""bois"" - 中文: ""木""
+Français: ""rouge"" - 中文: ""红""
+Français: ""gauche"" - 中文: ""左""
+Français: ""jour"" - 中文: ""","[30325, 233]",日,"[1146, 3250, 1388, 29881, 2462, 270]",day,jour
+"Français: ""source"" - 中文: ""源""
+Français: ""neuf"" - 中文: ""九""
+Français: ""main"" - 中文: ""手""
+Français: ""ligne"" - 中文: ""线""
+Français: ""étoile"" - 中文: ""","[30900, 233]",星,"[380, 269, 303, 5173, 9523, 5810, 8508, 29879]",star,étoile
+"Français: ""loi"" - 中文: ""法""
+Français: ""tribu"" - 中文: ""族""
+Français: ""bouche"" - 中文: ""口""
+Français: ""gauche"" - 中文: ""左""
+Français: ""ressort"" - 中文: ""","[31031, 233]",春,"[7689, 15099, 4278, 269, 6709, 805, 1028, 29879]",spring,ressort
+"Français: ""siège"" - 中文: ""座""
+Français: ""sud"" - 中文: ""南""
+Français: ""quatre"" - 中文: ""四""
+Français: ""or"" - 中文: ""金""
+Français: ""lune"" - 中文: ""","[30534, 233]",月,"[18786, 286, 29885, 2730, 4346]",moon,lune
+"Français: ""bouche"" - 中文: ""口""
+Français: ""mille"" - 中文: ""千""
+Français: ""ménage"" - 中文: ""户""
+Français: ""été"" - 中文: ""夏""
+Français: ""bois"" - 中文: ""","[30710, 233]",木,"[8112, 281, 29893, 827, 8879, 6115]",wood,bois
+"Français: ""forêt"" - 中文: ""林""
+Français: ""cravate"" - 中文: ""结""
+Français: ""six"" - 中文: ""六""
+Français: ""dix"" - 中文: ""十""
+Français: ""village"" - 中文: ""","[30402, 233]",村,"[3516, 29894, 4213, 28765, 5720, 1403, 17191, 325, 11928, 21031]",village,village
+"Français: ""tête"" - 中文: ""头""
+Français: ""génération"" - 中文: ""代""
+Français: ""océan"" - 中文: ""洋""
+Français: ""quatre"" - 中文: ""四""
+Français: ""forêt"" - 中文: ""","[30853, 233]",林,"[363, 1181, 285, 29888, 26839, 13569, 1454, 1701, 1079]",forest,forêt
+"Français: ""défaite"" - 中文: ""败""
+Français: ""bande"" - 中文: ""条""
+Français: ""bouche"" - 中文: ""口""
+Français: ""sud"" - 中文: ""南""
+Français: ""fruit"" - 中文: ""","[30801, 233]",果,"[1341, 1424, 285, 29888, 15774]",fruit,fruit
+"Français: ""trois"" - 中文: ""三""
+Français: ""montagne"" - 中文: ""山""
+Français: ""milieu"" - 中文: ""中""
+Français: ""tentative"" - 中文: ""试""
+Français: ""grille"" - 中文: ""","[31168, 233]",格,"[330, 629, 6856, 867, 29887, 7720]",grid,grille
+"Français: ""avancer"" - 中文: ""进""
+Français: ""enfant"" - 中文: ""子""
+Français: ""sept"" - 中文: ""七""
+Français: ""groupe"" - 中文: ""群""
+Français: ""chanson"" - 中文: ""","[31173, 233]",歌,"[578, 577, 21453, 269, 1100, 4823, 29879, 1487]",song,chanson
+"Français: ""école"" - 中文: ""校""
+Français: ""groupe"" - 中文: ""群""
+Français: ""grille"" - 中文: ""格""
+Français: ""pouvoir"" - 中文: ""力""
+Français: ""étang"" - 中文: ""","[31853, 233]",池,"[1112, 772, 29886, 12509, 282, 1129, 2818]",pond,étang
+"Français: ""roche"" - 中文: ""岩""
+Français: ""maison"" - 中文: ""屋""
+Français: ""visage"" - 中文: ""面""
+Français: ""cheval"" - 中文: ""马""
+Français: ""sable"" - 中文: ""","[31476, 233]",沙,"[269, 872, 11982, 29879, 4977, 9753, 28455]",sand,sable
+"Français: ""œil"" - 中文: ""目""
+Français: ""ligne"" - 中文: ""线""
+Français: ""histoire"" - 中文: ""史""
+Français: ""porte"" - 中文: ""门""
+Français: ""loi"" - 中文: ""","[30545, 233]",法,"[4307, 29880, 425, 10653, 301, 433]",law,loi
+"Français: ""six"" - 中文: ""六""
+Français: ""ressort"" - 中文: ""春""
+Français: ""main"" - 中文: ""手""
+Français: ""école"" - 中文: ""校""
+Français: ""onde"" - 中文: ""","[31529, 233]",波,"[10742, 27766, 281, 29893, 2766, 11324]",wave,onde
+"Français: ""nuage"" - 中文: ""云""
+Français: ""champ"" - 中文: ""场""
+Français: ""neuf"" - 中文: ""九""
+Français: ""quatre"" - 中文: ""四""
+Français: ""océan"" - 中文: ""","[31534, 233]",洋,"[23474, 288, 25802, 29877, 542, 12954]",ocean,océan
+"Français: ""forêt"" - 中文: ""林""
+Français: ""été"" - 中文: ""夏""
+Français: ""juge"" - 中文: ""判""
+Français: ""filet"" - 中文: ""网""
+Français: ""grotte"" - 中文: ""","[31886, 233]",洞,"[29883, 274, 24230, 5777, 1113, 18346]",cave,grotte
+"Français: ""siège"" - 中文: ""座""
+Français: ""supprimer"" - 中文: ""删""
+Français: ""nord"" - 中文: ""北""
+Français: ""pied"" - 中文: ""足""
+Français: ""mer"" - 中文: ""","[30581, 233]",海,"[29879, 269, 344, 7205, 409]",sea,mer
+"Français: ""bois"" - 中文: ""木""
+Français: ""jour"" - 中文: ""日""
+Français: ""cheval"" - 中文: ""马""
+Français: ""structure"" - 中文: ""构""
+Français: ""lac"" - 中文: ""","[31496, 233]",湖,"[29880, 18170, 24591, 433, 425, 301, 19437]",lake,lac
+"Français: ""siège"" - 中文: ""座""
+Français: ""village"" - 中文: ""村""
+Français: ""machine"" - 中文: ""机""
+Français: ""gauche"" - 中文: ""左""
+Français: ""source"" - 中文: ""","[31193, 233]",源,"[578, 577, 2752, 269, 4993, 29879, 3669]",source,source
+"Français: ""supprimer"" - 中文: ""删""
+Français: ""champ"" - 中文: ""场""
+Français: ""position"" - 中文: ""位""
+Français: ""gare"" - 中文: ""站""
+Français: ""point"" - 中文: ""","[30940, 234]",点,"[3149, 772, 29886, 1129, 282, 11899, 1298]",point,point
+"Français: ""rouge"" - 中文: ""红""
+Français: ""sac"" - 中文: ""包""
+Français: ""visage"" - 中文: ""面""
+Français: ""mot"" - 中文: ""字""
+Français: ""version"" - 中文: ""","[30845, 234]",版,"[29894, 1224, 3259, 2453, 345, 369, 1147, 1873, 874, 325]",version,version
+"Français: ""neuf"" - 中文: ""九""
+Français: ""montagne"" - 中文: ""山""
+Français: ""mille"" - 中文: ""千""
+Français: ""bureau"" - 中文: ""局""
+Français: ""ballon"" - 中文: ""","[31539, 234]",球,"[2291, 29890, 289, 5521, 6411, 8287, 9922, 2135]",ball,ballon
+"Français: ""mer"" - 中文: ""海""
+Français: ""océan"" - 中文: ""洋""
+Français: ""mère"" - 中文: ""母""
+Français: ""machine"" - 中文: ""机""
+Français: ""gare"" - 中文: ""","[31433, 234]",站,"[380, 5073, 269, 303, 5173, 9523, 6112, 1002, 29879, 23436, 19569]",station,gare
+"Français: ""bande"" - 中文: ""条""
+Français: ""sol"" - 中文: ""地""
+Français: ""bureau"" - 中文: ""局""
+Français: ""nuage"" - 中文: ""云""
+Français: ""riz"" - 中文: ""","[31902, 234]",米,"[29878, 374, 10107, 2200, 364, 11674, 9597, 19408]",rice,riz
+"Français: ""structure"" - 中文: ""构""
+Français: ""fleur"" - 中文: ""花""
+Français: ""bourse"" - 中文: ""交""
+Français: ""cœur"" - 中文: ""心""
+Français: ""rouge"" - 中文: ""","[31869, 234]",红,"[337, 276, 29878, 2654, 364, 1127]",red,rouge
+"Français: ""enfant"" - 中文: ""子""
+Français: ""sept"" - 中文: ""七""
+Français: ""quatre"" - 中文: ""四""
+Français: ""vertu"" - 中文: ""德""
+Français: ""ligne"" - 中文: ""","[31532, 234]",线,"[6276, 29880, 1220, 1196, 1915, 619, 492, 301]",line,ligne
+"Français: ""ménage"" - 中文: ""户""
+Français: ""pouvoir"" - 中文: ""力""
+Français: ""ville"" - 中文: ""城""
+Français: ""loi"" - 中文: ""法""
+Français: ""filet"" - 中文: ""","[31222, 234]",网,"[7787, 452, 484, 1212, 29876, 302]",net,filet
+"Français: ""vertu"" - 中文: ""德""
+Français: ""siège"" - 中文: ""座""
+Français: ""neige"" - 中文: ""雪""
+Français: ""supprimer"" - 中文: ""删""
+Français: ""fleur"" - 中文: ""","[30830, 235]",花,"[285, 29888, 4972, 1579, 28149, 1731, 5685, 1652]",flower,fleur
+"Français: ""mille"" - 中文: ""千""
+Français: ""bureau"" - 中文: ""局""
+Français: ""fleur"" - 中文: ""花""
+Français: ""vallée"" - 中文: ""谷""
+Français: ""thé"" - 中文: ""","[31954, 235]",茶,"[734, 260, 371, 29873, 23429]",tea,thé
+"Français: ""carré"" - 中文: ""方""
+Français: ""quatre"" - 中文: ""四""
+Français: ""temps"" - 中文: ""时""
+Français: ""fleur"" - 中文: ""花""
+Français: ""pied"" - 中文: ""","[31722, 235]",足,"[1181, 6661, 285, 29888, 3661, 5431, 1701, 7953]",foot,pied
+"Français: ""deux"" - 中文: ""二""
+Français: ""carré"" - 中文: ""方""
+Français: ""lumière"" - 中文: ""光""
+Français: ""personne"" - 中文: ""人""
+Français: ""or"" - 中文: ""","[30659, 236]",金,"[7684, 330, 748, 29887, 15192, 1484]",gold,or
+"Français: ""tête"" - 中文: ""头""
+Français: ""lune"" - 中文: ""月""
+Français: ""groupe"" - 中文: ""群""
+Français: ""montagne"" - 中文: ""山""
+Français: ""porte"" - 中文: ""","[31649, 236]",门,"[437, 3050, 1867, 29881, 17433, 270]",door,porte
+"Français: ""mer"" - 中文: ""海""
+Français: ""rue"" - 中文: ""街""
+Français: ""cravate"" - 中文: ""结""
+Français: ""réunion"" - 中文: ""会""
+Français: ""neige"" - 中文: ""","[31731, 236]",雪,"[5807, 269, 15007, 29879, 16586]",snow,neige
+"Français: ""mot"" - 中文: ""字""
+Français: ""sol"" - 中文: ""土""
+Français: ""enfant"" - 中文: ""子""
+Français: ""rue"" - 中文: ""街""
+Français: ""cheval"" - 中文: ""","[31530, 236]",马,"[5089, 10435, 29882, 4029, 298, 1251, 2015, 11231]",horse,cheval
+"Français: ""école"" - 中文: ""校""
+Français: ""quatre"" - 中文: ""四""
+Français: ""avancer"" - 中文: ""进""
+Français: ""province"" - 中文: ""省""
+Français: ""un"" - 中文: ""","[30287, 231]",一,"[373, 288, 29877, 265, 697, 650]",one,un
+"Français: ""ville"" - 中文: ""城""
+Français: ""tête"" - 中文: ""头""
+Français: ""filet"" - 中文: ""网""
+Français: ""maison"" - 中文: ""屋""
+Français: ""deux"" - 中文: ""","[30685, 231]",二,"[10184, 1023, 29873, 260, 7516, 3252]",two,deux
+"Français: ""cœur"" - 中文: ""心""
+Français: ""ménage"" - 中文: ""户""
+Français: ""bande"" - 中文: ""条""
+Français: ""talent"" - 中文: ""才""
+Français: ""trois"" - 中文: ""","[30457, 231]",三,"[386, 2211, 12455, 266, 260, 1468, 29873, 17536]",three,trois
+"Français: ""onde"" - 中文: ""波""
+Français: ""tête"" - 中文: ""头""
+Français: ""point"" - 中文: ""点""
+Français: ""cheval"" - 中文: ""马""
+Français: ""quatre"" - 中文: ""","[30928, 232]",四,"[1181, 12584, 17823, 285, 29888, 1701, 3023]",four,quatre
+"Français: ""fleur"" - 中文: ""花""
+Français: ""nord"" - 中文: ""北""
+Français: ""pont"" - 中文: ""桥""
+Français: ""pouvoir"" - 中文: ""力""
+Français: ""cinq"" - 中文: ""","[30904, 231]",五,"[5320, 7241, 285, 29888, 5713, 20818]",five,cinq
+"Français: ""ballon"" - 中文: ""球""
+Français: ""juge"" - 中文: ""判""
+Français: ""filet"" - 中文: ""网""
+Français: ""hausse"" - 中文: ""起""
+Français: ""six"" - 中文: ""","[31304, 232]",六,"[269, 28319, 1354, 4832, 29879, 1039]",six,six
+"Français: ""main"" - 中文: ""手""
+Français: ""groupe"" - 中文: ""群""
+Français: ""deux"" - 中文: ""二""
+Français: ""beauté"" - 中文: ""美""
+Français: ""sept"" - 中文: ""","[31425, 231]",七,"[29879, 269, 344, 9881, 409]",seven,sept
+"Français: ""supprimer"" - 中文: ""删""
+Français: ""vertu"" - 中文: ""德""
+Français: ""océan"" - 中文: ""洋""
+Français: ""point"" - 中文: ""点""
+Français: ""huit"" - 中文: ""","[31044, 232]",八,"[321, 10096, 29319, 15761, 9475, 29872]",eight,huit
+"Français: ""hausse"" - 中文: ""起""
+Français: ""province"" - 中文: ""省""
+Français: ""or"" - 中文: ""金""
+Français: ""rue"" - 中文: ""街""
+Français: ""neuf"" - 中文: ""","[31321, 231]",九,"[17081, 1240, 302, 6836, 29876, 14183]",nine,neuf
+"Français: ""neige"" - 中文: ""雪""
+Français: ""gauche"" - 中文: ""左""
+Français: ""soleil"" - 中文: ""阳""
+Français: ""fruit"" - 中文: ""果""
+Français: ""dix"" - 中文: ""","[30802, 232]",十,"[734, 841, 260, 371, 29873, 3006]",ten,dix
+"Français: ""fleur"" - 中文: ""花""
+Français: ""gare"" - 中文: ""站""
+Français: ""sable"" - 中文: ""沙""
+Français: ""couleur"" - 中文: ""色""
+Français: ""tête"" - 中文: ""","[31584, 232]",头,"[2343, 29882, 540, 298, 354, 2813]",head,tête
+"Français: ""pied"" - 中文: ""足""
+Français: ""personne"" - 中文: ""人""
+Français: ""neuf"" - 中文: ""九""
+Français: ""gare"" - 中文: ""站""
+Français: ""bande"" - 中文: ""","[31217, 233]",条,"[380, 851, 710, 17820, 269, 303, 17010, 10076, 29879]",strip,bande
+"Français: ""bouche"" - 中文: ""口""
+Français: ""genre"" - 中文: ""种""
+Français: ""maison"" - 中文: ""屋""
+Français: ""mot"" - 中文: ""字""
+Français: ""rue"" - 中文: ""","[30813, 235]",街,"[380, 851, 710, 11952, 269, 12243, 29879, 303, 29352, 13045]",street,rue
+"Français: ""beauté"" - 中文: ""美""
+Français: ""neige"" - 中文: ""雪""
+Français: ""neuf"" - 中文: ""九""
+Français: ""mille"" - 中文: ""千""
+Français: ""partie"" - 中文: ""","[30636, 236]",部,"[29886, 610, 760, 3274, 862, 3300, 282, 1595]",part,partie
+"Français: ""ressort"" - 中文: ""春""
+Français: ""chanson"" - 中文: ""歌""
+Français: ""sol"" - 中文: ""土""
+Français: ""fruit"" - 中文: ""果""
+Français: ""œil"" - 中文: ""","[30895, 234]",目,"[321, 10977, 29872, 1032]",eye,œil
+"Français: ""cinq"" - 中文: ""五""
+Français: ""visage"" - 中文: ""面""
+Français: ""pied"" - 中文: ""足""
+Français: ""machine"" - 中文: ""机""
+Français: ""champ"" - 中文: ""","[31632, 232]",场,"[2671, 7241, 285, 29888, 1746, 5713, 29607]",field,champ
+"Français: ""océan"" - 中文: ""洋""
+Français: ""trois"" - 中文: ""三""
+Français: ""personne"" - 中文: ""人""
+Français: ""groupe"" - 中文: ""群""
+Français: ""site"" - 中文: ""","[31702, 232]",址,"[7845, 269, 3268, 1354, 29879, 1039, 2746]",site,site
+"Français: ""temps"" - 中文: ""时""
+Français: ""deux"" - 中文: ""二""
+Français: ""machine"" - 中文: ""机""
+Français: ""est"" - 中文: ""东""
+Français: ""danse"" - 中文: ""","[31939, 235]",舞,"[17948, 1146, 6025, 18386, 29881, 1388, 270]",dance,danse
+"Français: ""est"" - 中文: ""东""
+Français: ""tentative"" - 中文: ""试""
+Français: ""maison"" - 中文: ""屋""
+Français: ""cinq"" - 中文: ""五""
+Français: ""mot"" - 中文: ""","[30578, 232]",字,"[1734, 6365, 1742, 281, 29893, 827, 8879, 13762]",word,mot
+"Français: ""avancer"" - 中文: ""进""
+Français: ""jour"" - 中文: ""日""
+Français: ""village"" - 中文: ""村""
+Français: ""genre"" - 中文: ""种""
+Français: ""paire"" - 中文: ""","[31960, 232]",双,"[29886, 5101, 3274, 3300, 282, 18784]",pair,paire
+"Français: ""sud"" - 中文: ""南""
+Français: ""position"" - 中文: ""位""
+Français: ""discours"" - 中文: ""话""
+Français: ""machine"" - 中文: ""机""
+Français: ""siège"" - 中文: ""","[31780, 232]",座,"[29879, 269, 344, 12949, 7205, 409]",seat,siège
+"Français: ""porte"" - 中文: ""门""
+Français: ""école"" - 中文: ""校""
+Français: ""discours"" - 中文: ""话""
+Français: ""un"" - 中文: ""一""
+Français: ""lumière"" - 中文: ""","[30867, 232]",光,"[29880, 3578, 3473, 619, 14172, 4366, 492, 301]",light,lumière
+"Français: ""fruit"" - 中文: ""果""
+Français: ""village"" - 中文: ""村""
+Français: ""position"" - 中文: ""位""
+Français: ""huit"" - 中文: ""八""
+Français: ""mille"" - 中文: ""","[31159, 232]",千,"[386, 266, 260, 10405, 12595, 29873, 7693]",thousand,mille
+"Français: ""chanson"" - 中文: ""歌""
+Français: ""génération"" - 中文: ""代""
+Français: ""partie"" - 中文: ""部""
+Français: ""or"" - 中文: ""金""
+Français: ""nord"" - 中文: ""","[30662, 232]",北,"[694, 6641, 3643, 1217, 29876, 15459, 302]",north,nord
+"Français: ""ménage"" - 中文: ""户""
+Français: ""cœur"" - 中文: ""心""
+Français: ""ligne"" - 中文: ""线""
+Français: ""forêt"" - 中文: ""林""
+Français: ""machine"" - 中文: ""","[31429, 233]",机,"[23523, 5825, 8628, 4933, 29885, 655, 7672, 611, 286]",machine,machine
+"Français: ""sol"" - 中文: ""地""
+Français: ""ville"" - 中文: ""城""
+Français: ""lune"" - 中文: ""月""
+Français: ""position"" - 中文: ""位""
+Français: ""temps"" - 中文: ""","[30594, 233]",时,"[2230, 9346, 5335, 260, 19538, 2034, 29873, 931]",time,temps
+"Français: ""bouche"" - 中文: ""口""
+Français: ""deux"" - 中文: ""二""
+Français: ""paire"" - 中文: ""双""
+Français: ""son"" - 中文: ""音""
+Français: ""position"" - 中文: ""","[30956, 231]",位,"[772, 13686, 29886, 2602, 3283, 282, 926, 1066, 1129]",position,position
+"Français: ""beauté"" - 中文: ""美""
+Français: ""six"" - 中文: ""六""
+Français: ""sable"" - 中文: ""沙""
+Français: ""grotte"" - 中文: ""洞""
+Français: ""province"" - 中文: ""","[31600, 234]",省,"[8482, 410, 12291, 29886, 558, 16123, 1326, 282, 771, 544]",province,province
+"Français: ""partie"" - 中文: ""部""
+Français: ""discours"" - 中文: ""话""
+Français: ""machine"" - 中文: ""机""
+Français: ""beauté"" - 中文: ""美""
+Français: ""bourse"" - 中文: ""","[31398, 231]",交,"[29872, 321, 6543, 735, 429, 5566, 14523]",exchange,bourse
+"Français: ""champ"" - 中文: ""场""
+Français: ""fleur"" - 中文: ""花""
+Français: ""étang"" - 中文: ""池""
+Français: ""lac"" - 中文: ""湖""
+Français: ""milieu"" - 中文: ""","[30275, 231]",中,"[2460, 17662, 7145, 3737, 29885, 6563, 286, 7256]",middle,milieu
+"Français: ""grotte"" - 中文: ""洞""
+Français: ""œil"" - 中文: ""目""
+Français: ""cœur"" - 中文: ""心""
+Français: ""jour"" - 中文: ""日""
+Français: ""couleur"" - 中文: ""","[31085, 235]",色,"[29883, 1111, 274, 2780, 1302, 784, 2927, 10965, 1054]",color,couleur
+"Français: ""océan"" - 中文: ""洋""
+Français: ""point"" - 中文: ""点""
+Français: ""bande"" - 中文: ""条""
+Français: ""mer"" - 中文: ""海""
+Français: ""genre"" - 中文: ""","[31893, 234]",种,"[2924, 19015, 1984, 9089, 413, 29895, 14380, 8506]",kind,genre
+"Français: ""pied"" - 中文: ""足""
+Français: ""discours"" - 中文: ""话""
+Français: ""filet"" - 中文: ""网""
+Français: ""mère"" - 中文: ""母""
+Français: ""juge"" - 中文: ""","[31791, 232]",判,"[432, 29926, 6577, 17675, 4900, 3623, 16833]",judge,juge
+"Français: ""village"" - 中文: ""村""
+Français: ""grille"" - 中文: ""格""
+Français: ""vallée"" - 中文: ""谷""
+Français: ""ligne"" - 中文: ""线""
+Français: ""école"" - 中文: ""","[31071, 233]",校,"[1364, 269, 816, 885, 1557, 27041, 29879, 3762]",school,école
+"Français: ""tour"" - 中文: ""塔""
+Français: ""œil"" - 中文: ""目""
+Français: ""défaite"" - 中文: ""败""
+Français: ""position"" - 中文: ""位""
+Français: ""structure"" - 中文: ""","[31901, 233]",构,"[380, 851, 710, 10582, 269, 303, 23905, 2281, 3829, 29879, 4984, 6220]",structure,structure
+"Français: ""grille"" - 中文: ""格""
+Français: ""ville"" - 中文: ""城""
+Français: ""œil"" - 中文: ""目""
+Français: ""champ"" - 中文: ""场""
+Français: ""cravate"" - 中文: ""","[31320, 234]",结,"[2034, 19538, 260, 29873, 22134]",tie,cravate
+"Français: ""grille"" - 中文: ""格""
+Français: ""nuage"" - 中文: ""云""
+Français: ""bureau"" - 中文: ""局""
+Français: ""œil"" - 中文: ""目""
+Français: ""exemple"" - 中文: ""","[31507, 231]",例,"[321, 4392, 429, 735, 29872, 4773, 1342]",example,exemple
+"Français: ""province"" - 中文: ""省""
+Français: ""étang"" - 中文: ""池""
+Français: ""deux"" - 中文: ""二""
+Français: ""nord"" - 中文: ""北""
+Français: ""visage"" - 中文: ""","[30806, 236]",面,"[5444, 2161, 2258, 3700, 285, 29888, 17470, 4024]",face,visage
+"Français: ""source"" - 中文: ""源""
+Français: ""neige"" - 中文: ""雪""
+Français: ""sud"" - 中文: ""南""
+Français: ""temps"" - 中文: ""时""
+Français: ""pont"" - 中文: ""","[31749, 233]",桥,"[1506, 19515, 29890, 289, 1182, 12945, 18419, 28635]",bridge,pont
+"Français: ""gauche"" - 中文: ""左""
+Français: ""partie"" - 中文: ""部""
+Français: ""vertu"" - 中文: ""德""
+Français: ""forêt"" - 中文: ""林""
+Français: ""supprimer"" - 中文: ""","[31916, 232]",删,"[7374, 311, 628, 6144, 5217, 8143, 29881, 316, 270]",delete,supprimer
+"Français: ""thé"" - 中文: ""茶""
+Français: ""est"" - 中文: ""东""
+Français: ""mot"" - 中文: ""字""
+Français: ""nord"" - 中文: ""北""
+Français: ""groupe"" - 中文: ""","[31829, 234]",群,"[2318, 330, 4071, 629, 867, 29887, 17170, 2972]",group,groupe
+"Français: ""ville"" - 中文: ""城""
+Français: ""est"" - 中文: ""东""
+Français: ""structure"" - 中文: ""构""
+Français: ""porte"" - 中文: ""门""
+Français: ""talent"" - 中文: ""","[31979, 233]",才,"[24242, 941, 11062, 17694, 5969, 260, 29873, 20411]",talent,talent
+"Français: ""genre"" - 中文: ""种""
+Français: ""danse"" - 中文: ""舞""
+Français: ""lac"" - 中文: ""湖""
+Français: ""neige"" - 中文: ""雪""
+Français: ""beauté"" - 中文: ""","[30630, 234]",美,"[915, 367, 6562, 29890, 289, 15409]",beauty,beauté
+"Français: ""génération"" - 中文: ""代""
+Français: ""lune"" - 中文: ""月""
+Français: ""tête"" - 中文: ""头""
+Français: ""section"" - 中文: ""段""
+Français: ""plate-forme"" - 中文: ""","[31037, 232]",台,"[572, 13974, 2174, 29886, 7481, 12120, 282, 715, 18870]",platform,plate-forme
+"Français: ""ligne"" - 中文: ""线""
+Français: ""thé"" - 中文: ""茶""
+Français: ""œil"" - 中文: ""目""
+Français: ""grotte"" - 中文: ""洞""
+Français: ""maison"" - 中文: ""","[31654, 232]",屋,"[5089, 3699, 9261, 29882, 298, 8697, 1251, 10774]",house,maison
+"Français: ""supprimer"" - 中文: ""删""
+Français: ""main"" - 中文: ""手""
+Français: ""vitesse"" - 中文: ""速""
+Français: ""cœur"" - 中文: ""心""
+Français: ""soleil"" - 中文: ""","[31430, 236]",阳,"[269, 480, 2146, 6575, 11445, 29879]",sun,soleil
+"Français: ""mot"" - 中文: ""字""
+Français: ""version"" - 中文: ""版""
+Français: ""tentative"" - 中文: ""试""
+Français: ""vertu"" - 中文: ""德""
+Français: ""réunion"" - 中文: ""","[30437, 231]",会,"[5870, 592, 11781, 17897, 29885, 286, 1004]",meeting,réunion
+"Français: ""carré"" - 中文: ""方""
+Français: ""tête"" - 中文: ""头""
+Français: ""thé"" - 中文: ""茶""
+Français: ""œil"" - 中文: ""目""
+Français: ""histoire"" - 中文: ""","[30911, 232]",史,"[9825, 670, 4955, 29882, 18434, 2918, 22880, 298, 7251, 3603, 16211]",history,histoire
+"Français: ""discours"" - 中文: ""话""
+Français: ""bande"" - 中文: ""条""
+Français: ""thé"" - 中文: ""茶""
+Français: ""soleil"" - 中文: ""阳""
+Français: ""vallée"" - 中文: ""","[31112, 235]",谷,"[29894, 28519, 659, 22044, 1564, 19599, 791, 2947, 325]",valley,vallée
+"Français: ""jour"" - 中文: ""日""
+Français: ""sable"" - 中文: ""沙""
+Français: ""un"" - 中文: ""一""
+Français: ""histoire"" - 中文: ""史""
+Français: ""carré"" - 中文: ""","[30525, 233]",方,"[26613, 10674, 18074, 269, 3044, 6862, 17619, 29879]",square,carré
+"Français: ""jour"" - 中文: ""日""
+Français: ""soleil"" - 中文: ""阳""
+Français: ""vitesse"" - 中文: ""速""
+Français: ""or"" - 中文: ""金""
+Français: ""génération"" - 中文: ""","[30690, 231]",代,"[330, 2531, 479, 29887, 1885, 1176, 18530, 1737, 12623, 4738]",generation,génération
+"Français: ""forêt"" - 中文: ""林""
+Français: ""avancer"" - 中文: ""进""
+Français: ""genre"" - 中文: ""种""
+Français: ""jour"" - 中文: ""日""
+Français: ""sud"" - 中文: ""","[30601, 232]",南,"[578, 577, 13267, 269, 7062, 29879, 3669]",south,sud
+"Français: ""école"" - 中文: ""校""
+Français: ""chanson"" - 中文: ""歌""
+Français: ""sept"" - 中文: ""七""
+Français: ""section"" - 中文: ""段""
+Français: ""vertu"" - 中文: ""","[31169, 232]",德,"[3516, 15389, 10636, 29894, 27935, 4610, 2405, 1403, 325]",virtue,vertu
+"Français: ""vitesse"" - 中文: ""速""
+Français: ""danse"" - 中文: ""舞""
+Français: ""paire"" - 中文: ""双""
+Français: ""rue"" - 中文: ""街""
+Français: ""tribu"" - 中文: ""","[30999, 233]",族,"[534, 509, 3626, 260, 29873, 3367, 9434, 29563]",tribe,tribu
+"Français: ""plate-forme"" - 中文: ""台""
+Français: ""milieu"" - 中文: ""中""
+Français: ""six"" - 中文: ""六""
+Français: ""vallée"" - 中文: ""谷""
+Français: ""ville"" - 中文: ""","[30626, 232]",城,"[29883, 274, 7537, 4583, 4272, 20752, 455, 12690]",city,ville
+"Français: ""lumière"" - 中文: ""光""
+Français: ""porte"" - 中文: ""门""
+Français: ""ville"" - 中文: ""城""
+Français: ""queue"" - 中文: ""尾""
+Français: ""vitesse"" - 中文: ""","[31859, 236]",速,"[5965, 269, 805, 6210, 19322, 29879, 961, 1028]",speed,vitesse
+"Français: ""supprimer"" - 中文: ""删""
+Français: ""groupe"" - 中文: ""群""
+Français: ""œil"" - 中文: ""目""
+Français: ""danse"" - 中文: ""舞""
+Français: ""sol"" - 中文: ""","[30533, 232]",地,"[330, 4071, 629, 867, 29887, 17170, 2057, 5962]",ground,sol
+"Français: ""province"" - 中文: ""省""
+Français: ""structure"" - 中文: ""构""
+Français: ""milieu"" - 中文: ""中""
+Français: ""bureau"" - 中文: ""局""
+Français: ""avancer"" - 中文: ""","[31174, 235]",进,"[263, 328, 17263, 29874, 3061, 594, 6564]",advance,avancer
+"Français: ""temps"" - 中文: ""时""
+Français: ""maison"" - 中文: ""屋""
+Français: ""mot"" - 中文: ""字""
+Français: ""est"" - 中文: ""东""
+Français: ""tentative"" - 中文: ""","[31787, 235]",试,"[1098, 263, 472, 21609, 271, 15127, 29874, 4218, 1131]",attempt,tentative
+"Français: ""rue"" - 中文: ""街""
+Français: ""huit"" - 中文: ""八""
+Français: ""école"" - 中文: ""校""
+Français: ""mer"" - 中文: ""海""
+Français: ""défaite"" - 中文: ""","[31955, 235]",败,"[8686, 311, 1753, 29881, 822, 20653, 316, 270]",defeat,défaite
+"Français: ""retour"" - 中文: ""回""
+Français: ""village"" - 中文: ""村""
+Français: ""enfant"" - 中文: ""子""
+Français: ""cravate"" - 中文: ""结""
+Français: ""queue"" - 中文: ""","[31631, 232]",尾,"[12464, 941, 18237, 11062, 260, 29873]",tail,queue
+"Français: ""structure"" - 中文: ""构""
+Français: ""roche"" - 中文: ""岩""
+Français: ""pouvoir"" - 中文: ""力""
+Français: ""forêt"" - 中文: ""林""
+Français: ""mère"" - 中文: ""","[31763, 233]",母,"[3184, 14817, 286, 5637, 29885, 25550, 2730, 4346]",mother,mère
+"Français: ""supprimer"" - 中文: ""删""
+Français: ""temps"" - 中文: ""时""
+Français: ""dix"" - 中文: ""十""
+Français: ""bande"" - 中文: ""条""
+Français: ""est"" - 中文: ""","[30979, 231]",东,"[321, 2240, 23027, 9755, 11248, 29872]",east,est
+"Français: ""sac"" - 中文: ""包""
+Français: ""genre"" - 中文: ""种""
+Français: ""cinq"" - 中文: ""五""
+Français: ""œil"" - 中文: ""目""
+Français: ""retour"" - 中文: ""","[30742, 232]",回,"[337, 276, 29878, 364, 736, 2267, 3240, 2457]",return,retour
+"Français: ""tour"" - 中文: ""塔""
+Français: ""été"" - 中文: ""夏""
+Français: ""bourse"" - 中文: ""交""
+Français: ""version"" - 中文: ""版""
+Français: ""discours"" - 中文: ""","[31852, 235]",话,"[5965, 12032, 269, 805, 29879, 961, 1028]",speech,discours
+"Français: ""tentative"" - 中文: ""试""
+Français: ""ressort"" - 中文: ""春""
+Français: ""danse"" - 中文: ""舞""
+Français: ""couleur"" - 中文: ""色""
+Français: ""enfant"" - 中文: ""","[30319, 232]",子,"[521, 29883, 274, 5145, 2278, 18558, 305, 4161]",child,enfant
+"Français: ""maison"" - 中文: ""屋""
+Français: ""queue"" - 中文: ""尾""
+Français: ""thé"" - 中文: ""茶""
+Français: ""version"" - 中文: ""版""
+Français: ""tour"" - 中文: ""","[31831, 232]",塔,"[19372, 304, 260, 29873, 517]",tower,tour
+"Français: ""mère"" - 中文: ""母""
+Français: ""été"" - 中文: ""夏""
+Français: ""cœur"" - 中文: ""心""
+Français: ""bande"" - 中文: ""条""
+Français: ""ménage"" - 中文: ""","[31229, 233]",户,"[5089, 3699, 9261, 29882, 22329, 298, 8697, 1251, 10774]",household,ménage
+"Français: ""vertu"" - 中文: ""德""
+Français: ""ligne"" - 中文: ""线""
+Français: ""lune"" - 中文: ""月""
+Français: ""ville"" - 中文: ""城""
+Français: ""personne"" - 中文: ""","[30313, 231]",人,"[546, 10532, 29886, 3736, 412, 1236, 6774, 282, 639, 2022]",person,personne
+"Français: ""océan"" - 中文: ""洋""
+Français: ""soleil"" - 中文: ""阳""
+Français: ""rue"" - 中文: ""街""
+Français: ""enfant"" - 中文: ""子""
+Français: ""section"" - 中文: ""","[31559, 233]",段,"[21149, 3471, 8803, 29879, 269, 344, 2042, 5226, 4004, 409]",section,section
+"Français: ""école"" - 中文: ""校""
+Français: ""sud"" - 中文: ""南""
+Français: ""cravate"" - 中文: ""结""
+Français: ""sac"" - 中文: ""包""
+Français: ""bureau"" - 中文: ""","[31655, 232]",局,"[2696, 1283, 3344, 288, 974, 8034, 29877, 20205, 310]",office,bureau
+"Français: ""couleur"" - 中文: ""色""
+Français: ""deux"" - 中文: ""二""
+Français: ""discours"" - 中文: ""话""
+Français: ""plate-forme"" - 中文: ""台""
+Français: ""roche"" - 中文: ""","[31753, 232]",岩,"[7679, 29878, 20821, 10198, 696, 364, 307]",rock,roche
+"Français: ""tentative"" - 中文: ""试""
+Français: ""lac"" - 中文: ""湖""
+Français: ""œil"" - 中文: ""目""
+Français: ""forêt"" - 中文: ""林""
+Français: ""hausse"" - 中文: ""","[31558, 235]",起,"[29878, 10107, 364, 3780, 14451, 5161, 374]",rise,hausse
+"Français: ""visage"" - 中文: ""面""
+Français: ""juge"" - 中文: ""判""
+Français: ""grille"" - 中文: ""格""
+Français: ""est"" - 中文: ""东""
+Français: ""gauche"" - 中文: ""","[31651, 232]",左,"[2175, 29880, 280, 454, 1563, 25874, 301]",left,gauche
+"Français: ""océan"" - 中文: ""洋""
+Français: ""sable"" - 中文: ""沙""
+Français: ""cinq"" - 中文: ""五""
+Français: ""huit"" - 中文: ""八""
+Français: ""son"" - 中文: ""","[30941, 236]",音,"[578, 577, 29802, 269, 29879, 6047, 3669]",sound,son
+"Français: ""chanson"" - 中文: ""歌""
+Français: ""son"" - 中文: ""音""
+Français: ""milieu"" - 中文: ""中""
+Français: ""roche"" - 中文: ""岩""
+Français: ""pouvoir"" - 中文: ""","[31074, 232]",力,"[772, 4764, 29886, 12248, 282, 13519, 1129, 3081]",power,pouvoir
+"Français: ""bois"" - 中文: ""木""
+Français: ""son"" - 中文: ""音""
+Français: ""vallée"" - 中文: ""谷""
+Français: ""avancer"" - 中文: ""进""
+Français: ""été"" - 中文: ""","[31241, 232]",夏,"[2533, 29879, 269, 2083, 480, 2146, 11801, 22792]",summer,été
