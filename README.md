@@ -1,18 +1,8 @@
-# Logit lens plot colab
+Re-implementation of “Do Llamas Work in English? On the Latent Language of Multilingual Transformers” https://arxiv.org/abs/2402.10588 using Tuned-Lens.
 
-[Try out your own prompts here.](https://colab.research.google.com/drive/1l6qN-hmCV4TbTcRZB5o6rUk_QPHBZb7K?usp=sharing)
+Added new types that can be called from plot_grid.sh (logit, tuned, tuned-chinese, tuned-chinese-en). 
 
-# Installation
+Logit is the original implementation (but using the logit lens provided by the Tuned-lens library), tuned is the tuned lens (trained on slimpj), tuned-chinese is the model with the tuned lens trained solely on the chinese language, and tuned-chinese-en is the model with the tuned lens trained solely chinese but using english as the latent language.
 
-Set up a python environment and run
-`pip install -r requirements.txt`
+The english tuned lenses can be used as is but the chinese lenses have to be downloaded (https://huggingface.co/MrGonao/llama7b-tunedlens-chinese, https://huggingface.co/MrGonao/llama13b-tunedlens-chinese)
 
-# Usage 
-
-## Translation 
-
-`papermill Translation.ipynb out.ipynb -p input_lang fr -p target_lang zh`
-
-## Cloze
-
-`papermill Cloze.ipynb out.ipynb -p target_lang fr`

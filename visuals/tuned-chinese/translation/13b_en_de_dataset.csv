@@ -1,0 +1,601 @@
+prompt,out_token_id,out_token_str,latent_token_id,latent_token_str,in_token_str
+"English: ""mountain"" - Deutsch: ""Berg""
+English: ""south"" - Deutsch: ""Süden""
+English: ""book"" - Deutsch: ""Buch""
+English: ""kind"" - Deutsch: ""Art""
+English: ""attempt"" - Deutsch: ""","[8980, 10138, 478, 29963, 6565, 1798]",Versuch,"[31787, 235]",试,attempt
+"English: ""source"" - Deutsch: ""Quelle""
+English: ""law"" - Deutsch: ""Gesetz""
+English: ""door"" - Deutsch: ""Tür""
+English: ""eight"" - Deutsch: ""acht""
+English: ""bag"" - Deutsch: ""","[29911, 10523, 23793, 323]",Tasche,"[31473, 232]",包,bag
+"English: ""rice"" - Deutsch: ""Reis""
+English: ""foot"" - Deutsch: ""Fuß""
+English: ""flower"" - Deutsch: ""Blume""
+English: ""one"" - Deutsch: ""eins""
+English: ""ball"" - Deutsch: ""","[22031, 6000, 7392, 29933, 350, 13402]",Ball,"[31539, 234]",球,ball
+"English: ""mother"" - Deutsch: ""Mutter""
+English: ""red"" - Deutsch: ""rot""
+English: ""ground"" - Deutsch: ""Boden""
+English: ""tower"" - Deutsch: ""Turm""
+English: ""beauty"" - Deutsch: ""","[4421, 28565, 29903, 4504, 317, 2522, 1102]",Schönheit,"[30630, 234]",美,beauty
+"English: ""power"" - Deutsch: ""Macht""
+English: ""head"" - Deutsch: ""Kopf""
+English: ""thousand"" - Deutsch: ""tausend""
+English: ""middle"" - Deutsch: ""Mitte""
+English: ""benefit"" - Deutsch: ""","[12487, 405, 29940]",Nutzen,"[31107, 232]",利,benefit
+"English: ""ground"" - Deutsch: ""Boden""
+English: ""flower"" - Deutsch: ""Blume""
+English: ""friend"" - Deutsch: ""Freund""
+English: ""light"" - Deutsch: ""Licht""
+English: ""book"" - Deutsch: ""","[10586, 3727, 5373, 29933, 22987, 350]",Buch,"[31900, 231]",书,book
+"English: ""power"" - Deutsch: ""Macht""
+English: ""head"" - Deutsch: ""Kopf""
+English: ""cave"" - Deutsch: ""Höhle""
+English: ""time"" - Deutsch: ""Zeit""
+English: ""bridge"" - Deutsch: ""","[1771, 29933, 350, 12432]",Brücke,"[31749, 233]",桥,bridge
+"English: ""item"" - Deutsch: ""Gegenstand""
+English: ""cloud"" - Deutsch: ""Wolke""
+English: ""generation"" - Deutsch: ""Generation""
+English: ""seat"" - Deutsch: ""Sitz""
+English: ""cave"" - Deutsch: ""","[11623, 379, 29950]",Höhle,"[31886, 233]",洞,cave
+"English: ""five"" - Deutsch: ""fünf""
+English: ""middle"" - Deutsch: ""Mitte""
+English: ""bridge"" - Deutsch: ""Brücke""
+English: ""gold"" - Deutsch: ""Gold""
+English: ""child"" - Deutsch: ""","[476, 29968, 11885, 13187, 16540, 20311]",Kind,"[30319, 232]",子,child
+"English: ""star"" - Deutsch: ""Stern""
+English: ""example"" - Deutsch: ""Beispiel""
+English: ""six"" - Deutsch: ""sechs""
+English: ""site"" - Deutsch: ""Standort""
+English: ""city"" - Deutsch: ""","[624, 10347, 29903, 7434, 317, 5587, 855]",Stadt,"[30626, 232]",城,city
+"English: ""river"" - Deutsch: ""Fluss""
+English: ""ten"" - Deutsch: ""zehn""
+English: ""cloud"" - Deutsch: ""Wolke""
+English: ""spring"" - Deutsch: ""Feder""
+English: ""cloth"" - Deutsch: ""","[29911, 23215, 12603, 323]",Tuch,"[31454, 232]",布,cloth
+"English: ""group"" - Deutsch: ""Gruppe""
+English: ""school"" - Deutsch: ""Schule""
+English: ""day"" - Deutsch: ""Tag""
+English: ""law"" - Deutsch: ""Gesetz""
+English: ""cloud"" - Deutsch: ""","[14962, 11902, 29956, 399]",Wolke,"[31784, 231]",云,cloud
+"English: ""water"" - Deutsch: ""Wasser""
+English: ""star"" - Deutsch: ""Stern""
+English: ""book"" - Deutsch: ""Buch""
+English: ""wave"" - Deutsch: ""Welle""
+English: ""color"" - Deutsch: ""","[383, 8413, 7748, 14206, 29943]",Farbe,"[31085, 235]",色,color
+"English: ""flower"" - Deutsch: ""Blume""
+English: ""item"" - Deutsch: ""Gegenstand""
+English: ""bridge"" - Deutsch: ""Brücke""
+English: ""light"" - Deutsch: ""Licht""
+English: ""day"" - Deutsch: ""","[29911, 10522, 10523, 8176, 323]",Tag,"[30325, 233]",日,day
+"English: ""mother"" - Deutsch: ""Mutter""
+English: ""water"" - Deutsch: ""Wasser""
+English: ""power"" - Deutsch: ""Macht""
+English: ""moon"" - Deutsch: ""Mond""
+English: ""defeat"" - Deutsch: ""","[24052, 19166, 405, 16501, 15981, 29940]",Niederlage,"[31955, 235]",败,defeat
+"English: ""horse"" - Deutsch: ""Pferd""
+English: ""virtue"" - Deutsch: ""Tugend""
+English: ""province"" - Deutsch: ""Provinz""
+English: ""benefit"" - Deutsch: ""Nutzen""
+English: ""delete"" - Deutsch: ""","[29880, 301, 27575]",löschen,"[31916, 232]",删,delete
+"English: ""heart"" - Deutsch: ""Herz""
+English: ""field"" - Deutsch: ""Feld""
+English: ""delete"" - Deutsch: ""löschen""
+English: ""cloth"" - Deutsch: ""Tuch""
+English: ""door"" - Deutsch: ""","[29911, 25424, 323]",Tür,"[31649, 236]",门,door
+"English: ""school"" - Deutsch: ""Schule""
+English: ""left"" - Deutsch: ""links""
+English: ""bridge"" - Deutsch: ""Brücke""
+English: ""nine"" - Deutsch: ""neun""
+English: ""east"" - Deutsch: ""","[26569, 6657, 29949, 438, 24768, 11334]",Osten,"[30979, 231]",东,east
+"English: ""fire"" - Deutsch: ""Feuer""
+English: ""sand"" - Deutsch: ""Sand""
+English: ""wood"" - Deutsch: ""Holz""
+English: ""left"" - Deutsch: ""links""
+English: ""eight"" - Deutsch: ""","[263, 496, 29874, 5860, 1274, 562, 3657, 22019]",acht,"[31044, 232]",八,eight
+"English: ""river"" - Deutsch: ""Fluss""
+English: ""line"" - Deutsch: ""Linie""
+English: ""day"" - Deutsch: ""Tag""
+English: ""point"" - Deutsch: ""Punkt""
+English: ""example"" - Deutsch: ""","[22621, 3629, 1522, 10632, 29933, 350]",Beispiel,"[31507, 231]",例,example
+"English: ""cloth"" - Deutsch: ""Tuch""
+English: ""province"" - Deutsch: ""Provinz""
+English: ""street"" - Deutsch: ""Straße""
+English: ""rice"" - Deutsch: ""Reis""
+English: ""exchange"" - Deutsch: ""","[29933, 350]",Börse,"[31398, 231]",交,exchange
+"English: ""kind"" - Deutsch: ""Art""
+English: ""painting"" - Deutsch: ""Gemälde""
+English: ""machine"" - Deutsch: ""Maschine""
+English: ""four"" - Deutsch: ""vier""
+English: ""eye"" - Deutsch: ""","[29909, 319, 22333, 8407]",Auge,"[30895, 234]",目,eye
+"English: ""moon"" - Deutsch: ""Mond""
+English: ""office"" - Deutsch: ""Büro""
+English: ""book"" - Deutsch: ""Buch""
+English: ""eight"" - Deutsch: ""acht""
+English: ""face"" - Deutsch: ""","[6328, 7999, 402, 29954, 1879]",Gesicht,"[30806, 236]",面,face
+"English: ""law"" - Deutsch: ""Gesetz""
+English: ""province"" - Deutsch: ""Provinz""
+English: ""moon"" - Deutsch: ""Mond""
+English: ""square"" - Deutsch: ""Quadrat""
+English: ""field"" - Deutsch: ""","[383, 21113, 11961, 5169, 29943, 8263]",Feld,"[31632, 232]",场,field
+"English: ""foot"" - Deutsch: ""Fuß""
+English: ""person"" - Deutsch: ""Person""
+English: ""part"" - Deutsch: ""Teil""
+English: ""ground"" - Deutsch: ""Boden""
+English: ""fire"" - Deutsch: ""","[383, 5169, 29943, 29331, 8263]",Feuer,"[31313, 234]",火,fire
+"English: ""ocean"" - Deutsch: ""Ozean""
+English: ""site"" - Deutsch: ""Standort""
+English: ""color"" - Deutsch: ""Farbe""
+English: ""speed"" - Deutsch: ""Geschwindigkeit""
+English: ""five"" - Deutsch: ""","[14753, 285, 29888, 17054]",fünf,"[30904, 231]",五,five
+"English: ""city"" - Deutsch: ""Stadt""
+English: ""day"" - Deutsch: ""Tag""
+English: ""heart"" - Deutsch: ""Herz""
+English: ""machine"" - Deutsch: ""Maschine""
+English: ""flower"" - Deutsch: ""","[10358, 29933, 350, 3164]",Blume,"[30830, 235]",花,flower
+"English: ""pair"" - Deutsch: ""Paar""
+English: ""gold"" - Deutsch: ""Gold""
+English: ""station"" - Deutsch: ""Bahnhof""
+English: ""generation"" - Deutsch: ""Generation""
+English: ""foot"" - Deutsch: ""","[383, 11871, 11212, 29943]",Fuß,"[31722, 235]",足,foot
+"English: ""star"" - Deutsch: ""Stern""
+English: ""net"" - Deutsch: ""Netz""
+English: ""bridge"" - Deutsch: ""Brücke""
+English: ""ten"" - Deutsch: ""zehn""
+English: ""forest"" - Deutsch: ""","[22552, 5260, 29956, 399, 17721]",Wald,"[30853, 233]",林,forest
+"English: ""pond"" - Deutsch: ""Teich""
+English: ""mouth"" - Deutsch: ""Mund""
+English: ""tribe"" - Deutsch: ""Stamm""
+English: ""net"" - Deutsch: ""Netz""
+English: ""four"" - Deutsch: ""","[325, 1403, 25965, 6316, 7214, 29894, 3516, 8545]",vier,"[30928, 232]",四,four
+"English: ""bag"" - Deutsch: ""Tasche""
+English: ""three"" - Deutsch: ""drei""
+English: ""history"" - Deutsch: ""Geschichte""
+English: ""left"" - Deutsch: ""links""
+English: ""friend"" - Deutsch: ""","[383, 28817, 29943, 14438, 4693, 23923, 3878]",Freund,"[31373, 232]",友,friend
+"English: ""sand"" - Deutsch: ""Sand""
+English: ""example"" - Deutsch: ""Beispiel""
+English: ""grid"" - Deutsch: ""Gitter""
+English: ""foot"" - Deutsch: ""Fuß""
+English: ""generation"" - Deutsch: ""","[5631, 5739, 15462, 15350, 28203, 7999, 3251, 1879, 402, 29954]",Generation,"[30690, 231]",代,generation
+"English: ""judge"" - Deutsch: ""Richter""
+English: ""machine"" - Deutsch: ""Maschine""
+English: ""tribe"" - Deutsch: ""Stamm""
+English: ""language"" - Deutsch: ""Sprache""
+English: ""gold"" - Deutsch: ""","[20268, 402, 29954, 6650, 8120, 2921]",Gold,"[30659, 236]",金,gold
+"English: ""north"" - Deutsch: ""Norden""
+English: ""section"" - Deutsch: ""Abschnitt""
+English: ""heart"" - Deutsch: ""Herz""
+English: ""two"" - Deutsch: ""zwei""
+English: ""grid"" - Deutsch: ""","[28712, 26074, 402, 29954, 4406, 11786]",Gitter,"[31168, 233]",格,grid
+"English: ""sand"" - Deutsch: ""Sand""
+English: ""eye"" - Deutsch: ""Auge""
+English: ""four"" - Deutsch: ""vier""
+English: ""six"" - Deutsch: ""sechs""
+English: ""ground"" - Deutsch: ""","[1952, 19929, 8431, 29933, 350]",Boden,"[30533, 232]",地,ground
+"English: ""hair"" - Deutsch: ""Haar""
+English: ""kind"" - Deutsch: ""Art""
+English: ""point"" - Deutsch: ""Punkt""
+English: ""cloud"" - Deutsch: ""Wolke""
+English: ""group"" - Deutsch: ""","[3338, 5430, 21757, 402, 29954, 1632]",Gruppe,"[31829, 234]",群,group
+"English: ""star"" - Deutsch: ""Stern""
+English: ""river"" - Deutsch: ""Fluss""
+English: ""history"" - Deutsch: ""Geschichte""
+English: ""south"" - Deutsch: ""Süden""
+English: ""hair"" - Deutsch: ""","[24704, 29950, 5952, 379]",Haar,"[30910, 232]",发,hair
+"English: ""rise"" - Deutsch: ""Anstieg""
+English: ""time"" - Deutsch: ""Zeit""
+English: ""two"" - Deutsch: ""zwei""
+English: ""nine"" - Deutsch: ""neun""
+English: ""hand"" - Deutsch: ""","[5166, 24704, 29950, 5952, 379, 3481, 7169]",Hand,"[30880, 233]",手,hand
+"English: ""forest"" - Deutsch: ""Wald""
+English: ""tea"" - Deutsch: ""Tee""
+English: ""field"" - Deutsch: ""Feld""
+English: ""power"" - Deutsch: ""Macht""
+English: ""head"" - Deutsch: ""","[476, 29968, 8224, 27476]",Kopf,"[31584, 232]",头,head
+"English: ""station"" - Deutsch: ""Bahnhof""
+English: ""square"" - Deutsch: ""Quadrat""
+English: ""one"" - Deutsch: ""eins""
+English: ""example"" - Deutsch: ""Beispiel""
+English: ""heart"" - Deutsch: ""","[2439, 29950, 18650, 12905, 3868, 940, 379]",Herz,"[30869, 232]",心,heart
+"English: ""net"" - Deutsch: ""Netz""
+English: ""nine"" - Deutsch: ""neun""
+English: ""section"" - Deutsch: ""Abschnitt""
+English: ""gold"" - Deutsch: ""Gold""
+English: ""history"" - Deutsch: ""","[5009, 7999, 1879, 7376, 6328, 402, 29954]",Geschichte,"[30911, 232]",史,history
+"English: ""time"" - Deutsch: ""Zeit""
+English: ""thousand"" - Deutsch: ""tausend""
+English: ""speech"" - Deutsch: ""Rede""
+English: ""language"" - Deutsch: ""Sprache""
+English: ""horse"" - Deutsch: ""","[349, 10022, 29925]",Pferd,"[31530, 236]",马,horse
+"English: ""color"" - Deutsch: ""Farbe""
+English: ""part"" - Deutsch: ""Teil""
+English: ""head"" - Deutsch: ""Kopf""
+English: ""lake"" - Deutsch: ""See""
+English: ""house"" - Deutsch: ""","[24704, 10727, 29950, 5952, 379]",Haus,"[31654, 232]",屋,house
+"English: ""gold"" - Deutsch: ""Gold""
+English: ""virtue"" - Deutsch: ""Tugend""
+English: ""person"" - Deutsch: ""Person""
+English: ""three"" - Deutsch: ""drei""
+English: ""household"" - Deutsch: ""","[24704, 10727, 29950, 5952, 379]",Haushalt,"[31229, 233]",户,household
+"English: ""grid"" - Deutsch: ""Gitter""
+English: ""tribe"" - Deutsch: ""Stamm""
+English: ""station"" - Deutsch: ""Bahnhof""
+English: ""platform"" - Deutsch: ""Plattform""
+English: ""item"" - Deutsch: ""","[19275, 7999, 1879, 21163, 402, 29954]",Gegenstand,"[31888, 236]",项,item
+"English: ""south"" - Deutsch: ""Süden""
+English: ""virtue"" - Deutsch: ""Tugend""
+English: ""bridge"" - Deutsch: ""Brücke""
+English: ""head"" - Deutsch: ""Kopf""
+English: ""judge"" - Deutsch: ""","[4385, 13675, 29934, 25627, 390, 21710]",Richter,"[31791, 232]",判,judge
+"English: ""bridge"" - Deutsch: ""Brücke""
+English: ""star"" - Deutsch: ""Stern""
+English: ""house"" - Deutsch: ""Haus""
+English: ""tower"" - Deutsch: ""Turm""
+English: ""kind"" - Deutsch: ""","[29909, 1433, 9986, 826, 319, 3012]",Art,"[31893, 234]",种,kind
+"English: ""eye"" - Deutsch: ""Auge""
+English: ""school"" - Deutsch: ""Schule""
+English: ""cloud"" - Deutsch: ""Wolke""
+English: ""street"" - Deutsch: ""Straße""
+English: ""lake"" - Deutsch: ""","[29903, 13393, 317, 922, 2008, 2823]",See,"[31496, 233]",湖,lake
+"English: ""south"" - Deutsch: ""Süden""
+English: ""attempt"" - Deutsch: ""Versuch""
+English: ""gold"" - Deutsch: ""Gold""
+English: ""grid"" - Deutsch: ""Gitter""
+English: ""language"" - Deutsch: ""","[14314, 29903, 29634, 5592, 1706, 317]",Sprache,"[31505, 235]",语,language
+"English: ""time"" - Deutsch: ""Zeit""
+English: ""forest"" - Deutsch: ""Wald""
+English: ""part"" - Deutsch: ""Teil""
+English: ""fire"" - Deutsch: ""Feuer""
+English: ""law"" - Deutsch: ""","[6328, 7999, 402, 29954, 1879]",Gesetz,"[30545, 233]",法,law
+"English: ""river"" - Deutsch: ""Fluss""
+English: ""rice"" - Deutsch: ""Reis""
+English: ""five"" - Deutsch: ""fünf""
+English: ""four"" - Deutsch: ""vier""
+English: ""left"" - Deutsch: ""","[1915, 619, 492, 1544, 2988, 6276, 29880, 2324, 4965, 301]",links,"[31651, 232]",左,left
+"English: ""tail"" - Deutsch: ""Schwanz""
+English: ""history"" - Deutsch: ""Geschichte""
+English: ""bag"" - Deutsch: ""Tasche""
+English: ""exchange"" - Deutsch: ""Börse""
+English: ""light"" - Deutsch: ""","[23410, 365, 2718, 10413, 29931]",Licht,"[30867, 232]",光,light
+"English: ""virtue"" - Deutsch: ""Tugend""
+English: ""horse"" - Deutsch: ""Pferd""
+English: ""heart"" - Deutsch: ""Herz""
+English: ""province"" - Deutsch: ""Provinz""
+English: ""line"" - Deutsch: ""","[23410, 365, 2718, 4342, 29931, 11667]",Linie,"[31532, 234]",线,line
+"English: ""sand"" - Deutsch: ""Sand""
+English: ""grid"" - Deutsch: ""Gitter""
+English: ""friend"" - Deutsch: ""Freund""
+English: ""four"" - Deutsch: ""vier""
+English: ""machine"" - Deutsch: ""","[8622, 21870, 341, 29924, 3219]",Maschine,"[31429, 233]",机,machine
+"English: ""horse"" - Deutsch: ""Pferd""
+English: ""beauty"" - Deutsch: ""Schönheit""
+English: ""door"" - Deutsch: ""Tür""
+English: ""thousand"" - Deutsch: ""tausend""
+English: ""middle"" - Deutsch: ""","[23115, 5493, 341, 4573, 24532, 29924]",Mitte,"[30275, 231]",中,middle
+"English: ""cloth"" - Deutsch: ""Tuch""
+English: ""platform"" - Deutsch: ""Plattform""
+English: ""person"" - Deutsch: ""Person""
+English: ""thousand"" - Deutsch: ""tausend""
+English: ""moon"" - Deutsch: ""","[341, 4546, 22638, 12125, 29924, 2598, 7185]",Mond,"[30534, 233]",月,moon
+"English: ""soil"" - Deutsch: ""Boden""
+English: ""wood"" - Deutsch: ""Holz""
+English: ""cloud"" - Deutsch: ""Wolke""
+English: ""word"" - Deutsch: ""Wort""
+English: ""mother"" - Deutsch: ""","[341, 8229, 22411, 20749, 29924]",Mutter,"[31763, 233]",母,mother
+"English: ""item"" - Deutsch: ""Gegenstand""
+English: ""six"" - Deutsch: ""sechs""
+English: ""south"" - Deutsch: ""Süden""
+English: ""snow"" - Deutsch: ""Schnee""
+English: ""mountain"" - Deutsch: ""","[3629, 1522, 17104, 2292, 29933, 350, 9827]",Berg,"[30329, 232]",山,mountain
+"English: ""judge"" - Deutsch: ""Richter""
+English: ""foot"" - Deutsch: ""Fuß""
+English: ""province"" - Deutsch: ""Provinz""
+English: ""group"" - Deutsch: ""Gruppe""
+English: ""mouth"" - Deutsch: ""","[341, 8229, 13564, 29924]",Mund,"[30856, 232]",口,mouth
+"English: ""tea"" - Deutsch: ""Tee""
+English: ""power"" - Deutsch: ""Macht""
+English: ""virtue"" - Deutsch: ""Tugend""
+English: ""example"" - Deutsch: ""Beispiel""
+English: ""net"" - Deutsch: ""","[405, 2448, 8139, 12670, 29940, 6779]",Netz,"[31222, 234]",网,net
+"English: ""history"" - Deutsch: ""Geschichte""
+English: ""face"" - Deutsch: ""Gesicht""
+English: ""source"" - Deutsch: ""Quelle""
+English: ""four"" - Deutsch: ""vier""
+English: ""nine"" - Deutsch: ""","[452, 17167, 302, 484, 29876]",neun,"[31321, 231]",九,nine
+"English: ""item"" - Deutsch: ""Gegenstand""
+English: ""house"" - Deutsch: ""Haus""
+English: ""song"" - Deutsch: ""Lied""
+English: ""red"" - Deutsch: ""rot""
+English: ""north"" - Deutsch: ""","[1939, 5245, 405, 23899, 3782, 4186, 29940]",Norden,"[30662, 232]",北,north
+"English: ""sand"" - Deutsch: ""Sand""
+English: ""section"" - Deutsch: ""Abschnitt""
+English: ""thousand"" - Deutsch: ""tausend""
+English: ""school"" - Deutsch: ""Schule""
+English: ""ocean"" - Deutsch: ""","[29949, 438]",Ozean,"[31534, 233]",洋,ocean
+"English: ""judge"" - Deutsch: ""Richter""
+English: ""eye"" - Deutsch: ""Auge""
+English: ""field"" - Deutsch: ""Feld""
+English: ""four"" - Deutsch: ""vier""
+English: ""office"" - Deutsch: ""","[16144, 29933, 15455, 350]",Büro,"[31655, 232]",局,office
+"English: ""forest"" - Deutsch: ""Wald""
+English: ""ground"" - Deutsch: ""Boden""
+English: ""time"" - Deutsch: ""Zeit""
+English: ""sand"" - Deutsch: ""Sand""
+English: ""one"" - Deutsch: ""","[1011, 29872, 21084, 10096, 321]",eins,"[30287, 231]",一,one
+"English: ""cave"" - Deutsch: ""Höhle""
+English: ""language"" - Deutsch: ""Sprache""
+English: ""square"" - Deutsch: ""Quadrat""
+English: ""friend"" - Deutsch: ""Freund""
+English: ""painting"" - Deutsch: ""","[7999, 402, 29954, 1879, 15170]",Gemälde,"[31046, 234]",画,painting
+"English: ""gold"" - Deutsch: ""Gold""
+English: ""net"" - Deutsch: ""Netz""
+English: ""house"" - Deutsch: ""Haus""
+English: ""source"" - Deutsch: ""Quelle""
+English: ""pair"" - Deutsch: ""","[11868, 349, 29925, 2621]",Paar,"[31960, 232]",双,pair
+"English: ""eight"" - Deutsch: ""acht""
+English: ""lake"" - Deutsch: ""See""
+English: ""water"" - Deutsch: ""Wasser""
+English: ""beauty"" - Deutsch: ""Schönheit""
+English: ""part"" - Deutsch: ""","[29911, 7141, 1920, 7770, 323]",Teil,"[30636, 236]",部,part
+"English: ""field"" - Deutsch: ""Feld""
+English: ""line"" - Deutsch: ""Linie""
+English: ""history"" - Deutsch: ""Geschichte""
+English: ""river"" - Deutsch: ""Fluss""
+English: ""person"" - Deutsch: ""","[2431, 5894, 3938, 5196, 349, 9034, 15666, 29925, 15136, 7435]",Person,"[30313, 231]",人,person
+"English: ""ocean"" - Deutsch: ""Ozean""
+English: ""household"" - Deutsch: ""Haushalt""
+English: ""site"" - Deutsch: ""Standort""
+English: ""cave"" - Deutsch: ""Höhle""
+English: ""platform"" - Deutsch: ""","[1858, 13494, 27201, 349, 29925, 3247]",Plattform,"[31037, 232]",台,platform
+"English: ""rise"" - Deutsch: ""Anstieg""
+English: ""platform"" - Deutsch: ""Plattform""
+English: ""field"" - Deutsch: ""Feld""
+English: ""four"" - Deutsch: ""vier""
+English: ""point"" - Deutsch: ""","[12129, 349, 22723, 29925]",Punkt,"[30940, 234]",点,point
+"English: ""three"" - Deutsch: ""drei""
+English: ""street"" - Deutsch: ""Straße""
+English: ""beauty"" - Deutsch: ""Schönheit""
+English: ""left"" - Deutsch: ""links""
+English: ""pond"" - Deutsch: ""","[29911, 7141, 1920, 323]",Teich,"[31853, 233]",池,pond
+"English: ""machine"" - Deutsch: ""Maschine""
+English: ""language"" - Deutsch: ""Sprache""
+English: ""water"" - Deutsch: ""Wasser""
+English: ""ten"" - Deutsch: ""zehn""
+English: ""power"" - Deutsch: ""","[15735, 21870, 4326, 341, 17197, 29924, 3219]",Macht,"[31074, 232]",力,power
+"English: ""wood"" - Deutsch: ""Holz""
+English: ""valley"" - Deutsch: ""Tal""
+English: ""office"" - Deutsch: ""Büro""
+English: ""seven"" - Deutsch: ""sieben""
+English: ""province"" - Deutsch: ""","[1588, 4040, 349, 23114, 11127, 9133, 1184, 29925, 1019]",Provinz,"[31600, 234]",省,province
+"English: ""river"" - Deutsch: ""Fluss""
+English: ""village"" - Deutsch: ""Dorf""
+English: ""seat"" - Deutsch: ""Sitz""
+English: ""head"" - Deutsch: ""Kopf""
+English: ""red"" - Deutsch: ""","[5731, 696, 29878, 307, 5450, 364]",rot,"[31869, 234]",红,red
+"English: ""kind"" - Deutsch: ""Art""
+English: ""delete"" - Deutsch: ""löschen""
+English: ""five"" - Deutsch: ""fünf""
+English: ""spring"" - Deutsch: ""Feder""
+English: ""rice"" - Deutsch: ""","[29934, 1123, 830, 390]",Reis,"[31902, 234]",米,rice
+"English: ""net"" - Deutsch: ""Netz""
+English: ""tail"" - Deutsch: ""Schwanz""
+English: ""delete"" - Deutsch: ""löschen""
+English: ""field"" - Deutsch: ""Feld""
+English: ""rise"" - Deutsch: ""","[29909, 2744, 530, 319, 21877]",Anstieg,"[31558, 235]",起,rise
+"English: ""station"" - Deutsch: ""Bahnhof""
+English: ""red"" - Deutsch: ""rot""
+English: ""three"" - Deutsch: ""drei""
+English: ""eight"" - Deutsch: ""acht""
+English: ""river"" - Deutsch: ""","[383, 29943, 8754, 2379]",Fluss,"[30828, 233]",河,river
+"English: ""thousand"" - Deutsch: ""tausend""
+English: ""square"" - Deutsch: ""Quadrat""
+English: ""nine"" - Deutsch: ""neun""
+English: ""history"" - Deutsch: ""Geschichte""
+English: ""sand"" - Deutsch: ""","[29903, 3087, 17618, 22509, 317, 8564, 5701]",Sand,"[31476, 233]",沙,sand
+"English: ""sand"" - Deutsch: ""Sand""
+English: ""one"" - Deutsch: ""eins""
+English: ""flower"" - Deutsch: ""Blume""
+English: ""heart"" - Deutsch: ""Herz""
+English: ""school"" - Deutsch: ""","[4421, 29903, 12988, 4504, 317, 2522, 1102, 27223]",Schule,"[31071, 233]",校,school
+"English: ""left"" - Deutsch: ""links""
+English: ""summer"" - Deutsch: ""Sommer""
+English: ""three"" - Deutsch: ""drei""
+English: ""machine"" - Deutsch: ""Maschine""
+English: ""sea"" - Deutsch: ""","[6816, 341, 2191, 29924]",Meer,"[30581, 233]",海,sea
+"English: ""delete"" - Deutsch: ""löschen""
+English: ""friend"" - Deutsch: ""Freund""
+English: ""heart"" - Deutsch: ""Herz""
+English: ""mouth"" - Deutsch: ""Mund""
+English: ""seat"" - Deutsch: ""","[23628, 29903, 21988, 317, 6101, 25598]",Sitz,"[31780, 232]",座,seat
+"English: ""water"" - Deutsch: ""Wasser""
+English: ""cloth"" - Deutsch: ""Tuch""
+English: ""light"" - Deutsch: ""Licht""
+English: ""tower"" - Deutsch: ""Turm""
+English: ""section"" - Deutsch: ""","[29909, 319, 4920, 1976, 24650]",Abschnitt,"[31559, 233]",段,section
+"English: ""gold"" - Deutsch: ""Gold""
+English: ""group"" - Deutsch: ""Gruppe""
+English: ""moon"" - Deutsch: ""Mond""
+English: ""face"" - Deutsch: ""Gesicht""
+English: ""seven"" - Deutsch: ""","[29879, 269, 1039, 2686, 29447, 1354]",sieben,"[31425, 231]",七,seven
+"English: ""rise"" - Deutsch: ""Anstieg""
+English: ""ten"" - Deutsch: ""zehn""
+English: ""book"" - Deutsch: ""Buch""
+English: ""star"" - Deutsch: ""Stern""
+English: ""site"" - Deutsch: ""","[624, 29903, 11042, 6679, 7434, 317, 7813, 855]",Standort,"[31702, 232]",址,site
+"English: ""star"" - Deutsch: ""Stern""
+English: ""generation"" - Deutsch: ""Generation""
+English: ""tail"" - Deutsch: ""Schwanz""
+English: ""school"" - Deutsch: ""Schule""
+English: ""six"" - Deutsch: ""","[29879, 269, 5226, 23320, 409, 3471, 344]",sechs,"[31304, 232]",六,six
+"English: ""nine"" - Deutsch: ""neun""
+English: ""mother"" - Deutsch: ""Mutter""
+English: ""horse"" - Deutsch: ""Pferd""
+English: ""hand"" - Deutsch: ""Hand""
+English: ""snow"" - Deutsch: ""","[4421, 29903, 4504, 317, 2522, 1102, 21129]",Schnee,"[31731, 236]",雪,snow
+"English: ""two"" - Deutsch: ""zwei""
+English: ""power"" - Deutsch: ""Macht""
+English: ""horse"" - Deutsch: ""Pferd""
+English: ""virtue"" - Deutsch: ""Tugend""
+English: ""soil"" - Deutsch: ""","[1952, 19929, 8431, 29933, 350]",Boden,"[31181, 232]",土,soil
+"English: ""part"" - Deutsch: ""Teil""
+English: ""rice"" - Deutsch: ""Reis""
+English: ""fire"" - Deutsch: ""Feuer""
+English: ""cloud"" - Deutsch: ""Wolke""
+English: ""song"" - Deutsch: ""","[23410, 365, 2718, 29931, 29382, 7326]",Lied,"[31173, 233]",歌,song
+"English: ""lake"" - Deutsch: ""See""
+English: ""household"" - Deutsch: ""Haushalt""
+English: ""river"" - Deutsch: ""Fluss""
+English: ""site"" - Deutsch: ""Standort""
+English: ""source"" - Deutsch: ""","[29984, 5462, 8654, 660, 2182, 751]",Quelle,"[31193, 233]",源,source
+"English: ""word"" - Deutsch: ""Wort""
+English: ""tea"" - Deutsch: ""Tee""
+English: ""history"" - Deutsch: ""Geschichte""
+English: ""square"" - Deutsch: ""Quadrat""
+English: ""south"" - Deutsch: ""","[29903, 11711, 317, 26585, 17110]",Süden,"[30601, 232]",南,south
+"English: ""time"" - Deutsch: ""Zeit""
+English: ""group"" - Deutsch: ""Gruppe""
+English: ""book"" - Deutsch: ""Buch""
+English: ""office"" - Deutsch: ""Büro""
+English: ""speech"" - Deutsch: ""","[9039, 4367, 29934, 1123, 830, 390]",Rede,"[31852, 235]",话,speech
+"English: ""painting"" - Deutsch: ""Gemälde""
+English: ""thousand"" - Deutsch: ""tausend""
+English: ""sand"" - Deutsch: ""Sand""
+English: ""ocean"" - Deutsch: ""Ozean""
+English: ""speed"" - Deutsch: ""","[5009, 7999, 1879, 6328, 402, 29954]",Geschwindigkeit,"[31859, 236]",速,speed
+"English: ""word"" - Deutsch: ""Wort""
+English: ""example"" - Deutsch: ""Beispiel""
+English: ""village"" - Deutsch: ""Dorf""
+English: ""ground"" - Deutsch: ""Boden""
+English: ""spring"" - Deutsch: ""","[383, 5169, 17972, 29943, 7351, 8263]",Feder,"[31031, 233]",春,spring
+"English: ""valley"" - Deutsch: ""Tal""
+English: ""north"" - Deutsch: ""Norden""
+English: ""village"" - Deutsch: ""Dorf""
+English: ""two"" - Deutsch: ""zwei""
+English: ""square"" - Deutsch: ""","[29984, 660, 2182, 751]",Quadrat,"[30525, 233]",方,square
+"English: ""office"" - Deutsch: ""Büro""
+English: ""seven"" - Deutsch: ""sieben""
+English: ""version"" - Deutsch: ""Version""
+English: ""word"" - Deutsch: ""Wort""
+English: ""star"" - Deutsch: ""","[28588, 23413, 624, 2443, 29903, 317, 7789, 855]",Stern,"[30900, 233]",星,star
+"English: ""person"" - Deutsch: ""Person""
+English: ""rice"" - Deutsch: ""Reis""
+English: ""point"" - Deutsch: ""Punkt""
+English: ""version"" - Deutsch: ""Version""
+English: ""station"" - Deutsch: ""","[6000, 15131, 28701, 29933, 15174, 350]",Bahnhof,"[31433, 234]",站,station
+"English: ""song"" - Deutsch: ""Lied""
+English: ""office"" - Deutsch: ""Büro""
+English: ""defeat"" - Deutsch: ""Niederlage""
+English: ""foot"" - Deutsch: ""Fuß""
+English: ""street"" - Deutsch: ""","[3767, 624, 7357, 29903, 22667, 317, 5015, 855]",Straße,"[30813, 235]",街,street
+"English: ""group"" - Deutsch: ""Gruppe""
+English: ""painting"" - Deutsch: ""Gemälde""
+English: ""red"" - Deutsch: ""rot""
+English: ""machine"" - Deutsch: ""Maschine""
+English: ""strip"" - Deutsch: ""","[3767, 11738, 624, 29903, 317, 5015, 855]",Streifen,"[31217, 233]",条,strip
+"English: ""line"" - Deutsch: ""Linie""
+English: ""color"" - Deutsch: ""Farbe""
+English: ""province"" - Deutsch: ""Provinz""
+English: ""speed"" - Deutsch: ""Geschwindigkeit""
+English: ""summer"" - Deutsch: ""","[6295, 22820, 29903, 317, 6254, 1105]",Sommer,"[31241, 232]",夏,summer
+"English: ""three"" - Deutsch: ""drei""
+English: ""village"" - Deutsch: ""Dorf""
+English: ""wood"" - Deutsch: ""Holz""
+English: ""day"" - Deutsch: ""Tag""
+English: ""sun"" - Deutsch: ""","[6295, 29903, 5791, 317, 1105]",Sonne,"[31430, 236]",阳,sun
+"English: ""valley"" - Deutsch: ""Tal""
+English: ""snow"" - Deutsch: ""Schnee""
+English: ""left"" - Deutsch: ""links""
+English: ""line"" - Deutsch: ""Linie""
+English: ""tail"" - Deutsch: ""","[4421, 29903, 4504, 317, 2522, 1102, 9234]",Schwanz,"[31631, 232]",尾,tail
+"English: ""bag"" - Deutsch: ""Tasche""
+English: ""rice"" - Deutsch: ""Reis""
+English: ""soil"" - Deutsch: ""Boden""
+English: ""thousand"" - Deutsch: ""tausend""
+English: ""talent"" - Deutsch: ""","[29911, 10523, 323, 10288]",Talent,"[31979, 233]",才,talent
+"English: ""star"" - Deutsch: ""Stern""
+English: ""hand"" - Deutsch: ""Hand""
+English: ""face"" - Deutsch: ""Gesicht""
+English: ""thousand"" - Deutsch: ""tausend""
+English: ""tea"" - Deutsch: ""","[29911, 7141, 1920, 323]",Tee,"[31954, 235]",茶,tea
+"English: ""gold"" - Deutsch: ""Gold""
+English: ""eye"" - Deutsch: ""Auge""
+English: ""spring"" - Deutsch: ""Feder""
+English: ""color"" - Deutsch: ""Farbe""
+English: ""ten"" - Deutsch: ""","[29920, 911, 503, 3777]",zehn,"[30802, 232]",十,ten
+"English: ""tea"" - Deutsch: ""Tee""
+English: ""tribe"" - Deutsch: ""Stamm""
+English: ""head"" - Deutsch: ""Kopf""
+English: ""wood"" - Deutsch: ""Holz""
+English: ""thousand"" - Deutsch: ""","[11062, 4722, 941, 260, 29873]",tausend,"[31159, 232]",千,thousand
+"English: ""star"" - Deutsch: ""Stern""
+English: ""water"" - Deutsch: ""Wasser""
+English: ""tribe"" - Deutsch: ""Stamm""
+English: ""spring"" - Deutsch: ""Feder""
+English: ""three"" - Deutsch: ""","[14724, 9697, 7707, 270, 4192, 29881]",drei,"[30457, 231]",三,three
+"English: ""soil"" - Deutsch: ""Boden""
+English: ""foot"" - Deutsch: ""Fuß""
+English: ""defeat"" - Deutsch: ""Niederlage""
+English: ""wood"" - Deutsch: ""Holz""
+English: ""tie"" - Deutsch: ""","[476, 19387, 7365, 29968]",Krawatte,"[31320, 234]",结,tie
+"English: ""two"" - Deutsch: ""zwei""
+English: ""city"" - Deutsch: ""Stadt""
+English: ""judge"" - Deutsch: ""Richter""
+English: ""line"" - Deutsch: ""Linie""
+English: ""time"" - Deutsch: ""","[796, 29999, 24625, 3091, 5347]",Zeit,"[30594, 233]",时,time
+"English: ""kind"" - Deutsch: ""Art""
+English: ""five"" - Deutsch: ""fünf""
+English: ""village"" - Deutsch: ""Dorf""
+English: ""history"" - Deutsch: ""Geschichte""
+English: ""tower"" - Deutsch: ""","[23215, 29911, 5383, 12603, 323]",Turm,"[31831, 232]",塔,tower
+"English: ""cloth"" - Deutsch: ""Tuch""
+English: ""red"" - Deutsch: ""rot""
+English: ""wave"" - Deutsch: ""Welle""
+English: ""foot"" - Deutsch: ""Fuß""
+English: ""tribe"" - Deutsch: ""","[624, 855, 29903, 7434, 317]",Stamm,"[30999, 233]",族,tribe
+"English: ""school"" - Deutsch: ""Schule""
+English: ""river"" - Deutsch: ""Fluss""
+English: ""square"" - Deutsch: ""Quadrat""
+English: ""cloud"" - Deutsch: ""Wolke""
+English: ""two"" - Deutsch: ""","[29920, 7659, 503, 4753, 7325, 5263]",zwei,"[30685, 231]",二,two
+"English: ""seven"" - Deutsch: ""sieben""
+English: ""delete"" - Deutsch: ""löschen""
+English: ""grid"" - Deutsch: ""Gitter""
+English: ""water"" - Deutsch: ""Wasser""
+English: ""valley"" - Deutsch: ""","[29911, 10523, 323, 10288]",Tal,"[31112, 235]",谷,valley
+"English: ""province"" - Deutsch: ""Provinz""
+English: ""face"" - Deutsch: ""Gesicht""
+English: ""station"" - Deutsch: ""Bahnhof""
+English: ""section"" - Deutsch: ""Abschnitt""
+English: ""version"" - Deutsch: ""","[6594, 8980, 10138, 478, 29963, 6565, 10079, 1798]",Version,"[30845, 234]",版,version
+"English: ""defeat"" - Deutsch: ""Niederlage""
+English: ""spring"" - Deutsch: ""Feder""
+English: ""kind"" - Deutsch: ""Art""
+English: ""attempt"" - Deutsch: ""Versuch""
+English: ""village"" - Deutsch: ""","[360, 9579, 17207, 1938, 6132, 29928]",Dorf,"[30402, 233]",村,village
+"English: ""forest"" - Deutsch: ""Wald""
+English: ""ocean"" - Deutsch: ""Ozean""
+English: ""tribe"" - Deutsch: ""Stamm""
+English: ""flower"" - Deutsch: ""Blume""
+English: ""virtue"" - Deutsch: ""","[23215, 29911, 12603, 323]",Tugend,"[31169, 232]",德,virtue
+"English: ""fire"" - Deutsch: ""Feuer""
+English: ""moon"" - Deutsch: ""Mond""
+English: ""summer"" - Deutsch: ""Sommer""
+English: ""history"" - Deutsch: ""Geschichte""
+English: ""water"" - Deutsch: ""","[12547, 16124, 22552, 29956, 399, 29457]",Wasser,"[30716, 233]",水,water
+"English: ""fire"" - Deutsch: ""Feuer""
+English: ""net"" - Deutsch: ""Netz""
+English: ""left"" - Deutsch: ""links""
+English: ""four"" - Deutsch: ""vier""
+English: ""wave"" - Deutsch: ""","[29956, 28862, 11284, 4806, 5674, 1334, 10458, 399]",Welle,"[31529, 233]",波,wave
+"English: ""exchange"" - Deutsch: ""Börse""
+English: ""head"" - Deutsch: ""Kopf""
+English: ""speed"" - Deutsch: ""Geschwindigkeit""
+English: ""talent"" - Deutsch: ""Talent""
+English: ""wood"" - Deutsch: ""","[26211, 4168, 29950, 8335, 19984, 379]",Holz,"[30710, 233]",木,wood
+"English: ""rise"" - Deutsch: ""Anstieg""
+English: ""north"" - Deutsch: ""Norden""
+English: ""source"" - Deutsch: ""Quelle""
+English: ""foot"" - Deutsch: ""Fuß""
+English: ""word"" - Deutsch: ""","[14962, 13824, 19662, 29956, 399]",Wort,"[30578, 232]",字,word

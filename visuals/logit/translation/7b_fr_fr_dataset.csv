@@ -1,696 +1,286 @@
 prompt,out_token_id,out_token_str,latent_token_id,latent_token_str,in_token_str
-"Français: ""例"" - Français: ""例""
-Français: ""南"" - Français: ""南""
-Français: ""木"" - Français: ""木""
-Français: ""洞"" - Français: ""洞""
-Français: ""书"" - Français: """,[31900],书,"[3143, 29890, 289, 833, 1045, 2909]",book,书
-"Français: ""舞"" - Français: ""舞""
-Français: ""网"" - Français: ""网""
-Français: ""友"" - Français: ""友""
-Français: ""花"" - Français: ""花""
-Français: ""云"" - Français: """,[31784],云,"[23642, 9570, 29883, 1067, 15126, 9274, 17184, 274, 695]",cloud,云
-"Français: ""音"" - Français: ""音""
-Français: ""林"" - Français: ""林""
-Français: ""山"" - Français: ""山""
-Français: ""线"" - Français: ""线""
-Français: ""包"" - Français: """,[31473],包,"[19548, 23156, 2291, 29890, 289, 9922]",bag,包
-"Français: ""歌"" - Français: ""歌""
-Français: ""千"" - Français: ""千""
-Français: ""金"" - Français: ""金""
-Français: ""校"" - Français: ""校""
-Français: ""口"" - Français: """,[30856],口,"[13394, 286, 21026, 29885, 29442, 4346, 2730]",mouth,口
-"Français: ""局"" - Français: ""局""
-Français: ""七"" - Français: ""七""
-Français: ""址"" - Français: ""址""
-Français: ""方"" - Français: ""方""
-Français: ""土"" - Français: """,[31181],土,"[269, 22473, 578, 29879, 577]",soil,土
-"Français: ""茶"" - Français: ""茶""
-Français: ""语"" - Français: ""语""
-Français: ""足"" - Français: ""足""
-Français: ""速"" - Français: ""速""
-Français: ""山"" - Français: """,[30329],山,"[16476, 286, 14378, 29442, 29885, 4346, 2730, 5766]",mountain,山
-"Français: ""美"" - Français: ""美""
-Français: ""交"" - Français: ""交""
-Français: ""会"" - Français: ""会""
-Français: ""法"" - Français: ""法""
-Français: ""布"" - Français: """,[31454],布,"[29883, 13950, 1067, 15126, 17184, 274, 695]",cloth,布
-"Français: ""果"" - Français: ""果""
-Français: ""阳"" - Français: ""阳""
-Français: ""九"" - Français: ""九""
-Français: ""起"" - Français: ""起""
-Français: ""心"" - Français: """,[30869],心,"[8293, 540, 5192, 29882, 23057, 298, 354]",heart,心
-"Français: ""址"" - Français: ""址""
-Français: ""金"" - Français: ""金""
-Français: ""口"" - Français: ""口""
-Français: ""村"" - Français: ""村""
-Français: ""手"" - Français: """,[30880],手,"[447, 2350, 5403, 5905, 29882, 1361, 298, 3179]",hand,手
-"Français: ""林"" - Français: ""林""
-Français: ""才"" - Français: ""才""
-Français: ""字"" - Français: ""字""
-Français: ""中"" - Français: ""中""
-Français: ""日"" - Français: """,[30325],日,"[29881, 1388, 270, 1146, 2462, 3250]",day,日
-"Français: ""红"" - Français: ""红""
-Français: ""米"" - Français: ""米""
-Français: ""南"" - Français: ""南""
-Français: ""三"" - Français: ""三""
-Français: ""星"" - Français: """,[30900],星,"[269, 9523, 29879, 380, 303, 5810, 5173, 8508]",star,星
-"Français: ""沙"" - Français: ""沙""
-Français: ""布"" - Français: ""布""
-Français: ""二"" - Français: ""二""
-Français: ""址"" - Français: ""址""
-Français: ""春"" - Français: """,[31031],春,"[269, 29879, 7689, 6709, 805, 1028, 4278, 15099]",spring,春
-"Français: ""心"" - Français: ""心""
-Français: ""发"" - Français: ""发""
-Français: ""种"" - Français: ""种""
-Français: ""歌"" - Français: ""歌""
-Français: ""月"" - Français: """,[30534],月,"[286, 29885, 4346, 2730, 18786]",moon,月
-"Français: ""友"" - Français: ""友""
-Français: ""书"" - Français: ""书""
-Français: ""段"" - Français: ""段""
-Français: ""岩"" - Français: ""岩""
-Français: ""木"" - Français: """,[30710],木,"[29893, 281, 6115, 8879, 827, 8112]",wood,木
-"Français: ""败"" - Français: ""败""
-Français: ""址"" - Français: ""址""
-Français: ""布"" - Français: ""布""
-Français: ""水"" - Français: ""水""
-Français: ""村"" - Français: """,[30402],村,"[3516, 5720, 17191, 4213, 29894, 11928, 21031, 28765, 325, 1403]",village,村
-"Français: ""尾"" - Français: ""尾""
-Français: ""汉"" - Français: ""汉""
-Français: ""茶"" - Français: ""茶""
-Français: ""交"" - Français: ""交""
-Français: ""林"" - Français: """,[30853],林,"[26839, 1181, 29888, 1079, 13569, 1454, 285, 1701, 363]",forest,林
-"Français: ""九"" - Français: ""九""
-Français: ""才"" - Français: ""才""
-Français: ""百"" - Français: ""百""
-Français: ""户"" - Français: ""户""
-Français: ""果"" - Français: """,[30801],果,"[15774, 29888, 1341, 285, 1424]",fruit,果
-"Français: ""二"" - Français: ""二""
-Français: ""例"" - Français: ""例""
-Français: ""双"" - Français: ""双""
-Français: ""花"" - Français: ""花""
-Français: ""格"" - Français: """,[31168],格,"[29887, 330, 7720, 6856, 867, 629]",grid,格
-"Français: ""五"" - Français: ""五""
-Français: ""山"" - Français: ""山""
-Français: ""场"" - Français: ""场""
-Français: ""构"" - Français: ""构""
-Français: ""歌"" - Français: """,[31173],歌,"[269, 1487, 578, 29879, 1100, 4823, 21453, 577]",song,歌
-"Français: ""球"" - Français: ""球""
-Français: ""五"" - Français: ""五""
-Français: ""米"" - Français: ""米""
-Français: ""八"" - Français: ""八""
-Français: ""水"" - Français: """,[30716],水,"[11324, 281, 29893, 13405, 2766, 16699, 4094]",water,水
-"Français: ""局"" - Français: ""局""
-Français: ""心"" - Français: ""心""
-Français: ""网"" - Français: ""网""
-Français: ""户"" - Français: ""户""
-Français: ""汉"" - Français: """,[31593],汉,"[29950, 379, 24704, 7169, 5952]",Han,汉
-"Français: ""二"" - Français: ""二""
-Français: ""三"" - Français: ""三""
-Français: ""星"" - Français: ""星""
-Français: ""址"" - Français: ""址""
-Français: ""池"" - Français: """,[31853],池,"[1129, 282, 1112, 12509, 29886, 2818, 772]",pond,池
-"Français: ""米"" - Français: ""米""
-Français: ""站"" - Français: ""站""
-Français: ""母"" - Français: ""母""
-Français: ""局"" - Français: ""局""
-Français: ""沙"" - Français: """,[31476],沙,"[269, 4977, 29879, 11982, 872, 28455, 9753]",sand,沙
-"Français: ""美"" - Français: ""美""
-Français: ""址"" - Français: ""址""
-Français: ""地"" - Français: ""地""
-Français: ""局"" - Français: ""局""
-Français: ""河"" - Français: """,[30828],河,"[29878, 364, 8580, 3511, 9050, 374, 10107, 1150, 4401]",river,河
-"Français: ""八"" - Français: ""八""
-Français: ""洋"" - Français: ""洋""
-Français: ""台"" - Français: ""台""
-Français: ""河"" - Français: ""河""
-Français: ""法"" - Français: """,[30545],法,"[433, 301, 10653, 4307, 29880, 425]",law,法
-"Français: ""段"" - Français: ""段""
-Français: ""判"" - Français: ""判""
-Français: ""网"" - Français: ""网""
-Français: ""日"" - Français: ""日""
-Français: ""波"" - Français: """,[31529],波,"[11324, 29893, 281, 10742, 2766, 27766]",wave,波
-"Français: ""目"" - Français: ""目""
-Français: ""格"" - Français: ""格""
-Français: ""屋"" - Français: ""屋""
-Français: ""试"" - Français: ""试""
-Français: ""洋"" - Français: """,[31534],洋,"[542, 12954, 288, 23474, 29877, 25802]",ocean,洋
-"Français: ""结"" - Français: ""结""
-Français: ""网"" - Français: ""网""
-Français: ""删"" - Français: ""删""
-Français: ""林"" - Français: ""林""
-Français: ""洞"" - Français: """,[31886],洞,"[5777, 1113, 29883, 18346, 24230, 274]",cave,洞
-"Français: ""七"" - Français: ""七""
-Français: ""北"" - Français: ""北""
-Français: ""删"" - Français: ""删""
-Français: ""意"" - Français: ""意""
-Français: ""海"" - Français: """,[30581],海,"[269, 344, 7205, 29879, 409]",sea,海
-"Français: ""门"" - Français: ""门""
-Français: ""例"" - Français: ""例""
-Français: ""户"" - Français: ""户""
-Français: ""光"" - Français: ""光""
-Français: ""湖"" - Français: """,[31496],湖,"[18170, 433, 301, 19437, 24591, 29880, 425]",lake,湖
-"Français: ""回"" - Français: ""回""
-Français: ""部"" - Français: ""部""
-Français: ""黄"" - Français: ""黄""
-Français: ""海"" - Français: ""海""
-Français: ""源"" - Français: """,[31193],源,"[269, 578, 29879, 2752, 4993, 3669, 577]",source,源
-"Français: ""场"" - Français: ""场""
-Français: ""五"" - Français: ""五""
-Français: ""种"" - Français: ""种""
-Français: ""汉"" - Français: ""汉""
-Français: ""火"" - Français: """,[31313],火,"[7241, 8696, 3974, 29888, 13734, 5713, 28034, 285]",fire,火
-"Français: ""南"" - Français: ""南""
-Français: ""男"" - Français: ""男""
-Français: ""七"" - Français: ""七""
-Français: ""时"" - Français: ""时""
-Français: ""点"" - Français: """,[30940],点,"[11899, 1129, 282, 3149, 29886, 1298, 772]",point,点
-"Français: ""校"" - Français: ""校""
-Français: ""黄"" - Français: ""黄""
-Français: ""方"" - Français: ""方""
-Français: ""地"" - Français: ""地""
-Français: ""版"" - Français: """,[30845],版,"[1147, 874, 29894, 3259, 345, 1873, 325, 369, 2453, 1224]",version,版
-"Français: ""群"" - Français: ""群""
-Français: ""岩"" - Français: ""岩""
-Français: ""米"" - Français: ""米""
-Français: ""进"" - Français: ""进""
-Français: ""球"" - Français: """,[31539],球,"[2135, 2291, 29890, 289, 5521, 8287, 6411, 9922]",ball,球
-"Français: ""湖"" - Français: ""湖""
-Français: ""段"" - Français: ""段""
-Français: ""岩"" - Français: ""岩""
-Français: ""座"" - Français: ""座""
-Français: ""画"" - Français: """,[31046],画,"[10675, 282, 20413, 3274, 29886, 6788, 3300]",painting,画
-"Français: ""山"" - Français: ""山""
-Français: ""南"" - Français: ""南""
-Français: ""平"" - Français: ""平""
-Français: ""时"" - Français: ""时""
-Français: ""站"" - Français: """,[31433],站,"[269, 9523, 23436, 29879, 380, 1002, 303, 5073, 6112, 19569, 5173]",station,站
-"Français: ""门"" - Français: ""门""
-Français: ""母"" - Français: ""母""
-Français: ""桥"" - Français: ""桥""
-Français: ""足"" - Français: ""足""
-Français: ""米"" - Français: """,[31902],米,"[29878, 11674, 364, 9597, 374, 2200, 10107, 19408]",rice,米
-"Français: ""桥"" - Français: ""桥""
-Français: ""回"" - Français: ""回""
-Français: ""米"" - Français: ""米""
-Français: ""头"" - Français: ""头""
-Français: ""红"" - Français: """,[31869],红,"[2654, 29878, 364, 1127, 337, 276]",red,红
-"Français: ""例"" - Français: ""例""
-Français: ""布"" - Français: ""布""
-Français: ""画"" - Français: ""画""
-Français: ""点"" - Français: ""点""
-Français: ""线"" - Français: """,[31532],线,"[1220, 492, 6276, 301, 1196, 619, 1915, 29880]",line,线
-"Français: ""中"" - Français: ""中""
-Français: ""八"" - Français: ""八""
-Français: ""机"" - Français: ""机""
-Français: ""省"" - Français: ""省""
-Français: ""网"" - Français: """,[31222],网,"[29876, 1212, 452, 7787, 484, 302]",net,网
-"Français: ""德"" - Français: ""德""
-Français: ""版"" - Français: ""版""
-Français: ""手"" - Français: ""手""
-Français: ""源"" - Français: ""源""
-Français: ""花"" - Français: """,[30830],花,"[1579, 5685, 29888, 1652, 28149, 285, 4972, 1731]",flower,花
-"Français: ""桥"" - Français: ""桥""
-Français: ""格"" - Français: ""格""
-Français: ""回"" - Français: ""回""
-Français: ""村"" - Français: ""村""
-Français: ""茶"" - Français: """,[31954],茶,"[260, 23429, 734, 29873, 371]",tea,茶
-"Français: ""七"" - Français: ""七""
-Français: ""时"" - Français: ""时""
-Français: ""南"" - Français: ""南""
-Français: ""湖"" - Français: ""湖""
-Français: ""足"" - Français: """,[31722],足,"[1181, 29888, 3661, 7953, 285, 5431, 1701, 6661]",foot,足
-"Français: ""包"" - Français: ""包""
-Français: ""百"" - Français: ""百""
-Français: ""色"" - Français: ""色""
-Français: ""十"" - Français: ""十""
-Français: ""金"" - Français: """,[30659],金,"[29887, 330, 1484, 748, 7684, 15192]",gold,金
-"Français: ""地"" - Français: ""地""
-Français: ""电"" - Français: ""电""
-Français: ""判"" - Français: ""判""
-Français: ""位"" - Français: ""位""
-Français: ""门"" - Français: """,[31649],门,"[29881, 17433, 3050, 270, 1867, 437]",door,门
-"Français: ""口"" - Français: ""口""
-Français: ""日"" - Français: ""日""
-Français: ""春"" - Français: ""春""
-Français: ""书"" - Français: ""书""
-Français: ""雪"" - Français: """,[31731],雪,"[269, 29879, 5807, 15007, 16586]",snow,雪
-"Français: ""点"" - Français: ""点""
-Français: ""部"" - Français: ""部""
-Français: ""米"" - Français: ""米""
-Français: ""子"" - Français: ""子""
-Français: ""马"" - Français: """,[31530],马,"[11231, 5089, 2015, 1251, 29882, 4029, 10435, 298]",horse,马
-"Français: ""平"" - Français: ""平""
-Français: ""人"" - Français: ""人""
-Français: ""色"" - Français: ""色""
-Français: ""歌"" - Français: ""歌""
-Français: ""黄"" - Français: """,[31491],黄,"[4099, 8007, 13328, 343, 29891, 29136]",yellow,黄
-"Français: ""族"" - Français: ""族""
-Français: ""马"" - Français: ""马""
-Français: ""才"" - Français: ""才""
-Français: ""门"" - Français: ""门""
-Français: ""白"" - Français: """,[30868],白,"[281, 4796, 29893, 1332, 10921, 377]",white,白
-"Français: ""河"" - Français: ""河""
-Français: ""发"" - Français: ""发""
-Français: ""马"" - Français: ""马""
-Français: ""水"" - Français: ""水""
-Français: ""一"" - Français: """,[30287],一,"[265, 288, 697, 373, 29877, 650]",one,一
-"Français: ""土"" - Français: ""土""
-Français: ""池"" - Français: ""池""
-Français: ""字"" - Français: ""字""
-Français: ""速"" - Français: ""速""
-Français: ""二"" - Français: """,[30685],二,"[7516, 260, 3252, 1023, 29873, 10184]",two,二
-"Français: ""金"" - Français: ""金""
-Français: ""土"" - Français: ""土""
-Français: ""才"" - Français: ""才""
-Français: ""黄"" - Français: ""黄""
-Français: ""三"" - Français: """,[30457],三,"[2211, 266, 260, 17536, 29873, 12455, 1468, 386]",three,三
-"Français: ""话"" - Français: ""话""
-Français: ""六"" - Français: ""六""
-Français: ""面"" - Français: ""面""
-Français: ""水"" - Français: ""水""
-Français: ""四"" - Français: """,[30928],四,"[1181, 17823, 29888, 3023, 12584, 285, 1701]",four,四
-"Français: ""心"" - Français: ""心""
-Français: ""桥"" - Français: ""桥""
-Français: ""头"" - Français: ""头""
-Français: ""色"" - Français: ""色""
-Français: ""五"" - Français: """,[30904],五,"[7241, 29888, 20818, 5713, 285, 5320]",five,五
-"Français: ""部"" - Français: ""部""
-Français: ""版"" - Français: ""版""
-Français: ""波"" - Français: ""波""
-Français: ""速"" - Français: ""速""
-Français: ""六"" - Français: """,[31304],六,"[269, 1354, 29879, 1039, 4832, 28319]",six,六
-"Français: ""点"" - Français: ""点""
-Français: ""败"" - Français: ""败""
-Français: ""址"" - Français: ""址""
-Français: ""种"" - Français: ""种""
-Français: ""七"" - Français: """,[31425],七,"[269, 29879, 344, 409, 9881]",seven,七
-"Français: ""项"" - Français: ""项""
-Français: ""会"" - Français: ""会""
-Français: ""方"" - Français: ""方""
-Français: ""木"" - Français: ""木""
-Français: ""八"" - Français: """,[31044],八,"[10096, 9475, 15761, 29872, 29319, 321]",eight,八
-"Français: ""局"" - Français: ""局""
-Français: ""果"" - Français: ""果""
-Français: ""目"" - Français: ""目""
-Français: ""回"" - Français: ""回""
-Français: ""九"" - Français: """,[31321],九,"[17081, 29876, 6836, 1240, 302, 14183]",nine,九
-"Français: ""版"" - Français: ""版""
-Français: ""山"" - Français: ""山""
-Français: ""岩"" - Français: ""岩""
-Français: ""心"" - Français: ""心""
-Français: ""十"" - Français: """,[30802],十,"[260, 734, 29873, 3006, 371, 841]",ten,十
-"Français: ""千"" - Français: ""千""
-Français: ""百"" - Français: ""百""
-Français: ""书"" - Français: ""书""
-Français: ""沙"" - Français: ""沙""
-Français: ""头"" - Français: """,[31584],头,"[2343, 540, 29882, 2813, 298, 354]",head,头
-"Français: ""汉"" - Français: ""汉""
-Français: ""项"" - Français: ""项""
-Français: ""三"" - Français: ""三""
-Français: ""画"" - Français: ""画""
-Français: ""店"" - Français: """,[31758],店,"[269, 17394, 29879, 528, 18296, 845, 19032]",shop,店
-"Français: ""电"" - Français: ""电""
-Français: ""木"" - Français: ""木""
-Français: ""花"" - Français: ""花""
-Français: ""男"" - Français: ""男""
-Français: ""条"" - Français: """,[31217],条,"[269, 29879, 380, 10076, 303, 17820, 17010, 851, 710]",strip,条
-"Français: ""局"" - Français: ""局""
-Français: ""人"" - Français: ""人""
-Français: ""速"" - Français: ""速""
-Français: ""阳"" - Français: ""阳""
-Français: ""街"" - Français: """,[30813],街,"[12243, 269, 11952, 13045, 29879, 380, 303, 29352, 851, 710]",street,街
-"Français: ""户"" - Français: ""户""
-Français: ""黄"" - Français: ""黄""
-Français: ""三"" - Français: ""三""
-Français: ""双"" - Français: ""双""
-Français: ""部"" - Français: """,[30636],部,"[1595, 760, 862, 282, 3274, 29886, 610, 3300]",part,部
-"Français: ""八"" - Français: ""八""
-Français: ""沙"" - Français: ""沙""
-Français: ""美"" - Français: ""美""
-Français: ""格"" - Français: ""格""
-Français: ""目"" - Français: """,[30895],目,"[1032, 29872, 10977, 321]",eye,目
-"Français: ""条"" - Français: ""条""
-Français: ""版"" - Français: ""版""
-Français: ""汉"" - Français: ""汉""
-Français: ""岩"" - Français: ""岩""
-Français: ""场"" - Français: """,[31632],场,"[7241, 29607, 1746, 29888, 5713, 285, 2671]",field,场
-"Français: ""网"" - Français: ""网""
-Français: ""左"" - Français: ""左""
-Français: ""舞"" - Français: ""舞""
-Français: ""种"" - Français: ""种""
-Français: ""址"" - Français: """,[31702],址,"[7845, 269, 29879, 1039, 2746, 3268, 1354]",site,址
-"Français: ""史"" - Français: ""史""
-Français: ""布"" - Français: ""布""
-Français: ""北"" - Français: ""北""
-Français: ""屋"" - Français: ""屋""
-Français: ""意"" - Français: """,[31474],意,"[286, 592, 1004, 2099, 29885, 6593, 12676]",meaning,意
-"Français: ""局"" - Français: ""局""
-Français: ""败"" - Français: ""败""
-Français: ""沙"" - Français: ""沙""
-Français: ""方"" - Français: ""方""
-Français: ""舞"" - Français: """,[31939],舞,"[29881, 17948, 1388, 270, 1146, 6025, 18386]",dance,舞
-"Français: ""五"" - Français: ""五""
-Français: ""春"" - Français: ""春""
-Français: ""才"" - Français: ""才""
-Français: ""速"" - Français: ""速""
-Français: ""字"" - Français: """,[30578],字,"[6365, 29893, 281, 13762, 1734, 8879, 827, 1742]",word,字
-"Français: ""河"" - Français: ""河""
-Français: ""洋"" - Français: ""洋""
-Français: ""方"" - Français: ""方""
-Français: ""海"" - Français: ""海""
-Français: ""双"" - Français: """,[31960],双,"[5101, 282, 18784, 3274, 29886, 3300]",pair,双
-"Français: ""话"" - Français: ""话""
-Français: ""火"" - Français: ""火""
-Français: ""校"" - Français: ""校""
-Français: ""网"" - Français: ""网""
-Français: ""座"" - Français: """,[31780],座,"[269, 29879, 7205, 344, 12949, 409]",seat,座
-"Français: ""池"" - Français: ""池""
-Français: ""场"" - Français: ""场""
-Français: ""音"" - Français: ""音""
-Français: ""平"" - Français: ""平""
-Français: ""光"" - Français: """,[30867],光,"[3578, 492, 301, 14172, 619, 29880, 3473, 4366]",light,光
-"Français: ""土"" - Français: ""土""
-Français: ""发"" - Français: ""发""
-Français: ""法"" - Français: ""法""
-Français: ""门"" - Français: ""门""
-Français: ""千"" - Français: """,[31159],千,"[266, 260, 12595, 7693, 10405, 29873, 386]",thousand,千
-"Français: ""速"" - Français: ""速""
-Français: ""塔"" - Français: ""塔""
-Français: ""左"" - Français: ""左""
-Français: ""德"" - Français: ""德""
-Français: ""北"" - Français: """,[30662],北,"[3643, 29876, 15459, 1217, 302, 694, 6641]",north,北
-"Français: ""方"" - Français: ""方""
-Français: ""木"" - Français: ""木""
-Français: ""洞"" - Français: ""洞""
-Français: ""进"" - Français: ""进""
-Français: ""机"" - Français: """,[31429],机,"[286, 23523, 4933, 29885, 655, 611, 5825, 7672, 8628]",machine,机
-"Français: ""官"" - Français: ""官""
-Français: ""千"" - Français: ""千""
-Français: ""心"" - Français: ""心""
-Français: ""土"" - Français: ""土""
-Français: ""时"" - Français: """,[30594],时,"[260, 931, 2230, 5335, 9346, 19538, 29873, 2034]",time,时
-"Français: ""败"" - Français: ""败""
-Français: ""夏"" - Français: ""夏""
-Français: ""村"" - Français: ""村""
-Français: ""百"" - Français: ""百""
-Français: ""利"" - Français: """,[31107],利,"[367, 3856, 13982, 7795, 1785, 29890, 289, 915, 14169]",benefit,利
-"Français: ""村"" - Français: ""村""
-Français: ""机"" - Français: ""机""
-Français: ""平"" - Français: ""平""
-Français: ""城"" - Français: ""城""
-Français: ""位"" - Français: """,[30956],位,"[1129, 2602, 3283, 1066, 282, 926, 772, 29886, 13686]",position,位
-"Français: ""金"" - Français: ""金""
-Français: ""删"" - Français: ""删""
-Français: ""布"" - Français: ""布""
-Français: ""街"" - Français: ""街""
-Français: ""省"" - Français: """,[31600],省,"[1326, 544, 8482, 558, 16123, 282, 12291, 410, 29886, 771]",province,省
-"Français: ""街"" - Français: ""街""
-Français: ""种"" - Français: ""种""
-Français: ""电"" - Français: ""电""
-Français: ""子"" - Français: ""子""
-Français: ""交"" - Français: """,[31398],交,"[6543, 14523, 735, 5566, 29872, 321, 429]",exchange,交
-"Français: ""色"" - Français: ""色""
-Français: ""户"" - Français: ""户""
-Français: ""站"" - Français: ""站""
-Français: ""判"" - Français: ""判""
-Français: ""中"" - Français: """,[30275],中,"[6563, 2460, 17662, 286, 7145, 29885, 3737, 7256]",middle,中
-"Français: ""手"" - Français: ""手""
-Français: ""九"" - Français: ""九""
-Français: ""米"" - Français: ""米""
-Français: ""夏"" - Français: ""夏""
-Français: ""友"" - Français: """,[31373],友,"[7932, 29888, 3484, 1341, 285, 5121, 1424, 18326]",friend,友
-"Français: ""左"" - Français: ""左""
-Français: ""段"" - Français: ""段""
-Français: ""进"" - Français: ""进""
-Français: ""子"" - Français: ""子""
-Français: ""色"" - Français: """,[31085],色,"[1302, 10965, 29883, 784, 1111, 1054, 274, 2927, 2780]",color,色
-"Français: ""金"" - Français: ""金""
-Français: ""线"" - Français: ""线""
-Français: ""木"" - Français: ""木""
-Français: ""色"" - Français: ""色""
-Français: ""种"" - Français: """,[31893],种,"[9089, 2924, 14380, 1984, 29895, 413, 19015, 8506]",kind,种
-"Français: ""洋"" - Français: ""洋""
-Français: ""位"" - Français: ""位""
-Français: ""足"" - Français: ""足""
-Français: ""美"" - Français: ""美""
-Français: ""判"" - Français: """,[31791],判,"[29926, 432, 17675, 4900, 6577, 3623, 16833]",judge,判
-"Français: ""址"" - Français: ""址""
-Français: ""云"" - Français: ""云""
-Français: ""友"" - Français: ""友""
-Français: ""汉"" - Français: ""汉""
-Français: ""校"" - Français: """,[31071],校,"[269, 1364, 29879, 3762, 27041, 885, 1557, 816]",school,校
-"Français: ""云"" - Français: ""云""
-Français: ""沙"" - Français: ""沙""
-Français: ""力"" - Français: ""力""
-Français: ""站"" - Français: ""站""
-Français: ""构"" - Français: """,[31901],构,"[269, 3829, 29879, 23905, 380, 4984, 303, 2281, 10582, 710, 851, 6220]",structure,构
-"Français: ""省"" - Français: ""省""
-Français: ""色"" - Français: ""色""
-Français: ""月"" - Français: ""月""
-Français: ""种"" - Français: ""种""
-Français: ""结"" - Français: """,[31320],结,"[260, 19538, 29873, 22134, 2034]",tie,结
-"Français: ""电"" - Français: ""电""
-Français: ""地"" - Français: ""地""
-Français: ""洋"" - Français: ""洋""
-Français: ""屋"" - Français: ""屋""
-Français: ""例"" - Français: """,[31507],例,"[4392, 4773, 1342, 735, 29872, 321, 429]",example,例
-"Français: ""谷"" - Français: ""谷""
-Français: ""包"" - Français: ""包""
-Français: ""群"" - Français: ""群""
-Français: ""八"" - Français: ""八""
-Français: ""面"" - Français: """,[30806],面,"[5444, 3700, 29888, 17470, 4024, 285, 2161, 2258]",face,面
-"Français: ""族"" - Français: ""族""
-Français: ""群"" - Français: ""群""
-Français: ""东"" - Français: ""东""
-Français: ""七"" - Français: ""七""
-Français: ""桥"" - Français: """,[31749],桥,"[28635, 12945, 18419, 19515, 29890, 289, 1182, 1506]",bridge,桥
-"Français: ""部"" - Français: ""部""
-Français: ""四"" - Français: ""四""
-Français: ""屋"" - Français: ""屋""
-Français: ""色"" - Français: ""色""
-Français: ""项"" - Français: """,[31888],项,"[277, 568, 474, 29875, 667, 2944, 372]",item,项
-"Français: ""岩"" - Français: ""岩""
-Français: ""十"" - Français: ""十""
-Français: ""点"" - Français: ""点""
-Français: ""法"" - Français: ""法""
-Français: ""删"" - Français: """,[31916],删,"[29881, 311, 7374, 6144, 8143, 628, 316, 270, 5217]",delete,删
-"Français: ""三"" - Français: ""三""
-Français: ""村"" - Français: ""村""
-Français: ""画"" - Français: ""画""
-Français: ""字"" - Français: ""字""
-Français: ""群"" - Français: """,[31829],群,"[2318, 17170, 29887, 330, 4071, 867, 629, 2972]",group,群
-"Français: ""金"" - Français: ""金""
-Français: ""红"" - Français: ""红""
-Français: ""人"" - Français: ""人""
-Français: ""男"" - Français: ""男""
-Français: ""才"" - Français: """,[31979],才,"[260, 5969, 29873, 11062, 17694, 20411, 24242, 941]",talent,才
-"Français: ""败"" - Français: ""败""
-Français: ""千"" - Français: ""千""
-Français: ""湖"" - Français: ""湖""
-Français: ""头"" - Français: ""头""
-Français: ""美"" - Français: """,[30630],美,"[6562, 367, 15409, 29890, 289, 915]",beauty,美
-"Français: ""白"" - Français: ""白""
-Français: ""岩"" - Français: ""岩""
-Français: ""座"" - Français: ""座""
-Français: ""人"" - Français: ""人""
-Français: ""台"" - Français: """,[31037],台,"[7481, 12120, 282, 572, 2174, 715, 18870, 13974, 29886]",platform,台
-"Français: ""果"" - Français: ""果""
-Français: ""目"" - Français: ""目""
-Français: ""种"" - Français: ""种""
-Français: ""阳"" - Français: ""阳""
-Français: ""屋"" - Français: """,[31654],屋,"[1251, 3699, 29882, 9261, 5089, 8697, 298, 10774]",house,屋
-"Français: ""平"" - Français: ""平""
-Français: ""千"" - Français: ""千""
-Français: ""法"" - Français: ""法""
-Français: ""构"" - Français: ""构""
-Français: ""阳"" - Français: """,[31430],阳,"[269, 480, 29879, 2146, 6575, 11445]",sun,阳
-"Français: ""岩"" - Français: ""岩""
-Français: ""构"" - Français: ""构""
-Français: ""街"" - Français: ""街""
-Français: ""谷"" - Français: ""谷""
-Français: ""会"" - Français: """,[30437],会,"[17897, 286, 592, 1004, 29885, 5870, 11781]",meeting,会
-"Français: ""雪"" - Français: ""雪""
-Français: ""平"" - Français: ""平""
-Français: ""屋"" - Français: ""屋""
-Français: ""德"" - Français: ""德""
-Français: ""史"" - Français: """,[30911],史,"[670, 22880, 3603, 4955, 2918, 9825, 29882, 16211, 18434, 298, 7251]",history,史
-"Français: ""史"" - Français: ""史""
-Français: ""光"" - Français: ""光""
-Français: ""男"" - Français: ""男""
-Français: ""土"" - Français: ""土""
-Français: ""谷"" - Français: """,[31112],谷,"[28519, 29894, 791, 2947, 19599, 1564, 325, 659, 22044]",valley,谷
-"Français: ""男"" - Français: ""男""
-Français: ""点"" - Français: ""点""
-Français: ""地"" - Français: ""地""
-Français: ""夏"" - Français: ""夏""
-Français: ""方"" - Français: """,[30525],方,"[269, 6862, 29879, 3044, 17619, 10674, 18074, 26613]",square,方
-"Français: ""项"" - Français: ""项""
-Français: ""春"" - Français: ""春""
-Français: ""试"" - Français: ""试""
-Français: ""座"" - Français: ""座""
-Français: ""代"" - Français: """,[30690],代,"[330, 1176, 1885, 2531, 18530, 1737, 479, 29887, 12623, 4738]",generation,代
-"Français: ""金"" - Français: ""金""
-Français: ""海"" - Français: ""海""
-Français: ""母"" - Français: ""母""
-Français: ""平"" - Français: ""平""
-Français: ""南"" - Français: """,[30601],南,"[269, 578, 29879, 3669, 577, 13267, 7062]",south,南
-"Français: ""日"" - Français: ""日""
-Français: ""地"" - Français: ""地""
-Français: ""删"" - Français: ""删""
-Français: ""北"" - Français: ""北""
-Français: ""德"" - Français: """,[31169],德,"[3516, 10636, 27935, 29894, 2405, 15389, 325, 4610, 1403]",virtue,德
-"Français: ""尾"" - Français: ""尾""
-Français: ""书"" - Français: ""书""
-Français: ""千"" - Français: ""千""
-Français: ""花"" - Français: ""花""
-Français: ""族"" - Français: """,[30999],族,"[260, 3367, 509, 29563, 534, 3626, 29873, 9434]",tribe,族
-"Français: ""街"" - Français: ""街""
-Français: ""白"" - Français: ""白""
-Français: ""源"" - Français: ""源""
-Français: ""座"" - Français: ""座""
-Français: ""城"" - Français: """,[30626],城,"[4583, 455, 7537, 29883, 4272, 20752, 12690, 274]",city,城
-"Français: ""发"" - Français: ""发""
-Français: ""地"" - Français: ""地""
-Français: ""花"" - Français: ""花""
-Français: ""河"" - Français: ""河""
-Français: ""语"" - Français: """,[31505],语,"[3893, 6361, 433, 6468, 4086, 301, 11675, 10906, 29880, 425]",language,语
-"Français: ""项"" - Français: ""项""
-Français: ""子"" - Français: ""子""
-Français: ""黄"" - Français: ""黄""
-Français: ""九"" - Français: ""九""
-Français: ""速"" - Français: """,[31859],速,"[269, 961, 29879, 5965, 1028, 6210, 805, 19322]",speed,速
-"Français: ""四"" - Français: ""四""
-Français: ""八"" - Français: ""八""
-Français: ""户"" - Français: ""户""
-Français: ""音"" - Français: ""音""
-Français: ""地"" - Français: """,[30533],地,"[17170, 29887, 330, 4071, 2057, 867, 5962, 629]",ground,地
-"Français: ""德"" - Français: ""德""
-Français: ""地"" - Français: ""地""
-Français: ""利"" - Français: ""利""
-Français: ""画"" - Français: ""画""
-Français: ""进"" - Français: """,[31174],进,"[594, 6564, 328, 263, 3061, 17263, 29874]",advance,进
-"Français: ""河"" - Français: ""河""
-Français: ""茶"" - Français: ""茶""
-Français: ""红"" - Français: ""红""
-Français: ""门"" - Français: ""门""
-Français: ""试"" - Français: """,[31787],试,"[21609, 1131, 263, 1098, 472, 15127, 4218, 271, 29874]",attempt,试
-"Français: ""河"" - Français: ""河""
-Français: ""花"" - Français: ""花""
-Français: ""字"" - Français: ""字""
-Français: ""回"" - Français: ""回""
-Français: ""败"" - Français: """,[31955],败,"[29881, 311, 1753, 20653, 8686, 316, 270, 822]",defeat,败
-"Français: ""屋"" - Français: ""屋""
-Français: ""交"" - Français: ""交""
-Français: ""法"" - Français: ""法""
-Français: ""判"" - Français: ""判""
-Français: ""尾"" - Français: """,[31631],尾,"[260, 18237, 29873, 11062, 941, 12464]",tail,尾
-"Français: ""网"" - Français: ""网""
-Français: ""云"" - Français: ""云""
-Français: ""电"" - Français: ""电""
-Français: ""谷"" - Français: ""谷""
-Français: ""母"" - Français: """,[31763],母,"[14817, 286, 3184, 25550, 5637, 29885, 4346, 2730]",mother,母
-"Français: ""德"" - Français: ""德""
-Français: ""例"" - Français: ""例""
-Français: ""左"" - Français: ""左""
-Français: ""桥"" - Français: ""桥""
-Français: ""东"" - Français: """,[30979],东,"[11248, 9755, 23027, 2240, 29872, 321]",east,东
-"Français: ""五"" - Français: ""五""
-Français: ""火"" - Français: ""火""
-Français: ""败"" - Français: ""败""
-Français: ""判"" - Français: ""判""
-Français: ""回"" - Français: """,[30742],回,"[2457, 29878, 364, 3240, 337, 2267, 736, 276]",return,回
-"Français: ""土"" - Français: ""土""
-Français: ""法"" - Français: ""法""
-Français: ""男"" - Français: ""男""
-Français: ""色"" - Français: ""色""
-Français: ""话"" - Français: """,[31852],话,"[269, 12032, 961, 29879, 5965, 1028, 805]",speech,话
-"Français: ""马"" - Français: ""马""
-Français: ""点"" - Français: ""点""
-Français: ""光"" - Français: ""光""
-Français: ""结"" - Français: ""结""
-Français: ""子"" - Français: """,[30319],子,"[305, 5145, 29883, 521, 2278, 274, 18558, 4161]",child,子
-"Français: ""心"" - Français: ""心""
-Français: ""花"" - Français: ""花""
-Français: ""阳"" - Français: ""阳""
-Français: ""美"" - Français: ""美""
-Français: ""塔"" - Français: """,[31831],塔,"[19372, 260, 29873, 304, 517]",tower,塔
-"Français: ""友"" - Français: ""友""
-Français: ""判"" - Français: ""判""
-Français: ""源"" - Français: ""源""
-Français: ""男"" - Français: ""男""
-Français: ""发"" - Français: """,[30910],发,"[447, 23535, 11315, 2350, 29882, 298]",hair,发
-"Français: ""一"" - Français: ""一""
-Français: ""白"" - Français: ""白""
-Français: ""语"" - Français: ""语""
-Français: ""德"" - Français: ""德""
-Français: ""平"" - Français: """,[30606],平,"[1579, 17422, 29888, 1652, 285, 12151, 20620]",flat,平
-"Français: ""春"" - Français: ""春""
-Français: ""画"" - Français: ""画""
-Français: ""千"" - Français: ""千""
-Français: ""金"" - Français: ""金""
-Français: ""男"" - Français: """,[31203],男,"[4439, 286, 29885, 14263, 655, 611, 19202, 5156]",male,男
-"Français: ""七"" - Français: ""七""
-Français: ""花"" - Français: ""花""
-Français: ""地"" - Français: ""地""
-Français: ""心"" - Français: ""心""
-Français: ""电"" - Français: """,[31679],电,"[4552, 6146, 3546, 15436, 295, 29872, 560, 321, 12646]",electric,电
-"Français: ""星"" - Français: ""星""
-Français: ""头"" - Français: ""头""
-Français: ""沙"" - Français: ""沙""
-Français: ""十"" - Français: ""十""
-Français: ""户"" - Français: """,[31229],户,"[1251, 22329, 3699, 29882, 9261, 5089, 8697, 298, 10774]",household,户
-"Français: ""站"" - Français: ""站""
-Français: ""平"" - Français: ""平""
-Français: ""力"" - Français: ""力""
-Français: ""版"" - Français: ""版""
-Français: ""人"" - Français: """,[30313],人,"[10532, 412, 6774, 282, 1236, 3736, 639, 546, 2022, 29886]",person,人
-"Français: ""百"" - Français: ""百""
-Français: ""败"" - Français: ""败""
-Français: ""座"" - Français: ""座""
-Français: ""一"" - Français: ""一""
-Français: ""段"" - Français: """,[31559],段,"[269, 5226, 29879, 344, 2042, 8803, 409, 4004, 3471, 21149]",section,段
-"Français: ""果"" - Français: ""果""
-Français: ""起"" - Français: ""起""
-Français: ""线"" - Français: ""线""
-Français: ""址"" - Français: ""址""
-Français: ""官"" - Français: """,[31694],官,"[288, 3344, 6221, 29158, 1283, 2696, 29877, 310, 974]",official,官
-"Français: ""判"" - Français: ""判""
-Français: ""东"" - Français: ""东""
-Français: ""线"" - Français: ""线""
-Français: ""十"" - Français: ""十""
-Français: ""百"" - Français: """,[31047],百,"[9074, 6893, 22888, 6905, 29882, 298]",hundred,百
-"Français: ""目"" - Français: ""目""
-Français: ""方"" - Français: ""方""
-Français: ""洞"" - Français: ""洞""
-Français: ""友"" - Français: ""友""
-Français: ""局"" - Français: """,[31655],局,"[288, 20205, 3344, 1283, 29877, 2696, 8034, 310, 974]",office,局
-"Français: ""夏"" - Français: ""夏""
-Français: ""月"" - Français: ""月""
-Français: ""湖"" - Français: ""湖""
-Français: ""沙"" - Français: ""沙""
-Français: ""岩"" - Français: """,[31753],岩,"[29878, 10198, 364, 307, 696, 7679, 20821]",rock,岩
-"Français: ""线"" - Français: ""线""
-Français: ""法"" - Français: ""法""
-Français: ""删"" - Français: ""删""
-Français: ""电"" - Français: ""电""
-Français: ""起"" - Français: """,[31558],起,"[3780, 29878, 364, 374, 10107, 14451, 5161]",rise,起
-"Français: ""方"" - Français: ""方""
-Français: ""舞"" - Français: ""舞""
-Français: ""马"" - Français: ""马""
-Français: ""黄"" - Français: ""黄""
-Français: ""左"" - Français: """,[31651],左,"[2175, 25874, 454, 301, 1563, 29880, 280]",left,左
-"Français: ""海"" - Français: ""海""
-Français: ""线"" - Français: ""线""
-Français: ""阳"" - Français: ""阳""
-Français: ""花"" - Français: ""花""
-Français: ""音"" - Français: """,[30941],音,"[269, 578, 29879, 3669, 577, 6047, 29802]",sound,音
-"Français: ""池"" - Français: ""池""
-Français: ""店"" - Français: ""店""
-Français: ""星"" - Français: ""星""
-Français: ""法"" - Français: ""法""
-Français: ""力"" - Français: """,[31074],力,"[1129, 282, 3081, 12248, 4764, 13519, 29886, 772]",power,力
-"Français: ""星"" - Français: ""星""
-Français: ""话"" - Français: ""话""
-Français: ""火"" - Français: ""火""
-Français: ""九"" - Français: ""九""
-Français: ""夏"" - Français: """,[31241],夏,"[269, 480, 29879, 2146, 2083, 11801, 22792, 2533]",summer,夏
+"Français: ""exemple"" - Français: ""exemple""
+Français: ""huit"" - Français: ""huit""
+Français: ""gauche"" - Français: ""gauche""
+Français: ""océan"" - Français: ""océan""
+Français: ""nuage"" - Français: ""","[4948, 302, 29876, 3433]",nuage,"[9570, 274, 1067, 9274, 29883, 23642, 17184, 15126, 695]",cloud,nuage
+"Français: ""ville"" - Français: ""ville""
+Français: ""quatre"" - Français: ""quatre""
+Français: ""supprimer"" - Français: ""supprimer""
+Français: ""temps"" - Français: ""temps""
+Français: ""sac"" - Français: ""","[29879, 872, 4977, 7067, 269]",sac,"[2291, 23156, 19548, 29890, 289, 9922]",bag,sac
+"Français: ""danse"" - Français: ""danse""
+Français: ""thé"" - Français: ""thé""
+Français: ""queue"" - Français: ""queue""
+Français: ""tentative"" - Français: ""tentative""
+Français: ""bouche"" - Français: ""","[16380, 833, 1045, 29890, 289]",bouche,"[29442, 21026, 286, 2730, 13394, 4346, 29885]",mouth,bouche
+"Français: ""lumière"" - Français: ""lumière""
+Français: ""tête"" - Français: ""tête""
+Français: ""nuage"" - Français: ""nuage""
+Français: ""sol"" - Français: ""sol""
+Français: ""cœur"" - Français: ""","[274, 29883]",cœur,"[29882, 23057, 5192, 8293, 540, 298, 354]",heart,cœur
+"Français: ""son"" - Français: ""son""
+Français: ""milieu"" - Français: ""milieu""
+Français: ""siège"" - Français: ""siège""
+Français: ""pied"" - Français: ""pied""
+Français: ""main"" - Français: ""","[611, 5530, 286, 3396, 24402, 1667, 655, 29885]",main,"[5905, 5403, 3179, 29882, 447, 298, 2350, 1361]",hand,main
+"Français: ""sol"" - Français: ""sol""
+Français: ""juge"" - Français: ""juge""
+Français: ""main"" - Français: ""main""
+Français: ""grille"" - Français: ""grille""
+Français: ""jour"" - Français: ""","[2958, 432, 2212, 8121, 8694, 20551, 29926]",jour,"[270, 3250, 29881, 2462, 1388, 1146]",day,jour
+"Français: ""bureau"" - Français: ""bureau""
+Français: ""pont"" - Français: ""pont""
+Français: ""mère"" - Français: ""mère""
+Français: ""trois"" - Français: ""trois""
+Français: ""étoile"" - Français: ""","[29948, 1893, 904, 2852]",étoile,"[29879, 303, 5173, 8508, 269, 5810, 380, 9523]",star,étoile
+"Français: ""porte"" - Français: ""porte""
+Français: ""cheval"" - Français: ""cheval""
+Français: ""main"" - Français: ""main""
+Français: ""discours"" - Français: ""discours""
+Français: ""ressort"" - Français: ""","[690, 337, 276, 620, 1253, 18475, 364, 29878]",ressort,"[4278, 15099, 29879, 6709, 1028, 7689, 805, 269]",spring,ressort
+"Français: ""vertu"" - Français: ""vertu""
+Français: ""champ"" - Français: ""champ""
+Français: ""mer"" - Français: ""mer""
+Français: ""bouche"" - Français: ""bouche""
+Français: ""lune"" - Français: ""","[301, 29880, 25081, 8092, 6092]",lune,"[286, 2730, 4346, 18786, 29885]",moon,lune
+"Français: ""ressort"" - Français: ""ressort""
+Français: ""génération"" - Français: ""génération""
+Français: ""pouvoir"" - Français: ""pouvoir""
+Français: ""maison"" - Français: ""maison""
+Français: ""bois"" - Français: ""","[23734, 833, 1045, 29890, 289]",bois,"[281, 827, 6115, 29893, 8112, 8879]",wood,bois
+"Français: ""lune"" - Français: ""lune""
+Français: ""cravate"" - Français: ""cravate""
+Français: ""cœur"" - Français: ""cœur""
+Français: ""pont"" - Français: ""pont""
+Français: ""chanson"" - Français: ""","[521, 5083, 274, 305, 29883, 5815, 10329, 25875]",chanson,"[29879, 21453, 1100, 577, 4823, 578, 269, 1487]",song,chanson
+"Français: ""ligne"" - Français: ""ligne""
+Français: ""bande"" - Français: ""bande""
+Français: ""main"" - Français: ""main""
+Français: ""avancer"" - Français: ""avancer""
+Français: ""étang"" - Français: ""","[28899, 29948, 1893, 904, 2852]",étang,"[12509, 772, 282, 2818, 29886, 1112, 1129]",pond,étang
+"Français: ""ménage"" - Français: ""ménage""
+Français: ""bande"" - Français: ""bande""
+Français: ""queue"" - Français: ""queue""
+Français: ""milieu"" - Français: ""milieu""
+Français: ""onde"" - Français: ""","[16504, 288, 29877, 373, 13469, 898, 265]",onde,"[2766, 11324, 281, 10742, 29893, 27766]",wave,onde
+"Français: ""gauche"" - Français: ""gauche""
+Français: ""carré"" - Français: ""carré""
+Français: ""un"" - Français: ""un""
+Français: ""couleur"" - Français: ""couleur""
+Français: ""grotte"" - Français: ""","[867, 29887, 629, 330, 17170, 4071]",grotte,"[274, 29883, 24230, 18346, 5777, 1113]",cave,grotte
+"Français: ""porte"" - Français: ""porte""
+Français: ""grille"" - Français: ""grille""
+Français: ""est"" - Français: ""est""
+Français: ""hausse"" - Français: ""hausse""
+Français: ""mer"" - Français: ""","[1004, 286, 2778, 1050, 592, 29885]",mer,"[29879, 344, 7205, 409, 269]",sea,mer
+"Français: ""école"" - Français: ""école""
+Français: ""siège"" - Français: ""siège""
+Français: ""vallée"" - Français: ""vallée""
+Français: ""ville"" - Français: ""ville""
+Français: ""gare"" - Français: ""","[24816, 7171, 29887, 10364, 3249, 330, 5397]",gare,"[5073, 19569, 29879, 303, 23436, 5173, 269, 380, 6112, 1002, 9523]",station,gare
+"Français: ""son"" - Français: ""son""
+Français: ""porte"" - Français: ""porte""
+Français: ""riz"" - Français: ""riz""
+Français: ""œil"" - Français: ""œil""
+Français: ""filet"" - Français: ""","[977, 29888, 1777, 5713, 7241, 934, 1445, 285]",filet,"[7787, 452, 484, 302, 29876, 1212]",net,filet
+"Français: ""ressort"" - Français: ""ressort""
+Français: ""grille"" - Français: ""grille""
+Français: ""huit"" - Français: ""huit""
+Français: ""lumière"" - Français: ""lumière""
+Français: ""pied"" - Français: ""","[15957, 1631, 282, 12343, 29886, 5036, 2930]",pied,"[1181, 6661, 29888, 5431, 285, 3661, 7953, 1701]",foot,pied
+"Français: ""ressort"" - Français: ""ressort""
+Français: ""main"" - Français: ""main""
+Français: ""discours"" - Français: ""discours""
+Français: ""trois"" - Français: ""trois""
+Français: ""or"" - Français: ""","[470, 29877, 288, 272]",or,"[748, 29887, 15192, 330, 1484, 7684]",gold,or
+"Français: ""sac"" - Français: ""sac""
+Français: ""défaite"" - Français: ""défaite""
+Français: ""tentative"" - Français: ""tentative""
+Français: ""ville"" - Français: ""ville""
+Français: ""porte"" - Français: ""","[13732, 637, 772, 2011, 282, 14931, 1277, 29886, 1971, 1129]",porte,"[270, 437, 17433, 29881, 1867, 3050]",door,porte
+"Français: ""vallée"" - Français: ""vallée""
+Français: ""forêt"" - Français: ""forêt""
+Français: ""été"" - Français: ""été""
+Français: ""vitesse"" - Français: ""vitesse""
+Français: ""neige"" - Français: ""","[29876, 12106, 484, 302, 452]",neige,"[5807, 29879, 16586, 269, 15007]",snow,neige
+"Français: ""étang"" - Français: ""étang""
+Français: ""grille"" - Français: ""grille""
+Français: ""porte"" - Français: ""porte""
+Français: ""tête"" - Français: ""tête""
+Français: ""cheval"" - Français: ""","[521, 274, 1173, 305, 29883, 29823, 25042, 923]",cheval,"[2015, 29882, 4029, 5089, 1251, 11231, 298, 10435]",horse,cheval
+"Français: ""milieu"" - Français: ""milieu""
+Français: ""queue"" - Français: ""queue""
+Français: ""beauté"" - Français: ""beauté""
+Français: ""danse"" - Français: ""danse""
+Français: ""un"" - Français: ""","[29884, 318, 348, 443]",un,"[697, 650, 288, 29877, 373, 265]",one,un
+"Français: ""huit"" - Français: ""huit""
+Français: ""discours"" - Français: ""discours""
+Français: ""mère"" - Français: ""mère""
+Français: ""fleur"" - Français: ""fleur""
+Français: ""deux"" - Français: ""","[316, 311, 270, 4239, 29881]",deux,"[29873, 3252, 7516, 10184, 260, 1023]",two,deux
+"Français: ""sac"" - Français: ""sac""
+Français: ""vallée"" - Français: ""vallée""
+Français: ""nuage"" - Français: ""nuage""
+Français: ""supprimer"" - Français: ""supprimer""
+Français: ""quatre"" - Français: ""","[3855, 12134, 339, 29939, 21408, 439]",quatre,"[17823, 12584, 1181, 29888, 3023, 285, 1701]",four,quatre
+"Français: ""tribu"" - Français: ""tribu""
+Français: ""mer"" - Français: ""mer""
+Français: ""thé"" - Français: ""thé""
+Français: ""queue"" - Français: ""queue""
+Français: ""cinq"" - Français: ""","[274, 29883, 4670, 4583, 455, 16381, 17256]",cinq,"[20818, 29888, 5713, 7241, 5320, 285]",five,cinq
+"Français: ""jour"" - Français: ""jour""
+Français: ""montagne"" - Français: ""montagne""
+Français: ""carré"" - Français: ""carré""
+Français: ""main"" - Français: ""main""
+Français: ""huit"" - Français: ""","[15669, 29882, 6905, 298, 27052, 22888]",huit,"[9475, 29319, 10096, 15761, 321, 29872]",eight,huit
+"Français: ""grille"" - Français: ""grille""
+Français: ""visage"" - Français: ""visage""
+Français: ""plate-forme"" - Français: ""plate-forme""
+Français: ""étang"" - Français: ""étang""
+Français: ""dix"" - Français: ""","[270, 23386, 652, 29881, 6051]",dix,"[29873, 371, 841, 260, 734, 3006]",ten,dix
+"Français: ""réunion"" - Français: ""réunion""
+Français: ""ligne"" - Français: ""ligne""
+Français: ""lac"" - Français: ""lac""
+Français: ""mille"" - Français: ""mille""
+Français: ""tête"" - Français: ""","[29873, 17949, 260]",tête,"[29882, 2813, 540, 298, 2343, 354]",head,tête
+"Français: ""pont"" - Français: ""pont""
+Français: ""sol"" - Français: ""sol""
+Français: ""gauche"" - Français: ""gauche""
+Français: ""bureau"" - Français: ""bureau""
+Français: ""bande"" - Français: ""","[2291, 4980, 2571, 3719, 29890, 9892, 289, 9922, 27628]",bande,"[29879, 303, 17010, 710, 17820, 269, 10076, 851, 380]",strip,bande
+"Français: ""est"" - Français: ""est""
+Français: ""queue"" - Français: ""queue""
+Français: ""temps"" - Français: ""temps""
+Français: ""sol"" - Français: ""sol""
+Français: ""rue"" - Français: ""","[5796, 16014, 364, 582, 29878]",rue,"[11952, 13045, 29879, 303, 29352, 710, 12243, 269, 851, 380]",street,rue
+"Français: ""mille"" - Français: ""mille""
+Français: ""deux"" - Français: ""deux""
+Français: ""neige"" - Français: ""neige""
+Français: ""juge"" - Français: ""juge""
+Français: ""œil"" - Français: """,[30106],œil,"[1032, 10977, 321, 29872]",eye,œil
+"Français: ""rouge"" - Français: ""rouge""
+Français: ""retour"" - Français: ""retour""
+Français: ""cinq"" - Français: ""cinq""
+Français: ""queue"" - Français: ""queue""
+Français: ""champ"" - Français: ""","[521, 274, 305, 29883, 5815, 11179, 10329, 18480]",champ,"[2671, 29607, 29888, 5713, 1746, 7241, 285]",field,champ
+"Français: ""nuage"" - Français: ""nuage""
+Français: ""champ"" - Français: ""champ""
+Français: ""genre"" - Français: ""genre""
+Français: ""lac"" - Français: ""lac""
+Français: ""mot"" - Français: ""","[286, 2730, 3184, 14817, 4346, 29885]",mot,"[281, 827, 29893, 8879, 1734, 13762, 6365, 1742]",word,mot
+"Français: ""main"" - Français: ""main""
+Français: ""sol"" - Français: ""sol""
+Français: ""étang"" - Français: ""étang""
+Français: ""danse"" - Français: ""danse""
+Français: ""mille"" - Français: ""","[3533, 286, 2460, 3737, 23853, 2316, 29885, 19958]",mille,"[12595, 29873, 386, 260, 266, 10405, 7693]",thousand,mille
+"Français: ""pied"" - Français: ""pied""
+Français: ""cheval"" - Français: ""cheval""
+Français: ""tentative"" - Français: ""tentative""
+Français: ""nuage"" - Français: ""nuage""
+Français: ""bourse"" - Français: ""","[16380, 833, 1045, 29890, 289, 6526]",bourse,"[5566, 6543, 429, 735, 14523, 321, 29872]",exchange,bourse
+"Français: ""plate-forme"" - Français: ""plate-forme""
+Français: ""cinq"" - Français: ""cinq""
+Français: ""bande"" - Français: ""bande""
+Français: ""enfant"" - Français: ""enfant""
+Français: ""genre"" - Français: ""","[1885, 2531, 29887, 16151, 1737, 330, 479]",genre,"[413, 14380, 29895, 2924, 1984, 9089, 8506, 19015]",kind,genre
+"Français: ""gauche"" - Français: ""gauche""
+Français: ""exemple"" - Français: ""exemple""
+Français: ""hausse"" - Français: ""hausse""
+Français: ""nuage"" - Français: ""nuage""
+Français: ""école"" - Français: ""","[24618, 29948, 4582, 904]",école,"[1557, 816, 885, 29879, 27041, 269, 3762, 1364]",school,école
+"Français: ""lumière"" - Français: ""lumière""
+Français: ""tentative"" - Français: ""tentative""
+Français: ""deux"" - Français: ""deux""
+Français: ""trois"" - Français: ""trois""
+Français: ""cravate"" - Français: ""","[274, 26844, 12220, 2181, 29883, 7283]",cravate,"[29873, 19538, 2034, 260, 22134]",tie,cravate
+"Français: ""sud"" - Français: ""sud""
+Français: ""nuage"" - Français: ""nuage""
+Français: ""or"" - Français: ""or""
+Français: ""milieu"" - Français: ""milieu""
+Français: ""visage"" - Français: ""","[1998, 1730, 3516, 29894, 1403, 325]",visage,"[17470, 4024, 5444, 2161, 29888, 3700, 285, 2258]",face,visage
+"Français: ""sac"" - Français: ""sac""
+Français: ""danse"" - Français: ""danse""
+Français: ""réunion"" - Français: ""réunion""
+Français: ""deux"" - Français: ""deux""
+Français: ""pont"" - Français: ""","[13185, 12509, 29649, 772, 282, 29886, 1112, 1129]",pont,"[19515, 1506, 12945, 28635, 29890, 1182, 289, 18419]",bridge,pont
+"Français: ""tête"" - Français: ""tête""
+Français: ""queue"" - Français: ""queue""
+Français: ""enfant"" - Français: ""enfant""
+Français: ""mère"" - Français: ""mère""
+Français: ""supprimer"" - Français: ""","[12587, 29879, 2146, 1462, 480, 269, 19303, 13159]",supprimer,"[316, 311, 270, 5217, 8143, 628, 6144, 29881, 7374]",delete,supprimer
+"Français: ""ressort"" - Français: ""ressort""
+Français: ""roche"" - Français: ""roche""
+Français: ""retour"" - Français: ""retour""
+Français: ""gauche"" - Français: ""gauche""
+Français: ""maison"" - Français: ""","[611, 5530, 3503, 286, 18234, 24402, 655, 29885]",maison,"[10774, 29882, 9261, 5089, 1251, 3699, 8697, 298]",house,maison
+"Français: ""été"" - Français: ""été""
+Français: ""bouche"" - Français: ""bouche""
+Français: ""exemple"" - Français: ""exemple""
+Français: ""cinq"" - Français: ""cinq""
+Français: ""réunion"" - Français: ""","[364, 5606, 29878, 1841]",réunion,"[1004, 286, 5870, 11781, 17897, 29885, 592]",meeting,réunion
+"Français: ""fleur"" - Français: ""fleur""
+Français: ""été"" - Français: ""été""
+Français: ""bouche"" - Français: ""bouche""
+Français: ""mer"" - Français: ""mer""
+Français: ""carré"" - Français: ""","[274, 29883, 1559, 5777, 1113, 4287]",carré,"[3044, 29879, 18074, 10674, 17619, 6862, 269, 26613]",square,carré
+"Français: ""tentative"" - Français: ""tentative""
+Français: ""lumière"" - Français: ""lumière""
+Français: ""cœur"" - Français: ""cœur""
+Français: ""son"" - Français: ""son""
+Français: ""ville"" - Français: ""","[4909, 8441, 4213, 3516, 11928, 29894, 1403, 325, 17191]",ville,"[274, 29883, 20752, 12690, 4583, 455, 7537, 4272]",city,ville
+"Français: ""vertu"" - Français: ""vertu""
+Français: ""sud"" - Français: ""sud""
+Français: ""ligne"" - Français: ""ligne""
+Français: ""or"" - Français: ""or""
+Français: ""vitesse"" - Français: ""","[13901, 3516, 29894, 1403, 325]",vitesse,"[29879, 19322, 6210, 1028, 5965, 961, 805, 269]",speed,vitesse
+"Français: ""thé"" - Français: ""thé""
+Français: ""retour"" - Français: ""retour""
+Français: ""ménage"" - Français: ""ménage""
+Français: ""bourse"" - Français: ""bourse""
+Français: ""sol"" - Français: ""","[29879, 2929, 899, 577, 578, 269]",sol,"[867, 2057, 29887, 629, 330, 5962, 17170, 4071]",ground,sol
+"Français: ""tour"" - Français: ""tour""
+Français: ""plate-forme"" - Français: ""plate-forme""
+Français: ""siège"" - Français: ""siège""
+Français: ""océan"" - Français: ""océan""
+Français: ""tentative"" - Français: ""","[29873, 371, 841, 12033, 260, 734, 3006]",tentative,"[1131, 1098, 21609, 29874, 271, 263, 15127, 472, 4218]",attempt,tentative
+"Français: ""supprimer"" - Français: ""supprimer""
+Français: ""mille"" - Français: ""mille""
+Français: ""mère"" - Français: ""mère""
+Français: ""juge"" - Français: ""juge""
+Français: ""queue"" - Français: ""","[3855, 802, 712, 339, 9990, 29939, 9521, 439]",queue,"[29873, 12464, 11062, 18237, 260, 941]",tail,queue
+"Français: ""cravate"" - Français: ""cravate""
+Français: ""onde"" - Français: ""onde""
+Français: ""avancer"" - Français: ""avancer""
+Français: ""bouche"" - Français: ""bouche""
+Français: ""discours"" - Français: ""","[270, 2218, 766, 652, 2313, 17021, 29881, 6051]",discours,"[29879, 12032, 1028, 5965, 961, 805, 269]",speech,discours
+"Français: ""gare"" - Français: ""gare""
+Français: ""sol"" - Français: ""sol""
+Français: ""bouche"" - Français: ""bouche""
+Français: ""tête"" - Français: ""tête""
+Français: ""enfant"" - Français: ""","[23578, 264, 427, 12377, 321, 29872]",enfant,"[521, 18558, 274, 305, 29883, 2278, 4161, 5145]",child,enfant
+"Français: ""bois"" - Français: ""bois""
+Français: ""tête"" - Français: ""tête""
+Français: ""neuf"" - Français: ""neuf""
+Français: ""dix"" - Français: ""dix""
+Français: ""ménage"" - Français: ""","[286, 12031, 8774, 29885]",ménage,"[10774, 29882, 9261, 5089, 1251, 3699, 8697, 298, 22329]",household,ménage
+"Français: ""grotte"" - Français: ""grotte""
+Français: ""onde"" - Français: ""onde""
+Français: ""avancer"" - Français: ""avancer""
+Français: ""étang"" - Français: ""étang""
+Français: ""bureau"" - Français: ""","[8399, 6866, 2423, 29890, 289, 1321]",bureau,"[310, 1283, 2696, 288, 3344, 20205, 29877, 8034, 974]",office,bureau
+"Français: ""tête"" - Français: ""tête""
+Français: ""quatre"" - Français: ""quatre""
+Français: ""lune"" - Français: ""lune""
+Français: ""bouche"" - Français: ""bouche""
+Français: ""hausse"" - Français: ""","[29882, 6208, 447, 2350, 298]",hausse,"[3780, 10107, 5161, 14451, 364, 29878, 374]",rise,hausse
+"Français: ""supprimer"" - Français: ""supprimer""
+Français: ""carré"" - Français: ""carré""
+Français: ""bourse"" - Français: ""bourse""
+Français: ""trois"" - Français: ""trois""
+Français: ""gauche"" - Français: ""","[26003, 3249, 10364, 29887, 13395, 330]",gauche,"[2175, 301, 29880, 454, 280, 25874, 1563]",left,gauche
+"Français: ""juge"" - Français: ""juge""
+Français: ""couleur"" - Français: ""couleur""
+Français: ""onde"" - Français: ""onde""
+Français: ""ville"" - Français: ""ville""
+Français: ""été"" - Français: ""","[4370, 29948, 7342, 1893, 904, 2852]",été,"[29879, 2083, 11801, 2146, 22792, 2533, 480, 269]",summer,été

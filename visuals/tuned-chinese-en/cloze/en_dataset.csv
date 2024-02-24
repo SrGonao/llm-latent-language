@@ -1,0 +1,397 @@
+prompt,out_token_id,out_token_str,latent_token_id,latent_token_str
+"The number that comes after nine is ""___"". Answer: ""ten"".
+A ""___"" is a beverage often consumed for relaxation or warmth. Answer: ""tea"".
+A ""___"" is used to read stories. Answer: ""","[1045, 2909, 3143, 833, 289, 29890]",book,"[1045, 2909, 3143, 833, 289, 29890]",book
+"A ""___"" is a numerical value equal to 10 tens. Answer: ""hundred"".
+A ""___"" is an organ that pumps blood throughout the body. Answer: ""heart"".
+A ""___"" is a visible mass of condensed water vapor floating in the atmosphere. Answer: ""","[15126, 9570, 9274, 23642, 274, 29883, 695, 17184, 1067]",cloud,"[15126, 9570, 9274, 23642, 274, 29883, 695, 17184, 1067]",cloud
+"""A ""___"" is where we walk and build houses on. Answer: ""ground"".
+A ""___"" is a woman who has given birth to a child. Answer: ""mother"".
+A ""___"" is used to carry items. Answer: ""","[2291, 9922, 23156, 19548, 289, 29890]",bag,"[2291, 9922, 23156, 19548, 289, 29890]",bag
+"A ""___"" is a specific location in space. Answer: ""point"".
+A ""___"" is a construction that has a specific purpose or function. Answer: ""structure"".
+A ""___"" is used to eat food and speak. Answer: ""","[29442, 286, 4346, 2730, 21026, 13394, 29885]",mouth,"[29442, 286, 4346, 2730, 21026, 13394, 29885]",mouth
+"""The ""___"" is the point that is equally distant from the sides or outer boundaries of something. Answer: ""middle"".
+A ""___"" is a large human settlement where people live and work. Answer: ""city"".
+""A ""___"" is used for planting trees and crops. Answer: ""","[29879, 578, 577, 22473, 269]",soil,"[29879, 578, 577, 22473, 269]",soil
+"A ""___"" is a social division in a traditional society consisting of families or communities linked by social, economic, religious, or blood ties. Answer: ""tribe"".
+A ""___"" is a piece of art that can be hung on a wall. Answer: ""painting"".
+A ""___"" is a large natural elevation of the earth's surface. Answer: ""","[29442, 286, 14378, 4346, 2730, 16476, 5766, 29885]",mountain,"[29442, 286, 14378, 4346, 2730, 16476, 5766, 29885]",mountain
+"""The ""___"" is a cardinal direction often associated with cold and polar regions. Answer: ""north"".
+A ""___"" is often given as a gift and can be found in gardens. Answer: ""flower"".
+A ""___"" is used to clean surfaces or cover bodies. Answer: ""","[15126, 29883, 13950, 274, 695, 17184, 1067]",cloth,"[15126, 29883, 13950, 274, 695, 17184, 1067]",cloth
+"A ""___"" is a place where you can buy goods or services. Answer: ""shop"".
+A ""___"" is a part of an animal's body that extends from the base of the spine. Answer: ""tail"".
+A ""___"" is an organ that pumps blood throughout the body. Answer: ""","[8293, 298, 5192, 354, 540, 23057, 29882]",heart,"[8293, 298, 5192, 354, 540, 23057, 29882]",heart
+"""A ""___"" is essential for life and is used for drinking and cleaning. Answer: ""water"".
+A ""___"" is used to connect two areas separated by obstacles like rivers or roads. Answer: ""bridge"".
+A ""___"" is used to grasp or hold objects. Answer: ""","[298, 5905, 5403, 3179, 1361, 2350, 447, 29882]",hand,"[298, 5905, 5403, 3179, 1361, 2350, 447, 29882]",hand
+"A ""___"" is a solid mineral material forming part of the surface of the earth. Answer: ""rock"".
+A ""___"" is a large human settlement where people live and work. Answer: ""city"".
+A ""___"" is a period of 24 hours, often understood as the time it takes for the Earth to complete one rotation. Answer: ""","[3250, 1388, 2462, 29881, 1146, 270]",day,"[3250, 1388, 2462, 29881, 1146, 270]",day
+"'A ""___"" is a type of food that is often sweet and comes from a plant. Answer: ""fruit"".
+'""___"" is a characteristic that provides a perceptual experience of pleasure or satisfaction. Answer: ""beauty"".
+A ""___"" is a celestial body that shines in the night sky. Answer: ""","[29879, 8508, 380, 9523, 303, 269, 5810, 5173]",star,"[29879, 8508, 380, 9523, 303, 269, 5810, 5173]",star
+"A ""___"" is a tall structure that can be used for various purposes such as observation, communication, or storage. Answer: ""tower"".
+A ""___"" is a large body of water surrounded by land. Answer: ""lake"".
+A ""___"" is a device that stores mechanical energy and can be compressed or stretched. Answer: ""","[29879, 4278, 1028, 805, 6709, 7689, 269, 15099]",spring,"[29879, 4278, 1028, 805, 6709, 7689, 269, 15099]",spring
+"A ""___"" is used for cooking and providing warmth. Answer: ""fire"".
+A ""___"" is a shape with four equal sides and four right angles. Answer: ""square"".
+A ""___"" is a natural satellite that orbits around a planet. Answer: ""","[4346, 286, 18786, 2730, 29885]",moon,"[4346, 286, 18786, 2730, 29885]",moon
+"A ""___"" is something we hear. Answer: ""sound"".
+A ""___"" is a numerical value equal to 10 tens. Answer: ""hundred"".
+A ""___"" is used to make furniture. Answer: ""","[281, 8112, 29893, 8879, 827, 6115]",wood,"[281, 8112, 29893, 8879, 827, 6115]",wood
+"A ""___"" is a tall structure that can be used for various purposes such as observation, communication, or storage. Answer: ""tower"".
+A ""___"" is used to read stories. Answer: ""book"".
+A ""___"" is a small community or group of houses in a rural area. Answer: ""","[29894, 325, 4213, 1403, 28765, 11928, 5720, 21031, 17191, 3516]",village,"[29894, 325, 4213, 1403, 28765, 11928, 5720, 21031, 17191, 3516]",village
+"A ""___"" is a distinct part or subdivision of something. Answer: ""section"".
+A ""___"" is a wide area of open land where crops are grown. Answer: ""field"".
+A ""___"" is a large area covered chiefly with trees and undergrowth. Answer: ""","[1079, 29888, 1701, 1454, 363, 26839, 285, 13569, 1181]",forest,"[1079, 29888, 1701, 1454, 363, 26839, 285, 13569, 1181]",forest
+"A ""___"" is a disturbance that transfers energy through matter or space. Answer: ""wave"".
+""The ""___"" is the point that is equally distant from the sides or outer boundaries of something. Answer: ""middle"".
+'A ""___"" is a type of food that is often sweet and comes from a plant. Answer: ""","[1424, 1341, 29888, 15774, 285]",fruit,"[1424, 1341, 29888, 15774, 285]",fruit
+"""A ""clock"" is used to measure ""___"". Answer: ""time"".
+A ""___"" is a large human settlement where people live and work. Answer: ""city"".
+A ""___"" is a network of lines that cross each other to form a series of squares or rectangles. Answer: ""","[330, 7720, 629, 6856, 29887, 867]",grid,"[330, 7720, 629, 6856, 29887, 867]",grid
+"A ""___"" is a large body of water surrounded by land. Answer: ""lake"".
+A ""___"" is a large domesticated animal with four legs, commonly used for riding and racing. Answer: ""horse"".
+A ""___"" is a piece of music with words that is sung. Answer: ""","[29879, 578, 1100, 21453, 577, 1487, 4823, 269]",song,"[29879, 578, 1100, 21453, 577, 1487, 4823, 269]",song
+"A ""___"" is a number that comes after zero and before two. Answer: ""one"".
+'A ""___"" is a part of the body that contains the brain, eyes, ears, nose, and mouth. Answer: ""head"".
+""A ""___"" is essential for life and is used for drinking and cleaning. Answer: ""","[13405, 281, 11324, 29893, 4094, 2766, 16699]",water,"[13405, 281, 11324, 29893, 4094, 2766, 16699]",water
+"'A ""___"" is a part of the body that contains the brain, eyes, ears, nose, and mouth. Answer: ""head"".
+A ""___"" is a natural underground space large enough for a human to enter. Answer: ""cave"".
+A ""___"" is a small body of still water. Answer: ""","[2818, 282, 772, 1129, 29886, 1112, 12509]",pond,"[2818, 282, 772, 1129, 29886, 1112, 12509]",pond
+"'A ""___"" is a system of rules that a society or government develops in order to deal with crime, business agreements, and social relationships. Answer: ""law"".
+A ""___"" is a beverage often consumed for relaxation or warmth. Answer: ""tea"".
+""A ""___"" is used to build castles at the beach. Answer: ""","[29879, 28455, 872, 11982, 9753, 269, 4977]",sand,"[29879, 28455, 872, 11982, 9753, 269, 4977]",sand
+"A ""___"" is a large body of saltwater that is smaller than an ocean. Answer: ""sea"".
+A ""___"" is a network of lines that cross each other to form a series of squares or rectangles. Answer: ""grid"".
+A ""___"" is a large, flowing body of water that usually empties into a sea or ocean. Answer: ""","[8580, 1150, 29878, 374, 10107, 364, 3511, 4401, 9050]",river,"[8580, 1150, 29878, 374, 10107, 364, 3511, 4401, 9050]",river
+"""The ""___"" is the point that is equally distant from the sides or outer boundaries of something. Answer: ""middle"".
+The ""___"" is a star at the center of the Solar System that provides light and heat to Earth. Answer: ""sun"".
+'A ""___"" is a system of rules that a society or government develops in order to deal with crime, business agreements, and social relationships. Answer: ""","[301, 4307, 433, 29880, 10653, 425]",law,"[301, 4307, 433, 29880, 10653, 425]",law
+"A ""___"" is a period of 24 hours, often understood as the time it takes for the Earth to complete one rotation. Answer: ""day"".
+A ""___"" is a piece of art that can be hung on a wall. Answer: ""painting"".
+A ""___"" is a disturbance that transfers energy through matter or space. Answer: ""","[281, 11324, 29893, 27766, 10742, 2766]",wave,"[281, 11324, 29893, 27766, 10742, 2766]",wave
+"""A ""___"" is experienced when one loses a competition or battle. Answer: ""defeat"".
+'A ""___"" is a system of rules that a society or government develops in order to deal with crime, business agreements, and social relationships. Answer: ""law"".
+An ""___"" is a large body of salt water that covers most of the earth's surface. Answer: ""","[288, 29877, 12954, 542, 23474, 25802]",ocean,"[288, 29877, 12954, 542, 23474, 25802]",ocean
+"A ""___"" is a person who presides over court proceedings, either alone or as a part of a panel of judges. Answer: ""judge"".
+A ""___"" is found on the heads of humans and animals. Answer: ""hair"".
+A ""___"" is a natural underground space large enough for a human to enter. Answer: ""","[5777, 274, 1113, 29883, 18346, 24230]",cave,"[5777, 274, 1113, 29883, 18346, 24230]",cave
+"A ""___"" is a place where students go to learn. Answer: ""school"".
+A ""___"" is a piece of art that can be hung on a wall. Answer: ""painting"".
+A ""___"" is a large body of saltwater that is smaller than an ocean. Answer: ""","[29879, 409, 7205, 344, 269]",sea,"[29879, 409, 7205, 344, 269]",sea
+"A ""___"" is used to clean surfaces or cover bodies. Answer: ""cloth"".
+A ""___"" is a large human settlement where people live and work. Answer: ""city"".
+A ""___"" is a large body of water surrounded by land. Answer: ""","[301, 433, 24591, 19437, 29880, 18170, 425]",lake,"[301, 433, 24591, 19437, 29880, 18170, 425]",lake
+"A ""___"" is a single distinct meaningful element of speech or writing, used with others (or sometimes alone) to form a sentence and typically shown with a space on either side when written or printed. Answer: ""word"".
+A ""___"" is used to communicate thoughts and ideas. Answer: ""language"".
+A ""___"" is used to provide information or data. Answer: ""","[29879, 578, 577, 2752, 4993, 3669, 269]",source,"[29879, 578, 577, 2752, 4993, 3669, 269]",source
+"A ""___"" is a piece of music with words that is sung. Answer: ""song"".
+A ""___"" is used for walking and running. Answer: ""foot"".
+A ""___"" is used for cooking and providing warmth. Answer: ""","[7241, 13734, 5713, 8696, 29888, 28034, 3974, 285]",fire,"[7241, 13734, 5713, 8696, 29888, 28034, 3974, 285]",fire
+"The number that comes after four is ""___"". Answer: ""five"".
+A ""___"" is a natural aptitude or skill. Answer: ""talent"".
+A ""___"" is a specific location in space. Answer: ""","[282, 1129, 29886, 1298, 11899, 3149, 772]",point,"[282, 1129, 29886, 1298, 11899, 3149, 772]",point
+"""A ""___"" is used for planting trees and crops. Answer: ""soil"".
+""A ""___"" is essential for life and is used for drinking and cleaning. Answer: ""water"".
+A ""___"" is used to denote different forms or stages in the development of something. Answer: ""","[29894, 874, 1147, 325, 1224, 369, 1873, 345, 3259, 2453]",version,"[29894, 874, 1147, 325, 1224, 369, 1873, 345, 3259, 2453]",version
+"A ""___"" is used to read stories. Answer: ""book"".
+The number ""___"" comes after seven. Answer: ""eight"".
+A ""___"" is used to play sports like soccer and basketball. Answer: ""","[2291, 9922, 5521, 8287, 2135, 6411, 289, 29890]",ball,"[2291, 9922, 5521, 8287, 2135, 6411, 289, 29890]",ball
+"""The study of past events, particularly in human affairs"" is known as ""___"". Answer: ""history"".
+A ""___"" is used for entering or exiting a room. Answer: ""door"".
+A ""___"" is a piece of art that can be hung on a wall. Answer: ""","[282, 3300, 29886, 6788, 20413, 10675, 3274]",painting,"[282, 3300, 29886, 6788, 20413, 10675, 3274]",painting
+"A ""___"" is found on the heads of humans and animals. Answer: ""hair"".
+A ""___"" is a period of 24 hours, often understood as the time it takes for the Earth to complete one rotation. Answer: ""day"".
+A ""___"" is a place where trains or buses regularly stop so that passengers can get on or off. Answer: ""","[29879, 23436, 1002, 380, 5073, 9523, 303, 19569, 269, 6112, 5173]",station,"[29879, 23436, 1002, 380, 5073, 9523, 303, 19569, 269, 6112, 5173]",station
+"""A ""___"" is used for planting trees and crops. Answer: ""soil"".
+A ""___"" is a large, flowing body of water that usually empties into a sea or ocean. Answer: ""river"".
+A ""___"" is a grain that is commonly used in cooking and is a staple food in many countries. Answer: ""","[29878, 11674, 9597, 19408, 10107, 374, 2200, 364]",rice,"[29878, 11674, 9597, 19408, 10107, 374, 2200, 364]",rice
+"The number that comes after five is ""___"". Answer: ""six"".
+A ""___"" is a shape with four equal sides and four right angles. Answer: ""square"".
+'A ""___"" is a color often associated with love and passion. Answer: ""","[29878, 1127, 337, 364, 276, 2654]",red,"[29878, 1127, 337, 364, 276, 2654]",red
+"""A ""___"" is a set of two things used together or regarded as a unit. Answer: ""pair"".
+""The study of past events, particularly in human affairs"" is known as ""___"". Answer: ""history"".
+A ""___"" is a narrow continuous mark, as that made by a pen, pencil, or brush. Answer: ""","[1196, 301, 492, 1915, 29880, 1220, 6276, 619]",line,"[1196, 301, 492, 1915, 29880, 1220, 6276, 619]",line
+"A ""___"" is a large natural elevation of the earth's surface. Answer: ""mountain"".
+A ""___"" is used to provide information or data. Answer: ""source"".
+A ""___"" is used in sports like volleyball and tennis to divide the playing area. Answer: ""","[484, 7787, 29876, 1212, 302, 452]",net,"[484, 7787, 29876, 1212, 302, 452]",net
+"A ""___"" is used to play sports like soccer and basketball. Answer: ""ball"".
+A ""___"" is a solid mineral material forming part of the surface of the earth. Answer: ""rock"".
+A ""___"" is often given as a gift and can be found in gardens. Answer: ""","[28149, 1579, 1731, 5685, 29888, 1652, 285, 4972]",flower,"[28149, 1579, 1731, 5685, 29888, 1652, 285, 4972]",flower
+"The ""___"" is a star at the center of the Solar System that provides light and heat to Earth. Answer: ""sun"".
+""A ""___"" is a category or type of something. Answer: ""kind"".
+A ""___"" is a beverage often consumed for relaxation or warmth. Answer: ""","[734, 371, 23429, 29873, 260]",tea,"[734, 371, 23429, 29873, 260]",tea
+"""A ""___"" is a precious metal that is often used in jewelry. Answer: ""gold"".
+A ""___"" is used to clean surfaces or cover bodies. Answer: ""cloth"".
+A ""___"" is used for walking and running. Answer: ""","[5431, 7953, 29888, 1701, 3661, 6661, 285, 1181]",foot,"[5431, 7953, 29888, 1701, 3661, 6661, 285, 1181]",foot
+"""___"" is a term used to describe moving forward or making progress. Answer: ""advance"".
+A ""___"" is a construction that has a specific purpose or function. Answer: ""structure"".
+""A ""___"" is a precious metal that is often used in jewelry. Answer: ""","[1484, 330, 7684, 748, 29887, 15192]",gold,"[1484, 330, 7684, 748, 29887, 15192]",gold
+"'A ""___"" is a system of rules that a society or government develops in order to deal with crime, business agreements, and social relationships. Answer: ""law"".
+""The ""___"" is a cardinal direction often associated with cold and polar regions. Answer: ""north"".
+A ""___"" is used for entering or exiting a room. Answer: ""","[1867, 3050, 437, 29881, 17433, 270]",door,"[1867, 3050, 437, 29881, 17433, 270]",door
+"""A ""___"" is used to control or influence people or things. Answer: ""power"".
+A ""___"" is used to carry items. Answer: ""bag"".
+""A ""___"" is a form of precipitation that falls from the sky during winter. Answer: ""","[29879, 5807, 269, 16586, 15007]",snow,"[29879, 5807, 269, 16586, 15007]",snow
+"A ""___"" is a construction that has a specific purpose or function. Answer: ""structure"".
+A ""___"" is a form of art that involves movement of the body, usually rhythmic and to music. Answer: ""dance"".
+A ""___"" is a large domesticated animal with four legs, commonly used for riding and racing. Answer: ""","[1251, 5089, 298, 11231, 2015, 10435, 4029, 29882]",horse,"[1251, 5089, 298, 11231, 2015, 10435, 4029, 29882]",horse
+"""A ""___"" is used for planting trees and crops. Answer: ""soil"".
+A ""___"" is a specific location in space. Answer: ""point"".
+A ""___"" is a number that comes after zero and before two. Answer: ""","[265, 288, 373, 29877, 650, 697]",one,"[265, 288, 373, 29877, 650, 697]",one
+"A ""___"" is used to communicate thoughts and ideas. Answer: ""language"".
+A ""___"" is a term used to describe a residential unit where people live. Answer: ""household"".
+The number ""___"" is the sum of one plus one. Answer: ""","[3252, 1023, 7516, 29873, 10184, 260]",two,"[3252, 1023, 7516, 29873, 10184, 260]",two
+"""A ""clock"" is used to measure ""___"". Answer: ""time"".
+The number that comes after five is ""___"". Answer: ""six"".
+The number that comes after two is ""___"". Answer: ""","[12455, 17536, 386, 1468, 266, 29873, 2211, 260]",three,"[12455, 17536, 386, 1468, 266, 29873, 2211, 260]",three
+"A ""___"" is a principal administrative division of certain countries or empires. Answer: ""province"".
+A ""___"" is worn around the neck as part of formal attire. Answer: ""tie"".
+The number ""___"" is the integer that comes after three. Answer: ""","[17823, 12584, 29888, 1701, 285, 3023, 1181]",four,"[17823, 12584, 29888, 1701, 285, 3023, 1181]",four
+"A ""___"" is a specific location in space. Answer: ""point"".
+A ""___"" is often given as a gift and can be found in gardens. Answer: ""flower"".
+The number that comes after four is ""___"". Answer: ""","[7241, 20818, 5713, 5320, 29888, 285]",five,"[7241, 20818, 5713, 5320, 29888, 285]",five
+"'""___"" is a characteristic that provides a perceptual experience of pleasure or satisfaction. Answer: ""beauty"".
+A ""___"" is worn around the neck as part of formal attire. Answer: ""tie"".
+The number that comes after five is ""___"". Answer: ""","[29879, 1354, 1039, 28319, 4832, 269]",six,"[29879, 1354, 1039, 28319, 4832, 269]",six
+"'""___"" is a characteristic that provides a perceptual experience of pleasure or satisfaction. Answer: ""beauty"".
+An ""___"" is a thing that is unspecified or unidentified. Answer: ""item"".
+The number ""___"" comes after six. Answer: ""","[29879, 409, 344, 9881, 269]",seven,"[29879, 409, 344, 9881, 269]",seven
+"""A ""clock"" is used to measure ""___"". Answer: ""time"".
+A ""___"" is a number that comes after zero and before two. Answer: ""one"".
+The number ""___"" comes after seven. Answer: ""","[321, 9475, 29872, 10096, 15761, 29319]",eight,"[321, 9475, 29872, 10096, 15761, 29319]",eight
+"""A ""___"" is used to identify or describe the appearance of objects. Answer: ""color"".
+An ""___"" is a place where people usually do their job. Answer: ""office"".
+The number that comes after eight is ""___"". Answer: ""","[17081, 1240, 29876, 14183, 6836, 302]",nine,"[17081, 1240, 29876, 14183, 6836, 302]",nine
+"A ""___"" is a disturbance that transfers energy through matter or space. Answer: ""wave"".
+""A ""___"" is used for planting trees and crops. Answer: ""soil"".
+The number that comes after nine is ""___"". Answer: ""","[3006, 734, 841, 371, 29873, 260]",ten,"[3006, 734, 841, 371, 29873, 260]",ten
+"A ""___"" is used for walking and running. Answer: ""foot"".
+A ""___"" is a number that comes after zero and before two. Answer: ""one"".
+'A ""___"" is a part of the body that contains the brain, eyes, ears, nose, and mouth. Answer: ""","[298, 354, 540, 2813, 2343, 29882]",head,"[298, 354, 540, 2813, 2343, 29882]",head
+"""The ""___"" is a cardinal direction opposite to north. Answer: ""south"".
+A ""___"" is a large natural elevation of the earth's surface. Answer: ""mountain"".
+A ""___"" is a place where you can buy goods or services. Answer: ""","[29879, 19032, 845, 528, 18296, 269, 17394]",shop,"[29879, 19032, 845, 528, 18296, 269, 17394]",shop
+"A ""___"" is a numerical value equal to 10 tens. Answer: ""hundred"".
+A ""___"" is a narrow continuous mark, as that made by a pen, pencil, or brush. Answer: ""line"".
+A ""___"" is a long, narrow piece of a certain material. Answer: ""","[29879, 851, 17010, 10076, 380, 17820, 303, 269, 710]",strip,"[29879, 851, 17010, 10076, 380, 17820, 303, 269, 710]",strip
+"A ""___"" is used to denote different forms or stages in the development of something. Answer: ""version"".
+A ""___"" is something that promotes or enhances well-being. Answer: ""benefit"".
+A ""___"" is a public road in a city, town, or village. Answer: ""","[29879, 13045, 851, 12243, 11952, 380, 303, 269, 29352, 710]",street,"[29879, 13045, 851, 12243, 11952, 380, 303, 269, 29352, 710]",street
+"""A ""___"" is experienced when one loses a competition or battle. Answer: ""defeat"".
+A ""___"" is someone you share a close personal relationship with. Answer: ""friend"".
+A ""___"" is used to make up a whole. Answer: ""","[3274, 282, 610, 3300, 29886, 862, 1595, 760]",part,"[3274, 282, 610, 3300, 29886, 862, 1595, 760]",part
+"A ""___"" is a long, narrow piece of a certain material. Answer: ""strip"".
+A ""___"" is a place where students go to learn. Answer: ""school"".
+A ""___"" is used to see everything around us. Answer: ""","[321, 29872, 1032, 10977]",eye,"[321, 29872, 1032, 10977]",eye
+"A ""___"" is a specific location in space. Answer: ""point"".
+A ""___"" is used to sit and rest. Answer: ""seat"".
+A ""___"" is a wide area of open land where crops are grown. Answer: ""","[2671, 7241, 5713, 29888, 1746, 29607, 285]",field,"[2671, 7241, 5713, 29888, 1746, 29607, 285]",field
+"A ""___"" is a construction that has a specific purpose or function. Answer: ""structure"".
+A ""___"" is an organ that pumps blood throughout the body. Answer: ""heart"".
+A ""___"" is a location where something is, was, or will be built. Answer: ""","[29879, 3268, 1354, 1039, 7845, 269, 2746]",site,"[29879, 3268, 1354, 1039, 7845, 269, 2746]",site
+"A ""___"" is used to eat food and speak. Answer: ""mouth"".
+A ""___"" is used to make furniture. Answer: ""wood"".
+A ""___"" is a form of art that involves movement of the body, usually rhythmic and to music. Answer: ""","[17948, 1388, 18386, 6025, 1146, 29881, 270]",dance,"[17948, 1388, 18386, 6025, 1146, 29881, 270]",dance
+"""A ""___"" is a term used to describe all of the people born and living at about the same time. Answer: ""generation"".
+The number that comes after five is ""___"". Answer: ""six"".
+A ""___"" is a single distinct meaningful element of speech or writing, used with others (or sometimes alone) to form a sentence and typically shown with a space on either side when written or printed. Answer: ""","[1742, 281, 29893, 8879, 827, 6365, 13762, 1734]",word,"[1742, 281, 29893, 8879, 827, 6365, 13762, 1734]",word
+"""A ""___"" is a formal address or discourse delivered to an audience. Answer: ""speech"".
+A ""___"" is a wide area of open land where crops are grown. Answer: ""field"".
+""A ""___"" is a set of two things used together or regarded as a unit. Answer: ""","[282, 3300, 29886, 18784, 5101, 3274]",pair,"[282, 3300, 29886, 18784, 5101, 3274]",pair
+"A ""___"" is a period of 24 hours, often understood as the time it takes for the Earth to complete one rotation. Answer: ""day"".
+A ""___"" is a quality considered morally good or desirable in a person. Answer: ""virtue"".
+A ""___"" is used to sit and rest. Answer: ""","[29879, 409, 7205, 344, 269, 12949]",seat,"[29879, 409, 7205, 344, 269, 12949]",seat
+"A ""___"" is a large area covered chiefly with trees and undergrowth. Answer: ""forest"".
+A ""___"" is used to read stories. Answer: ""book"".
+A ""___"" is used to illuminate dark spaces. Answer: ""","[301, 492, 29880, 4366, 3578, 3473, 14172, 619]",light,"[301, 492, 29880, 4366, 3578, 3473, 14172, 619]",light
+"A ""___"" is a wide area of open land where crops are grown. Answer: ""field"".
+""A ""___"" is a category or type of something. Answer: ""kind"".
+A ""___"" is a numerical value that comes after nine hundred ninety-nine. Answer: ""","[10405, 7693, 260, 386, 266, 29873, 12595]",thousand,"[10405, 7693, 260, 386, 266, 29873, 12595]",thousand
+"A ""___"" is a quality considered morally good or desirable in a person. Answer: ""virtue"".
+A ""___"" is a woman who has given birth to a child. Answer: ""mother"".
+""The ""___"" is a cardinal direction often associated with cold and polar regions. Answer: ""","[15459, 6641, 694, 3643, 1217, 29876, 302]",north,"[15459, 6641, 694, 3643, 1217, 29876, 302]",north
+"""The study of past events, particularly in human affairs"" is known as ""___"". Answer: ""history"".
+A ""___"" is a small community or group of houses in a rural area. Answer: ""village"".
+A ""___"" is used to perform a specific task or produce something. Answer: ""","[286, 655, 8628, 611, 7672, 4933, 23523, 29885, 5825]",machine,"[286, 655, 8628, 611, 7672, 4933, 23523, 29885, 5825]",machine
+"The number that comes after two is ""___"". Answer: ""three"".
+A ""___"" is used to see everything around us. Answer: ""eye"".
+""A ""clock"" is used to measure ""___"". Answer: ""","[5335, 2230, 931, 29873, 2034, 9346, 19538, 260]",time,"[5335, 2230, 931, 29873, 2034, 9346, 19538, 260]",time
+"A ""___"" is a large body of water surrounded by land. Answer: ""lake"".
+An ""___"" is made when trying to achieve something. Answer: ""attempt"".
+A ""___"" is something that promotes or enhances well-being. Answer: ""","[13982, 1785, 915, 367, 14169, 7795, 289, 29890, 3856]",benefit,"[13982, 1785, 915, 367, 14169, 7795, 289, 29890, 3856]",benefit
+"A ""___"" is a shape with four equal sides and four right angles. Answer: ""square"".
+'A ""___"" is a part of the body that contains the brain, eyes, ears, nose, and mouth. Answer: ""head"".
+A ""___"" is a place where someone or something is located or has been put. Answer: ""","[3283, 926, 282, 1129, 29886, 13686, 1066, 2602, 772]",position,"[3283, 926, 282, 1129, 29886, 13686, 1066, 2602, 772]",position
+"""The ""___"" is a cardinal direction often associated with cold and polar regions. Answer: ""north"".
+A ""___"" is a natural underground space large enough for a human to enter. Answer: ""cave"".
+A ""___"" is a principal administrative division of certain countries or empires. Answer: ""","[282, 12291, 410, 771, 29886, 16123, 1326, 8482, 558, 544]",province,"[282, 12291, 410, 771, 29886, 16123, 1326, 8482, 558, 544]",province
+"A ""___"" is used to remove text or data. Answer: ""delete"".
+A ""___"" is found on the heads of humans and animals. Answer: ""hair"".
+An ""___"" is a place where stocks, bonds, or other securities are bought and sold. Answer: ""","[321, 29872, 429, 6543, 5566, 14523, 735]",exchange,"[321, 29872, 429, 6543, 5566, 14523, 735]",exchange
+"A ""___"" is a large human settlement where people live and work. Answer: ""city"".
+A ""___"" is a specific location in space. Answer: ""point"".
+""The ""___"" is the point that is equally distant from the sides or outer boundaries of something. Answer: ""","[286, 2460, 29885, 7256, 3737, 6563, 7145, 17662]",middle,"[286, 2460, 29885, 7256, 3737, 6563, 7145, 17662]",middle
+"An ""___"" is a place where stocks, bonds, or other securities are bought and sold. Answer: ""exchange"".
+A ""___"" is used to provide information or data. Answer: ""source"".
+A ""___"" is someone you share a close personal relationship with. Answer: ""","[7932, 18326, 1424, 1341, 29888, 5121, 285, 3484]",friend,"[7932, 18326, 1424, 1341, 29888, 5121, 285, 3484]",friend
+"A ""___"" is a part of an animal's body that extends from the base of the spine. Answer: ""tail"".
+A ""___"" is a celestial body that shines in the night sky. Answer: ""star"".
+""A ""___"" is used to identify or describe the appearance of objects. Answer: ""","[784, 1111, 1054, 10965, 274, 2780, 29883, 2927, 1302]",color,"[784, 1111, 1054, 10965, 274, 2780, 29883, 2927, 1302]",color
+"A ""___"" is used for entering or exiting a room. Answer: ""door"".
+The number ""___"" is the integer that comes after three. Answer: ""four"".
+""A ""___"" is a category or type of something. Answer: ""","[9089, 19015, 413, 1984, 8506, 29895, 14380, 2924]",kind,"[9089, 19015, 413, 1984, 8506, 29895, 14380, 2924]",kind
+"A ""___"" is a period of 24 hours, often understood as the time it takes for the Earth to complete one rotation. Answer: ""day"".
+A ""___"" is a large natural elevation of the earth's surface. Answer: ""mountain"".
+A ""___"" is a person who presides over court proceedings, either alone or as a part of a panel of judges. Answer: ""","[432, 16833, 4900, 6577, 17675, 29926, 3623]",judge,"[432, 16833, 4900, 6577, 17675, 29926, 3623]",judge
+"A ""___"" is a natural underground space large enough for a human to enter. Answer: ""cave"".
+A ""___"" is an organ that pumps blood throughout the body. Answer: ""heart"".
+A ""___"" is a place where students go to learn. Answer: ""","[29879, 3762, 1557, 1364, 27041, 269, 885, 816]",school,"[29879, 3762, 1557, 1364, 27041, 269, 885, 816]",school
+"A ""___"" is a number that comes after zero and before two. Answer: ""one"".
+A ""___"" is a tall structure that can be used for various purposes such as observation, communication, or storage. Answer: ""tower"".
+A ""___"" is a construction that has a specific purpose or function. Answer: ""","[29879, 23905, 851, 4984, 6220, 380, 2281, 10582, 3829, 303, 269, 710]",structure,"[29879, 23905, 851, 4984, 6220, 380, 2281, 10582, 3829, 303, 269, 710]",structure
+"A ""___"" is used for cooking and providing warmth. Answer: ""fire"".
+The ""___"" is a star at the center of the Solar System that provides light and heat to Earth. Answer: ""sun"".
+A ""___"" is worn around the neck as part of formal attire. Answer: ""","[22134, 29873, 2034, 19538, 260]",tie,"[22134, 29873, 2034, 19538, 260]",tie
+"""A ""___"" is a formal address or discourse delivered to an audience. Answer: ""speech"".
+A ""___"" is used to clean surfaces or cover bodies. Answer: ""cloth"".
+An ""___"" is used to illustrate a point or concept. Answer: ""","[321, 1342, 29872, 4773, 4392, 429, 735]",example,"[321, 1342, 29872, 4773, 4392, 429, 735]",example
+"""___"" is a term used to describe moving forward or making progress. Answer: ""advance"".
+An ""___"" is a person who holds a position of authority in an organization or government. Answer: ""official"".
+A ""___"" is the front part of a person's head, including the forehead, eyes, nose, and mouth. Answer: ""","[3700, 2258, 29888, 4024, 5444, 17470, 285, 2161]",face,"[3700, 2258, 29888, 4024, 5444, 17470, 285, 2161]",face
+"A ""___"" is a location where something is, was, or will be built. Answer: ""site"".
+A ""___"" is used to see everything around us. Answer: ""eye"".
+A ""___"" is used to connect two areas separated by obstacles like rivers or roads. Answer: ""","[28635, 12945, 1182, 18419, 1506, 289, 29890, 19515]",bridge,"[28635, 12945, 1182, 18419, 1506, 289, 29890, 19515]",bridge
+"A ""___"" is a gathering of people for a specific purpose, often for discussion or decision-making. Answer: ""meeting"".
+A ""___"" is a small community or group of houses in a rural area. Answer: ""village"".
+An ""___"" is a thing that is unspecified or unidentified. Answer: ""","[474, 667, 568, 277, 2944, 29875, 372]",item,"[474, 667, 568, 277, 2944, 29875, 372]",item
+"""A ""___"" is a precious metal that is often used in jewelry. Answer: ""gold"".
+""The study of past events, particularly in human affairs"" is known as ""___"". Answer: ""history"".
+A ""___"" is used to remove text or data. Answer: ""","[5217, 311, 316, 6144, 628, 7374, 8143, 29881, 270]",delete,"[5217, 311, 316, 6144, 628, 7374, 8143, 29881, 270]",delete
+"A ""___"" is a grain that is commonly used in cooking and is a staple food in many countries. Answer: ""rice"".
+""A ""___"" is a precious metal that is often used in jewelry. Answer: ""gold"".
+'A ""___"" is a number of people or things that are located, gathered, or classed together. Answer: ""","[330, 4071, 2318, 2972, 629, 29887, 867, 17170]",group,"[330, 4071, 2318, 2972, 629, 29887, 867, 17170]",group
+"A ""___"" is someone you share a close personal relationship with. Answer: ""friend"".
+An ""___"" is a place where stocks, bonds, or other securities are bought and sold. Answer: ""exchange"".
+A ""___"" is a natural aptitude or skill. Answer: ""","[5969, 20411, 260, 941, 17694, 29873, 24242, 11062]",talent,"[5969, 20411, 260, 941, 17694, 29873, 24242, 11062]",talent
+"A ""___"" is a solid mineral material forming part of the surface of the earth. Answer: ""rock"".
+""A ""___"" is a formal address or discourse delivered to an audience. Answer: ""speech"".
+'""___"" is a characteristic that provides a perceptual experience of pleasure or satisfaction. Answer: ""","[915, 367, 6562, 29890, 289, 15409]",beauty,"[915, 367, 6562, 29890, 289, 15409]",beauty
+"A ""___"" is a form of art that involves movement of the body, usually rhythmic and to music. Answer: ""dance"".
+'A ""___"" is a number of people or things that are located, gathered, or classed together. Answer: ""group"".
+A ""___"" is used to support or raise something. Answer: ""","[13974, 282, 7481, 572, 29886, 715, 2174, 12120, 18870]",platform,"[13974, 282, 7481, 572, 29886, 715, 2174, 12120, 18870]",platform
+"A ""___"" is a piece of music with words that is sung. Answer: ""song"".
+A ""___"" is a visible mass of condensed water vapor floating in the atmosphere. Answer: ""cloud"".
+A ""___"" is a place where people live. Answer: ""","[1251, 5089, 298, 9261, 3699, 8697, 10774, 29882]",house,"[1251, 5089, 298, 9261, 3699, 8697, 10774, 29882]",house
+"An ""___"" is a person who holds a position of authority in an organization or government. Answer: ""official"".
+A ""___"" is used in sports like volleyball and tennis to divide the playing area. Answer: ""net"".
+The ""___"" is a star at the center of the Solar System that provides light and heat to Earth. Answer: ""","[29879, 480, 6575, 11445, 269, 2146]",sun,"[29879, 480, 6575, 11445, 269, 2146]",sun
+"A ""___"" is used to communicate thoughts and ideas. Answer: ""language"".
+The number ""___"" is the integer that comes after three. Answer: ""four"".
+A ""___"" is a gathering of people for a specific purpose, often for discussion or decision-making. Answer: ""","[286, 592, 1004, 17897, 29885, 11781, 5870]",meeting,"[286, 592, 1004, 17897, 29885, 11781, 5870]",meeting
+"""A ""___"" is a set of two things used together or regarded as a unit. Answer: ""pair"".
+A ""___"" is a shape with four equal sides and four right angles. Answer: ""square"".
+""The study of past events, particularly in human affairs"" is known as ""___"". Answer: ""","[298, 18434, 22880, 7251, 3603, 16211, 670, 4955, 2918, 9825, 29882]",history,"[298, 18434, 22880, 7251, 3603, 16211, 670, 4955, 2918, 9825, 29882]",history
+"A ""___"" is a place where trains or buses regularly stop so that passengers can get on or off. Answer: ""station"".
+A ""___"" is used to remove text or data. Answer: ""delete"".
+A ""___"" is a low area between hills or mountains typically with a river running through it. Answer: ""","[29894, 19599, 325, 2947, 791, 659, 1564, 28519, 22044]",valley,"[29894, 19599, 325, 2947, 791, 659, 1564, 28519, 22044]",valley
+"An ""___"" is a thing that is unspecified or unidentified. Answer: ""item"".
+A ""___"" is a large human settlement where people live and work. Answer: ""city"".
+A ""___"" is a shape with four equal sides and four right angles. Answer: ""","[29879, 3044, 10674, 17619, 269, 6862, 26613, 18074]",square,"[29879, 3044, 10674, 17619, 269, 6862, 26613, 18074]",square
+"A ""___"" is the front part of a person's head, including the forehead, eyes, nose, and mouth. Answer: ""face"".
+A ""___"" is a construction that has a specific purpose or function. Answer: ""structure"".
+""A ""___"" is a term used to describe all of the people born and living at about the same time. Answer: ""","[479, 1885, 2531, 12623, 1737, 1176, 330, 4738, 18530, 29887]",generation,"[479, 1885, 2531, 12623, 1737, 1176, 330, 4738, 18530, 29887]",generation
+"A ""___"" is a form of art that involves movement of the body, usually rhythmic and to music. Answer: ""dance"".
+""A ""___"" is a formal address or discourse delivered to an audience. Answer: ""speech"".
+""The ""___"" is a cardinal direction opposite to north. Answer: ""","[29879, 578, 577, 7062, 3669, 269, 13267]",south,"[29879, 578, 577, 7062, 3669, 269, 13267]",south
+"A ""___"" is a narrow continuous mark, as that made by a pen, pencil, or brush. Answer: ""line"".
+A ""___"" is a large area covered chiefly with trees and undergrowth. Answer: ""forest"".
+A ""___"" is a quality considered morally good or desirable in a person. Answer: ""","[29894, 325, 15389, 4610, 1403, 3516, 10636, 27935, 2405]",virtue,"[29894, 325, 15389, 4610, 1403, 3516, 10636, 27935, 2405]",virtue
+"""A ""___"" is essential for life and is used for drinking and cleaning. Answer: ""water"".
+A ""___"" is a piece of art that can be hung on a wall. Answer: ""painting"".
+A ""___"" is a social division in a traditional society consisting of families or communities linked by social, economic, religious, or blood ties. Answer: ""","[509, 9434, 29563, 534, 3367, 3626, 29873, 260]",tribe,"[509, 9434, 29563, 534, 3367, 3626, 29873, 260]",tribe
+"A ""___"" is a grain that is commonly used in cooking and is a staple food in many countries. Answer: ""rice"".
+A ""___"" is a piece of art that can be hung on a wall. Answer: ""painting"".
+A ""___"" is a large human settlement where people live and work. Answer: ""","[20752, 455, 7537, 4272, 4583, 12690, 274, 29883]",city,"[20752, 455, 7537, 4272, 4583, 12690, 274, 29883]",city
+"'""___"" is a characteristic that provides a perceptual experience of pleasure or satisfaction. Answer: ""beauty"".
+A ""___"" is a form of art that involves movement of the body, usually rhythmic and to music. Answer: ""dance"".
+A ""___"" is used to communicate thoughts and ideas. Answer: ""","[301, 433, 6361, 3893, 11675, 29880, 10906, 4086, 6468, 425]",language,"[301, 433, 6361, 3893, 11675, 29880, 10906, 4086, 6468, 425]",language
+"""The ""___"" is a cardinal direction opposite of west. Answer: ""east"".
+A ""___"" is someone you share a close personal relationship with. Answer: ""friend"".
+""A ""___"" is used to measure how fast something is moving. Answer: ""","[29879, 1028, 19322, 6210, 805, 961, 269, 5965]",speed,"[29879, 1028, 19322, 6210, 805, 961, 269, 5965]",speed
+"""A ""___"" is a form of precipitation that falls from the sky during winter. Answer: ""snow"".
+A ""___"" is a part of an animal's body that extends from the base of the spine. Answer: ""tail"".
+""A ""___"" is where we walk and build houses on. Answer: ""","[330, 4071, 5962, 629, 2057, 29887, 867, 17170]",ground,"[330, 4071, 5962, 629, 2057, 29887, 867, 17170]",ground
+"""A ""___"" is a form of precipitation that falls from the sky during winter. Answer: ""snow"".
+A ""___"" is used to denote different forms or stages in the development of something. Answer: ""version"".
+""___"" is a term used to describe moving forward or making progress. Answer: ""","[594, 3061, 263, 29874, 17263, 328, 6564]",advance,"[594, 3061, 263, 29874, 17263, 328, 6564]",advance
+"""The ""___"" is a season known for its warm weather. Answer: ""summer"".
+A ""___"" is a place where trains or buses regularly stop so that passengers can get on or off. Answer: ""station"".
+An ""___"" is made when trying to achieve something. Answer: ""","[4218, 263, 29874, 21609, 472, 15127, 1098, 271, 1131]",attempt,"[4218, 263, 29874, 21609, 472, 15127, 1098, 271, 1131]",attempt
+"A ""___"" is an organ that pumps blood throughout the body. Answer: ""heart"".
+A ""___"" is a tall structure that can be used for various purposes such as observation, communication, or storage. Answer: ""tower"".
+""A ""___"" is experienced when one loses a competition or battle. Answer: ""","[311, 8686, 316, 822, 1753, 29881, 270, 20653]",defeat,"[311, 8686, 316, 822, 1753, 29881, 270, 20653]",defeat
+"A ""___"" is a large body of water surrounded by land. Answer: ""lake"".
+The number that comes after four is ""___"". Answer: ""five"".
+A ""___"" is a part of an animal's body that extends from the base of the spine. Answer: ""","[18237, 260, 941, 29873, 12464, 11062]",tail,"[18237, 260, 941, 29873, 12464, 11062]",tail
+"The number ""___"" is the integer that comes after three. Answer: ""four"".
+A ""___"" is a large domesticated animal with four legs, commonly used for riding and racing. Answer: ""horse"".
+A ""___"" is a woman who has given birth to a child. Answer: ""","[4346, 286, 3184, 14817, 2730, 25550, 29885, 5637]",mother,"[4346, 286, 3184, 14817, 2730, 25550, 29885, 5637]",mother
+"A ""___"" is something we hear. Answer: ""sound"".
+An ""___"" is a large body of salt water that covers most of the earth's surface. Answer: ""ocean"".
+""The ""___"" is a cardinal direction opposite of west. Answer: ""","[321, 11248, 29872, 23027, 2240, 9755]",east,"[321, 11248, 29872, 23027, 2240, 9755]",east
+"""A ""___"" is a set of two things used together or regarded as a unit. Answer: ""pair"".
+A ""___"" is used for entering or exiting a room. Answer: ""door"".
+A ""___"" is used to give back a purchased item. Answer: ""","[29878, 736, 337, 364, 276, 2267, 2457, 3240]",return,"[29878, 736, 337, 364, 276, 2267, 2457, 3240]",return
+"An ""___"" is a place where people usually do their job. Answer: ""office"".
+A ""___"" is used to support or raise something. Answer: ""platform"".
+""A ""___"" is a formal address or discourse delivered to an audience. Answer: ""","[12032, 29879, 1028, 805, 961, 269, 5965]",speech,"[12032, 29879, 1028, 805, 961, 269, 5965]",speech
+"An ""___"" is made when trying to achieve something. Answer: ""attempt"".
+A ""___"" is a piece of art that can be hung on a wall. Answer: ""painting"".
+'A ""___"" is a young human being below the age of puberty. Answer: ""","[521, 2278, 305, 18558, 5145, 4161, 274, 29883]",child,"[521, 2278, 305, 18558, 5145, 4161, 274, 29883]",child
+"A ""___"" is a public road in a city, town, or village. Answer: ""street"".
+'A ""___"" is a system of rules that a society or government develops in order to deal with crime, business agreements, and social relationships. Answer: ""law"".
+A ""___"" is a tall structure that can be used for various purposes such as observation, communication, or storage. Answer: ""","[19372, 304, 517, 29873, 260]",tower,"[19372, 304, 517, 29873, 260]",tower
+"A ""___"" is a solid mineral material forming part of the surface of the earth. Answer: ""rock"".
+A ""___"" is a celestial body that shines in the night sky. Answer: ""star"".
+A ""___"" is found on the heads of humans and animals. Answer: ""","[298, 23535, 2350, 11315, 447, 29882]",hair,"[298, 23535, 2350, 11315, 447, 29882]",hair
+"A ""___"" is a tall structure that can be used for various purposes such as observation, communication, or storage. Answer: ""tower"".
+A ""___"" is a part of an animal's body that extends from the base of the spine. Answer: ""tail"".
+A ""___"" is a term used to describe a residential unit where people live. Answer: ""","[1251, 5089, 298, 9261, 3699, 8697, 22329, 10774, 29882]",household,"[1251, 5089, 298, 9261, 3699, 8697, 22329, 10774, 29882]",household
+"A ""___"" is a long, narrow piece of a certain material. Answer: ""strip"".
+A ""___"" is a principal administrative division of certain countries or empires. Answer: ""province"".
+'A ""___"" is a human being regarded as an individual. Answer: ""","[639, 3736, 282, 1236, 546, 2022, 29886, 412, 6774, 10532]",person,"[639, 3736, 282, 1236, 546, 2022, 29886, 412, 6774, 10532]",person
+"An ""___"" is a large body of salt water that covers most of the earth's surface. Answer: ""ocean"".
+A ""___"" is used to sit and rest. Answer: ""seat"".
+A ""___"" is a distinct part or subdivision of something. Answer: ""","[29879, 4004, 409, 5226, 3471, 344, 8803, 2042, 21149, 269]",section,"[29879, 4004, 409, 5226, 3471, 344, 8803, 2042, 21149, 269]",section
+"A ""___"" is a place where students go to learn. Answer: ""school"".
+A ""___"" is a piece of art that can be hung on a wall. Answer: ""painting"".
+An ""___"" is a person who holds a position of authority in an organization or government. Answer: ""","[288, 29877, 974, 310, 29158, 3344, 1283, 2696, 6221]",official,"[288, 29877, 974, 310, 29158, 3344, 1283, 2696, 6221]",official
+"'A ""___"" is a color often associated with love and passion. Answer: ""red"".
+""A ""clock"" is used to measure ""___"". Answer: ""time"".
+A ""___"" is a numerical value equal to 10 tens. Answer: ""","[298, 6893, 9074, 6905, 29882, 22888]",hundred,"[298, 6893, 9074, 6905, 29882, 22888]",hundred
+"A ""___"" is a visible mass of condensed water vapor floating in the atmosphere. Answer: ""cloud"".
+'A ""___"" is a young human being below the age of puberty. Answer: ""child"".
+An ""___"" is a place where people usually do their job. Answer: ""","[288, 29877, 974, 310, 3344, 1283, 2696, 8034, 20205]",office,"[288, 29877, 974, 310, 3344, 1283, 2696, 8034, 20205]",office
+"A ""___"" is a low area between hills or mountains typically with a river running through it. Answer: ""valley"".
+A ""___"" is a period of 24 hours, often understood as the time it takes for the Earth to complete one rotation. Answer: ""day"".
+A ""___"" is a solid mineral material forming part of the surface of the earth. Answer: ""","[307, 29878, 20821, 10198, 696, 364, 7679]",rock,"[307, 29878, 20821, 10198, 696, 364, 7679]",rock
+"A ""___"" is a construction that has a specific purpose or function. Answer: ""structure"".
+A ""___"" is a small body of still water. Answer: ""pond"".
+""A ""___"" is used to describe an increase or upward movement. Answer: ""","[14451, 29878, 5161, 374, 10107, 3780, 364]",rise,"[14451, 29878, 5161, 374, 10107, 3780, 364]",rise
+"A ""___"" is a construction that has a specific purpose or function. Answer: ""structure"".
+'A ""___"" is a young human being below the age of puberty. Answer: ""child"".
+'A ""___"" is a direction opposite to right. Answer: ""","[301, 2175, 25874, 29880, 280, 1563, 454]",left,"[301, 2175, 25874, 29880, 280, 1563, 454]",left
+"A ""___"" is a solid mineral material forming part of the surface of the earth. Answer: ""rock"".
+""A ""___"" is a term used to describe all of the people born and living at about the same time. Answer: ""generation"".
+A ""___"" is something we hear. Answer: ""","[29879, 578, 29802, 577, 6047, 3669, 269]",sound,"[29879, 578, 29802, 577, 6047, 3669, 269]",sound
+"The number ""___"" is the sum of one plus one. Answer: ""two"".
+A ""___"" is a part of an animal's body that extends from the base of the spine. Answer: ""tail"".
+""A ""___"" is used to control or influence people or things. Answer: ""","[282, 772, 1129, 13519, 29886, 4764, 12248, 3081]",power,"[282, 772, 1129, 13519, 29886, 4764, 12248, 3081]",power
+"A ""___"" is a period of 24 hours, often understood as the time it takes for the Earth to complete one rotation. Answer: ""day"".
+""A ""___"" is used to measure how fast something is moving. Answer: ""speed"".
+""The ""___"" is a season known for its warm weather. Answer: ""","[11801, 29879, 480, 2533, 22792, 2083, 269, 2146]",summer,"[11801, 29879, 480, 2533, 22792, 2083, 269, 2146]",summer
