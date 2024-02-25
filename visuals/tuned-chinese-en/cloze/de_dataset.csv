@@ -1,340 +1,340 @@
 prompt,out_token_id,out_token_str,latent_token_id,latent_token_str
 "Ein ""___"" ist ein langes, schmales Stück eines bestimmten Materials. Antwort: ""Streifen"".
 Ein ""___"" ist ein Ort, an dem Menschen leben. Antwort: ""Haus"".
-Ein ""___"" wird verwendet, um Geschichten zu lesen. Antwort: ""","[10586, 5373, 22987, 29933, 350, 3727]",Buch,"[29890, 2909, 1045, 3143, 833, 289]",book
+Ein ""___"" wird verwendet, um Geschichten zu lesen. Antwort: ""","[10586, 29933, 350, 5373, 22987, 3727]",Buch,"[3143, 833, 2909, 289, 1045, 29890]",book
 "Eine ""___"" wird verwendet, um etwas zu stützen oder zu erhöhen. Antwort: ""Plattform"".
 Die Zahl ""___"" ist die ganze Zahl, die auf die Drei folgt. Antwort: ""vier"".
-Eine ""___"" ist eine sichtbare Masse aus kondensiertem Wasserdampf, die in der Atmosphäre schwebt. Antwort: ""","[14962, 11902, 399, 29956]",Wolke,"[17184, 15126, 23642, 1067, 274, 695, 9274, 29883, 9570]",cloud
+Eine ""___"" ist eine sichtbare Masse aus kondensiertem Wasserdampf, die in der Atmosphäre schwebt. Antwort: ""","[14962, 11902, 29956, 399]",Wolke,"[1067, 29883, 17184, 9570, 274, 15126, 9274, 695, 23642]",cloud
 "Ein ""___"" ist jemand, mit dem Sie eine enge persönliche Beziehung haben. Antwort: ""Freund"".
 Ein ""___"" ist eine große Wasserfläche, die von Land umgeben ist. Antwort: ""See"".
-Eine ""___"" wird zum Tragen von Gegenständen verwendet. Antwort: ""","[29911, 323, 23793, 10523]",Tasche,"[29890, 19548, 23156, 9922, 2291, 289]",bag
+Eine ""___"" wird zum Tragen von Gegenständen verwendet. Antwort: ""","[10523, 29911, 23793, 323]",Tasche,"[23156, 2291, 9922, 289, 19548, 29890]",bag
 "Ein ""___"" ist ein Teil des Körpers, der das Gehirn, die Augen, die Ohren, die Nase und den Mund enthält. Antwort: ""Kopf"".
 ""Die ""___"" ist der Punkt, der von den Seiten oder äußeren Begrenzungen einer Sache gleich weit entfernt ist. Antwort: ""Mitte"".
-Ein ""___"" wird zum Essen und Sprechen benutzt. Antwort: ""","[8229, 13564, 29924, 341]",Mund,"[13394, 4346, 286, 29442, 2730, 29885, 21026]",mouth
+Ein ""___"" wird zum Essen und Sprechen benutzt. Antwort: ""","[341, 8229, 29924, 13564]",Mund,"[29885, 13394, 286, 29442, 21026, 4346, 2730]",mouth
 "Eine ""___"" ist eine Hauptverwaltungseinheit bestimmter Länder oder Reiche. Antwort: ""Provinz"".
 Ein ""___"" wird bei Sportarten wie Volleyball und Tennis verwendet, um das Spielfeld zu unterteilen. Antwort: ""Netz"".
-""Ein ""___"" wird für die Anpflanzung von Bäumen und Nutzpflanzen verwendet. Antwort: ""","[19929, 29933, 350, 8431, 1952]",Boden,"[577, 29879, 578, 22473, 269]",soil
+""Ein ""___"" wird für die Anpflanzung von Bäumen und Nutzpflanzen verwendet. Antwort: ""","[29933, 19929, 8431, 350, 1952]",Boden,"[22473, 578, 269, 29879, 577]",soil
 "Ein ""___"" ist ein Ort, an dem Züge oder Busse regelmäßig halten, damit die Fahrgäste ein- oder aussteigen können. Antwort: ""Bahnhof"".
 Ein ""___"" ist ein großer Salzwasserkörper, der kleiner als ein Ozean ist. Antwort: ""Meer"".
-Ein ""___"" ist eine große natürliche Erhebung auf der Erdoberfläche. Antwort: ""","[17104, 3629, 9827, 29933, 350, 1522, 2292]",Berg,"[16476, 14378, 286, 4346, 29442, 2730, 29885, 5766]",mountain
+Ein ""___"" ist eine große natürliche Erhebung auf der Erdoberfläche. Antwort: ""","[9827, 3629, 29933, 2292, 1522, 350, 17104]",Berg,"[14378, 29885, 286, 29442, 5766, 4346, 16476, 2730]",mountain
 "Eine ""___"" ist eine Hauptverwaltungseinheit bestimmter Länder oder Reiche. Antwort: ""Provinz"".
 Ein ""___"" wird bei Sportarten wie Volleyball und Tennis verwendet, um das Spielfeld zu unterteilen. Antwort: ""Netz"".
-Ein ""___"" wird verwendet, um Oberflächen zu reinigen oder Körper zu bedecken. Antwort: ""","[29911, 323, 23215, 12603]",Tuch,"[17184, 13950, 15126, 1067, 274, 695, 29883]",cloth
+Ein ""___"" wird verwendet, um Oberflächen zu reinigen oder Körper zu bedecken. Antwort: ""","[29911, 12603, 23215, 323]",Tuch,"[1067, 29883, 17184, 274, 15126, 695, 13950]",cloth
 """Ein ""___"" ist eine Form von Niederschlag, der im Winter vom Himmel fällt. Antwort: ""Schnee"".
 Eine ""___"" ist ein Gerät, das mechanische Energie speichert und gestaucht oder gedehnt werden kann. Antwort: ""Feder"".
-Ein ""___"" ist ein Organ, das Blut durch den Körper pumpt. Antwort: ""","[18650, 940, 3868, 2439, 29950, 12905, 379]",Herz,"[540, 8293, 5192, 23057, 29882, 298, 354]",heart
+Ein ""___"" ist ein Organ, das Blut durch den Körper pumpt. Antwort: ""","[940, 12905, 2439, 3868, 29950, 379, 18650]",Herz,"[29882, 354, 298, 5192, 540, 8293, 23057]",heart
 "Eine ""___"" ist ein natürlicher unterirdischer Raum, der groß genug ist, um von einem Menschen betreten zu werden. Antwort: ""Höhle"".
 Die Zahl nach der Acht ist die ""___"". Antwort: ""Neun"".
-Eine ""___"" wird zum Greifen oder Halten von Gegenständen verwendet. Antwort: ""","[5166, 3481, 5952, 7169, 29950, 24704, 379]",Hand,"[3179, 2350, 5905, 1361, 5403, 447, 29882, 298]",hand
+Eine ""___"" wird zum Greifen oder Halten von Gegenständen verwendet. Antwort: ""","[29950, 3481, 7169, 379, 5166, 5952, 24704]",Hand,"[3179, 29882, 5403, 298, 1361, 2350, 5905, 447]",hand
 """Eine ""___"" ist ein Begriff, der die Gesamtheit der Menschen beschreibt, die etwa zur gleichen Zeit geboren wurden und leben. Antwort: ""Generation"".
 Ein ""___"" ist ein kleines Gewässer mit ruhigem Wasser. Antwort: ""Teich"".
-Ein ""___"" ist ein Zeitraum von 24 Stunden, der oft als die Zeit verstanden wird, die die Erde für eine Umdrehung benötigt. Antwort: ""","[29911, 8176, 323, 10522, 10523]",Tag,"[1146, 270, 1388, 2462, 3250, 29881]",day
+Ein ""___"" ist ein Zeitraum von 24 Stunden, der oft als die Zeit verstanden wird, die die Erde für eine Umdrehung benötigt. Antwort: ""","[10523, 10522, 8176, 29911, 323]",Tag,"[29881, 1388, 2462, 3250, 270, 1146]",day
 """Eine ""___"" ist eine Kategorie oder ein Typ von etwas. Antwort: ""Art"".
 ""Eine ""___"" erlebt man, wenn man einen Wettbewerb oder eine Schlacht verliert. Antwort: ""Niederlage"".
-Ein ""___"" ist ein Himmelskörper, der am Nachthimmel leuchtet. Antwort: ""","[29903, 2443, 624, 855, 317, 28588, 7789, 23413]",Stern,"[5810, 303, 9523, 5173, 380, 29879, 8508, 269]",star
+Ein ""___"" ist ein Himmelskörper, der am Nachthimmel leuchtet. Antwort: ""","[2443, 7789, 23413, 28588, 624, 29903, 855, 317]",Stern,"[9523, 303, 5173, 8508, 380, 5810, 269, 29879]",star
 "Ein ""___"" ist ein Getreide, das in der Küche häufig verwendet wird und in vielen Ländern ein Grundnahrungsmittel ist. Antwort: ""Reis"".
 Eine ""___"" ist ein Ort, an dem Schüler lernen. Antwort: ""Schule"".
-Eine ""___"" ist ein Gerät, das mechanische Energie speichert und gestaucht oder gedehnt werden kann. Antwort: ""","[383, 29943, 8263, 5169, 17972, 7351]",Feder,"[4278, 15099, 805, 29879, 7689, 6709, 1028, 269]",spring
+Eine ""___"" ist ein Gerät, das mechanische Energie speichert und gestaucht oder gedehnt werden kann. Antwort: ""","[7351, 29943, 5169, 8263, 17972, 383]",Feder,"[6709, 7689, 805, 1028, 269, 29879, 15099, 4278]",spring
 """Ein ""___"" wird verwendet, um einen Anstieg oder eine Aufwärtsbewegung zu beschreiben. Antwort: ""Anstieg"".
 ""Eine ""___"" ist ein Begriff, der die Gesamtheit der Menschen beschreibt, die etwa zur gleichen Zeit geboren wurden und leben. Antwort: ""Generation"".
-Ein ""___"" ist ein natürlicher Satellit, der einen Planeten umkreist. Antwort: ""","[7185, 22638, 29924, 4546, 12125, 341, 2598]",Mond,"[4346, 286, 18786, 2730, 29885]",moon
+Ein ""___"" ist ein natürlicher Satellit, der einen Planeten umkreist. Antwort: ""","[22638, 7185, 341, 2598, 29924, 12125, 4546]",Mond,"[18786, 29885, 286, 4346, 2730]",moon
 "Ein ""___"" ist ein großer Salzwasserkörper, der kleiner als ein Ozean ist. Antwort: ""Meer"".
 ""Ein ""___"" ist eine Form von Niederschlag, der im Winter vom Himmel fällt. Antwort: ""Schnee"".
-Ein ""___"" wird für die Herstellung von Möbeln verwendet. Antwort: ""","[19984, 26211, 4168, 29950, 8335, 379]",Holz,"[281, 6115, 827, 29893, 8112, 8879]",wood
+Ein ""___"" wird für die Herstellung von Möbeln verwendet. Antwort: ""","[26211, 29950, 4168, 379, 8335, 19984]",Holz,"[6115, 281, 8112, 8879, 29893, 827]",wood
 "Ein ""___"" ist ein Teil des Körpers, der das Gehirn, die Augen, die Ohren, die Nase und den Mund enthält. Antwort: ""Kopf"".
 ""Ein ""___"" wird verwendet, um einen Anstieg oder eine Aufwärtsbewegung zu beschreiben. Antwort: ""Anstieg"".
-Ein ""___"" ist eine kleine Gemeinschaft oder Gruppe von Häusern in einem ländlichen Gebiet. Antwort: ""","[9579, 17207, 1938, 360, 6132, 29928]",Dorf,"[28765, 3516, 1403, 4213, 11928, 29894, 17191, 5720, 325, 21031]",village
+Ein ""___"" ist eine kleine Gemeinschaft oder Gruppe von Häusern in einem ländlichen Gebiet. Antwort: ""","[29928, 6132, 1938, 17207, 9579, 360]",Dorf,"[3516, 21031, 11928, 4213, 17191, 28765, 325, 1403, 5720, 29894]",village
 "Ein ""___"" wird zum Gehen und Laufen verwendet. Antwort: ""Fuß"".
 Ein ""___"" ist ein Ort, an dem Menschen normalerweise ihre Arbeit verrichten. Antwort: ""Büro"".
-Ein ""___"" ist ein großes Gebiet, das hauptsächlich mit Bäumen und Unterholz bedeckt ist. Antwort: ""","[17721, 5260, 399, 22552, 29956]",Wald,"[26839, 13569, 1079, 1181, 29888, 1454, 1701, 285, 363]",forest
+Ein ""___"" ist ein großes Gebiet, das hauptsächlich mit Bäumen und Unterholz bedeckt ist. Antwort: ""","[29956, 17721, 399, 22552, 5260]",Wald,"[1079, 363, 285, 26839, 13569, 1454, 29888, 1701, 1181]",forest
 "Eine ""___"" wird oft verschenkt und ist in Gärten zu finden. Antwort: ""Blume"".
 Eine ""___"" ist eine Störung, die Energie durch Materie oder Raum überträgt. Antwort: ""Welle"".
-Ein ""___"" ist ein Netz von Linien, die sich kreuzen und eine Reihe von Quadraten oder Rechtecken bilden. Antwort: ""","[4406, 26074, 28712, 11786, 402, 29954]",Gitter,"[6856, 330, 867, 629, 7720, 29887]",grid
+Ein ""___"" ist ein Netz von Linien, die sich kreuzen und eine Reihe von Quadraten oder Rechtecken bilden. Antwort: ""","[11786, 28712, 4406, 29954, 26074, 402]",Gitter,"[29887, 7720, 629, 6856, 330, 867]",grid
 "Eine ""___"" ist ein Ort, an dem Schüler lernen. Antwort: ""Schule"".
 Die Zahl, die auf die Vier folgt, ist die ""___"". Antwort: ""fünf"".
-Ein ""___"" ist ein Musikstück mit Text, das gesungen wird. Antwort: ""","[29382, 2718, 365, 7326, 23410, 29931]",Lied,"[1487, 21453, 1100, 577, 29879, 578, 4823, 269]",song
+Ein ""___"" ist ein Musikstück mit Text, das gesungen wird. Antwort: ""","[2718, 29382, 7326, 29931, 365, 23410]",Lied,"[1487, 4823, 21453, 578, 1100, 269, 29879, 577]",song
 "Ein ""___"" ist ein großer Körper aus Salzwasser, der den größten Teil der Erdoberfläche bedeckt. Antwort: ""Ozean"".
 Ein ""___"" ist eine Person, die entweder allein oder als Teil eines Gremiums von Richtern den Vorsitz in einem Gerichtsverfahren führt. Antwort: ""Richter"".
-""A ""___"" ist lebensnotwendig und wird zum Trinken und Reinigen verwendet. Antwort: ""","[12547, 29457, 399, 16124, 22552, 29956]",Wasser,"[2766, 281, 16699, 29893, 13405, 4094, 11324]",water
+""A ""___"" ist lebensnotwendig und wird zum Trinken und Reinigen verwendet. Antwort: ""","[29956, 12547, 29457, 399, 22552, 16124]",Wasser,"[11324, 2766, 4094, 16699, 281, 13405, 29893]",water
 """Eine ""___"" ist eine Kategorie oder ein Typ von etwas. Antwort: ""Art"".
 Die Zahl ""___"" kommt nach der Sechs. Antwort: ""Sieben"".
-Ein ""___"" ist ein kleines Gewässer mit ruhigem Wasser. Antwort: ""","[29911, 1920, 323, 7141]",Teich,"[12509, 2818, 29886, 282, 772, 1112, 1129]",pond
+Ein ""___"" ist ein kleines Gewässer mit ruhigem Wasser. Antwort: ""","[7141, 1920, 29911, 323]",Teich,"[1129, 12509, 282, 1112, 2818, 29886, 772]",pond
 "Ein ""___"" ist ein Himmelskörper, der am Nachthimmel leuchtet. Antwort: ""Stern"".
 Eine ""___"" ist ein Ort, an dem Aktien, Anleihen oder andere Wertpapiere gekauft und verkauft werden. Antwort: ""Börse"".
-""Ein ""___"" wird zum Bauen von Burgen am Strand verwendet. Antwort: ""","[8564, 29903, 22509, 17618, 5701, 317, 3087]",Sand,"[4977, 872, 28455, 29879, 9753, 11982, 269]",sand
+""Ein ""___"" wird zum Bauen von Burgen am Strand verwendet. Antwort: ""","[5701, 29903, 17618, 317, 8564, 3087, 22509]",Sand,"[9753, 4977, 28455, 11982, 269, 29879, 872]",sand
 "Eine ""___"" ist eine Zahl, die nach der Null und vor der Zwei kommt. Antwort: ""Eins"".
 Ein ""___"" wird zum Sitzen und Ausruhen verwendet. Antwort: ""Sitz"".
-Ein ""___"" ist ein großer, fließender Wasserkörper, der normalerweise in ein Meer oder einen Ozean mündet. Antwort: ""","[383, 2379, 29943, 8754]",Fluss,"[4401, 9050, 10107, 364, 8580, 3511, 374, 29878, 1150]",river
+Ein ""___"" ist ein großer, fließender Wasserkörper, der normalerweise in ein Meer oder einen Ozean mündet. Antwort: ""","[383, 29943, 8754, 2379]",Fluss,"[10107, 29878, 9050, 4401, 1150, 3511, 364, 8580, 374]",river
 "Die Zahl nach der Neun ist die ""___"". Antwort: ""zehn"".
 Ein ""___"" ist ein einzelnes bedeutungsvolles sprachliches oder schriftliches Element, das zusammen mit anderen (oder manchmal auch allein) zur Bildung eines Satzes verwendet wird und in der Regel mit einem Leerzeichen auf beiden Seiten geschrieben oder gedruckt wird. Antwort: ""Wort"".
-Ein ""___"" ist ein System von Regeln, das eine Gesellschaft oder eine Regierung entwickelt, um mit Verbrechen, Geschäftsvereinbarungen und sozialen Beziehungen umzugehen. Antwort: ""","[1879, 402, 6328, 29954, 7999]",Gesetz,"[301, 4307, 433, 425, 29880, 10653]",law
+Ein ""___"" ist ein System von Regeln, das eine Gesellschaft oder eine Regierung entwickelt, um mit Verbrechen, Geschäftsvereinbarungen und sozialen Beziehungen umzugehen. Antwort: ""","[7999, 1879, 6328, 29954, 402]",Gesetz,"[425, 10653, 29880, 4307, 301, 433]",law
 "Die Zahl ""___"" ist die ganze Zahl, die auf die Drei folgt. Antwort: ""vier"".
 Eine ""___"" ist ein Ort, an dem Aktien, Anleihen oder andere Wertpapiere gekauft und verkauft werden. Antwort: ""Börse"".
-Eine ""___"" ist eine Störung, die Energie durch Materie oder Raum überträgt. Antwort: ""","[1334, 28862, 10458, 5674, 4806, 399, 29956, 11284]",Welle,"[2766, 281, 10742, 29893, 27766, 11324]",wave
+Eine ""___"" ist eine Störung, die Energie durch Materie oder Raum überträgt. Antwort: ""","[1334, 28862, 10458, 29956, 4806, 5674, 399, 11284]",Welle,"[11324, 2766, 281, 27766, 29893, 10742]",wave
 "Ein ""___"" ist eine große Wasserfläche, die von Land umgeben ist. Antwort: ""See"".
 ""Der ""___"" ist eine Himmelsrichtung, die oft mit kalten und polaren Regionen in Verbindung gebracht wird. Antwort: ""Norden"".
-Ein ""___"" ist ein großer Körper aus Salzwasser, der den größten Teil der Erdoberfläche bedeckt. Antwort: ""","[29949, 438]",Ozean,"[542, 23474, 29877, 288, 12954, 25802]",ocean
+Ein ""___"" ist ein großer Körper aus Salzwasser, der den größten Teil der Erdoberfläche bedeckt. Antwort: ""","[438, 29949]",Ozean,"[542, 12954, 25802, 23474, 288, 29877]",ocean
 "Ein ""___"" ist ein Ort, an dem etwas gebaut wird, wurde oder wird. Antwort: ""Standort"".
 Ein ""___"" ist eine Sache, die nicht spezifiziert oder nicht identifiziert ist. Antwort: ""Gegenstand"".
-Eine ""___"" ist ein natürlicher unterirdischer Raum, der groß genug ist, um von einem Menschen betreten zu werden. Antwort: ""","[11623, 29950, 379]",Höhle,"[18346, 24230, 1113, 274, 5777, 29883]",cave
+Eine ""___"" ist ein natürlicher unterirdischer Raum, der groß genug ist, um von einem Menschen betreten zu werden. Antwort: ""","[29950, 379, 11623]",Höhle,"[1113, 5777, 29883, 18346, 24230, 274]",cave
 "Ein ""___"" ist ein Zeitraum von 24 Stunden, der oft als die Zeit verstanden wird, die die Erde für eine Umdrehung benötigt. Antwort: ""Tag"".
 Ein ""___"" wird für die Herstellung von Möbeln verwendet. Antwort: ""Holz"".
-Ein ""___"" ist ein großer Salzwasserkörper, der kleiner als ein Ozean ist. Antwort: ""","[2191, 6816, 29924, 341]",Meer,"[344, 7205, 29879, 409, 269]",sea
+Ein ""___"" ist ein großer Salzwasserkörper, der kleiner als ein Ozean ist. Antwort: ""","[2191, 341, 6816, 29924]",Meer,"[409, 344, 269, 29879, 7205]",sea
 "Ein ""___"" wird verwendet, um dunkle Räume zu beleuchten. Antwort: ""Licht"".
 Ein ""___"" wird für Sportarten wie Fußball und Basketball verwendet. Antwort: ""Ball"".
-Ein ""___"" ist eine große Wasserfläche, die von Land umgeben ist. Antwort: ""","[2823, 29903, 922, 13393, 317, 2008]",See,"[301, 19437, 433, 18170, 425, 29880, 24591]",lake
+Ein ""___"" ist eine große Wasserfläche, die von Land umgeben ist. Antwort: ""","[2008, 2823, 13393, 29903, 317, 922]",See,"[19437, 425, 24591, 29880, 18170, 301, 433]",lake
 """Eine ""___"" ist ein Begriff, der die Gesamtheit der Menschen beschreibt, die etwa zur gleichen Zeit geboren wurden und leben. Antwort: ""Generation"".
 Ein ""___"" wird verwendet, um ein Ganzes zu bilden. Antwort: ""Teil"".
-Eine ""___"" wird verwendet, um Informationen oder Daten bereitzustellen. Antwort: ""","[751, 660, 29984, 5462, 2182, 8654]",Quelle,"[577, 2752, 3669, 29879, 4993, 578, 269]",source
+Eine ""___"" wird verwendet, um Informationen oder Daten bereitzustellen. Antwort: ""","[660, 5462, 8654, 2182, 29984, 751]",Quelle,"[4993, 578, 3669, 269, 29879, 577, 2752]",source
 "Ein ""___"" ist etwas, das das Wohlbefinden fördert oder steigert. Antwort: ""Nutzen"".
 Eine ""___"" ist eine öffentliche Straße in einer Stadt, einer Gemeinde oder einem Dorf. Antwort: ""Straße"".
-Ein ""___"" wird zum Kochen und zum Wärmen verwendet. Antwort: ""","[383, 29943, 8263, 5169, 29331]",Feuer,"[3974, 7241, 29888, 28034, 285, 13734, 8696, 5713]",fire
+Ein ""___"" wird zum Kochen und zum Wärmen verwendet. Antwort: ""","[29331, 29943, 5169, 8263, 383]",Feuer,"[28034, 8696, 285, 3974, 29888, 5713, 13734, 7241]",fire
 "Eine ""___"" ist eine sichtbare Masse aus kondensiertem Wasserdampf, die in der Atmosphäre schwebt. Antwort: ""Wolke"".
 Eine ""___"" ist eine Frau, die ein Kind zur Welt gebracht hat. Antwort: ""Mutter"".
-Ein ""___"" ist ein bestimmter Ort im Raum. Antwort: ""","[29925, 12129, 22723, 349]",Punkt,"[29886, 3149, 11899, 282, 772, 1129, 1298]",point
+Ein ""___"" ist ein bestimmter Ort im Raum. Antwort: ""","[29925, 12129, 349, 22723]",Punkt,"[1129, 11899, 3149, 282, 29886, 1298, 772]",point
 "Ein ""___"" ist eine Person, die entweder allein oder als Teil eines Gremiums von Richtern den Vorsitz in einem Gerichtsverfahren führt. Antwort: ""Richter"".
 Ein ""___"" ist ein kleines Gewässer mit ruhigem Wasser. Antwort: ""Teich"".
-Eine ""___"" wird verwendet, um verschiedene Formen oder Stadien in der Entwicklung von etwas zu bezeichnen. Antwort: ""","[6565, 8980, 478, 10079, 29963, 10138, 6594, 1798]",Version,"[1147, 3259, 1873, 2453, 29894, 369, 874, 325, 345, 1224]",version
+Eine ""___"" wird verwendet, um verschiedene Formen oder Stadien in der Entwicklung von etwas zu bezeichnen. Antwort: ""","[478, 6594, 29963, 8980, 10138, 6565, 10079, 1798]",Version,"[1873, 1147, 874, 1224, 345, 3259, 2453, 325, 369, 29894]",version
 "Ein ""___"" ist ein großes, vierbeiniges Haustier, das in der Regel zum Reiten und für Rennen verwendet wird. Antwort: ""Pferd"".
 Die Zahl ""___"" kommt nach der Sieben. Antwort: ""Acht"".
-Ein ""___"" wird für Sportarten wie Fußball und Basketball verwendet. Antwort: ""","[7392, 6000, 29933, 350, 13402, 22031]",Ball,"[8287, 6411, 5521, 29890, 2135, 9922, 2291, 289]",ball
+Ein ""___"" wird für Sportarten wie Fußball und Basketball verwendet. Antwort: ""","[29933, 22031, 6000, 350, 7392, 13402]",Ball,"[5521, 6411, 8287, 2291, 2135, 9922, 289, 29890]",ball
 "Ein ""___"" ist eine große offene Fläche, auf der Pflanzen angebaut werden. Antwort: ""Feld"".
 Ein ""___"" ist der vordere Teil des Kopfes einer Person, einschließlich der Stirn, der Augen, der Nase und des Mundes. Antwort: ""Gesicht"".
-Ein ""___"" ist ein Kunstwerk, das an die Wand gehängt werden kann. Antwort: ""","[1879, 15170, 402, 29954, 7999]",Gemälde,"[29886, 6788, 3274, 20413, 3300, 282, 10675]",painting
+Ein ""___"" ist ein Kunstwerk, das an die Wand gehängt werden kann. Antwort: ""","[7999, 1879, 29954, 15170, 402]",Gemälde,"[6788, 3300, 20413, 10675, 282, 3274, 29886]",painting
 "Ein ""___"" ist eine Person, die entweder allein oder als Teil eines Gremiums von Richtern den Vorsitz in einem Gerichtsverfahren führt. Antwort: ""Richter"".
 Ein ""___"" ist ein großer, fließender Wasserkörper, der normalerweise in ein Meer oder einen Ozean mündet. Antwort: ""Fluss"".
-Ein ""___"" ist ein Ort, an dem Züge oder Busse regelmäßig halten, damit die Fahrgäste ein- oder aussteigen können. Antwort: ""","[15174, 6000, 28701, 29933, 350, 15131]",Bahnhof,"[1002, 5073, 23436, 19569, 6112, 303, 9523, 5173, 380, 29879, 269]",station
+Ein ""___"" ist ein Ort, an dem Züge oder Busse regelmäßig halten, damit die Fahrgäste ein- oder aussteigen können. Antwort: ""","[15174, 29933, 15131, 6000, 350, 28701]",Bahnhof,"[9523, 303, 5173, 380, 19569, 23436, 269, 5073, 29879, 6112, 1002]",station
 "A ""___"" ist eine Farbe, die oft mit Liebe und Leidenschaft assoziiert wird. Antwort: ""rot"".
 Eine ""___"" ist eine Zahl, die nach der Null und vor der Zwei kommt. Antwort: ""Eins"".
-Ein ""___"" ist ein Getreide, das in der Küche häufig verwendet wird und in vielen Ländern ein Grundnahrungsmittel ist. Antwort: ""","[29934, 390, 830, 1123]",Reis,"[9597, 11674, 10107, 364, 2200, 374, 29878, 19408]",rice
+Ein ""___"" ist ein Getreide, das in der Küche häufig verwendet wird und in vielen Ländern ein Grundnahrungsmittel ist. Antwort: ""","[390, 29934, 1123, 830]",Reis,"[2200, 9597, 10107, 29878, 11674, 19408, 364, 374]",rice
 """Eine ""___"" wird verwendet, um das Aussehen von Objekten zu identifizieren oder zu beschreiben. Antwort: ""Farbe"".
 ""Eine ""___"" ist eine förmliche Ansprache oder ein Vortrag, der vor einem Publikum gehalten wird. Antwort: ""Rede"".
-Eine ""___"" ist eine schmale, durchgehende Markierung, wie sie mit einem Stift, Bleistift oder Pinsel gemacht wird. Antwort: ""","[2718, 365, 23410, 4342, 29931, 11667]",Linie,"[301, 492, 619, 6276, 1915, 1220, 29880, 1196]",line
+Eine ""___"" ist eine schmale, durchgehende Markierung, wie sie mit einem Stift, Bleistift oder Pinsel gemacht wird. Antwort: ""","[2718, 29931, 365, 23410, 4342, 11667]",Linie,"[1196, 6276, 1220, 492, 29880, 301, 1915, 619]",line
 "Eine ""___"" wird verwendet, um Informationen oder Daten bereitzustellen. Antwort: ""Quelle"".
 Ein ""___"" wird unternommen, wenn man versucht, etwas zu erreichen. Antwort: ""Versuch"".
-Ein ""___"" wird bei Sportarten wie Volleyball und Tennis verwendet, um das Spielfeld zu unterteilen. Antwort: ""","[29940, 8139, 2448, 405, 6779, 12670]",Netz,"[1212, 29876, 7787, 452, 302, 484]",net
+Ein ""___"" wird bei Sportarten wie Volleyball und Tennis verwendet, um das Spielfeld zu unterteilen. Antwort: ""","[2448, 12670, 6779, 405, 8139, 29940]",Netz,"[484, 29876, 7787, 452, 302, 1212]",net
 """Der ""___"" ist eine dem Norden entgegengesetzte Himmelsrichtung. Antwort: ""Süden"".
 Ein ""___"" ist eine Form mit vier gleichen Seiten und vier rechten Winkeln. Antwort: ""Quadrat"".
-Eine ""___"" wird oft verschenkt und ist in Gärten zu finden. Antwort: ""","[3164, 29933, 350, 10358]",Blume,"[1579, 5685, 4972, 28149, 29888, 1652, 285, 1731]",flower
+Eine ""___"" wird oft verschenkt und ist in Gärten zu finden. Antwort: ""","[10358, 29933, 350, 3164]",Blume,"[4972, 1579, 285, 1652, 1731, 29888, 5685, 28149]",flower
 "Ein ""___"" wird verwendet, um ein Ganzes zu bilden. Antwort: ""Teil"".
 Ein ""___"" dient dazu, alles um uns herum zu sehen. Antwort: ""Auge"".
-Ein ""___"" ist ein Getränk, das oft zur Entspannung oder zum Aufwärmen getrunken wird. Antwort: ""","[29911, 1920, 323, 7141]",Tee,"[29873, 260, 734, 371, 23429]",tea
+Ein ""___"" ist ein Getränk, das oft zur Entspannung oder zum Aufwärmen getrunken wird. Antwort: ""","[7141, 1920, 29911, 323]",Tee,"[23429, 371, 260, 29873, 734]",tea
 """Eine ""___"" ist eine förmliche Ansprache oder ein Vortrag, der vor einem Publikum gehalten wird. Antwort: ""Rede"".
 Ein ""___"" ist ein Teil des Körpers eines Tieres, der sich von der Basis der Wirbelsäule aus erstreckt. Antwort: ""Schwanz"".
-Ein ""___"" wird zum Gehen und Laufen verwendet. Antwort: ""","[383, 11212, 11871, 29943]",Fuß,"[5431, 1181, 29888, 6661, 3661, 7953, 1701, 285]",foot
+Ein ""___"" wird zum Gehen und Laufen verwendet. Antwort: ""","[11871, 11212, 29943, 383]",Fuß,"[7953, 3661, 6661, 285, 29888, 1701, 1181, 5431]",foot
 "Ein ""___"" ist ein natürlicher Satellit, der einen Planeten umkreist. Antwort: ""Mond"".
 Ein ""___"" ist ein Zahlenwert, der auf neunhundertneunundneunzig folgt. Antwort: ""Tausend"".
-""A ""___"" ist ein Edelmetall, das häufig für die Herstellung von Schmuck verwendet wird. Antwort: ""","[2921, 20268, 6650, 8120, 402, 29954]",Gold,"[330, 15192, 1484, 748, 29887, 7684]",gold
+""A ""___"" ist ein Edelmetall, das häufig für die Herstellung von Schmuck verwendet wird. Antwort: ""","[2921, 20268, 29954, 402, 8120, 6650]",Gold,"[1484, 748, 29887, 15192, 7684, 330]",gold
 "Ein ""___"" wird für Sportarten wie Fußball und Basketball verwendet. Antwort: ""Ball"".
 Ein ""___"" ist ein Ort, an dem Menschen normalerweise ihre Arbeit verrichten. Antwort: ""Büro"".
-Eine ""___"" wird zum Betreten oder Verlassen eines Raumes verwendet. Antwort: ""","[29911, 25424, 323]",Tür,"[270, 1867, 437, 3050, 17433, 29881]",door
+Eine ""___"" wird zum Betreten oder Verlassen eines Raumes verwendet. Antwort: ""","[323, 29911, 25424]",Tür,"[29881, 3050, 17433, 437, 270, 1867]",door
 "Ein ""___"" ist ein Kunstwerk, das an die Wand gehängt werden kann. Antwort: ""Gemälde"".
 Ein ""___"" ist ein hohes Bauwerk, das für verschiedene Zwecke wie Beobachtung, Kommunikation oder Lagerung genutzt werden kann. Antwort: ""Turm"".
-""Ein ""___"" ist eine Form von Niederschlag, der im Winter vom Himmel fällt. Antwort: ""","[4421, 21129, 2522, 4504, 1102, 29903, 317]",Schnee,"[16586, 29879, 5807, 15007, 269]",snow
+""Ein ""___"" ist eine Form von Niederschlag, der im Winter vom Himmel fällt. Antwort: ""","[21129, 29903, 4504, 2522, 317, 1102, 4421]",Schnee,"[15007, 5807, 16586, 269, 29879]",snow
 "Ein ""___"" ist ein Ort, an dem Menschen leben. Antwort: ""Haus"".
 Ein ""___"" ist ein Ort, an dem Menschen normalerweise ihre Arbeit verrichten. Antwort: ""Büro"".
-Ein ""___"" ist ein großes, vierbeiniges Haustier, das in der Regel zum Reiten und für Rennen verwendet wird. Antwort: ""","[29925, 349, 10022]",Pferd,"[11231, 5089, 4029, 10435, 1251, 2015, 29882, 298]",horse
+Ein ""___"" ist ein großes, vierbeiniges Haustier, das in der Regel zum Reiten und für Rennen verwendet wird. Antwort: ""","[10022, 29925, 349]",Pferd,"[29882, 298, 4029, 1251, 5089, 2015, 10435, 11231]",horse
 "Ein ""___"" wird verwendet, um Oberflächen zu reinigen oder Körper zu bedecken. Antwort: ""Tuch"".
 ""Eine ""___"" ist ein Begriff, der die Gesamtheit der Menschen beschreibt, die etwa zur gleichen Zeit geboren wurden und leben. Antwort: ""Generation"".
-Eine ""___"" ist eine Zahl, die nach der Null und vor der Zwei kommt. Antwort: ""","[1011, 321, 10096, 21084, 29872]",eins,"[29877, 373, 288, 697, 650, 265]",one
+Eine ""___"" ist eine Zahl, die nach der Null und vor der Zwei kommt. Antwort: ""","[1011, 29872, 10096, 21084, 321]",eins,"[650, 288, 29877, 697, 373, 265]",one
 "Ein ""___"" ist ein großer, fließender Wasserkörper, der normalerweise in ein Meer oder einen Ozean mündet. Antwort: ""Fluss"".
 Eine ""___"" ist ein Ort, an dem Schüler lernen. Antwort: ""Schule"".
-Die Zahl ""___"" ist die Summe von eins plus eins. Antwort: ""","[4753, 7659, 29920, 503, 7325, 5263]",zwei,"[7516, 1023, 29873, 10184, 3252, 260]",two
+Die Zahl ""___"" ist die Summe von eins plus eins. Antwort: ""","[503, 7659, 7325, 5263, 4753, 29920]",zwei,"[3252, 29873, 260, 1023, 10184, 7516]",two
 "Ein ""___"" ist ein Ort, an dem Menschen leben. Antwort: ""Haus"".
 Ein ""___"" wird verwendet, um Geschichten zu lesen. Antwort: ""Buch"".
-Die Zahl, die auf die Zwei folgt, ist die ""___"". Antwort: ""","[270, 9697, 4192, 7707, 29881, 14724]",drei,"[386, 17536, 1468, 29873, 12455, 266, 260, 2211]",three
+Die Zahl, die auf die Zwei folgt, ist die ""___"". Antwort: ""","[7707, 29881, 4192, 9697, 270, 14724]",drei,"[266, 12455, 260, 29873, 17536, 386, 2211, 1468]",three
 """Eine ""___"" ist eine förmliche Ansprache oder ein Vortrag, der vor einem Publikum gehalten wird. Antwort: ""Rede"".
 Eine ""___"" wird verwendet, um Informationen oder Daten bereitzustellen. Antwort: ""Quelle"".
-Die Zahl ""___"" ist die ganze Zahl, die auf die Drei folgt. Antwort: ""","[3516, 1403, 25965, 29894, 7214, 325, 8545, 6316]",vier,"[285, 1701, 1181, 29888, 17823, 3023, 12584]",four
+Die Zahl ""___"" ist die ganze Zahl, die auf die Drei folgt. Antwort: ""","[7214, 3516, 8545, 325, 1403, 25965, 29894, 6316]",vier,"[12584, 285, 3023, 29888, 17823, 1701, 1181]",four
 "Ein ""___"" ist eine Person, die entweder allein oder als Teil eines Gremiums von Richtern den Vorsitz in einem Gerichtsverfahren führt. Antwort: ""Richter"".
 Ein ""___"" ist ein Kunstwerk, das an die Wand gehängt werden kann. Antwort: ""Gemälde"".
-Die Zahl ""___"" kommt nach der Sieben. Antwort: ""","[1274, 562, 5860, 263, 496, 22019, 29874, 3657]",acht,"[9475, 321, 10096, 15761, 29319, 29872]",eight
+Die Zahl ""___"" kommt nach der Sieben. Antwort: ""","[1274, 29874, 562, 3657, 5860, 263, 496, 22019]",acht,"[29872, 29319, 15761, 10096, 321, 9475]",eight
 "Ein ""___"" ist ein Himmelskörper, der am Nachthimmel leuchtet. Antwort: ""Stern"".
 Eine ""___"" wird verwendet, um eine bestimmte Aufgabe zu erfüllen oder etwas zu produzieren. Antwort: ""Maschine"".
-Die Zahl nach der Neun ist die ""___"". Antwort: ""","[3777, 911, 29920, 503]",zehn,"[29873, 841, 260, 734, 371, 3006]",ten
+Die Zahl nach der Neun ist die ""___"". Antwort: ""","[503, 911, 3777, 29920]",zehn,"[371, 29873, 260, 3006, 841, 734]",ten
 "Ein ""___"" ist eine natürliche Begabung oder Fähigkeit. Antwort: ""Talent"".
 ""Eine ""___"" wird benutzt, um Menschen oder Dinge zu kontrollieren oder zu beeinflussen. Antwort: ""Macht"".
-Ein ""___"" ist ein Teil des Körpers, der das Gehirn, die Augen, die Ohren, die Nase und den Mund enthält. Antwort: ""","[8224, 476, 27476, 29968]",Kopf,"[540, 2813, 2343, 29882, 298, 354]",head
+Ein ""___"" ist ein Teil des Körpers, der das Gehirn, die Augen, die Ohren, die Nase und den Mund enthält. Antwort: ""","[29968, 8224, 476, 27476]",Kopf,"[2343, 29882, 354, 298, 540, 2813]",head
 """Ein ""___"" ist eine Form von Niederschlag, der im Winter vom Himmel fällt. Antwort: ""Schnee"".
 Ein ""___"" wird verwendet, um Text oder Daten zu entfernen. Antwort: ""löschen"".
-Ein ""___"" ist ein langes, schmales Stück eines bestimmten Materials. Antwort: ""","[29903, 624, 11738, 855, 3767, 5015, 317]",Streifen,"[851, 710, 10076, 303, 380, 17820, 29879, 17010, 269]",strip
+Ein ""___"" ist ein langes, schmales Stück eines bestimmten Materials. Antwort: ""","[3767, 624, 29903, 11738, 855, 317, 5015]",Streifen,"[303, 851, 10076, 380, 269, 17010, 29879, 17820, 710]",strip
 "Ein ""___"" ist ein großes, vierbeiniges Haustier, das in der Regel zum Reiten und für Rennen verwendet wird. Antwort: ""Pferd"".
 Ein ""___"" ist eine große Wasserfläche, die von Land umgeben ist. Antwort: ""See"".
-Eine ""___"" ist eine öffentliche Straße in einer Stadt, einer Gemeinde oder einem Dorf. Antwort: ""","[29903, 22667, 624, 855, 3767, 5015, 317, 7357]",Straße,"[29352, 851, 710, 11952, 12243, 13045, 303, 380, 29879, 269]",street
+Eine ""___"" ist eine öffentliche Straße in einer Stadt, einer Gemeinde oder einem Dorf. Antwort: ""","[3767, 624, 29903, 855, 317, 22667, 7357, 5015]",Straße,"[11952, 303, 13045, 851, 380, 29352, 269, 29879, 12243, 710]",street
 "Ein ""___"" wird unternommen, wenn man versucht, etwas zu erreichen. Antwort: ""Versuch"".
 Eine ""___"" ist eine Hauptverwaltungseinheit bestimmter Länder oder Reiche. Antwort: ""Provinz"".
-Ein ""___"" wird verwendet, um ein Ganzes zu bilden. Antwort: ""","[29911, 7770, 1920, 323, 7141]",Teil,"[1595, 29886, 3274, 862, 3300, 282, 610, 760]",part
+Ein ""___"" wird verwendet, um ein Ganzes zu bilden. Antwort: ""","[7770, 7141, 1920, 29911, 323]",Teil,"[3300, 1595, 282, 610, 29886, 760, 3274, 862]",part
 "Ein ""___"" ist ein Getränk, das oft zur Entspannung oder zum Aufwärmen getrunken wird. Antwort: ""Tee"".
 Ein ""___"" ist ein System von Regeln, das eine Gesellschaft oder eine Regierung entwickelt, um mit Verbrechen, Geschäftsvereinbarungen und sozialen Beziehungen umzugehen. Antwort: ""Gesetz"".
-Ein ""___"" dient dazu, alles um uns herum zu sehen. Antwort: ""","[29909, 8407, 319, 22333]",Auge,"[1032, 321, 29872, 10977]",eye
+Ein ""___"" dient dazu, alles um uns herum zu sehen. Antwort: ""","[319, 29909, 22333, 8407]",Auge,"[29872, 321, 10977, 1032]",eye
 """Ein ""___"" ist eine Form von Niederschlag, der im Winter vom Himmel fällt. Antwort: ""Schnee"".
 ""A ""___"" ist ein Edelmetall, das häufig für die Herstellung von Schmuck verwendet wird. Antwort: ""Gold"".
-Ein ""___"" ist eine große offene Fläche, auf der Pflanzen angebaut werden. Antwort: ""","[21113, 383, 11961, 29943, 8263, 5169]",Feld,"[1746, 29607, 7241, 29888, 2671, 285, 5713]",field
+Ein ""___"" ist eine große offene Fläche, auf der Pflanzen angebaut werden. Antwort: ""","[21113, 29943, 5169, 8263, 11961, 383]",Feld,"[285, 1746, 29888, 5713, 29607, 2671, 7241]",field
 "Ein ""___"" ist eine Person, die entweder allein oder als Teil eines Gremiums von Richtern den Vorsitz in einem Gerichtsverfahren führt. Antwort: ""Richter"".
 Ein ""___"" ist der vordere Teil des Kopfes einer Person, einschließlich der Stirn, der Augen, der Nase und des Mundes. Antwort: ""Gesicht"".
-Ein ""___"" ist ein Ort, an dem etwas gebaut wird, wurde oder wird. Antwort: ""","[7813, 29903, 7434, 624, 855, 11042, 317, 6679]",Standort,"[7845, 2746, 1354, 29879, 1039, 3268, 269]",site
+Ein ""___"" ist ein Ort, an dem etwas gebaut wird, wurde oder wird. Antwort: ""","[6679, 624, 29903, 7434, 855, 317, 11042, 7813]",Standort,"[1354, 2746, 7845, 269, 3268, 29879, 1039]",site
 "Ein ""___"" ist ein großes, vierbeiniges Haustier, das in der Regel zum Reiten und für Rennen verwendet wird. Antwort: ""Pferd"".
 Ein ""___"" ist ein großer, fließender Wasserkörper, der normalerweise in ein Meer oder einen Ozean mündet. Antwort: ""Fluss"".
-Ein ""___"" ist ein einzelnes bedeutungsvolles sprachliches oder schriftliches Element, das zusammen mit anderen (oder manchmal auch allein) zur Bildung eines Satzes verwendet wird und in der Regel mit einem Leerzeichen auf beiden Seiten geschrieben oder gedruckt wird. Antwort: ""","[14962, 399, 19662, 29956, 13824]",Wort,"[281, 1742, 827, 29893, 13762, 1734, 6365, 8879]",word
+Ein ""___"" ist ein einzelnes bedeutungsvolles sprachliches oder schriftliches Element, das zusammen mit anderen (oder manchmal auch allein) zur Bildung eines Satzes verwendet wird und in der Regel mit einem Leerzeichen auf beiden Seiten geschrieben oder gedruckt wird. Antwort: ""","[14962, 13824, 29956, 399, 19662]",Wort,"[1734, 13762, 281, 6365, 8879, 29893, 1742, 827]",word
 "Eine ""___"" wird verwendet, um Informationen oder Daten bereitzustellen. Antwort: ""Quelle"".
 Ein ""___"" ist ein Ort, an dem Züge oder Busse regelmäßig halten, damit die Fahrgäste ein- oder aussteigen können. Antwort: ""Bahnhof"".
-""Ein ""___"" ist ein Satz von zwei Dingen, die zusammen verwendet oder als Einheit betrachtet werden. Antwort: ""","[11868, 2621, 29925, 349]",Paar,"[5101, 29886, 3274, 3300, 18784, 282]",pair
+""Ein ""___"" ist ein Satz von zwei Dingen, die zusammen verwendet oder als Einheit betrachtet werden. Antwort: ""","[2621, 11868, 29925, 349]",Paar,"[3300, 5101, 18784, 282, 3274, 29886]",pair
 "Ein ""___"" ist ein Organ, das Blut durch den Körper pumpt. Antwort: ""Herz"".
 Die Zahl, die auf die Zwei folgt, ist die ""___"". Antwort: ""drei"".
-Ein ""___"" wird zum Sitzen und Ausruhen verwendet. Antwort: ""","[6101, 25598, 29903, 317, 23628, 21988]",Sitz,"[12949, 344, 7205, 29879, 409, 269]",seat
+Ein ""___"" wird zum Sitzen und Ausruhen verwendet. Antwort: ""","[29903, 6101, 21988, 23628, 317, 25598]",Sitz,"[409, 344, 269, 29879, 12949, 7205]",seat
 "Ein ""___"" wird für Sportarten wie Fußball und Basketball verwendet. Antwort: ""Ball"".
 Ein ""___"" wird verwendet, um ein Ganzes zu bilden. Antwort: ""Teil"".
-Ein ""___"" wird verwendet, um dunkle Räume zu beleuchten. Antwort: ""","[2718, 365, 23410, 10413, 29931]",Licht,"[301, 14172, 4366, 492, 619, 29880, 3473, 3578]",light
+Ein ""___"" wird verwendet, um dunkle Räume zu beleuchten. Antwort: ""","[2718, 10413, 29931, 365, 23410]",Licht,"[4366, 3473, 14172, 492, 29880, 3578, 301, 619]",light
 "Eine ""___"" ist eine Störung, die Energie durch Materie oder Raum überträgt. Antwort: ""Welle"".
 Die Zahl ""___"" kommt nach der Sechs. Antwort: ""Sieben"".
-""Der ""___"" ist eine Himmelsrichtung, die oft mit kalten und polaren Regionen in Verbindung gebracht wird. Antwort: ""","[29940, 3782, 1939, 4186, 23899, 405, 5245]",Norden,"[3643, 694, 29876, 6641, 302, 15459, 1217]",north
+""Der ""___"" ist eine Himmelsrichtung, die oft mit kalten und polaren Regionen in Verbindung gebracht wird. Antwort: ""","[4186, 405, 23899, 1939, 5245, 29940, 3782]",Norden,"[694, 29876, 3643, 302, 1217, 6641, 15459]",north
 "Ein ""___"" ist ein Ort, an dem etwas gebaut wird, wurde oder wird. Antwort: ""Standort"".
 Eine ""___"" wird zum Betreten oder Verlassen eines Raumes verwendet. Antwort: ""Tür"".
-Eine ""___"" wird verwendet, um eine bestimmte Aufgabe zu erfüllen oder etwas zu produzieren. Antwort: ""","[21870, 8622, 3219, 29924, 341]",Maschine,"[655, 7672, 8628, 286, 4933, 23523, 5825, 611, 29885]",machine
+Eine ""___"" wird verwendet, um eine bestimmte Aufgabe zu erfüllen oder etwas zu produzieren. Antwort: ""","[341, 3219, 21870, 29924, 8622]",Maschine,"[5825, 655, 7672, 29885, 286, 23523, 611, 8628, 4933]",machine
 """Eine ""___"" wird verwendet, um das Aussehen von Objekten zu identifizieren oder zu beschreiben. Antwort: ""Farbe"".
 Eine ""___"" wird verwendet, um eine bestimmte Aufgabe zu erfüllen oder etwas zu produzieren. Antwort: ""Maschine"".
-""Eine ""Uhr"" wird zur Messung der ""___"" verwendet. Antwort: ""","[3091, 5347, 29999, 796, 24625]",Zeit,"[931, 29873, 2230, 5335, 9346, 260, 2034, 19538]",time
+""Eine ""Uhr"" wird zur Messung der ""___"" verwendet. Antwort: ""","[29999, 5347, 796, 24625, 3091]",Zeit,"[2034, 19538, 29873, 260, 2230, 931, 9346, 5335]",time
 "Eine ""___"" ist eine Frau, die ein Kind zur Welt gebracht hat. Antwort: ""Mutter"".
 Eine ""___"" ist eine Eigenschaft, die als moralisch gut oder wünschenswert bei einer Person angesehen wird. Antwort: ""Tugend"".
-Ein ""___"" ist etwas, das das Wohlbefinden fördert oder steigert. Antwort: ""","[29940, 405, 12487]",Nutzen,"[7795, 29890, 14169, 367, 1785, 915, 13982, 3856, 289]",benefit
+Ein ""___"" ist etwas, das das Wohlbefinden fördert oder steigert. Antwort: ""","[12487, 29940, 405]",Nutzen,"[367, 14169, 7795, 1785, 289, 3856, 915, 13982, 29890]",benefit
 "Die Zahl ""___"" kommt nach der Sieben. Antwort: ""Acht"".
 Die Zahl, die auf die Zwei folgt, ist die ""___"". Antwort: ""drei"".
-Eine ""___"" ist eine Hauptverwaltungseinheit bestimmter Länder oder Reiche. Antwort: ""","[1019, 1588, 9133, 29925, 4040, 23114, 349, 11127, 1184]",Provinz,"[771, 29886, 16123, 558, 282, 544, 8482, 1326, 410, 12291]",province
+Eine ""___"" ist eine Hauptverwaltungseinheit bestimmter Länder oder Reiche. Antwort: ""","[23114, 4040, 9133, 1019, 11127, 1588, 29925, 349, 1184]",Provinz,"[544, 8482, 282, 29886, 771, 16123, 558, 12291, 1326, 410]",province
 """Eine ""___"" wird benutzt, um Menschen oder Dinge zu kontrollieren oder zu beeinflussen. Antwort: ""Macht"".
 Ein ""___"" ist eine Bezeichnung für eine Wohneinheit, in der Menschen leben. Antwort: ""Haushalt"".
-Eine ""___"" ist ein Ort, an dem Aktien, Anleihen oder andere Wertpapiere gekauft und verkauft werden. Antwort: ""","[29933, 350]",Börse,"[14523, 735, 321, 429, 6543, 29872, 5566]",exchange
+Eine ""___"" ist ein Ort, an dem Aktien, Anleihen oder andere Wertpapiere gekauft und verkauft werden. Antwort: ""","[29933, 350]",Börse,"[14523, 429, 6543, 29872, 735, 5566, 321]",exchange
 """Eine ""___"" ist eine Kategorie oder ein Typ von etwas. Antwort: ""Art"".
 Ein ""___"" ist ein bestimmter Teil oder eine Unterteilung von etwas. Antwort: ""Abschnitt"".
-""Die ""___"" ist der Punkt, der von den Seiten oder äußeren Begrenzungen einer Sache gleich weit entfernt ist. Antwort: ""","[4573, 24532, 23115, 29924, 5493, 341]",Mitte,"[7256, 17662, 286, 2460, 6563, 3737, 29885, 7145]",middle
+""Die ""___"" ist der Punkt, der von den Seiten oder äußeren Begrenzungen einer Sache gleich weit entfernt ist. Antwort: ""","[341, 24532, 29924, 23115, 4573, 5493]",Mitte,"[7256, 6563, 29885, 286, 17662, 2460, 7145, 3737]",middle
 "Eine ""___"" ist eine Zahl, die nach der Null und vor der Zwei kommt. Antwort: ""Eins"".
 Ein ""___"" ist ein großes Gebiet, das hauptsächlich mit Bäumen und Unterholz bedeckt ist. Antwort: ""Wald"".
-Ein ""___"" ist jemand, mit dem Sie eine enge persönliche Beziehung haben. Antwort: ""","[383, 4693, 28817, 29943, 23923, 3878, 14438]",Freund,"[7932, 1424, 5121, 29888, 18326, 3484, 285, 1341]",friend
+Ein ""___"" ist jemand, mit dem Sie eine enge persönliche Beziehung haben. Antwort: ""","[29943, 23923, 28817, 4693, 383, 14438, 3878]",Freund,"[285, 5121, 29888, 3484, 7932, 18326, 1341, 1424]",friend
 "Ein ""___"" wird verwendet, um ein Ganzes zu bilden. Antwort: ""Teil"".
 ""Eine ""___"" wird verwendet, um zu messen, wie schnell sich etwas bewegt. Antwort: ""Geschwindigkeit"".
-""Eine ""___"" wird verwendet, um das Aussehen von Objekten zu identifizieren oder zu beschreiben. Antwort: ""","[383, 14206, 8413, 29943, 7748]",Farbe,"[2780, 784, 1111, 1054, 1302, 274, 10965, 2927, 29883]",color
+""Eine ""___"" wird verwendet, um das Aussehen von Objekten zu identifizieren oder zu beschreiben. Antwort: ""","[29943, 7748, 8413, 14206, 383]",Farbe,"[784, 1054, 29883, 10965, 2927, 274, 2780, 1302, 1111]",color
 """Der ""___"" ist eine dem Norden entgegengesetzte Himmelsrichtung. Antwort: ""Süden"".
 ""Die ""___"" ist der Punkt, der von den Seiten oder äußeren Begrenzungen einer Sache gleich weit entfernt ist. Antwort: ""Mitte"".
-""Eine ""___"" ist eine Kategorie oder ein Typ von etwas. Antwort: ""","[3012, 29909, 9986, 826, 319, 1433]",Art,"[9089, 1984, 14380, 413, 19015, 8506, 2924, 29895]",kind
+""Eine ""___"" ist eine Kategorie oder ein Typ von etwas. Antwort: ""","[319, 29909, 1433, 826, 9986, 3012]",Art,"[9089, 14380, 8506, 1984, 19015, 2924, 413, 29895]",kind
 "Ein ""___"" ist ein Teil des Körpers eines Tieres, der sich von der Basis der Wirbelsäule aus erstreckt. Antwort: ""Schwanz"".
 Ein ""___"" ist eine Form mit vier gleichen Seiten und vier rechten Winkeln. Antwort: ""Quadrat"".
-Ein ""___"" ist eine Person, die entweder allein oder als Teil eines Gremiums von Richtern den Vorsitz in einem Gerichtsverfahren führt. Antwort: ""","[29934, 13675, 390, 25627, 4385, 21710]",Richter,"[432, 4900, 16833, 29926, 17675, 6577, 3623]",judge
+Ein ""___"" ist eine Person, die entweder allein oder als Teil eines Gremiums von Richtern den Vorsitz in einem Gerichtsverfahren führt. Antwort: ""","[390, 29934, 4385, 21710, 25627, 13675]",Richter,"[3623, 432, 29926, 6577, 16833, 4900, 17675]",judge
 "Ein ""___"" ist eine Person, die entweder allein oder als Teil eines Gremiums von Richtern den Vorsitz in einem Gerichtsverfahren führt. Antwort: ""Richter"".
 ""Ein ""___"" ist ein Satz von zwei Dingen, die zusammen verwendet oder als Einheit betrachtet werden. Antwort: ""Paar"".
-Eine ""___"" ist ein Ort, an dem Schüler lernen. Antwort: ""","[4421, 4504, 2522, 1102, 29903, 12988, 27223, 317]",Schule,"[27041, 1557, 1364, 885, 3762, 29879, 816, 269]",school
+Eine ""___"" ist ein Ort, an dem Schüler lernen. Antwort: ""","[4504, 29903, 27223, 2522, 12988, 317, 1102, 4421]",Schule,"[1364, 816, 269, 29879, 885, 27041, 1557, 3762]",school
 "Die Zahl, die auf die Vier folgt, ist die ""___"". Antwort: ""fünf"".
 Eine ""___"" ist eine große menschliche Siedlung, in der Menschen leben und arbeiten. Antwort: ""Stadt"".
-Eine ""___"" wird als Teil der formellen Kleidung um den Hals getragen. Antwort: ""","[476, 19387, 29968, 7365]",Krawatte,"[29873, 260, 2034, 19538, 22134]",tie
+Eine ""___"" wird als Teil der formellen Kleidung um den Hals getragen. Antwort: ""","[29968, 476, 19387, 7365]",Krawatte,"[2034, 22134, 19538, 260, 29873]",tie
 "Ein ""___"" ist ein großes Gebiet, das hauptsächlich mit Bäumen und Unterholz bedeckt ist. Antwort: ""Wald"".
 Ein ""___"" ist ein bestimmter Ort im Raum. Antwort: ""Punkt"".
-Ein ""___"" wird verwendet, um einen Punkt oder ein Konzept zu illustrieren. Antwort: ""","[22621, 10632, 3629, 29933, 350, 1522]",Beispiel,"[4392, 735, 321, 429, 1342, 4773, 29872]",example
+Ein ""___"" wird verwendet, um einen Punkt oder ein Konzept zu illustrieren. Antwort: ""","[29933, 3629, 1522, 22621, 350, 10632]",Beispiel,"[4392, 429, 4773, 29872, 735, 1342, 321]",example
 """Ein ""___"" wird verwendet, um einen Anstieg oder eine Aufwärtsbewegung zu beschreiben. Antwort: ""Anstieg"".
 Ein ""___"" ist ein Himmelskörper, der am Nachthimmel leuchtet. Antwort: ""Stern"".
-Ein ""___"" ist der vordere Teil des Kopfes einer Person, einschließlich der Stirn, der Augen, der Nase und des Mundes. Antwort: ""","[1879, 402, 6328, 29954, 7999]",Gesicht,"[2161, 285, 3700, 17470, 29888, 2258, 5444, 4024]",face
+Ein ""___"" ist der vordere Teil des Kopfes einer Person, einschließlich der Stirn, der Augen, der Nase und des Mundes. Antwort: ""","[7999, 1879, 6328, 29954, 402]",Gesicht,"[4024, 285, 3700, 29888, 2161, 5444, 17470, 2258]",face
 "Ein ""___"" wird für Sportarten wie Fußball und Basketball verwendet. Antwort: ""Ball"".
 Ein ""___"" ist ein Getreide, das in der Küche häufig verwendet wird und in vielen Ländern ein Grundnahrungsmittel ist. Antwort: ""Reis"".
-Eine ""___"" wird verwendet, um zwei Gebiete zu verbinden, die durch Hindernisse wie Flüsse oder Straßen getrennt sind. Antwort: ""","[29933, 350, 12432, 1771]",Brücke,"[29890, 19515, 28635, 1506, 289, 18419, 1182, 12945]",bridge
+Eine ""___"" wird verwendet, um zwei Gebiete zu verbinden, die durch Hindernisse wie Flüsse oder Straßen getrennt sind. Antwort: ""","[29933, 1771, 12432, 350]",Brücke,"[19515, 28635, 18419, 1506, 12945, 289, 1182, 29890]",bridge
 """Eine ""___"" wird verwendet, um das Aussehen von Objekten zu identifizieren oder zu beschreiben. Antwort: ""Farbe"".
 ""Eine ""___"" erlebt man, wenn man einen Wettbewerb oder eine Schlacht verliert. Antwort: ""Niederlage"".
-Ein ""___"" ist eine Sache, die nicht spezifiziert oder nicht identifiziert ist. Antwort: ""","[21163, 29954, 19275, 7999, 1879, 402]",Gegenstand,"[372, 667, 568, 474, 2944, 277, 29875]",item
+Ein ""___"" ist eine Sache, die nicht spezifiziert oder nicht identifiziert ist. Antwort: ""","[7999, 19275, 402, 29954, 21163, 1879]",Gegenstand,"[372, 667, 277, 474, 2944, 568, 29875]",item
 """Eine ""___"" ist ein Begriff, der die Gesamtheit der Menschen beschreibt, die etwa zur gleichen Zeit geboren wurden und leben. Antwort: ""Generation"".
 Eine ""___"" wird verwendet, um verschiedene Formen oder Stadien in der Entwicklung von etwas zu bezeichnen. Antwort: ""Version"".
-Ein ""___"" wird verwendet, um Text oder Daten zu entfernen. Antwort: ""","[27575, 301, 29880]",löschen,"[8143, 270, 7374, 6144, 311, 316, 29881, 628, 5217]",delete
+Ein ""___"" wird verwendet, um Text oder Daten zu entfernen. Antwort: ""","[29880, 27575, 301]",löschen,"[316, 29881, 628, 8143, 311, 6144, 270, 5217, 7374]",delete
 "Ein ""___"" dient dazu, alles um uns herum zu sehen. Antwort: ""Auge"".
 Ein ""___"" ist ein Teil des Körpers, der das Gehirn, die Augen, die Ohren, die Nase und den Mund enthält. Antwort: ""Kopf"".
-Eine ""___"" ist eine Anzahl von Menschen oder Dingen, die sich an einem bestimmten Ort befinden, die versammelt sind oder zusammengehören. Antwort: ""","[1632, 3338, 402, 29954, 5430, 21757]",Gruppe,"[17170, 330, 2972, 4071, 867, 629, 2318, 29887]",group
+Eine ""___"" ist eine Anzahl von Menschen oder Dingen, die sich an einem bestimmten Ort befinden, die versammelt sind oder zusammengehören. Antwort: ""","[29954, 3338, 5430, 21757, 402, 1632]",Gruppe,"[29887, 2972, 629, 2318, 330, 4071, 867, 17170]",group
 "Ein ""___"" befindet sich auf dem Kopf von Menschen und Tieren. Antwort: ""Haar"".
 Eine ""___"" ist eine Hauptverwaltungseinheit bestimmter Länder oder Reiche. Antwort: ""Provinz"".
-Ein ""___"" ist eine natürliche Begabung oder Fähigkeit. Antwort: ""","[29911, 10288, 323, 10523]",Talent,"[941, 20411, 17694, 11062, 29873, 24242, 260, 5969]",talent
+Ein ""___"" ist eine natürliche Begabung oder Fähigkeit. Antwort: ""","[10523, 29911, 10288, 323]",Talent,"[20411, 941, 260, 29873, 17694, 11062, 24242, 5969]",talent
 "Ein ""___"" ist ein Zahlenwert, der auf neunhundertneunundneunzig folgt. Antwort: ""Tausend"".
 Ein ""___"" ist jemand, mit dem Sie eine enge persönliche Beziehung haben. Antwort: ""Freund"".
-""___"" ist eine Eigenschaft, die ein Wahrnehmungserlebnis von Freude oder Befriedigung vermittelt. Antwort: ""","[4421, 4504, 2522, 1102, 29903, 28565, 317]",Schönheit,"[29890, 367, 915, 15409, 289, 6562]",beauty
+""___"" ist eine Eigenschaft, die ein Wahrnehmungserlebnis von Freude oder Befriedigung vermittelt. Antwort: ""","[28565, 4504, 29903, 2522, 317, 1102, 4421]",Schönheit,"[367, 6562, 15409, 289, 915, 29890]",beauty
 "Die Zahl ""___"" ist die Summe von eins plus eins. Antwort: ""zwei"".
 Eine ""___"" wird zum Betreten oder Verlassen eines Raumes verwendet. Antwort: ""Tür"".
-Eine ""___"" wird verwendet, um etwas zu stützen oder zu erhöhen. Antwort: ""","[3247, 13494, 29925, 349, 27201, 1858]",Plattform,"[12120, 18870, 29886, 572, 715, 2174, 13974, 282, 7481]",platform
+Eine ""___"" wird verwendet, um etwas zu stützen oder zu erhöhen. Antwort: ""","[13494, 29925, 27201, 3247, 1858, 349]",Plattform,"[7481, 13974, 2174, 572, 282, 18870, 29886, 12120, 715]",platform
 """Der ""___"" ist eine Jahreszeit, die für ihr warmes Wetter bekannt ist. Antwort: ""Sommer"".
 Ein ""___"" wird unternommen, wenn man versucht, etwas zu erreichen. Antwort: ""Versuch"".
-Ein ""___"" ist ein Ort, an dem Menschen leben. Antwort: ""","[5952, 29950, 10727, 24704, 379]",Haus,"[8697, 5089, 9261, 10774, 3699, 1251, 29882, 298]",house
+Ein ""___"" ist ein Ort, an dem Menschen leben. Antwort: ""","[10727, 29950, 379, 5952, 24704]",Haus,"[29882, 298, 1251, 5089, 10774, 9261, 8697, 3699]",house
 """Eine ""___"" ist eine förmliche Ansprache oder ein Vortrag, der vor einem Publikum gehalten wird. Antwort: ""Rede"".
 Ein ""___"" ist ein Getreide, das in der Küche häufig verwendet wird und in vielen Ländern ein Grundnahrungsmittel ist. Antwort: ""Reis"".
-Die ""___"" ist ein Stern im Zentrum des Sonnensystems, der die Erde mit Licht und Wärme versorgt. Antwort: ""","[29903, 6295, 317, 5791, 1105]",Sonne,"[11445, 6575, 269, 29879, 480, 2146]",sun
+Die ""___"" ist ein Stern im Zentrum des Sonnensystems, der die Erde mit Licht und Wärme versorgt. Antwort: ""","[1105, 29903, 5791, 6295, 317]",Sonne,"[6575, 11445, 480, 269, 29879, 2146]",sun
 "Ein ""___"" wird zum Sitzen und Ausruhen verwendet. Antwort: ""Sitz"".
 Ein ""___"" ist ein Teil des Körpers eines Tieres, der sich von der Basis der Wirbelsäule aus erstreckt. Antwort: ""Schwanz"".
-""Das Studium vergangener Ereignisse, insbesondere im Bereich der menschlichen Angelegenheiten, wird als ""___"" bezeichnet. Antwort: ""","[5009, 6328, 29954, 7999, 1879, 7376, 402]",Geschichte,"[7251, 9825, 3603, 4955, 670, 16211, 22880, 2918, 18434, 29882, 298]",history
+""Das Studium vergangener Ereignisse, insbesondere im Bereich der menschlichen Angelegenheiten, wird als ""___"" bezeichnet. Antwort: ""","[7999, 402, 6328, 29954, 7376, 5009, 1879]",Geschichte,"[9825, 29882, 3603, 22880, 298, 670, 7251, 16211, 4955, 2918, 18434]",history
 """Der ""___"" ist eine Jahreszeit, die für ihr warmes Wetter bekannt ist. Antwort: ""Sommer"".
 Ein ""___"" ist ein kleines Gewässer mit ruhigem Wasser. Antwort: ""Teich"".
-Ein ""___"" ist ein niedriges Gebiet zwischen Hügeln oder Bergen, durch das normalerweise ein Fluss fließt. Antwort: ""","[29911, 10288, 323, 10523]",Tal,"[1564, 19599, 28519, 22044, 29894, 2947, 325, 659, 791]",valley
+Ein ""___"" ist ein niedriges Gebiet zwischen Hügeln oder Bergen, durch das normalerweise ein Fluss fließt. Antwort: ""","[10523, 29911, 10288, 323]",Tal,"[1564, 22044, 28519, 2947, 325, 791, 659, 29894, 19599]",valley
 "Ein ""___"" ist eine Bezeichnung für eine Wohneinheit, in der Menschen leben. Antwort: ""Haushalt"".
 Ein ""___"" ist eine große offene Fläche, auf der Pflanzen angebaut werden. Antwort: ""Feld"".
-Ein ""___"" ist eine Form mit vier gleichen Seiten und vier rechten Winkeln. Antwort: ""","[751, 660, 29984, 2182]",Quadrat,"[6862, 18074, 17619, 3044, 269, 29879, 26613, 10674]",square
+Ein ""___"" ist eine Form mit vier gleichen Seiten und vier rechten Winkeln. Antwort: ""","[660, 2182, 29984, 751]",Quadrat,"[26613, 3044, 10674, 17619, 269, 29879, 18074, 6862]",square
 "Ein ""___"" ist ein einzelnes bedeutungsvolles sprachliches oder schriftliches Element, das zusammen mit anderen (oder manchmal auch allein) zur Bildung eines Satzes verwendet wird und in der Regel mit einem Leerzeichen auf beiden Seiten geschrieben oder gedruckt wird. Antwort: ""Wort"".
 Eine ""___"" wird verwendet, um zwei Gebiete zu verbinden, die durch Hindernisse wie Flüsse oder Straßen getrennt sind. Antwort: ""Brücke"".
-""Eine ""___"" ist ein Begriff, der die Gesamtheit der Menschen beschreibt, die etwa zur gleichen Zeit geboren wurden und leben. Antwort: ""","[5739, 15462, 5631, 15350, 3251, 29954, 7999, 1879, 28203, 402]",Generation,"[12623, 1885, 1737, 479, 29887, 1176, 330, 18530, 2531, 4738]",generation
+""Eine ""___"" ist ein Begriff, der die Gesamtheit der Menschen beschreibt, die etwa zur gleichen Zeit geboren wurden und leben. Antwort: ""","[7999, 5631, 402, 28203, 29954, 15350, 5739, 15462, 3251, 1879]",Generation,"[2531, 1737, 4738, 12623, 1176, 18530, 330, 479, 29887, 1885]",generation
 """Der ""___"" ist eine Himmelsrichtung, die oft mit kalten und polaren Regionen in Verbindung gebracht wird. Antwort: ""Norden"".
 Ein ""___"" ist jemand, mit dem Sie eine enge persönliche Beziehung haben. Antwort: ""Freund"".
-""Der ""___"" ist eine dem Norden entgegengesetzte Himmelsrichtung. Antwort: ""","[29903, 26585, 11711, 317, 17110]",Süden,"[577, 3669, 29879, 13267, 578, 7062, 269]",south
+""Der ""___"" ist eine dem Norden entgegengesetzte Himmelsrichtung. Antwort: ""","[26585, 29903, 11711, 317, 17110]",Süden,"[7062, 578, 3669, 269, 29879, 577, 13267]",south
 """___"" ist eine Eigenschaft, die ein Wahrnehmungserlebnis von Freude oder Befriedigung vermittelt. Antwort: ""Schönheit"".
 Ein ""___"" ist ein einzelnes bedeutungsvolles sprachliches oder schriftliches Element, das zusammen mit anderen (oder manchmal auch allein) zur Bildung eines Satzes verwendet wird und in der Regel mit einem Leerzeichen auf beiden Seiten geschrieben oder gedruckt wird. Antwort: ""Wort"".
-Eine ""___"" ist eine Eigenschaft, die als moralisch gut oder wünschenswert bei einer Person angesehen wird. Antwort: ""","[29911, 323, 23215, 12603]",Tugend,"[3516, 1403, 27935, 29894, 15389, 325, 2405, 10636, 4610]",virtue
+Eine ""___"" ist eine Eigenschaft, die als moralisch gut oder wünschenswert bei einer Person angesehen wird. Antwort: ""","[29911, 12603, 23215, 323]",Tugend,"[3516, 10636, 15389, 325, 29894, 2405, 4610, 1403, 27935]",virtue
 "Ein ""___"" ist ein Getreide, das in der Küche häufig verwendet wird und in vielen Ländern ein Grundnahrungsmittel ist. Antwort: ""Reis"".
 Ein ""___"" wird zum Sitzen und Ausruhen verwendet. Antwort: ""Sitz"".
-Ein ""___"" ist eine soziale Abteilung in einer traditionellen Gesellschaft, die aus Familien oder Gemeinschaften besteht, die durch soziale, wirtschaftliche, religiöse oder blutsmäßige Bindungen verbunden sind. Antwort: ""","[29903, 7434, 624, 855, 317]",Stamm,"[534, 509, 29873, 3626, 3367, 260, 9434, 29563]",tribe
+Ein ""___"" ist eine soziale Abteilung in einer traditionellen Gesellschaft, die aus Familien oder Gemeinschaften besteht, die durch soziale, wirtschaftliche, religiöse oder blutsmäßige Bindungen verbunden sind. Antwort: ""","[624, 29903, 7434, 855, 317]",Stamm,"[534, 3367, 29563, 260, 29873, 509, 9434, 3626]",tribe
 "Die Zahl ""___"" kommt nach der Sechs. Antwort: ""Sieben"".
 Ein ""___"" ist ein natürlicher Satellit, der einen Planeten umkreist. Antwort: ""Mond"".
-Eine ""___"" ist eine große menschliche Siedlung, in der Menschen leben und arbeiten. Antwort: ""","[29903, 7434, 624, 855, 10347, 317, 5587]",Stadt,"[4272, 12690, 20752, 274, 455, 7537, 29883, 4583]",city
+Eine ""___"" ist eine große menschliche Siedlung, in der Menschen leben und arbeiten. Antwort: ""","[624, 29903, 7434, 5587, 10347, 317, 855]",Stadt,"[29883, 7537, 274, 455, 4272, 12690, 20752, 4583]",city
 "Eine ""___"" ist eine Frau, die ein Kind zur Welt gebracht hat. Antwort: ""Mutter"".
 Ein ""___"" ist ein bestimmter Teil oder eine Unterteilung von etwas. Antwort: ""Abschnitt"".
-Eine ""___"" wird verwendet, um Gedanken und Ideen zu kommunizieren. Antwort: ""","[29634, 29903, 14314, 5592, 317, 1706]",Sprache,"[4086, 301, 6468, 433, 3893, 6361, 425, 29880, 10906, 11675]",language
+Eine ""___"" wird verwendet, um Gedanken und Ideen zu kommunizieren. Antwort: ""","[5592, 29903, 29634, 317, 14314, 1706]",Sprache,"[11675, 10906, 425, 6361, 29880, 6468, 3893, 301, 433, 4086]",language
 "Ein ""___"" ist eine Bezeichnung für eine Wohneinheit, in der Menschen leben. Antwort: ""Haushalt"".
 Eine ""___"" ist eine Anzahl von Menschen oder Dingen, die sich an einem bestimmten Ort befinden, die versammelt sind oder zusammengehören. Antwort: 'Gruppe'.
-""Eine ""___"" wird verwendet, um zu messen, wie schnell sich etwas bewegt. Antwort: ""","[5009, 6328, 29954, 7999, 1879, 402]",Geschwindigkeit,"[19322, 805, 5965, 29879, 961, 6210, 1028, 269]",speed
+""Eine ""___"" wird verwendet, um zu messen, wie schnell sich etwas bewegt. Antwort: ""","[7999, 402, 6328, 29954, 5009, 1879]",Geschwindigkeit,"[961, 6210, 19322, 805, 1028, 5965, 269, 29879]",speed
 "Eine ""___"" ist eine sichtbare Masse aus kondensiertem Wasserdampf, die in der Atmosphäre schwebt. Antwort: ""Wolke"".
 Ein ""___"" ist jemand, mit dem Sie eine enge persönliche Beziehung haben. Antwort: ""Freund"".
-""Ein ""___"" ist der Platz, auf dem wir gehen und Häuser bauen. Antwort: ""","[19929, 29933, 350, 8431, 1952]",Boden,"[5962, 17170, 2057, 330, 4071, 867, 629, 29887]",ground
+""Ein ""___"" ist der Platz, auf dem wir gehen und Häuser bauen. Antwort: ""","[29933, 19929, 8431, 350, 1952]",Boden,"[29887, 2057, 629, 5962, 330, 4071, 867, 17170]",ground
 """Eine ""___"" ist ein Begriff, der die Gesamtheit der Menschen beschreibt, die etwa zur gleichen Zeit geboren wurden und leben. Antwort: ""Generation"".
 Eine ""___"" ist eine schmale, durchgehende Markierung, wie sie mit einem Stift, Bleistift oder Pinsel gemacht wird. Antwort: ""Linie"".
-Ein ""___"" wird unternommen, wenn man versucht, etwas zu erreichen. Antwort: ""","[6565, 8980, 478, 29963, 10138, 1798]",Versuch,"[29874, 1131, 263, 4218, 271, 21609, 472, 1098, 15127]",attempt
+Ein ""___"" wird unternommen, wenn man versucht, etwas zu erreichen. Antwort: ""","[478, 29963, 8980, 10138, 6565, 1798]",Versuch,"[21609, 472, 1098, 29874, 271, 1131, 4218, 15127, 263]",attempt
 "Ein ""___"" wird für Sportarten wie Fußball und Basketball verwendet. Antwort: ""Ball"".
 Ein ""___"" ist ein großer, fließender Wasserkörper, der normalerweise in ein Meer oder einen Ozean mündet. Antwort: ""Fluss"".
-""Eine ""___"" erlebt man, wenn man einen Wettbewerb oder eine Schlacht verliert. Antwort: ""","[16501, 24052, 29940, 15981, 405, 19166]",Niederlage,"[270, 311, 20653, 1753, 822, 8686, 316, 29881]",defeat
+""Eine ""___"" erlebt man, wenn man einen Wettbewerb oder eine Schlacht verliert. Antwort: ""","[15981, 405, 24052, 29940, 16501, 19166]",Niederlage,"[8686, 316, 20653, 29881, 1753, 311, 270, 822]",defeat
 "Ein ""___"" wird unternommen, wenn man versucht, etwas zu erreichen. Antwort: ""Versuch"".
 Ein ""___"" ist ein hohes Bauwerk, das für verschiedene Zwecke wie Beobachtung, Kommunikation oder Lagerung genutzt werden kann. Antwort: ""Turm"".
-Ein ""___"" ist ein Teil des Körpers eines Tieres, der sich von der Basis der Wirbelsäule aus erstreckt. Antwort: ""","[4421, 4504, 2522, 1102, 9234, 29903, 317]",Schwanz,"[941, 11062, 12464, 29873, 18237, 260]",tail
+Ein ""___"" ist ein Teil des Körpers eines Tieres, der sich von der Basis der Wirbelsäule aus erstreckt. Antwort: ""","[4504, 29903, 2522, 317, 1102, 4421, 9234]",Schwanz,"[941, 18237, 260, 29873, 11062, 12464]",tail
 """Eine ""___"" ist ein Begriff, der die Gesamtheit der Menschen beschreibt, die etwa zur gleichen Zeit geboren wurden und leben. Antwort: ""Generation"".
 ""Ein ""___"" wird verwendet, um einen Anstieg oder eine Aufwärtsbewegung zu beschreiben. Antwort: ""Anstieg"".
-Eine ""___"" ist eine Frau, die ein Kind zur Welt gebracht hat. Antwort: ""","[8229, 20749, 22411, 29924, 341]",Mutter,"[29885, 3184, 4346, 286, 2730, 14817, 25550, 5637]",mother
+Eine ""___"" ist eine Frau, die ein Kind zur Welt gebracht hat. Antwort: ""","[341, 8229, 29924, 20749, 22411]",Mutter,"[25550, 29885, 286, 4346, 14817, 5637, 2730, 3184]",mother
 "Ein ""___"" ist eine natürliche Begabung oder Fähigkeit. Antwort: ""Talent"".
 Ein ""___"" ist eine große Wasserfläche, die von Land umgeben ist. Antwort: ""See"".
-""Der ""___"" ist eine Himmelsrichtung, die dem Westen entgegengesetzt ist. Antwort: ""","[29949, 26569, 6657, 11334, 24768, 438]",Osten,"[9755, 2240, 321, 11248, 29872, 23027]",east
+""Der ""___"" ist eine Himmelsrichtung, die dem Westen entgegengesetzt ist. Antwort: ""","[438, 6657, 26569, 11334, 24768, 29949]",Osten,"[9755, 11248, 2240, 29872, 321, 23027]",east
 "Ein ""___"" befindet sich auf dem Kopf von Menschen und Tieren. Antwort: ""Haar"".
 Ein ""___"" ist ein Zeitraum von 24 Stunden, der oft als die Zeit verstanden wird, die die Erde für eine Umdrehung benötigt. Antwort: ""Tag"".
-""Eine ""___"" ist eine förmliche Ansprache oder ein Vortrag, der vor einem Publikum gehalten wird. Antwort: ""","[29934, 390, 830, 9039, 1123, 4367]",Rede,"[805, 5965, 29879, 961, 1028, 12032, 269]",speech
+""Eine ""___"" ist eine förmliche Ansprache oder ein Vortrag, der vor einem Publikum gehalten wird. Antwort: ""","[390, 29934, 9039, 1123, 830, 4367]",Rede,"[961, 805, 1028, 12032, 269, 5965, 29879]",speech
 "Eine ""___"" ist eine Zahl, die nach der Null und vor der Zwei kommt. Antwort: ""Eins"".
 Eine ""___"" ist ein natürlicher unterirdischer Raum, der groß genug ist, um von einem Menschen betreten zu werden. Antwort: ""Höhle"".
-Ein ""___"" ist ein junges menschliches Wesen unter dem Alter der Pubertät. Antwort: ""","[16540, 11885, 20311, 476, 13187, 29968]",Kind,"[5145, 2278, 305, 274, 521, 4161, 29883, 18558]",child
+Ein ""___"" ist ein junges menschliches Wesen unter dem Alter der Pubertät. Antwort: ""","[13187, 29968, 20311, 476, 11885, 16540]",Kind,"[29883, 2278, 18558, 274, 305, 5145, 521, 4161]",child
 "Ein ""___"" ist ein Himmelskörper, der am Nachthimmel leuchtet. Antwort: ""Stern"".
 ""Die ""___"" ist der Punkt, der von den Seiten oder äußeren Begrenzungen einer Sache gleich weit entfernt ist. Antwort: ""Mitte"".
-Ein ""___"" ist ein hohes Bauwerk, das für verschiedene Zwecke wie Beobachtung, Kommunikation oder Lagerung genutzt werden kann. Antwort: ""","[29911, 5383, 323, 23215, 12603]",Turm,"[19372, 304, 29873, 517, 260]",tower
+Ein ""___"" ist ein hohes Bauwerk, das für verschiedene Zwecke wie Beobachtung, Kommunikation oder Lagerung genutzt werden kann. Antwort: ""","[323, 29911, 12603, 23215, 5383]",Turm,"[260, 304, 29873, 19372, 517]",tower
 "Eine ""___"" ist ein Ort, an dem Schüler lernen. Antwort: ""Schule"".
 ""Eine ""___"" ist eine Kategorie oder ein Typ von etwas. Antwort: ""Art"".
-Ein ""___"" befindet sich auf dem Kopf von Menschen und Tieren. Antwort: ""","[5952, 29950, 24704, 379]",Haar,"[11315, 2350, 23535, 447, 29882, 298]",hair
+Ein ""___"" befindet sich auf dem Kopf von Menschen und Tieren. Antwort: ""","[29950, 379, 5952, 24704]",Haar,"[29882, 298, 447, 2350, 23535, 11315]",hair
 "Eine ""___"" wird verwendet, um zwei Gebiete zu verbinden, die durch Hindernisse wie Flüsse oder Straßen getrennt sind. Antwort: ""Brücke"".
 Ein ""___"" ist ein großes Gebiet, das hauptsächlich mit Bäumen und Unterholz bedeckt ist. Antwort: ""Wald"".
-Ein ""___"" ist eine Bezeichnung für eine Wohneinheit, in der Menschen leben. Antwort: ""","[5952, 29950, 10727, 24704, 379]",Haushalt,"[22329, 8697, 5089, 9261, 10774, 3699, 1251, 29882, 298]",household
+Ein ""___"" ist eine Bezeichnung für eine Wohneinheit, in der Menschen leben. Antwort: ""","[10727, 29950, 379, 5952, 24704]",Haushalt,"[29882, 298, 1251, 5089, 10774, 9261, 22329, 8697, 3699]",household
 "Eine ""___"" ist ein Ort, an dem Aktien, Anleihen oder andere Wertpapiere gekauft und verkauft werden. Antwort: ""Börse"".
 Ein ""___"" ist ein System von Regeln, das eine Gesellschaft oder eine Regierung entwickelt, um mit Verbrechen, Geschäftsvereinbarungen und sozialen Beziehungen umzugehen. Antwort: ""Gesetz"".
-Eine ""___"" ist ein menschliches Wesen, das als Individuum betrachtet wird. Antwort: ""","[9034, 29925, 2431, 15136, 349, 5196, 3938, 15666, 7435, 5894]",Person,"[1236, 412, 10532, 29886, 2022, 6774, 282, 639, 3736, 546]",person
+Eine ""___"" ist ein menschliches Wesen, das als Individuum betrachtet wird. Antwort: ""","[15136, 9034, 15666, 2431, 5196, 29925, 7435, 3938, 5894, 349]",Person,"[6774, 3736, 282, 1236, 29886, 2022, 546, 10532, 639, 412]",person
 "Ein ""___"" ist eine kleine Gemeinschaft oder Gruppe von Häusern in einem ländlichen Gebiet. Antwort: ""Dorf"".
 Ein ""___"" ist ein niedriges Gebiet zwischen Hügeln oder Bergen, durch das normalerweise ein Fluss fließt. Antwort: ""Tal"".
-Ein ""___"" ist ein bestimmter Teil oder eine Unterteilung von etwas. Antwort: ""","[29909, 4920, 319, 1976, 24650]",Abschnitt,"[8803, 21149, 344, 4004, 3471, 5226, 29879, 409, 2042, 269]",section
+Ein ""___"" ist ein bestimmter Teil oder eine Unterteilung von etwas. Antwort: ""","[1976, 319, 4920, 29909, 24650]",Abschnitt,"[4004, 5226, 409, 8803, 344, 2042, 269, 21149, 29879, 3471]",section
 "Eine ""___"" wird verwendet, um Informationen oder Daten bereitzustellen. Antwort: ""Quelle"".
 Ein ""___"" ist ein Ort, an dem etwas gebaut wird, wurde oder wird. Antwort: ""Standort"".
-Ein ""___"" ist ein Ort, an dem Menschen normalerweise ihre Arbeit verrichten. Antwort: ""","[15455, 29933, 350, 16144]",Büro,"[310, 974, 1283, 8034, 29877, 288, 3344, 2696, 20205]",office
+Ein ""___"" ist ein Ort, an dem Menschen normalerweise ihre Arbeit verrichten. Antwort: ""","[15455, 16144, 29933, 350]",Büro,"[1283, 310, 288, 29877, 2696, 20205, 8034, 974, 3344]",office
 "Ein ""___"" ist ein großer Körper aus Salzwasser, der den größten Teil der Erdoberfläche bedeckt. Antwort: ""Ozean"".
 Die Zahl nach der Neun ist die ""___"". Antwort: ""zehn"".
-""Ein ""___"" wird verwendet, um einen Anstieg oder eine Aufwärtsbewegung zu beschreiben. Antwort: ""","[29909, 2744, 530, 319, 21877]",Anstieg,"[374, 10107, 14451, 364, 3780, 5161, 29878]",rise
+""Ein ""___"" wird verwendet, um einen Anstieg oder eine Aufwärtsbewegung zu beschreiben. Antwort: ""","[319, 29909, 2744, 530, 21877]",Anstieg,"[5161, 10107, 29878, 14451, 364, 3780, 374]",rise
 """Ein ""___"" wird zum Bauen von Burgen am Strand verwendet. Antwort: ""Sand"".
 Ein ""___"" wird bei Sportarten wie Volleyball und Tennis verwendet, um das Spielfeld zu unterteilen. Antwort: ""Netz"".
-""Eine ""___"" wird benutzt, um Menschen oder Dinge zu kontrollieren oder zu beeinflussen. Antwort: ""","[21870, 15735, 4326, 3219, 29924, 17197, 341]",Macht,"[29886, 13519, 3081, 12248, 4764, 282, 772, 1129]",power
+""Eine ""___"" wird benutzt, um Menschen oder Dinge zu kontrollieren oder zu beeinflussen. Antwort: ""","[341, 3219, 21870, 4326, 29924, 17197, 15735]",Macht,"[13519, 1129, 282, 29886, 12248, 772, 4764, 3081]",power
 """Eine ""___"" wird verwendet, um das Aussehen von Objekten zu identifizieren oder zu beschreiben. Antwort: ""Farbe"".
 Ein ""___"" ist eine große offene Fläche, auf der Pflanzen angebaut werden. Antwort: ""Feld"".
-""Der ""___"" ist eine Jahreszeit, die für ihr warmes Wetter bekannt ist. Antwort: ""","[6254, 22820, 29903, 6295, 317, 1105]",Sommer,"[2533, 22792, 480, 2083, 29879, 11801, 2146, 269]",summer
+""Der ""___"" ist eine Jahreszeit, die für ihr warmes Wetter bekannt ist. Antwort: ""","[1105, 29903, 22820, 6295, 317, 6254]",Sommer,"[2083, 480, 269, 11801, 29879, 22792, 2533, 2146]",summer

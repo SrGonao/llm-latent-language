@@ -3,47 +3,47 @@ prompt,out_token_id,out_token_str,latent_token_id,latent_token_str,in_token_str
 Français: ""pont"" - Français: ""pont""
 Français: ""bouche"" - Français: ""bouche""
 Français: ""lac"" - Français: ""lac""
-Français: ""avancer"" - Français: ""","[29080, 879, 263, 29874, 1029, 485]",avancer,"[31174, 235]",进,avancer
+Français: ""avancer"" - Français: ""","[879, 485, 29080, 263, 1029, 29874]",avancer,"[31174, 235]",进,avancer
 "Français: ""discours"" - Français: ""discours""
 Français: ""gare"" - Français: ""gare""
 Français: ""étoile"" - Français: ""étoile""
 Français: ""filet"" - Français: ""filet""
-Français: ""tentative"" - Français: ""","[734, 12033, 371, 3006, 29873, 841, 260]",tentative,"[31787, 235]",试,tentative
+Français: ""tentative"" - Français: ""","[841, 371, 734, 29873, 260, 12033, 3006]",tentative,"[31787, 235]",试,tentative
 "Français: ""roche"" - Français: ""roche""
 Français: ""quatre"" - Français: ""quatre""
 Français: ""forêt"" - Français: ""forêt""
 Français: ""personne"" - Français: ""personne""
-Français: ""sac"" - Français: ""","[872, 7067, 29879, 4977, 269]",sac,"[31473, 232]",包,sac
+Français: ""sac"" - Français: ""","[4977, 269, 29879, 872, 7067]",sac,"[31473, 232]",包,sac
 "Français: ""neuf"" - Français: ""neuf""
 Français: ""plate-forme"" - Français: ""plate-forme""
 Français: ""main"" - Français: ""main""
 Français: ""temps"" - Français: ""temps""
-Français: ""ballon"" - Français: ""","[5521, 29890, 289, 2135, 8287, 2291, 9922, 6411]",ballon,"[31539, 234]",球,ballon
+Français: ""ballon"" - Français: ""","[2135, 8287, 2291, 5521, 289, 6411, 29890, 9922]",ballon,"[31539, 234]",球,ballon
 "Français: ""étang"" - Français: ""étang""
 Français: ""cheval"" - Français: ""cheval""
 Français: ""discours"" - Français: ""discours""
 Français: ""montagne"" - Français: ""montagne""
-Français: ""beauté"" - Français: ""","[29890, 289, 915, 367, 6562]",beauté,"[30630, 234]",美,beauté
+Français: ""beauté"" - Français: ""","[367, 6562, 915, 289, 29890]",beauté,"[30630, 234]",美,beauté
 "Français: ""un"" - Français: ""un""
 Français: ""vertu"" - Français: ""vertu""
 Français: ""mot"" - Français: ""mot""
 Français: ""ligne"" - Français: ""ligne""
-Français: ""pont"" - Français: ""","[1112, 29649, 12509, 1129, 772, 13185, 282, 29886]",pont,"[31749, 233]",桥,pont
+Français: ""pont"" - Français: ""","[29886, 1129, 1112, 282, 29649, 12509, 13185, 772]",pont,"[31749, 233]",桥,pont
 "Français: ""mère"" - Français: ""mère""
 Français: ""juge"" - Français: ""juge""
 Français: ""enfant"" - Français: ""enfant""
 Français: ""cravate"" - Français: ""cravate""
-Français: ""grotte"" - Français: ""","[29887, 867, 4071, 330, 17170, 629]",grotte,"[31886, 233]",洞,grotte
+Français: ""grotte"" - Français: ""","[330, 629, 29887, 17170, 4071, 867]",grotte,"[31886, 233]",洞,grotte
 "Français: ""loi"" - Français: ""loi""
 Français: ""danse"" - Français: ""danse""
 Français: ""grille"" - Français: ""grille""
 Français: ""vertu"" - Français: ""vertu""
-Français: ""enfant"" - Français: ""","[264, 12377, 29872, 321, 23578, 427]",enfant,"[30319, 232]",子,enfant
+Français: ""enfant"" - Français: ""","[427, 264, 29872, 321, 23578, 12377]",enfant,"[30319, 232]",子,enfant
 "Français: ""pied"" - Français: ""pied""
 Français: ""réunion"" - Français: ""réunion""
 Français: ""grotte"" - Français: ""grotte""
 Français: ""sol"" - Français: ""sol""
-Français: ""ville"" - Français: ""","[1403, 11928, 29894, 4909, 325, 3516, 17191, 8441, 4213]",ville,"[30626, 232]",城,ville
+Français: ""ville"" - Français: ""","[17191, 4213, 29894, 8441, 4909, 325, 3516, 1403, 11928]",ville,"[30626, 232]",城,ville
 "Français: ""bourse"" - Français: ""bourse""
 Français: ""gare"" - Français: ""gare""
 Français: ""sac"" - Français: ""sac""
@@ -53,52 +53,52 @@ Français: ""nuage"" - Français: ""","[29876, 3433, 4948, 302]",nuage,"[31784, 
 Français: ""carré"" - Français: ""carré""
 Français: ""loi"" - Français: ""loi""
 Français: ""histoire"" - Français: ""histoire""
-Français: ""couleur"" - Français: ""","[1302, 3581, 16589, 1111, 29883, 274]",couleur,"[31085, 235]",色,couleur
+Français: ""couleur"" - Français: ""","[16589, 1302, 274, 1111, 3581, 29883]",couleur,"[31085, 235]",色,couleur
 "Français: ""sac"" - Français: ""sac""
 Français: ""personne"" - Français: ""personne""
 Français: ""tour"" - Français: ""tour""
 Français: ""mot"" - Français: ""mot""
-Français: ""danse"" - Français: ""","[18386, 29881, 1388, 6025, 270, 1465, 1146]",danse,"[31939, 235]",舞,danse
+Français: ""danse"" - Français: ""","[29881, 6025, 1465, 270, 1146, 18386, 1388]",danse,"[31939, 235]",舞,danse
 "Français: ""défaite"" - Français: ""défaite""
 Français: ""école"" - Français: ""école""
 Français: ""lumière"" - Français: ""lumière""
 Français: ""milieu"" - Français: ""milieu""
-Français: ""jour"" - Français: ""","[20551, 2212, 8694, 8121, 2958, 432, 29926]",jour,"[30325, 233]",日,jour
+Français: ""jour"" - Français: ""","[8694, 8121, 20551, 2212, 29926, 2958, 432]",jour,"[30325, 233]",日,jour
 "Français: ""lune"" - Français: ""lune""
 Français: ""ressort"" - Français: ""ressort""
 Français: ""visage"" - Français: ""visage""
 Français: ""loi"" - Français: ""loi""
-Français: ""défaite"" - Français: ""","[11482, 29881, 1437, 270]",défaite,"[31955, 235]",败,défaite
+Français: ""défaite"" - Français: ""","[29881, 11482, 270, 1437]",défaite,"[31955, 235]",败,défaite
 "Français: ""queue"" - Français: ""queue""
 Français: ""mère"" - Français: ""mère""
 Français: ""sac"" - Français: ""sac""
 Français: ""carré"" - Français: ""carré""
-Français: ""supprimer"" - Français: ""","[19303, 480, 2146, 12587, 1462, 13159, 29879, 269]",supprimer,"[31916, 232]",删,supprimer
+Français: ""supprimer"" - Français: ""","[13159, 269, 1462, 29879, 2146, 12587, 19303, 480]",supprimer,"[31916, 232]",删,supprimer
 "Français: ""lac"" - Français: ""lac""
 Français: ""beauté"" - Français: ""beauté""
 Français: ""rouge"" - Français: ""rouge""
 Français: ""soleil"" - Français: ""soleil""
-Français: ""porte"" - Français: ""","[13732, 1971, 2011, 29886, 1129, 14931, 1277, 282, 772, 637]",porte,"[31649, 236]",门,porte
+Français: ""porte"" - Français: ""","[29886, 1129, 2011, 637, 1971, 14931, 1277, 282, 13732, 772]",porte,"[31649, 236]",门,porte
 "Français: ""été"" - Français: ""été""
 Français: ""cravate"" - Français: ""cravate""
 Français: ""ligne"" - Français: ""ligne""
 Français: ""site"" - Français: ""site""
-Français: ""est"" - Français: ""","[707, 267, 831, 29872, 321, 342]",est,"[30979, 231]",东,est
+Français: ""est"" - Français: ""","[29872, 267, 321, 831, 707, 342]",est,"[30979, 231]",东,est
 "Français: ""roche"" - Français: ""roche""
 Français: ""site"" - Français: ""site""
 Français: ""porte"" - Français: ""porte""
 Français: ""bois"" - Français: ""bois""
-Français: ""huit"" - Français: ""","[22888, 298, 27052, 6905, 15669, 29882]",huit,"[31044, 232]",八,huit
+Français: ""huit"" - Français: ""","[22888, 15669, 6905, 27052, 298, 29882]",huit,"[31044, 232]",八,huit
 "Français: ""version"" - Français: ""version""
 Français: ""chanson"" - Français: ""chanson""
 Français: ""siège"" - Français: ""siège""
 Français: ""ménage"" - Français: ""ménage""
-Français: ""exemple"" - Français: ""","[11875, 735, 29455, 29872, 8097, 321, 429, 17488]",exemple,"[31507, 231]",例,exemple
+Français: ""exemple"" - Français: ""","[17488, 429, 8097, 11875, 29872, 321, 735, 29455]",exemple,"[31507, 231]",例,exemple
 "Français: ""filet"" - Français: ""filet""
 Français: ""sol"" - Français: ""sol""
 Français: ""sud"" - Français: ""sud""
 Français: ""cheval"" - Français: ""cheval""
-Français: ""bourse"" - Français: ""","[1045, 833, 29890, 289, 6526, 16380]",bourse,"[31398, 231]",交,bourse
+Français: ""bourse"" - Français: ""","[16380, 6526, 1045, 289, 29890, 833]",bourse,"[31398, 231]",交,bourse
 "Français: ""lumière"" - Français: ""lumière""
 Français: ""nuage"" - Français: ""nuage""
 Français: ""grotte"" - Français: ""grotte""
@@ -108,484 +108,484 @@ Français: ""œil"" - Français: """,[30106],œil,"[30895, 234]",目,œil
 Français: ""neuf"" - Français: ""neuf""
 Français: ""réunion"" - Français: ""réunion""
 Français: ""loi"" - Français: ""loi""
-Français: ""visage"" - Français: ""","[1403, 1998, 29894, 325, 3516, 1730]",visage,"[30806, 236]",面,visage
+Français: ""visage"" - Français: ""","[29894, 1730, 325, 3516, 1998, 1403]",visage,"[30806, 236]",面,visage
 "Français: ""défaite"" - Français: ""défaite""
 Français: ""mot"" - Français: ""mot""
 Français: ""hausse"" - Français: ""hausse""
 Français: ""groupe"" - Français: ""groupe""
-Français: ""champ"" - Français: ""","[18480, 305, 11179, 521, 5815, 10329, 29883, 274]",champ,"[31632, 232]",场,champ
+Français: ""champ"" - Français: ""","[11179, 18480, 274, 10329, 521, 5815, 305, 29883]",champ,"[31632, 232]",场,champ
 "Français: ""paire"" - Français: ""paire""
 Français: ""sept"" - Français: ""sept""
 Français: ""plate-forme"" - Français: ""plate-forme""
 Français: ""cœur"" - Français: ""cœur""
-Français: ""cinq"" - Français: ""","[455, 4583, 4670, 17256, 16381, 29883, 274]",cinq,"[30904, 231]",五,cinq
+Français: ""cinq"" - Français: ""","[16381, 274, 455, 4583, 17256, 29883, 4670]",cinq,"[30904, 231]",五,cinq
 "Français: ""danse"" - Français: ""danse""
 Français: ""enfant"" - Français: ""enfant""
 Français: ""ménage"" - Français: ""ménage""
 Français: ""sable"" - Français: ""sable""
-Français: ""fleur"" - Français: ""","[29888, 9115, 285, 1579, 1652]",fleur,"[30830, 235]",花,fleur
+Français: ""fleur"" - Français: ""","[285, 1579, 29888, 9115, 1652]",fleur,"[30830, 235]",花,fleur
 "Français: ""paire"" - Français: ""paire""
 Français: ""jour"" - Français: ""jour""
 Français: ""point"" - Français: ""point""
 Français: ""vertu"" - Français: ""vertu""
-Français: ""pied"" - Français: ""","[5036, 1631, 2930, 15957, 282, 29886, 12343]",pied,"[31722, 235]",足,pied
+Français: ""pied"" - Français: ""","[29886, 12343, 5036, 15957, 2930, 282, 1631]",pied,"[31722, 235]",足,pied
 "Français: ""sept"" - Français: ""sept""
 Français: ""neuf"" - Français: ""neuf""
 Français: ""position"" - Français: ""position""
 Français: ""génération"" - Français: ""génération""
-Français: ""forêt"" - Français: ""","[29888, 363, 1454, 285, 1701, 1181]",forêt,"[30853, 233]",林,forêt
+Français: ""forêt"" - Français: ""","[285, 29888, 1181, 363, 1454, 1701]",forêt,"[30853, 233]",林,forêt
 "Français: ""grille"" - Français: ""grille""
 Français: ""tentative"" - Français: ""tentative""
 Français: ""siège"" - Français: ""siège""
 Français: ""bureau"" - Français: ""bureau""
-Français: ""quatre"" - Français: ""","[3855, 439, 339, 21408, 12134, 29939]",quatre,"[30928, 232]",四,quatre
+Français: ""quatre"" - Français: ""","[439, 29939, 12134, 21408, 339, 3855]",quatre,"[30928, 232]",四,quatre
 "Français: ""réunion"" - Français: ""réunion""
 Français: ""beauté"" - Français: ""beauté""
 Français: ""personne"" - Français: ""personne""
 Français: ""vallée"" - Français: ""vallée""
-Français: ""fruit"" - Français: ""","[29888, 15774, 285, 1424, 1341]",fruit,"[30801, 233]",果,fruit
+Français: ""fruit"" - Français: ""","[285, 29888, 1341, 15774, 1424]",fruit,"[30801, 233]",果,fruit
 "Français: ""cinq"" - Français: ""cinq""
 Français: ""visage"" - Français: ""visage""
 Français: ""thé"" - Français: ""thé""
 Français: ""point"" - Français: ""point""
-Français: ""génération"" - Français: ""","[29887, 10505, 6094, 330, 16805]",génération,"[30690, 231]",代,génération
+Français: ""génération"" - Français: ""","[330, 16805, 10505, 29887, 6094]",génération,"[30690, 231]",代,génération
 "Français: ""mère"" - Français: ""mère""
 Français: ""structure"" - Français: ""structure""
 Français: ""vallée"" - Français: ""vallée""
 Français: ""avancer"" - Français: ""avancer""
-Français: ""or"" - Français: ""","[29877, 470, 272, 288]",or,"[30659, 236]",金,or
+Français: ""or"" - Français: ""","[470, 29877, 288, 272]",or,"[30659, 236]",金,or
 "Français: ""sable"" - Français: ""sable""
 Français: ""main"" - Français: ""main""
 Français: ""province"" - Français: ""province""
 Français: ""pont"" - Français: ""pont""
-Français: ""grille"" - Français: ""","[29887, 867, 330, 629]",grille,"[31168, 233]",格,grille
+Français: ""grille"" - Français: ""","[330, 629, 29887, 867]",grille,"[31168, 233]",格,grille
 "Français: ""cravate"" - Français: ""cravate""
 Français: ""ligne"" - Français: ""ligne""
 Français: ""loi"" - Français: ""loi""
 Français: ""étoile"" - Français: ""étoile""
-Français: ""sol"" - Français: ""","[578, 577, 2929, 29879, 899, 269]",sol,"[30533, 232]",地,sol
+Français: ""sol"" - Français: ""","[578, 577, 269, 899, 2929, 29879]",sol,"[30533, 232]",地,sol
 "Français: ""tour"" - Français: ""tour""
 Français: ""bois"" - Français: ""bois""
 Français: ""rue"" - Français: ""rue""
 Français: ""bourse"" - Français: ""bourse""
-Français: ""groupe"" - Français: ""","[29887, 2318, 867, 2972, 11107, 330, 17170, 4071, 629]",groupe,"[31829, 234]",群,groupe
+Français: ""groupe"" - Français: ""","[330, 2972, 2318, 11107, 629, 29887, 17170, 4071, 867]",groupe,"[31829, 234]",群,groupe
 "Français: ""étoile"" - Français: ""étoile""
 Français: ""paire"" - Français: ""paire""
 Français: ""maison"" - Français: ""maison""
 Français: ""sept"" - Français: ""sept""
-Français: ""main"" - Français: ""","[3396, 611, 24402, 655, 5530, 29885, 1667, 286]",main,"[30880, 233]",手,main
+Français: ""main"" - Français: ""","[655, 3396, 611, 286, 1667, 29885, 24402, 5530]",main,"[30880, 233]",手,main
 "Français: ""personne"" - Français: ""personne""
 Français: ""vallée"" - Français: ""vallée""
 Français: ""main"" - Français: ""main""
 Français: ""discours"" - Français: ""discours""
-Français: ""tête"" - Français: ""","[17949, 260, 29873]",tête,"[31584, 232]",头,tête
+Français: ""tête"" - Français: ""","[29873, 260, 17949]",tête,"[31584, 232]",头,tête
 "Français: ""vitesse"" - Français: ""vitesse""
 Français: ""loi"" - Français: ""loi""
 Français: ""étang"" - Français: ""étang""
 Français: ""main"" - Français: ""main""
-Français: ""cœur"" - Français: ""","[29883, 274]",cœur,"[30869, 232]",心,cœur
+Français: ""cœur"" - Français: ""","[274, 29883]",cœur,"[30869, 232]",心,cœur
 "Français: ""genre"" - Français: ""genre""
 Français: ""vitesse"" - Français: ""vitesse""
 Français: ""partie"" - Français: ""partie""
 Français: ""tribu"" - Français: ""tribu""
-Français: ""histoire"" - Français: ""","[22880, 9825, 670, 298, 2918, 13624, 29882, 7251]",histoire,"[30911, 232]",史,histoire
+Français: ""histoire"" - Français: ""","[7251, 22880, 13624, 2918, 298, 670, 29882, 9825]",histoire,"[30911, 232]",史,histoire
 "Français: ""lune"" - Français: ""lune""
 Français: ""couleur"" - Français: ""couleur""
 Français: ""site"" - Français: ""site""
 Français: ""beauté"" - Français: ""beauté""
-Français: ""cheval"" - Français: ""","[305, 1173, 521, 923, 274, 29883, 29823, 25042]",cheval,"[31530, 236]",马,cheval
+Français: ""cheval"" - Français: ""","[25042, 274, 521, 923, 1173, 305, 29883, 29823]",cheval,"[31530, 236]",马,cheval
 "Français: ""cinq"" - Français: ""cinq""
 Français: ""montagne"" - Français: ""montagne""
 Français: ""école"" - Français: ""école""
 Français: ""source"" - Français: ""source""
-Français: ""maison"" - Français: ""","[611, 24402, 655, 18234, 5530, 3503, 29885, 286]",maison,"[31654, 232]",屋,maison
+Français: ""maison"" - Français: ""","[3503, 655, 18234, 611, 286, 29885, 24402, 5530]",maison,"[31654, 232]",屋,maison
 "Français: ""bureau"" - Français: ""bureau""
 Français: ""ballon"" - Français: ""ballon""
 Français: ""cravate"" - Français: ""cravate""
 Français: ""montagne"" - Français: ""montagne""
-Français: ""ménage"" - Français: ""","[8774, 29885, 12031, 286]",ménage,"[31229, 233]",户,ménage
+Français: ""ménage"" - Français: ""","[8774, 286, 29885, 12031]",ménage,"[31229, 233]",户,ménage
 "Français: ""roche"" - Français: ""roche""
 Français: ""loi"" - Français: ""loi""
 Français: ""été"" - Français: ""été""
 Français: ""pouvoir"" - Français: ""pouvoir""
-Français: ""juge"" - Français: ""","[8740, 3623, 432, 4900, 29926]",juge,"[31791, 232]",判,juge
+Français: ""juge"" - Français: ""","[3623, 4900, 8740, 29926, 432]",juge,"[31791, 232]",判,juge
 "Français: ""rue"" - Français: ""rue""
 Français: ""lune"" - Français: ""lune""
 Français: ""groupe"" - Français: ""groupe""
 Français: ""chanson"" - Français: ""chanson""
-Français: ""genre"" - Français: ""","[2531, 29887, 1885, 330, 479, 16151, 1737]",genre,"[31893, 234]",种,genre
+Français: ""genre"" - Français: ""","[330, 1885, 2531, 479, 1737, 29887, 16151]",genre,"[31893, 234]",种,genre
 "Français: ""pont"" - Français: ""pont""
 Français: ""tour"" - Français: ""tour""
 Français: ""mère"" - Français: ""mère""
 Français: ""six"" - Français: ""six""
-Français: ""lac"" - Français: ""","[24011, 4620, 425, 433, 29880, 301]",lac,"[31496, 233]",湖,lac
+Français: ""lac"" - Français: ""","[4620, 301, 29880, 425, 433, 24011]",lac,"[31496, 233]",湖,lac
 "Français: ""œil"" - Français: ""œil""
 Français: ""lune"" - Français: ""lune""
 Français: ""forêt"" - Français: ""forêt""
 Français: ""ménage"" - Français: ""ménage""
-Français: ""loi"" - Français: ""","[24228, 658, 417, 29880, 301]",loi,"[30545, 233]",法,loi
+Français: ""loi"" - Français: ""","[417, 301, 29880, 658, 24228]",loi,"[30545, 233]",法,loi
 "Français: ""main"" - Français: ""main""
 Français: ""plate-forme"" - Français: ""plate-forme""
 Français: ""section"" - Français: ""section""
 Français: ""bois"" - Français: ""bois""
-Français: ""gauche"" - Français: ""","[29887, 330, 13395, 3249, 10364, 26003]",gauche,"[31651, 232]",左,gauche
+Français: ""gauche"" - Français: ""","[330, 3249, 26003, 10364, 29887, 13395]",gauche,"[31651, 232]",左,gauche
 "Français: ""fruit"" - Français: ""fruit""
 Français: ""hausse"" - Français: ""hausse""
 Français: ""groupe"" - Français: ""groupe""
 Français: ""village"" - Français: ""village""
-Français: ""lumière"" - Français: ""","[8092, 19703, 6092, 29880, 301]",lumière,"[30867, 232]",光,lumière
+Français: ""lumière"" - Français: ""","[301, 29880, 8092, 19703, 6092]",lumière,"[30867, 232]",光,lumière
 "Français: ""grotte"" - Français: ""grotte""
 Français: ""site"" - Français: ""site""
 Français: ""genre"" - Français: ""genre""
 Français: ""neige"" - Français: ""neige""
-Français: ""ligne"" - Français: ""","[619, 14172, 3473, 492, 7330, 29880, 301]",ligne,"[31532, 234]",线,ligne
+Français: ""ligne"" - Français: ""","[492, 14172, 301, 29880, 3473, 619, 7330]",ligne,"[31532, 234]",线,ligne
 "Français: ""sept"" - Français: ""sept""
 Français: ""étoile"" - Français: ""étoile""
 Français: ""visage"" - Français: ""visage""
 Français: ""forêt"" - Français: ""forêt""
-Français: ""machine"" - Français: ""","[611, 655, 4933, 7672, 8628, 5825, 29885, 23523, 286]",machine,"[31429, 233]",机,machine
+Français: ""machine"" - Français: ""","[8628, 5825, 7672, 655, 611, 286, 23523, 29885, 4933]",machine,"[31429, 233]",机,machine
 "Français: ""village"" - Français: ""village""
 Français: ""pouvoir"" - Français: ""pouvoir""
 Français: ""histoire"" - Français: ""histoire""
 Français: ""montagne"" - Français: ""montagne""
-Français: ""réunion"" - Français: ""","[5606, 364, 1841, 29878]",réunion,"[30437, 231]",会,réunion
+Français: ""réunion"" - Français: ""","[5606, 29878, 364, 1841]",réunion,"[30437, 231]",会,réunion
 "Français: ""maison"" - Français: ""maison""
 Français: ""vertu"" - Français: ""vertu""
 Français: ""son"" - Français: ""son""
 Français: ""supprimer"" - Français: ""supprimer""
-Français: ""milieu"" - Français: ""","[2316, 2460, 22591, 23853, 29885, 3737, 286]",milieu,"[30275, 231]",中,milieu
+Français: ""milieu"" - Français: ""","[23853, 286, 29885, 2460, 3737, 22591, 2316]",milieu,"[30275, 231]",中,milieu
 "Français: ""main"" - Français: ""main""
 Français: ""génération"" - Français: ""génération""
 Français: ""exemple"" - Français: ""exemple""
 Français: ""retour"" - Français: ""retour""
-Français: ""lune"" - Français: ""","[29880, 25081, 8092, 6092, 301]",lune,"[30534, 233]",月,lune
+Français: ""lune"" - Français: ""","[301, 29880, 6092, 8092, 25081]",lune,"[30534, 233]",月,lune
 "Français: ""cœur"" - Français: ""cœur""
 Français: ""tribu"" - Français: ""tribu""
 Français: ""réunion"" - Français: ""réunion""
 Français: ""génération"" - Français: ""génération""
-Français: ""mère"" - Français: ""","[29885, 286, 21428]",mère,"[31763, 233]",母,mère
+Français: ""mère"" - Français: ""","[21428, 286, 29885]",mère,"[31763, 233]",母,mère
 "Français: ""sac"" - Français: ""sac""
 Français: ""riz"" - Français: ""riz""
 Français: ""chanson"" - Français: ""chanson""
 Français: ""bureau"" - Français: ""bureau""
-Français: ""montagne"" - Français: ""","[4346, 14132, 2730, 3712, 29885, 1601, 286, 7629]",montagne,"[30329, 232]",山,montagne
+Français: ""montagne"" - Français: ""","[4346, 286, 7629, 1601, 2730, 3712, 14132, 29885]",montagne,"[30329, 232]",山,montagne
 "Français: ""neige"" - Français: ""neige""
 Français: ""maison"" - Français: ""maison""
 Français: ""réunion"" - Français: ""réunion""
 Français: ""personne"" - Français: ""personne""
-Français: ""bouche"" - Français: ""","[1045, 833, 29890, 289, 16380]",bouche,"[30856, 232]",口,bouche
+Français: ""bouche"" - Français: ""","[16380, 1045, 289, 833, 29890]",bouche,"[30856, 232]",口,bouche
 "Français: ""nuage"" - Français: ""nuage""
 Français: ""est"" - Français: ""est""
 Français: ""ballon"" - Français: ""ballon""
 Français: ""supprimer"" - Français: ""supprimer""
-Français: ""filet"" - Français: ""","[29888, 1445, 934, 1777, 285, 5713, 7241, 977]",filet,"[31222, 234]",网,filet
+Français: ""filet"" - Français: ""","[1445, 285, 1777, 29888, 7241, 5713, 934, 977]",filet,"[31222, 234]",网,filet
 "Français: ""gauche"" - Français: ""gauche""
 Français: ""siège"" - Français: ""siège""
 Français: ""cœur"" - Français: ""cœur""
 Français: ""point"" - Français: ""point""
-Français: ""neuf"" - Français: ""","[29876, 17167, 484, 302, 452]",neuf,"[31321, 231]",九,neuf
+Français: ""neuf"" - Français: ""","[452, 29876, 484, 17167, 302]",neuf,"[31321, 231]",九,neuf
 "Français: ""visage"" - Français: ""visage""
 Français: ""lac"" - Français: ""lac""
 Français: ""tribu"" - Français: ""tribu""
 Français: ""site"" - Français: ""site""
-Français: ""nord"" - Français: ""","[3643, 29876, 694, 6218, 15459, 302, 1217]",nord,"[30662, 232]",北,nord
+Français: ""nord"" - Français: ""","[3643, 29876, 694, 15459, 6218, 1217, 302]",nord,"[30662, 232]",北,nord
 "Français: ""étang"" - Français: ""étang""
 Français: ""genre"" - Français: ""genre""
 Français: ""point"" - Français: ""point""
 Français: ""dix"" - Français: ""dix""
-Français: ""océan"" - Français: ""","[542, 12954, 288, 29877]",océan,"[31534, 233]",洋,océan
+Français: ""océan"" - Français: ""","[542, 12954, 29877, 288]",océan,"[31534, 233]",洋,océan
 "Français: ""dix"" - Français: ""dix""
 Français: ""soleil"" - Français: ""soleil""
 Français: ""chanson"" - Français: ""chanson""
 Français: ""gauche"" - Français: ""gauche""
-Français: ""bureau"" - Français: ""","[1321, 6866, 29890, 8399, 289, 2423]",bureau,"[31655, 232]",局,bureau
+Français: ""bureau"" - Français: ""","[8399, 289, 6866, 29890, 1321, 2423]",bureau,"[31655, 232]",局,bureau
 "Français: ""été"" - Français: ""été""
 Français: ""enfant"" - Français: ""enfant""
 Français: ""jour"" - Français: ""jour""
 Français: ""riz"" - Français: ""riz""
-Français: ""un"" - Français: ""","[348, 443, 29884, 318]",un,"[30287, 231]",一,un
+Français: ""un"" - Français: ""","[443, 29884, 318, 348]",un,"[30287, 231]",一,un
 "Français: ""carré"" - Français: ""carré""
 Français: ""position"" - Français: ""position""
 Français: ""trois"" - Français: ""trois""
 Français: ""point"" - Français: ""point""
-Français: ""paire"" - Français: ""","[282, 3274, 5101, 18784, 3300, 29886]",paire,"[31960, 232]",双,paire
+Français: ""paire"" - Français: ""","[29886, 5101, 3274, 18784, 282, 3300]",paire,"[31960, 232]",双,paire
 "Français: ""cheval"" - Français: ""cheval""
 Français: ""roche"" - Français: ""roche""
 Français: ""trois"" - Français: ""trois""
 Français: ""juge"" - Français: ""juge""
-Français: ""partie"" - Français: ""","[282, 862, 3274, 17756, 8691, 1595, 29886, 3300, 760, 610]",partie,"[30636, 236]",部,partie
+Français: ""partie"" - Français: ""","[29886, 17756, 760, 610, 3274, 1595, 8691, 282, 3300, 862]",partie,"[30636, 236]",部,partie
 "Français: ""supprimer"" - Français: ""supprimer""
 Français: ""jour"" - Français: ""jour""
 Français: ""position"" - Français: ""position""
 Français: ""machine"" - Français: ""machine""
-Français: ""personne"" - Français: ""","[2022, 6774, 412, 3736, 1236, 26744, 546, 15001, 10532, 639, 282, 29886]",personne,"[30313, 231]",人,personne
+Français: ""personne"" - Français: ""","[10532, 3736, 1236, 29886, 6774, 639, 15001, 2022, 282, 412, 26744, 546]",personne,"[30313, 231]",人,personne
 "Français: ""est"" - Français: ""est""
 Français: ""ressort"" - Français: ""ressort""
 Français: ""bouche"" - Français: ""bouche""
 Français: ""histoire"" - Français: ""histoire""
-Français: ""plate-forme"" - Français: ""","[715, 29886, 572, 18870, 15284, 2174, 13974, 2341, 282]",plate-forme,"[31037, 232]",台,plate-forme
+Français: ""plate-forme"" - Français: ""","[18870, 15284, 282, 13974, 715, 2341, 572, 29886, 2174]",plate-forme,"[31037, 232]",台,plate-forme
 "Français: ""tour"" - Français: ""tour""
 Français: ""pont"" - Français: ""pont""
 Français: ""sol"" - Français: ""sol""
 Français: ""défaite"" - Français: ""défaite""
-Français: ""point"" - Français: ""","[3149, 29886, 1129, 11899, 282, 772, 1298]",point,"[30940, 234]",点,point
+Français: ""point"" - Français: ""","[282, 1298, 29886, 1129, 3149, 11899, 772]",point,"[30940, 234]",点,point
 "Français: ""structure"" - Français: ""structure""
 Français: ""rue"" - Français: ""rue""
 Français: ""couleur"" - Français: ""couleur""
 Français: ""position"" - Français: ""position""
-Français: ""étang"" - Français: ""","[2852, 1893, 28899, 904, 29948]",étang,"[31853, 233]",池,étang
+Français: ""étang"" - Français: ""","[1893, 904, 2852, 29948, 28899]",étang,"[31853, 233]",池,étang
 "Français: ""sac"" - Français: ""sac""
 Français: ""genre"" - Français: ""genre""
 Français: ""un"" - Français: ""un""
 Français: ""onde"" - Français: ""onde""
-Français: ""position"" - Français: ""","[1066, 13686, 926, 2602, 29886, 1129, 282, 3283, 772]",position,"[30956, 231]",位,position
+Français: ""position"" - Français: ""","[29886, 1129, 1066, 772, 2602, 926, 282, 3283, 13686]",position,"[30956, 231]",位,position
 "Français: ""neige"" - Français: ""neige""
 Français: ""lumière"" - Français: ""lumière""
 Français: ""exemple"" - Français: ""exemple""
 Français: ""champ"" - Français: ""champ""
-Français: ""pouvoir"" - Français: ""","[24684, 29886, 1129, 282, 772, 19397, 7446]",pouvoir,"[31074, 232]",力,pouvoir
+Français: ""pouvoir"" - Français: ""","[29886, 1129, 19397, 772, 7446, 282, 24684]",pouvoir,"[31074, 232]",力,pouvoir
 "Français: ""bouche"" - Français: ""bouche""
 Français: ""trois"" - Français: ""trois""
 Français: ""point"" - Français: ""point""
 Français: ""neige"" - Français: ""neige""
-Français: ""province"" - Français: ""","[410, 12291, 544, 558, 771, 16123, 1326, 8482, 282, 29886]",province,"[31600, 234]",省,province
+Français: ""province"" - Français: ""","[29886, 771, 544, 1326, 12291, 8482, 558, 410, 16123, 282]",province,"[31600, 234]",省,province
 "Français: ""neuf"" - Français: ""neuf""
 Français: ""main"" - Français: ""main""
 Français: ""huit"" - Français: ""huit""
 Français: ""fleur"" - Français: ""fleur""
-Français: ""rouge"" - Français: ""","[696, 27537, 364, 29878, 16053, 307]",rouge,"[31869, 234]",红,rouge
+Français: ""rouge"" - Français: ""","[16053, 307, 29878, 364, 696, 27537]",rouge,"[31869, 234]",红,rouge
 "Français: ""champ"" - Français: ""champ""
 Français: ""filet"" - Français: ""filet""
 Français: ""pont"" - Français: ""pont""
 Français: ""enfant"" - Français: ""enfant""
-Français: ""retour"" - Français: ""","[18948, 337, 3240, 364, 29878, 276, 2267]",retour,"[30742, 232]",回,retour
+Français: ""retour"" - Français: ""","[18948, 276, 29878, 364, 337, 3240, 2267]",retour,"[30742, 232]",回,retour
 "Français: ""visage"" - Français: ""visage""
 Français: ""forêt"" - Français: ""forêt""
 Français: ""mère"" - Français: ""mère""
 Français: ""cinq"" - Français: ""cinq""
-Français: ""riz"" - Français: ""","[10107, 364, 29878, 374, 7485]",riz,"[31902, 234]",米,riz
+Français: ""riz"" - Français: ""","[7485, 29878, 364, 374, 10107]",riz,"[31902, 234]",米,riz
 "Français: ""cœur"" - Français: ""cœur""
 Français: ""trois"" - Français: ""trois""
 Français: ""groupe"" - Français: ""groupe""
 Français: ""thé"" - Français: ""thé""
-Français: ""hausse"" - Français: ""","[2350, 298, 447, 6208, 29882]",hausse,"[31558, 235]",起,hausse
+Français: ""hausse"" - Français: ""","[2350, 6208, 298, 29882, 447]",hausse,"[31558, 235]",起,hausse
 "Français: ""jour"" - Français: ""jour""
 Français: ""porte"" - Français: ""porte""
 Français: ""discours"" - Français: ""discours""
 Français: ""sol"" - Français: ""sol""
-Français: ""roche"" - Français: ""","[696, 364, 29878, 10198, 307]",roche,"[31753, 232]",岩,roche
+Français: ""roche"" - Français: ""","[307, 29878, 364, 10198, 696]",roche,"[31753, 232]",岩,roche
 "Français: ""temps"" - Français: ""temps""
 Français: ""filet"" - Français: ""filet""
 Français: ""queue"" - Français: ""queue""
 Français: ""position"" - Français: ""position""
-Français: ""sable"" - Français: ""","[872, 4977, 15296, 29879, 269]",sable,"[31476, 233]",沙,sable
+Français: ""sable"" - Français: ""","[4977, 269, 29879, 872, 15296]",sable,"[31476, 233]",沙,sable
 "Français: ""porte"" - Français: ""porte""
 Français: ""rue"" - Français: ""rue""
 Français: ""filet"" - Français: ""filet""
 Français: ""neuf"" - Français: ""neuf""
-Français: ""école"" - Français: ""","[24618, 4582, 904, 29948]",école,"[31071, 233]",校,école
+Français: ""école"" - Français: ""","[4582, 24618, 29948, 904]",école,"[31071, 233]",校,école
 "Français: ""porte"" - Français: ""porte""
 Français: ""avancer"" - Français: ""avancer""
 Français: ""vallée"" - Français: ""vallée""
 Français: ""filet"" - Français: ""filet""
-Français: ""mer"" - Français: ""","[2778, 1050, 592, 29885, 1004, 286]",mer,"[30581, 233]",海,mer
+Français: ""mer"" - Français: ""","[1004, 1050, 286, 2778, 592, 29885]",mer,"[30581, 233]",海,mer
 "Français: ""pouvoir"" - Français: ""pouvoir""
 Français: ""huit"" - Français: ""huit""
 Français: ""genre"" - Français: ""genre""
 Français: ""plate-forme"" - Français: ""plate-forme""
-Français: ""siège"" - Français: ""","[1354, 6476, 27678, 1039, 29879, 269]",siège,"[31780, 232]",座,siège
+Français: ""siège"" - Français: ""","[1039, 269, 6476, 29879, 1354, 27678]",siège,"[31780, 232]",座,siège
 "Français: ""pied"" - Français: ""pied""
 Français: ""maison"" - Français: ""maison""
 Français: ""carré"" - Français: ""carré""
 Français: ""étang"" - Français: ""étang""
-Français: ""section"" - Français: ""","[3471, 409, 29879, 21149, 2042, 8803, 4004, 5226, 344, 269]",section,"[31559, 233]",段,section
+Français: ""section"" - Français: ""","[21149, 344, 3471, 269, 5226, 4004, 29879, 409, 2042, 8803]",section,"[31559, 233]",段,section
 "Français: ""vertu"" - Français: ""vertu""
 Français: ""bouche"" - Français: ""bouche""
 Français: ""étoile"" - Français: ""étoile""
 Français: ""défaite"" - Français: ""défaite""
-Français: ""sept"" - Français: ""","[16345, 409, 19570, 29879, 4843, 344, 269]",sept,"[31425, 231]",七,sept
+Français: ""sept"" - Français: ""","[4843, 344, 269, 29879, 19570, 409, 16345]",sept,"[31425, 231]",七,sept
 "Français: ""tête"" - Français: ""tête""
 Français: ""dix"" - Français: ""dix""
 Français: ""bureau"" - Français: ""bureau""
 Français: ""plate-forme"" - Français: ""plate-forme""
-Français: ""site"" - Français: ""","[1354, 1039, 7845, 29879, 3268, 2746, 269]",site,"[31702, 232]",址,site
+Français: ""site"" - Français: ""","[2746, 1039, 269, 7845, 29879, 1354, 3268]",site,"[31702, 232]",址,site
 "Français: ""rue"" - Français: ""rue""
 Français: ""dix"" - Français: ""dix""
 Français: ""sable"" - Français: ""sable""
 Français: ""cheval"" - Français: ""cheval""
-Français: ""six"" - Français: ""","[28319, 1354, 1039, 4832, 29879, 269]",six,"[31304, 232]",六,six
+Français: ""six"" - Français: ""","[1039, 269, 28319, 29879, 4832, 1354]",six,"[31304, 232]",六,six
 "Français: ""riz"" - Français: ""riz""
 Français: ""océan"" - Français: ""océan""
 Français: ""fleur"" - Français: ""fleur""
 Français: ""maison"" - Français: ""maison""
-Français: ""neige"" - Français: ""","[29876, 12106, 484, 302, 452]",neige,"[31731, 236]",雪,neige
+Français: ""neige"" - Français: ""","[452, 29876, 302, 484, 12106]",neige,"[31731, 236]",雪,neige
 "Français: ""ressort"" - Français: ""ressort""
 Français: ""couleur"" - Français: ""couleur""
 Français: ""lune"" - Français: ""lune""
 Français: ""deux"" - Français: ""deux""
-Français: ""sol"" - Français: ""","[578, 577, 2929, 29879, 899, 269]",sol,"[31181, 232]",土,sol
+Français: ""sol"" - Français: ""","[578, 577, 269, 899, 2929, 29879]",sol,"[31181, 232]",土,sol
 "Français: ""sol"" - Français: ""sol""
 Français: ""tête"" - Français: ""tête""
 Français: ""filet"" - Français: ""filet""
 Français: ""champ"" - Français: ""champ""
-Français: ""chanson"" - Français: ""","[305, 521, 5083, 5815, 10329, 29883, 25875, 274]",chanson,"[31173, 233]",歌,chanson
+Français: ""chanson"" - Français: ""","[274, 10329, 521, 5815, 5083, 305, 29883, 25875]",chanson,"[31173, 233]",歌,chanson
 "Français: ""sept"" - Français: ""sept""
 Français: ""grotte"" - Français: ""grotte""
 Français: ""bande"" - Français: ""bande""
 Français: ""pont"" - Français: ""pont""
-Français: ""son"" - Français: ""","[578, 577, 1100, 29879, 1487, 269]",son,"[30941, 236]",音,son
+Français: ""son"" - Français: ""","[578, 1487, 577, 269, 1100, 29879]",son,"[30941, 236]",音,son
 "Français: ""bureau"" - Français: ""bureau""
 Français: ""quatre"" - Français: ""quatre""
 Français: ""soleil"" - Français: ""soleil""
 Français: ""étoile"" - Français: ""étoile""
-Français: ""source"" - Français: ""","[578, 577, 4993, 2752, 29879, 3669, 269]",source,"[31193, 233]",源,source
+Français: ""source"" - Français: ""","[578, 4993, 577, 269, 3669, 29879, 2752]",source,"[31193, 233]",源,source
 "Français: ""vitesse"" - Français: ""vitesse""
 Français: ""lune"" - Français: ""lune""
 Français: ""tête"" - Français: ""tête""
 Français: ""filet"" - Français: ""filet""
-Français: ""sud"" - Français: ""","[5053, 480, 2146, 29879, 269]",sud,"[30601, 232]",南,sud
+Français: ""sud"" - Français: ""","[5053, 2146, 269, 29879, 480]",sud,"[30601, 232]",南,sud
 "Français: ""trois"" - Français: ""trois""
 Français: ""mère"" - Français: ""mère""
 Français: ""tête"" - Français: ""tête""
 Français: ""son"" - Français: ""son""
-Français: ""discours"" - Français: ""","[17021, 766, 29881, 6051, 2313, 652, 2218, 270]",discours,"[31852, 235]",话,discours
+Français: ""discours"" - Français: ""","[2313, 652, 29881, 6051, 2218, 270, 766, 17021]",discours,"[31852, 235]",话,discours
 "Français: ""enfant"" - Français: ""enfant""
 Français: ""exemple"" - Français: ""exemple""
 Français: ""juge"" - Français: ""juge""
 Français: ""sud"" - Français: ""sud""
-Français: ""vitesse"" - Français: ""","[1403, 29894, 325, 3516, 13901]",vitesse,"[31859, 236]",速,vitesse
+Français: ""vitesse"" - Français: ""","[29894, 325, 13901, 3516, 1403]",vitesse,"[31859, 236]",速,vitesse
 "Français: ""enfant"" - Français: ""enfant""
 Français: ""son"" - Français: ""son""
 Français: ""bande"" - Français: ""bande""
 Français: ""histoire"" - Français: ""histoire""
-Français: ""ressort"" - Français: ""","[690, 337, 1253, 364, 29878, 18475, 620, 276]",ressort,"[31031, 233]",春,ressort
+Français: ""ressort"" - Français: ""","[18475, 690, 29878, 276, 364, 337, 620, 1253]",ressort,"[31031, 233]",春,ressort
 "Français: ""défaite"" - Français: ""défaite""
 Français: ""été"" - Français: ""été""
 Français: ""riz"" - Français: ""riz""
 Français: ""enfant"" - Français: ""enfant""
-Français: ""carré"" - Français: ""","[1113, 1559, 4287, 5777, 29883, 274]",carré,"[30525, 233]",方,carré
+Français: ""carré"" - Français: ""","[274, 5777, 1113, 29883, 1559, 4287]",carré,"[30525, 233]",方,carré
 "Français: ""roche"" - Français: ""roche""
 Français: ""est"" - Français: ""est""
 Français: ""ligne"" - Français: ""ligne""
 Français: ""deux"" - Français: ""deux""
-Français: ""étoile"" - Français: ""","[2852, 1893, 904, 29948]",étoile,"[30900, 233]",星,étoile
+Français: ""étoile"" - Français: ""","[1893, 2852, 29948, 904]",étoile,"[30900, 233]",星,étoile
 "Français: ""bande"" - Français: ""bande""
 Français: ""océan"" - Français: ""océan""
 Français: ""un"" - Français: ""un""
 Français: ""montagne"" - Français: ""montagne""
-Français: ""gare"" - Français: ""","[29887, 5397, 24816, 7171, 330, 3249, 10364]",gare,"[31433, 234]",站,gare
+Français: ""gare"" - Français: ""","[330, 7171, 24816, 3249, 10364, 29887, 5397]",gare,"[31433, 234]",站,gare
 "Français: ""sol"" - Français: ""sol""
 Français: ""rouge"" - Français: ""rouge""
 Français: ""lumière"" - Français: ""lumière""
 Français: ""discours"" - Français: ""discours""
-Français: ""rue"" - Français: ""","[16014, 5796, 364, 29878, 582]",rue,"[30813, 235]",街,rue
+Français: ""rue"" - Français: ""","[5796, 29878, 364, 582, 16014]",rue,"[30813, 235]",街,rue
 "Français: ""partie"" - Français: ""partie""
 Français: ""cheval"" - Français: ""cheval""
 Français: ""rue"" - Français: ""rue""
 Français: ""talent"" - Français: ""talent""
-Français: ""bande"" - Français: ""","[3719, 4980, 29890, 289, 9892, 2571, 2291, 9922, 27628]",bande,"[31217, 233]",条,bande
+Français: ""bande"" - Français: ""","[27628, 4980, 2571, 2291, 9892, 3719, 289, 29890, 9922]",bande,"[31217, 233]",条,bande
 "Français: ""sept"" - Français: ""sept""
 Français: ""site"" - Français: ""site""
 Français: ""filet"" - Français: ""filet""
 Français: ""océan"" - Français: ""océan""
-Français: ""structure"" - Français: ""","[303, 380, 851, 10582, 6220, 710, 23905, 2281, 29879, 4984, 3829, 269]",structure,"[31901, 233]",构,structure
+Français: ""structure"" - Français: ""","[851, 10582, 3829, 23905, 269, 29879, 303, 380, 4984, 6220, 2281, 710]",structure,"[31901, 233]",构,structure
 "Français: ""pouvoir"" - Français: ""pouvoir""
 Français: ""sable"" - Français: ""sable""
 Français: ""rouge"" - Français: ""rouge""
 Français: ""vallée"" - Français: ""vallée""
-Français: ""été"" - Français: ""","[1893, 2852, 904, 4370, 29948, 7342]",été,"[31241, 232]",夏,été
+Français: ""été"" - Français: ""","[1893, 2852, 7342, 29948, 4370, 904]",été,"[31241, 232]",夏,été
 "Français: ""étang"" - Français: ""étang""
 Français: ""chanson"" - Français: ""chanson""
 Français: ""bureau"" - Français: ""bureau""
 Français: ""dix"" - Français: ""dix""
-Français: ""soleil"" - Français: ""","[578, 577, 2929, 29879, 2170, 14419, 899, 269]",soleil,"[31430, 236]",阳,soleil
+Français: ""soleil"" - Français: ""","[578, 14419, 577, 269, 899, 2929, 29879, 2170]",soleil,"[31430, 236]",阳,soleil
 "Français: ""montagne"" - Français: ""montagne""
 Français: ""machine"" - Français: ""machine""
 Français: ""roche"" - Français: ""roche""
 Français: ""cinq"" - Français: ""cinq""
-Français: ""queue"" - Français: ""","[3855, 712, 9990, 439, 339, 802, 29939, 9521]",queue,"[31631, 232]",尾,queue
+Français: ""queue"" - Français: ""","[439, 29939, 712, 9990, 9521, 339, 3855, 802]",queue,"[31631, 232]",尾,queue
 "Français: ""mille"" - Français: ""mille""
 Français: ""jour"" - Français: ""jour""
 Français: ""cravate"" - Français: ""cravate""
 Français: ""école"" - Français: ""école""
-Français: ""talent"" - Français: ""","[5969, 941, 29873, 17694, 11062, 24242, 20411, 260]",talent,"[31979, 233]",才,talent
+Français: ""talent"" - Français: ""","[17694, 5969, 941, 11062, 29873, 260, 20411, 24242]",talent,"[31979, 233]",才,talent
 "Français: ""sable"" - Français: ""sable""
 Français: ""version"" - Français: ""version""
 Français: ""bois"" - Français: ""bois""
 Français: ""défaite"" - Français: ""défaite""
-Français: ""thé"" - Français: ""","[386, 13219, 266, 29873, 260]",thé,"[31954, 235]",茶,thé
+Français: ""thé"" - Français: ""","[386, 266, 29873, 260, 13219]",thé,"[31954, 235]",茶,thé
 "Français: ""sept"" - Français: ""sept""
 Français: ""étang"" - Français: ""étang""
 Français: ""milieu"" - Français: ""milieu""
 Français: ""mère"" - Français: ""mère""
-Français: ""dix"" - Français: ""","[23386, 6051, 29881, 652, 270]",dix,"[30802, 232]",十,dix
+Français: ""dix"" - Français: ""","[23386, 652, 29881, 6051, 270]",dix,"[30802, 232]",十,dix
 "Français: ""tentative"" - Français: ""tentative""
 Français: ""riz"" - Français: ""riz""
 Français: ""gauche"" - Français: ""gauche""
 Français: ""filet"" - Français: ""filet""
-Français: ""mille"" - Français: ""","[2316, 19958, 2460, 3533, 23853, 29885, 3737, 286]",mille,"[31159, 232]",千,mille
+Français: ""mille"" - Français: ""","[23853, 286, 3533, 19958, 3737, 29885, 2460, 2316]",mille,"[31159, 232]",千,mille
 "Français: ""temps"" - Français: ""temps""
 Français: ""mot"" - Français: ""mot""
 Français: ""province"" - Français: ""province""
 Français: ""quatre"" - Français: ""quatre""
-Français: ""trois"" - Français: ""","[3147, 509, 534, 7732, 29873, 260]",trois,"[30457, 231]",三,trois
+Français: ""trois"" - Français: ""","[3147, 534, 7732, 29873, 260, 509]",trois,"[30457, 231]",三,trois
 "Français: ""soleil"" - Français: ""soleil""
 Français: ""nuage"" - Français: ""nuage""
 Français: ""océan"" - Français: ""océan""
 Français: ""retour"" - Français: ""retour""
-Français: ""cravate"" - Français: ""","[2181, 7283, 12220, 29883, 26844, 274]",cravate,"[31320, 234]",结,cravate
+Français: ""cravate"" - Français: ""","[7283, 274, 12220, 2181, 29883, 26844]",cravate,"[31320, 234]",结,cravate
 "Français: ""chanson"" - Français: ""chanson""
 Français: ""talent"" - Français: ""talent""
 Français: ""tête"" - Français: ""tête""
 Français: ""quatre"" - Français: ""quatre""
-Français: ""temps"" - Français: ""","[734, 371, 5694, 8714, 1350, 27761, 1356, 7382, 29873, 260]",temps,"[30594, 233]",时,temps
+Français: ""temps"" - Français: ""","[1350, 1356, 371, 734, 8714, 27761, 29873, 5694, 260, 7382]",temps,"[30594, 233]",时,temps
 "Français: ""thé"" - Français: ""thé""
 Français: ""mot"" - Français: ""mot""
 Français: ""pont"" - Français: ""pont""
 Français: ""mère"" - Français: ""mère""
-Français: ""tour"" - Français: ""","[11943, 517, 6282, 304, 29873, 260]",tour,"[31831, 232]",塔,tour
+Français: ""tour"" - Français: ""","[304, 6282, 11943, 517, 29873, 260]",tour,"[31831, 232]",塔,tour
 "Français: ""étoile"" - Français: ""étoile""
 Français: ""sol"" - Français: ""sol""
 Français: ""couleur"" - Français: ""couleur""
 Français: ""rue"" - Français: ""rue""
-Français: ""tribu"" - Français: ""","[3367, 509, 3626, 534, 9434, 29873, 260]",tribu,"[30999, 233]",族,tribu
+Français: ""tribu"" - Français: ""","[3367, 534, 9434, 3626, 29873, 260, 509]",tribu,"[30999, 233]",族,tribu
 "Français: ""visage"" - Français: ""visage""
 Français: ""son"" - Français: ""son""
 Français: ""montagne"" - Français: ""montagne""
 Français: ""cravate"" - Français: ""cravate""
-Français: ""deux"" - Français: ""","[311, 29881, 316, 4239, 270]",deux,"[30685, 231]",二,deux
+Français: ""deux"" - Français: ""","[311, 29881, 4239, 270, 316]",deux,"[30685, 231]",二,deux
 "Français: ""roche"" - Français: ""roche""
 Français: ""carré"" - Français: ""carré""
 Français: ""école"" - Français: ""école""
 Français: ""tentative"" - Français: ""tentative""
-Français: ""vallée"" - Français: ""","[29894, 791, 1564, 325, 2947, 659, 22044]",vallée,"[31112, 235]",谷,vallée
+Français: ""vallée"" - Français: ""","[791, 659, 29894, 1564, 2947, 325, 22044]",vallée,"[31112, 235]",谷,vallée
 "Français: ""retour"" - Français: ""retour""
 Français: ""genre"" - Français: ""genre""
 Français: ""trois"" - Français: ""trois""
 Français: ""sol"" - Français: ""sol""
-Français: ""version"" - Français: ""","[29894, 874, 369, 1224, 325, 2453, 1873, 345, 3259, 1147]",version,"[30845, 234]",版,version
+Français: ""version"" - Français: ""","[3259, 874, 1147, 2453, 29894, 1224, 325, 369, 345, 1873]",version,"[30845, 234]",版,version
 "Français: ""soleil"" - Français: ""soleil""
 Français: ""fleur"" - Français: ""fleur""
 Français: ""filet"" - Français: ""filet""
 Français: ""défaite"" - Français: ""défaite""
-Français: ""village"" - Français: ""","[1403, 11928, 29894, 21031, 5720, 325, 3516, 28765, 17191, 4213]",village,"[30402, 233]",村,village
+Français: ""village"" - Français: ""","[5720, 17191, 4213, 29894, 325, 3516, 1403, 21031, 11928, 28765]",village,"[30402, 233]",村,village
 "Français: ""siège"" - Français: ""siège""
 Français: ""hausse"" - Français: ""hausse""
 Français: ""porte"" - Français: ""porte""
 Français: ""dix"" - Français: ""dix""
-Français: ""vertu"" - Français: ""","[345, 29894, 369, 325, 1765, 2453, 4837, 1147]",vertu,"[31169, 232]",德,vertu
+Français: ""vertu"" - Français: ""","[1147, 2453, 29894, 369, 1765, 325, 345, 4837]",vertu,"[31169, 232]",德,vertu
 "Français: ""visage"" - Français: ""visage""
 Français: ""exemple"" - Français: ""exemple""
 Français: ""gauche"" - Français: ""gauche""
 Français: ""machine"" - Français: ""machine""
-Français: ""onde"" - Français: ""","[16504, 373, 13469, 288, 29877, 265, 898]",onde,"[31529, 233]",波,onde
+Français: ""onde"" - Français: ""","[898, 373, 29877, 288, 13469, 16504, 265]",onde,"[31529, 233]",波,onde
 "Français: ""est"" - Français: ""est""
 Français: ""onde"" - Français: ""onde""
 Français: ""rouge"" - Français: ""rouge""
 Français: ""version"" - Français: ""version""
-Français: ""bois"" - Français: ""","[1045, 833, 23734, 29890, 289]",bois,"[30710, 233]",木,bois
+Français: ""bois"" - Français: ""","[23734, 1045, 289, 29890, 833]",bois,"[30710, 233]",木,bois
 "Français: ""danse"" - Français: ""danse""
 Français: ""onde"" - Français: ""onde""
 Français: ""discours"" - Français: ""discours""
 Français: ""été"" - Français: ""été""
-Français: ""mot"" - Français: ""","[4346, 14817, 29885, 3184, 2730, 286]",mot,"[30578, 232]",字,mot
+Français: ""mot"" - Français: ""","[4346, 3184, 286, 2730, 14817, 29885]",mot,"[30578, 232]",字,mot
