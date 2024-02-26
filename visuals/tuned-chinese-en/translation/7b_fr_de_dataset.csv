@@ -3,217 +3,217 @@ prompt,out_token_id,out_token_str,latent_token_id,latent_token_str,in_token_str
 Français: ""huit"" - Deutsch: ""acht""
 Français: ""hausse"" - Deutsch: ""Anstieg""
 Français: ""grotte"" - Deutsch: ""Höhle""
-Français: ""nuage"" - Deutsch: ""","[11902, 14962, 29956, 399]",Wolke,"[9570, 15126, 1067, 9274, 274, 17184, 29883, 695, 23642]",cloud,nuage
+Français: ""nuage"" - Deutsch: ""","[14962, 29956, 399, 11902]",Wolke,"[23642, 1067, 9570, 274, 695, 29883, 9274, 15126, 17184]",cloud,nuage
 "Français: ""sud"" - Deutsch: ""Süden""
 Français: ""cinq"" - Deutsch: ""fünf""
 Français: ""cravate"" - Deutsch: ""Krawatte""
 Français: ""mille"" - Deutsch: ""tausend""
-Français: ""sac"" - Deutsch: ""","[323, 23793, 10523, 29911]",Tasche,"[289, 23156, 2291, 19548, 9922, 29890]",bag,sac
+Français: ""sac"" - Deutsch: ""","[23793, 10523, 323, 29911]",Tasche,"[29890, 2291, 9922, 23156, 19548, 289]",bag,sac
 "Français: ""champ"" - Deutsch: ""Feld""
 Français: ""thé"" - Deutsch: ""Tee""
 Français: ""tentative"" - Deutsch: ""Versuch""
 Français: ""vitesse"" - Deutsch: ""Geschwindigkeit""
-Français: ""bouche"" - Deutsch: ""","[341, 29924, 8229, 13564]",Mund,"[4346, 286, 21026, 2730, 13394, 29885, 29442]",mouth,bouche
+Français: ""bouche"" - Deutsch: ""","[8229, 29924, 13564, 341]",Mund,"[29442, 286, 13394, 2730, 29885, 4346, 21026]",mouth,bouche
 "Français: ""temps"" - Deutsch: ""Zeit""
 Français: ""cœur"" - Deutsch: ""Herz""
 Français: ""un"" - Deutsch: ""eins""
 Français: ""vitesse"" - Deutsch: ""Geschwindigkeit""
-Français: ""sol"" - Deutsch: ""","[8431, 1952, 19929, 350, 29933]",Boden,"[577, 29879, 269, 578, 22473]",soil,sol
+Français: ""sol"" - Deutsch: ""","[1952, 350, 29933, 8431, 19929]",Boden,"[577, 22473, 269, 578, 29879]",soil,sol
 "Français: ""section"" - Deutsch: ""Abschnitt""
 Français: ""huit"" - Deutsch: ""acht""
 Français: ""étoile"" - Deutsch: ""Stern""
 Français: ""ligne"" - Deutsch: ""Linie""
-Français: ""montagne"" - Deutsch: ""","[1522, 2292, 3629, 17104, 350, 29933, 9827]",Berg,"[4346, 286, 5766, 2730, 16476, 29885, 14378, 29442]",mountain,montagne
+Français: ""montagne"" - Deutsch: ""","[1522, 3629, 2292, 29933, 350, 9827, 17104]",Berg,"[29442, 16476, 286, 14378, 2730, 5766, 29885, 4346]",mountain,montagne
 "Français: ""paire"" - Deutsch: ""Paar""
 Français: ""tête"" - Deutsch: ""Kopf""
 Français: ""nuage"" - Deutsch: ""Wolke""
 Français: ""sol"" - Deutsch: ""Boden""
-Français: ""cœur"" - Deutsch: ""","[379, 2439, 29950, 3868, 940, 12905, 18650]",Herz,"[354, 298, 5192, 540, 8293, 29882, 23057]",heart,cœur
+Français: ""cœur"" - Deutsch: ""","[29950, 3868, 379, 18650, 12905, 940, 2439]",Herz,"[5192, 23057, 29882, 540, 354, 8293, 298]",heart,cœur
 "Français: ""gauche"" - Deutsch: ""links""
 Français: ""machine"" - Deutsch: ""Maschine""
 Français: ""mot"" - Deutsch: ""Wort""
 Français: ""pied"" - Deutsch: ""Fuß""
-Français: ""jour"" - Deutsch: ""","[323, 10522, 8176, 10523, 29911]",Tag,"[2462, 3250, 29881, 1146, 1388, 270]",day,jour
+Français: ""jour"" - Deutsch: ""","[8176, 10522, 10523, 323, 29911]",Tag,"[2462, 1146, 3250, 1388, 270, 29881]",day,jour
 "Français: ""tribu"" - Deutsch: ""Stamm""
 Français: ""bourse"" - Deutsch: ""Börse""
 Français: ""jour"" - Deutsch: ""Tag""
 Français: ""grille"" - Deutsch: ""Gitter""
-Français: ""étoile"" - Deutsch: ""","[23413, 29903, 855, 28588, 2443, 317, 7789, 624]",Stern,"[29879, 269, 380, 5810, 303, 8508, 9523, 5173]",star,étoile
+Français: ""étoile"" - Deutsch: ""","[855, 624, 317, 28588, 23413, 2443, 29903, 7789]",Stern,"[303, 8508, 5810, 9523, 269, 5173, 29879, 380]",star,étoile
 "Français: ""ménage"" - Deutsch: ""Haushalt""
 Français: ""école"" - Deutsch: ""Schule""
 Français: ""défaite"" - Deutsch: ""Niederlage""
 Français: ""quatre"" - Deutsch: ""vier""
-Français: ""ressort"" - Deutsch: ""","[383, 7351, 29943, 17972, 8263, 5169]",Feder,"[7689, 4278, 29879, 269, 1028, 6709, 15099, 805]",spring,ressort
+Français: ""ressort"" - Deutsch: ""","[5169, 383, 17972, 8263, 29943, 7351]",Feder,"[805, 6709, 4278, 7689, 1028, 15099, 269, 29879]",spring,ressort
 "Français: ""neige"" - Deutsch: ""Schnee""
 Français: ""un"" - Deutsch: ""eins""
 Français: ""jour"" - Deutsch: ""Tag""
 Français: ""est"" - Deutsch: ""Osten""
-Français: ""lune"" - Deutsch: ""","[341, 29924, 12125, 7185, 4546, 2598, 22638]",Mond,"[4346, 286, 18786, 2730, 29885]",moon,lune
+Français: ""lune"" - Deutsch: ""","[2598, 4546, 7185, 12125, 22638, 29924, 341]",Mond,"[18786, 286, 2730, 29885, 4346]",moon,lune
 "Français: ""vallée"" - Deutsch: ""Tal""
 Français: ""œil"" - Deutsch: ""Auge""
 Français: ""lac"" - Deutsch: ""See""
 Français: ""bouche"" - Deutsch: ""Mund""
-Français: ""bois"" - Deutsch: ""","[379, 29950, 4168, 8335, 26211, 19984]",Holz,"[8112, 827, 281, 8879, 29893, 6115]",wood,bois
+Français: ""bois"" - Deutsch: ""","[29950, 379, 26211, 19984, 4168, 8335]",Holz,"[281, 827, 6115, 8879, 8112, 29893]",wood,bois
 "Français: ""lune"" - Deutsch: ""Mond""
 Français: ""soleil"" - Deutsch: ""Sonne""
 Français: ""pouvoir"" - Deutsch: ""Macht""
 Français: ""pont"" - Deutsch: ""Brücke""
-Français: ""village"" - Deutsch: ""","[360, 17207, 29928, 9579, 6132, 1938]",Dorf,"[28765, 29894, 21031, 5720, 11928, 325, 3516, 1403, 17191, 4213]",village,village
+Français: ""village"" - Deutsch: ""","[1938, 29928, 360, 9579, 6132, 17207]",Dorf,"[29894, 28765, 11928, 5720, 1403, 17191, 21031, 325, 4213, 3516]",village,village
 "Français: ""riz"" - Deutsch: ""Reis""
 Français: ""milieu"" - Deutsch: ""Mitte""
 Français: ""porte"" - Deutsch: ""Tür""
 Français: ""pont"" - Deutsch: ""Brücke""
-Français: ""forêt"" - Deutsch: ""","[5260, 17721, 22552, 29956, 399]",Wald,"[1701, 363, 26839, 1181, 29888, 1454, 1079, 285, 13569]",forest,forêt
+Français: ""forêt"" - Deutsch: ""","[5260, 17721, 22552, 399, 29956]",Wald,"[29888, 285, 26839, 1181, 363, 13569, 1454, 1701, 1079]",forest,forêt
 "Français: ""enfant"" - Deutsch: ""Kind""
 Français: ""loi"" - Deutsch: ""Gesetz""
 Français: ""sol"" - Deutsch: ""Boden""
 Français: ""point"" - Deutsch: ""Punkt""
-Français: ""grille"" - Deutsch: ""","[26074, 29954, 28712, 4406, 402, 11786]",Gitter,"[29887, 7720, 6856, 629, 867, 330]",grid,grille
+Français: ""grille"" - Deutsch: ""","[11786, 4406, 402, 28712, 29954, 26074]",Gitter,"[6856, 629, 867, 29887, 330, 7720]",grid,grille
 "Français: ""bois"" - Deutsch: ""Holz""
 Français: ""couleur"" - Deutsch: ""Farbe""
 Français: ""cœur"" - Deutsch: ""Herz""
 Français: ""école"" - Deutsch: ""Schule""
-Français: ""chanson"" - Deutsch: ""","[29382, 23410, 2718, 7326, 365, 29931]",Lied,"[577, 29879, 269, 578, 21453, 1487, 1100, 4823]",song,chanson
+Français: ""chanson"" - Deutsch: ""","[23410, 2718, 29382, 365, 7326, 29931]",Lied,"[21453, 577, 4823, 1100, 1487, 269, 578, 29879]",song,chanson
 "Français: ""rouge"" - Deutsch: ""rot""
 Français: ""bande"" - Deutsch: ""Streifen""
 Français: ""jour"" - Deutsch: ""Tag""
 Français: ""ville"" - Deutsch: ""Stadt""
-Français: ""étang"" - Deutsch: ""","[323, 7141, 1920, 29911]",Teich,"[1129, 772, 282, 12509, 1112, 2818, 29886]",pond,étang
+Français: ""étang"" - Deutsch: ""","[1920, 323, 29911, 7141]",Teich,"[282, 1112, 1129, 12509, 2818, 772, 29886]",pond,étang
 "Français: ""supprimer"" - Deutsch: ""löschen""
 Français: ""nord"" - Deutsch: ""Norden""
 Français: ""mille"" - Deutsch: ""tausend""
 Français: ""site"" - Deutsch: ""Standort""
-Français: ""loi"" - Deutsch: ""","[7999, 29954, 1879, 6328, 402]",Gesetz,"[301, 10653, 4307, 433, 29880, 425]",law,loi
+Français: ""loi"" - Deutsch: ""","[7999, 402, 29954, 1879, 6328]",Gesetz,"[29880, 10653, 301, 4307, 425, 433]",law,loi
 "Français: ""ville"" - Deutsch: ""Stadt""
 Français: ""trois"" - Deutsch: ""drei""
 Français: ""cheval"" - Deutsch: ""Pferd""
 Français: ""sept"" - Deutsch: ""sieben""
-Français: ""onde"" - Deutsch: ""","[28862, 1334, 10458, 5674, 4806, 11284, 29956, 399]",Welle,"[2766, 281, 27766, 11324, 29893, 10742]",wave,onde
+Français: ""onde"" - Deutsch: ""","[1334, 10458, 29956, 5674, 11284, 28862, 399, 4806]",Welle,"[281, 2766, 10742, 11324, 27766, 29893]",wave,onde
 "Français: ""tour"" - Deutsch: ""Turm""
 Français: ""bande"" - Deutsch: ""Streifen""
 Français: ""tentative"" - Deutsch: ""Versuch""
 Français: ""machine"" - Deutsch: ""Maschine""
-Français: ""océan"" - Deutsch: ""","[29949, 438]",Ozean,"[12954, 29877, 288, 542, 23474, 25802]",ocean,océan
+Français: ""océan"" - Deutsch: ""","[438, 29949]",Ozean,"[542, 12954, 25802, 288, 29877, 23474]",ocean,océan
 "Français: ""enfant"" - Deutsch: ""Kind""
 Français: ""mille"" - Deutsch: ""tausend""
 Français: ""province"" - Deutsch: ""Provinz""
 Français: ""jour"" - Deutsch: ""Tag""
-Français: ""grotte"" - Deutsch: ""","[379, 29950, 11623]",Höhle,"[274, 18346, 24230, 29883, 5777, 1113]",cave,grotte
+Français: ""grotte"" - Deutsch: ""","[29950, 11623, 379]",Höhle,"[24230, 274, 29883, 1113, 5777, 18346]",cave,grotte
 "Français: ""hausse"" - Deutsch: ""Anstieg""
 Français: ""maison"" - Deutsch: ""Haus""
 Français: ""deux"" - Deutsch: ""zwei""
 Français: ""temps"" - Deutsch: ""Zeit""
-Français: ""mer"" - Deutsch: ""","[341, 29924, 2191, 6816]",Meer,"[29879, 269, 7205, 344, 409]",sea,mer
+Français: ""mer"" - Deutsch: ""","[6816, 29924, 341, 2191]",Meer,"[7205, 344, 409, 269, 29879]",sea,mer
 "Français: ""neige"" - Deutsch: ""Schnee""
 Français: ""grille"" - Deutsch: ""Gitter""
 Français: ""queue"" - Deutsch: ""Schwanz""
 Français: ""bureau"" - Deutsch: ""Büro""
-Français: ""lac"" - Deutsch: ""","[29903, 922, 13393, 317, 2823, 2008]",See,"[301, 19437, 24591, 433, 18170, 29880, 425]",lake,lac
+Français: ""lac"" - Deutsch: ""","[2008, 922, 317, 29903, 13393, 2823]",See,"[29880, 301, 18170, 425, 24591, 433, 19437]",lake,lac
 "Français: ""tour"" - Deutsch: ""Turm""
 Français: ""fleur"" - Deutsch: ""Blume""
 Français: ""est"" - Deutsch: ""Osten""
 Français: ""étang"" - Deutsch: ""Teich""
-Français: ""source"" - Deutsch: ""","[5462, 8654, 751, 29984, 2182, 660]",Quelle,"[577, 29879, 269, 578, 4993, 2752, 3669]",source,source
+Français: ""source"" - Deutsch: ""","[5462, 660, 8654, 29984, 2182, 751]",Quelle,"[4993, 577, 2752, 3669, 269, 578, 29879]",source,source
 "Français: ""milieu"" - Deutsch: ""Mitte""
 Français: ""mot"" - Deutsch: ""Wort""
 Français: ""plate-forme"" - Deutsch: ""Plattform""
 Français: ""sud"" - Deutsch: ""Süden""
-Français: ""point"" - Deutsch: ""","[12129, 349, 29925, 22723]",Punkt,"[1129, 772, 3149, 282, 11899, 1298, 29886]",point,point
+Français: ""point"" - Deutsch: ""","[29925, 349, 12129, 22723]",Punkt,"[29886, 1298, 3149, 1129, 772, 11899, 282]",point,point
 "Français: ""neuf"" - Deutsch: ""neun""
 Français: ""histoire"" - Deutsch: ""Geschichte""
 Français: ""étoile"" - Deutsch: ""Stern""
 Français: ""pont"" - Deutsch: ""Brücke""
-Français: ""gare"" - Deutsch: ""","[15174, 28701, 350, 29933, 6000, 15131]",Bahnhof,"[29879, 269, 380, 23436, 5073, 1002, 303, 19569, 6112, 9523, 5173]",station,gare
+Français: ""gare"" - Deutsch: ""","[6000, 15131, 350, 29933, 15174, 28701]",Bahnhof,"[303, 19569, 23436, 6112, 9523, 1002, 5073, 269, 5173, 29879, 380]",station,gare
 "Français: ""plate-forme"" - Deutsch: ""Plattform""
 Français: ""gauche"" - Deutsch: ""links""
 Français: ""nord"" - Deutsch: ""Norden""
 Français: ""milieu"" - Deutsch: ""Mitte""
-Français: ""riz"" - Deutsch: ""","[390, 29934, 1123, 830]",Reis,"[2200, 19408, 9597, 11674, 10107, 29878, 374, 364]",rice,riz
+Français: ""riz"" - Deutsch: ""","[390, 29934, 1123, 830]",Reis,"[2200, 374, 10107, 364, 29878, 11674, 19408, 9597]",rice,riz
 "Français: ""gauche"" - Deutsch: ""links""
 Français: ""neige"" - Deutsch: ""Schnee""
 Français: ""gare"" - Deutsch: ""Bahnhof""
 Français: ""partie"" - Deutsch: ""Teil""
-Français: ""ligne"" - Deutsch: ""","[4342, 23410, 2718, 11667, 365, 29931]",Linie,"[301, 1196, 619, 1220, 6276, 492, 1915, 29880]",line,ligne
+Français: ""ligne"" - Deutsch: ""","[11667, 23410, 2718, 4342, 365, 29931]",Linie,"[29880, 301, 1915, 1220, 492, 1196, 619, 6276]",line,ligne
 "Français: ""groupe"" - Deutsch: ""Gruppe""
 Français: ""un"" - Deutsch: ""eins""
 Français: ""lac"" - Deutsch: ""See""
 Français: ""milieu"" - Deutsch: ""Mitte""
-Français: ""fleur"" - Deutsch: ""","[3164, 10358, 350, 29933]",Blume,"[29888, 1731, 1652, 5685, 28149, 285, 1579, 4972]",flower,fleur
+Français: ""fleur"" - Deutsch: ""","[350, 29933, 10358, 3164]",Blume,"[29888, 285, 5685, 28149, 1652, 1579, 4972, 1731]",flower,fleur
 "Français: ""trois"" - Deutsch: ""drei""
 Français: ""carré"" - Deutsch: ""Quadrat""
 Français: ""groupe"" - Deutsch: ""Gruppe""
 Français: ""vertu"" - Deutsch: ""Tugend""
-Français: ""thé"" - Deutsch: ""","[323, 7141, 1920, 29911]",Tee,"[260, 29873, 371, 23429, 734]",tea,thé
+Français: ""thé"" - Deutsch: ""","[1920, 323, 29911, 7141]",Tee,"[29873, 734, 23429, 260, 371]",tea,thé
 "Français: ""lune"" - Deutsch: ""Mond""
 Français: ""grille"" - Deutsch: ""Gitter""
 Français: ""huit"" - Deutsch: ""acht""
 Français: ""paire"" - Deutsch: ""Paar""
-Français: ""pied"" - Deutsch: ""","[383, 29943, 11212, 11871]",Fuß,"[6661, 1701, 1181, 29888, 7953, 285, 3661, 5431]",foot,pied
+Français: ""pied"" - Deutsch: ""","[11871, 11212, 383, 29943]",Fuß,"[29888, 285, 1181, 6661, 5431, 1701, 3661, 7953]",foot,pied
 "Français: ""lune"" - Deutsch: ""Mond""
 Français: ""jour"" - Deutsch: ""Tag""
 Français: ""est"" - Deutsch: ""Osten""
 Français: ""quatre"" - Deutsch: ""vier""
-Français: ""porte"" - Deutsch: ""","[323, 25424, 29911]",Tür,"[1867, 29881, 17433, 3050, 437, 270]",door,porte
+Français: ""porte"" - Deutsch: ""","[25424, 323, 29911]",Tür,"[1867, 17433, 437, 3050, 270, 29881]",door,porte
 "Français: ""sac"" - Deutsch: ""Tasche""
 Français: ""sol"" - Deutsch: ""Boden""
 Français: ""vitesse"" - Deutsch: ""Geschwindigkeit""
 Français: ""sud"" - Deutsch: ""Süden""
-Français: ""neige"" - Deutsch: ""","[2522, 4421, 21129, 29903, 317, 1102, 4504]",Schnee,"[16586, 29879, 269, 15007, 5807]",snow,neige
+Français: ""neige"" - Deutsch: ""","[1102, 4421, 317, 21129, 2522, 29903, 4504]",Schnee,"[16586, 5807, 15007, 269, 29879]",snow,neige
 "Français: ""plate-forme"" - Deutsch: ""Plattform""
 Français: ""forêt"" - Deutsch: ""Wald""
 Français: ""été"" - Deutsch: ""Sommer""
 Français: ""vertu"" - Deutsch: ""Tugend""
-Français: ""cheval"" - Deutsch: ""","[349, 29925, 10022]",Pferd,"[1251, 10435, 5089, 2015, 298, 4029, 29882, 11231]",horse,cheval
+Français: ""cheval"" - Deutsch: ""","[29925, 10022, 349]",Pferd,"[11231, 10435, 1251, 4029, 2015, 29882, 5089, 298]",horse,cheval
 "Français: ""étang"" - Deutsch: ""Teich""
 Français: ""grille"" - Deutsch: ""Gitter""
 Français: ""neige"" - Deutsch: ""Schnee""
 Français: ""tête"" - Deutsch: ""Kopf""
-Français: ""un"" - Deutsch: ""","[321, 29872, 10096, 1011, 21084]",eins,"[373, 29877, 697, 288, 650, 265]",one,un
+Français: ""un"" - Deutsch: ""","[321, 29872, 10096, 21084, 1011]",eins,"[288, 373, 265, 29877, 697, 650]",one,un
 "Français: ""machine"" - Deutsch: ""Maschine""
 Français: ""tentative"" - Deutsch: ""Versuch""
 Français: ""exemple"" - Deutsch: ""Beispiel""
 Français: ""champ"" - Deutsch: ""Feld""
-Français: ""deux"" - Deutsch: ""","[503, 29920, 7659, 5263, 7325, 4753]",zwei,"[10184, 1023, 260, 3252, 7516, 29873]",two,deux
+Français: ""deux"" - Deutsch: ""","[4753, 5263, 7659, 29920, 503, 7325]",zwei,"[10184, 29873, 3252, 260, 7516, 1023]",two,deux
 "Français: ""huit"" - Deutsch: ""acht""
 Français: ""est"" - Deutsch: ""Osten""
 Français: ""défaite"" - Deutsch: ""Niederlage""
 Français: ""fleur"" - Deutsch: ""Blume""
-Français: ""trois"" - Deutsch: ""","[29881, 14724, 7707, 4192, 9697, 270]",drei,"[17536, 2211, 260, 266, 12455, 29873, 1468, 386]",three,trois
+Français: ""trois"" - Deutsch: ""","[14724, 9697, 7707, 29881, 270, 4192]",drei,"[386, 2211, 12455, 29873, 260, 17536, 266, 1468]",three,trois
 "Français: ""bande"" - Deutsch: ""Streifen""
 Français: ""thé"" - Deutsch: ""Tee""
 Français: ""porte"" - Deutsch: ""Tür""
 Français: ""grotte"" - Deutsch: ""Höhle""
-Français: ""quatre"" - Deutsch: ""","[25965, 7214, 29894, 8545, 6316, 325, 3516, 1403]",vier,"[1701, 3023, 1181, 29888, 17823, 285, 12584]",four,quatre
+Français: ""quatre"" - Deutsch: ""","[29894, 1403, 6316, 7214, 325, 8545, 25965, 3516]",vier,"[12584, 29888, 285, 1181, 17823, 3023, 1701]",four,quatre
 "Français: ""étoile"" - Deutsch: ""Stern""
 Français: ""montagne"" - Deutsch: ""Berg""
 Français: ""maison"" - Deutsch: ""Haus""
 Français: ""jour"" - Deutsch: ""Tag""
-Français: ""huit"" - Deutsch: ""","[29874, 3657, 263, 496, 1274, 5860, 562, 22019]",acht,"[321, 15761, 29872, 10096, 29319, 9475]",eight,huit
+Français: ""huit"" - Deutsch: ""","[29874, 496, 562, 263, 1274, 5860, 22019, 3657]",acht,"[321, 29872, 15761, 10096, 29319, 9475]",eight,huit
 "Français: ""grille"" - Deutsch: ""Gitter""
 Français: ""juge"" - Deutsch: ""Richter""
 Français: ""visage"" - Deutsch: ""Gesicht""
 Français: ""étang"" - Deutsch: ""Teich""
-Français: ""dix"" - Deutsch: ""","[503, 29920, 3777, 911]",zehn,"[260, 841, 29873, 3006, 371, 734]",ten,dix
+Français: ""dix"" - Deutsch: ""","[29920, 503, 911, 3777]",zehn,"[841, 3006, 29873, 734, 260, 371]",ten,dix
 "Français: ""groupe"" - Deutsch: ""Gruppe""
 Français: ""rouge"" - Deutsch: ""rot""
 Français: ""source"" - Deutsch: ""Quelle""
 Français: ""siège"" - Deutsch: ""Sitz""
-Français: ""tête"" - Deutsch: ""","[8224, 476, 29968, 27476]",Kopf,"[354, 298, 540, 2813, 29882, 2343]",head,tête
+Français: ""tête"" - Deutsch: ""","[29968, 27476, 8224, 476]",Kopf,"[2343, 29882, 540, 2813, 354, 298]",head,tête
 "Français: ""école"" - Deutsch: ""Schule""
 Français: ""sol"" - Deutsch: ""Boden""
 Français: ""hausse"" - Deutsch: ""Anstieg""
 Français: ""ménage"" - Deutsch: ""Haushalt""
-Français: ""bande"" - Deutsch: ""","[855, 29903, 624, 5015, 3767, 317, 11738]",Streifen,"[17820, 29879, 269, 380, 17010, 851, 303, 710, 10076]",strip,bande
+Français: ""bande"" - Deutsch: ""","[855, 624, 317, 3767, 11738, 29903, 5015]",Streifen,"[303, 710, 851, 17010, 10076, 269, 380, 29879, 17820]",strip,bande
 "Français: ""queue"" - Deutsch: ""Schwanz""
 Français: ""tentative"" - Deutsch: ""Versuch""
 Français: ""mille"" - Deutsch: ""tausend""
 Français: ""tribu"" - Deutsch: ""Stamm""
-Français: ""rue"" - Deutsch: ""","[855, 29903, 22667, 3767, 5015, 7357, 317, 624]",Straße,"[11952, 269, 29879, 380, 12243, 851, 29352, 303, 710, 13045]",street,rue
+Français: ""rue"" - Deutsch: ""","[855, 624, 317, 3767, 29903, 7357, 5015, 22667]",Straße,"[303, 11952, 29352, 710, 851, 12243, 269, 13045, 29879, 380]",street,rue
 "Français: ""siège"" - Deutsch: ""Sitz""
 Français: ""trois"" - Deutsch: ""drei""
 Français: ""cheval"" - Deutsch: ""Pferd""
 Français: ""bourse"" - Deutsch: ""Börse""
-Français: ""partie"" - Deutsch: ""","[323, 7141, 1920, 7770, 29911]",Teil,"[1595, 760, 610, 282, 3300, 862, 3274, 29886]",part,partie
+Français: ""partie"" - Deutsch: ""","[1920, 323, 7770, 29911, 7141]",Teil,"[610, 3274, 3300, 862, 760, 1595, 29886, 282]",part,partie
 "Français: ""riz"" - Deutsch: ""Reis""
 Français: ""mère"" - Deutsch: ""Mutter""
 Français: ""six"" - Deutsch: ""sechs""
@@ -223,244 +223,244 @@ Français: ""œil"" - Deutsch: ""","[8407, 22333, 319, 29909]",Auge,"[321, 29872
 Français: ""machine"" - Deutsch: ""Maschine""
 Français: ""ville"" - Deutsch: ""Stadt""
 Français: ""histoire"" - Deutsch: ""Geschichte""
-Français: ""champ"" - Deutsch: ""","[383, 29943, 11961, 8263, 5169, 21113]",Feld,"[29607, 2671, 29888, 1746, 7241, 285, 5713]",field,champ
+Français: ""champ"" - Deutsch: ""","[11961, 21113, 5169, 383, 8263, 29943]",Feld,"[7241, 1746, 285, 29888, 29607, 2671, 5713]",field,champ
 "Français: ""nuage"" - Deutsch: ""Wolke""
 Français: ""œil"" - Deutsch: ""Auge""
 Français: ""province"" - Deutsch: ""Provinz""
 Français: ""source"" - Deutsch: ""Quelle""
-Français: ""site"" - Deutsch: ""","[855, 29903, 11042, 6679, 7813, 7434, 317, 624]",Standort,"[7845, 1039, 29879, 269, 3268, 1354, 2746]",site,site
+Français: ""site"" - Deutsch: ""","[6679, 7813, 855, 624, 317, 7434, 29903, 11042]",Standort,"[1354, 2746, 1039, 269, 7845, 3268, 29879]",site,site
 "Français: ""montagne"" - Deutsch: ""Berg""
 Français: ""jour"" - Deutsch: ""Tag""
 Français: ""quatre"" - Deutsch: ""vier""
 Français: ""rouge"" - Deutsch: ""rot""
-Français: ""mot"" - Deutsch: ""","[19662, 13824, 14962, 29956, 399]",Wort,"[827, 281, 1742, 6365, 8879, 13762, 29893, 1734]",word,mot
+Français: ""mot"" - Deutsch: ""","[14962, 13824, 19662, 399, 29956]",Wort,"[281, 827, 13762, 8879, 1734, 1742, 29893, 6365]",word,mot
 "Français: ""fleur"" - Deutsch: ""Blume""
 Français: ""plate-forme"" - Deutsch: ""Plattform""
 Français: ""cheval"" - Deutsch: ""Pferd""
 Français: ""chanson"" - Deutsch: ""Lied""
-Français: ""paire"" - Deutsch: ""","[11868, 349, 29925, 2621]",Paar,"[18784, 3300, 282, 3274, 5101, 29886]",pair,paire
+Français: ""paire"" - Deutsch: ""","[29925, 2621, 349, 11868]",Paar,"[18784, 3274, 5101, 3300, 29886, 282]",pair,paire
 "Français: ""jour"" - Deutsch: ""Tag""
 Français: ""sol"" - Deutsch: ""Boden""
 Français: ""étang"" - Deutsch: ""Teich""
 Français: ""champ"" - Deutsch: ""Feld""
-Français: ""siège"" - Deutsch: ""","[21988, 23628, 29903, 6101, 317, 25598]",Sitz,"[29879, 269, 7205, 344, 409, 12949]",seat,siège
+Français: ""siège"" - Deutsch: ""","[23628, 317, 21988, 25598, 29903, 6101]",Sitz,"[7205, 344, 409, 269, 29879, 12949]",seat,siège
 "Français: ""neige"" - Deutsch: ""Schnee""
 Français: ""tour"" - Deutsch: ""Turm""
 Français: ""bande"" - Deutsch: ""Streifen""
 Français: ""vertu"" - Deutsch: ""Tugend""
-Français: ""lumière"" - Deutsch: ""","[10413, 23410, 2718, 365, 29931]",Licht,"[301, 14172, 4366, 3578, 619, 492, 3473, 29880]",light,lumière
+Français: ""lumière"" - Deutsch: ""","[10413, 23410, 2718, 365, 29931]",Licht,"[29880, 301, 3578, 4366, 492, 14172, 619, 3473]",light,lumière
 "Français: ""pied"" - Deutsch: ""Fuß""
 Français: ""un"" - Deutsch: ""eins""
 Français: ""vitesse"" - Deutsch: ""Geschwindigkeit""
 Français: ""nuage"" - Deutsch: ""Wolke""
-Français: ""nord"" - Deutsch: ""","[405, 4186, 5245, 3782, 23899, 1939, 29940]",Norden,"[694, 1217, 302, 6641, 15459, 29876, 3643]",north,nord
+Français: ""nord"" - Deutsch: ""","[1939, 4186, 5245, 405, 29940, 3782, 23899]",Norden,"[1217, 694, 3643, 6641, 302, 29876, 15459]",north,nord
 "Français: ""exemple"" - Deutsch: ""Beispiel""
 Français: ""mer"" - Deutsch: ""Meer""
 Français: ""pouvoir"" - Deutsch: ""Macht""
 Français: ""queue"" - Deutsch: ""Schwanz""
-Français: ""machine"" - Deutsch: ""","[341, 29924, 21870, 8622, 3219]",Maschine,"[4933, 286, 611, 5825, 23523, 7672, 29885, 655, 8628]",machine,machine
+Français: ""machine"" - Deutsch: ""","[21870, 8622, 3219, 29924, 341]",Maschine,"[5825, 286, 655, 4933, 8628, 7672, 611, 29885, 23523]",machine,machine
 "Français: ""vallée"" - Deutsch: ""Tal""
 Français: ""thé"" - Deutsch: ""Tee""
 Français: ""cinq"" - Deutsch: ""fünf""
 Français: ""œil"" - Deutsch: ""Auge""
-Français: ""temps"" - Deutsch: ""","[24625, 5347, 3091, 29999, 796]",Zeit,"[5335, 260, 931, 2034, 29873, 9346, 19538, 2230]",time,temps
+Français: ""temps"" - Deutsch: ""","[24625, 29999, 3091, 5347, 796]",Zeit,"[2230, 29873, 260, 5335, 2034, 19538, 931, 9346]",time,temps
 "Français: ""visage"" - Deutsch: ""Gesicht""
 Français: ""six"" - Deutsch: ""sechs""
 Français: ""bande"" - Deutsch: ""Streifen""
 Français: ""discours"" - Deutsch: ""Rede""
-Français: ""province"" - Deutsch: ""","[4040, 9133, 349, 1019, 29925, 1184, 23114, 1588, 11127]",Provinz,"[282, 1326, 12291, 410, 771, 558, 544, 8482, 16123, 29886]",province,province
+Français: ""province"" - Deutsch: ""","[29925, 4040, 11127, 349, 23114, 1019, 1588, 9133, 1184]",Provinz,"[8482, 282, 558, 410, 771, 12291, 1326, 16123, 29886, 544]",province,province
 "Français: ""trois"" - Deutsch: ""drei""
 Français: ""grotte"" - Deutsch: ""Höhle""
 Français: ""bande"" - Deutsch: ""Streifen""
 Français: ""pouvoir"" - Deutsch: ""Macht""
-Français: ""bourse"" - Deutsch: ""","[29933, 350]",Börse,"[735, 321, 29872, 6543, 14523, 5566, 429]",exchange,bourse
+Français: ""bourse"" - Deutsch: ""","[350, 29933]",Börse,"[321, 429, 735, 29872, 14523, 5566, 6543]",exchange,bourse
 "Français: ""hausse"" - Deutsch: ""Anstieg""
 Français: ""genre"" - Deutsch: ""Art""
 Français: ""bureau"" - Deutsch: ""Büro""
 Français: ""nuage"" - Deutsch: ""Wolke""
-Français: ""milieu"" - Deutsch: ""","[341, 29924, 23115, 24532, 5493, 4573]",Mitte,"[6563, 2460, 286, 3737, 7145, 7256, 29885, 17662]",middle,milieu
+Français: ""milieu"" - Deutsch: ""","[5493, 24532, 29924, 4573, 341, 23115]",Mitte,"[7256, 286, 17662, 29885, 7145, 2460, 6563, 3737]",middle,milieu
 "Français: ""paire"" - Deutsch: ""Paar""
 Français: ""vitesse"" - Deutsch: ""Geschwindigkeit""
 Français: ""trois"" - Deutsch: ""drei""
 Français: ""quatre"" - Deutsch: ""vier""
-Français: ""couleur"" - Deutsch: ""","[383, 29943, 7748, 8413, 14206]",Farbe,"[1302, 784, 1054, 2927, 274, 10965, 2780, 29883, 1111]",color,couleur
+Français: ""couleur"" - Deutsch: ""","[7748, 383, 14206, 29943, 8413]",Farbe,"[2780, 2927, 274, 784, 1111, 29883, 1054, 1302, 10965]",color,couleur
 "Français: ""montagne"" - Deutsch: ""Berg""
 Français: ""lune"" - Deutsch: ""Mond""
 Français: ""mot"" - Deutsch: ""Wort""
 Français: ""deux"" - Deutsch: ""zwei""
-Français: ""genre"" - Deutsch: ""","[1433, 826, 319, 9986, 3012, 29909]",Art,"[19015, 8506, 413, 9089, 1984, 14380, 2924, 29895]",kind,genre
+Français: ""genre"" - Deutsch: ""","[1433, 826, 9986, 3012, 319, 29909]",Art,"[1984, 29895, 8506, 9089, 19015, 2924, 413, 14380]",kind,genre
 "Français: ""histoire"" - Deutsch: ""Geschichte""
 Français: ""nuage"" - Deutsch: ""Wolke""
 Français: ""porte"" - Deutsch: ""Tür""
 Français: ""machine"" - Deutsch: ""Maschine""
-Français: ""juge"" - Deutsch: ""","[390, 29934, 25627, 13675, 21710, 4385]",Richter,"[17675, 16833, 432, 4900, 6577, 3623, 29926]",judge,juge
+Français: ""juge"" - Deutsch: ""","[21710, 390, 29934, 4385, 25627, 13675]",Richter,"[29926, 4900, 6577, 432, 3623, 17675, 16833]",judge,juge
 "Français: ""sac"" - Deutsch: ""Tasche""
 Français: ""champ"" - Deutsch: ""Feld""
 Français: ""groupe"" - Deutsch: ""Gruppe""
 Français: ""trois"" - Deutsch: ""drei""
-Français: ""école"" - Deutsch: ""","[2522, 4421, 29903, 12988, 317, 1102, 4504, 27223]",Schule,"[3762, 27041, 816, 29879, 269, 1557, 1364, 885]",school,école
+Français: ""école"" - Deutsch: ""","[1102, 4421, 27223, 317, 29903, 2522, 12988, 4504]",Schule,"[27041, 3762, 1557, 1364, 816, 269, 885, 29879]",school,école
 "Français: ""tête"" - Deutsch: ""Kopf""
 Français: ""tentative"" - Deutsch: ""Versuch""
 Français: ""discours"" - Deutsch: ""Rede""
 Français: ""défaite"" - Deutsch: ""Niederlage""
-Français: ""cravate"" - Deutsch: ""","[19387, 476, 29968, 7365]",Krawatte,"[260, 2034, 29873, 22134, 19538]",tie,cravate
+Français: ""cravate"" - Deutsch: ""","[29968, 7365, 19387, 476]",Krawatte,"[29873, 260, 22134, 2034, 19538]",tie,cravate
 "Français: ""ligne"" - Deutsch: ""Linie""
 Français: ""lune"" - Deutsch: ""Mond""
 Français: ""étang"" - Deutsch: ""Teich""
 Français: ""ville"" - Deutsch: ""Stadt""
-Français: ""exemple"" - Deutsch: ""","[1522, 10632, 3629, 29933, 350, 22621]",Beispiel,"[735, 321, 29872, 429, 4392, 1342, 4773]",example,exemple
+Français: ""exemple"" - Deutsch: ""","[1522, 3629, 22621, 350, 29933, 10632]",Beispiel,"[321, 1342, 429, 735, 29872, 4392, 4773]",example,exemple
 "Français: ""mille"" - Deutsch: ""tausend""
 Français: ""nord"" - Deutsch: ""Norden""
 Français: ""ville"" - Deutsch: ""Stadt""
 Français: ""ligne"" - Deutsch: ""Linie""
-Français: ""visage"" - Deutsch: ""","[7999, 29954, 1879, 6328, 402]",Gesicht,"[2258, 2161, 17470, 5444, 29888, 3700, 285, 4024]",face,visage
+Français: ""visage"" - Deutsch: ""","[7999, 402, 29954, 1879, 6328]",Gesicht,"[29888, 285, 3700, 2161, 17470, 5444, 4024, 2258]",face,visage
 "Français: ""lune"" - Deutsch: ""Mond""
 Français: ""section"" - Deutsch: ""Abschnitt""
 Français: ""mère"" - Deutsch: ""Mutter""
 Français: ""hausse"" - Deutsch: ""Anstieg""
-Français: ""pont"" - Deutsch: ""","[12432, 1771, 350, 29933]",Brücke,"[12945, 289, 1182, 28635, 18419, 19515, 29890, 1506]",bridge,pont
+Français: ""pont"" - Deutsch: ""","[350, 29933, 12432, 1771]",Brücke,"[12945, 18419, 19515, 28635, 289, 29890, 1182, 1506]",bridge,pont
 "Français: ""nuage"" - Deutsch: ""Wolke""
 Français: ""point"" - Deutsch: ""Punkt""
 Français: ""site"" - Deutsch: ""Standort""
 Français: ""sol"" - Deutsch: ""Boden""
-Français: ""supprimer"" - Deutsch: ""","[301, 29880, 27575]",löschen,"[311, 6144, 5217, 29881, 628, 316, 7374, 270, 8143]",delete,supprimer
+Français: ""supprimer"" - Deutsch: ""","[29880, 301, 27575]",löschen,"[628, 316, 8143, 5217, 6144, 311, 7374, 270, 29881]",delete,supprimer
 "Français: ""été"" - Deutsch: ""Sommer""
 Français: ""bouche"" - Deutsch: ""Mund""
 Français: ""genre"" - Deutsch: ""Art""
 Français: ""six"" - Deutsch: ""sechs""
-Français: ""groupe"" - Deutsch: ""","[21757, 5430, 29954, 3338, 1632, 402]",Gruppe,"[29887, 2318, 629, 867, 330, 4071, 17170, 2972]",group,groupe
+Français: ""groupe"" - Deutsch: ""","[21757, 3338, 402, 1632, 29954, 5430]",Gruppe,"[629, 867, 29887, 17170, 330, 2972, 2318, 4071]",group,groupe
 "Français: ""mille"" - Deutsch: ""tausend""
 Français: ""bande"" - Deutsch: ""Streifen""
 Français: ""cinq"" - Deutsch: ""fünf""
 Français: ""mer"" - Deutsch: ""Meer""
-Français: ""beauté"" - Deutsch: ""","[2522, 4421, 29903, 317, 28565, 1102, 4504]",Schönheit,"[6562, 15409, 289, 367, 29890, 915]",beauty,beauté
+Français: ""beauté"" - Deutsch: ""","[4504, 1102, 4421, 317, 29903, 28565, 2522]",Schönheit,"[915, 29890, 367, 15409, 6562, 289]",beauty,beauté
 "Français: ""soleil"" - Deutsch: ""Sonne""
 Français: ""forêt"" - Deutsch: ""Wald""
 Français: ""mer"" - Deutsch: ""Meer""
 Français: ""province"" - Deutsch: ""Provinz""
-Français: ""plate-forme"" - Deutsch: ""","[27201, 1858, 3247, 13494, 349, 29925]",Plattform,"[7481, 12120, 282, 572, 18870, 2174, 13974, 29886, 715]",platform,plate-forme
+Français: ""plate-forme"" - Deutsch: ""","[29925, 3247, 349, 13494, 1858, 27201]",Plattform,"[7481, 572, 2174, 12120, 715, 18870, 13974, 29886, 282]",platform,plate-forme
 "Français: ""fleur"" - Deutsch: ""Blume""
 Français: ""été"" - Deutsch: ""Sommer""
 Français: ""bouche"" - Deutsch: ""Mund""
 Français: ""lac"" - Deutsch: ""See""
-Français: ""maison"" - Deutsch: ""","[379, 10727, 5952, 24704, 29950]",Haus,"[1251, 5089, 298, 9261, 29882, 3699, 8697, 10774]",house,maison
+Français: ""maison"" - Deutsch: ""","[29950, 379, 10727, 5952, 24704]",Haus,"[8697, 1251, 10774, 9261, 29882, 3699, 5089, 298]",house,maison
 "Français: ""machine"" - Deutsch: ""Maschine""
 Français: ""discours"" - Deutsch: ""Rede""
 Français: ""sol"" - Deutsch: ""Boden""
 Français: ""source"" - Deutsch: ""Quelle""
-Français: ""soleil"" - Deutsch: ""","[29903, 6295, 317, 1105, 5791]",Sonne,"[29879, 269, 2146, 480, 11445, 6575]",sun,soleil
+Français: ""soleil"" - Deutsch: ""","[5791, 1105, 317, 29903, 6295]",Sonne,"[11445, 6575, 2146, 269, 480, 29879]",sun,soleil
 "Français: ""mer"" - Deutsch: ""Meer""
 Français: ""couleur"" - Deutsch: ""Farbe""
 Français: ""sud"" - Deutsch: ""Süden""
 Français: ""bois"" - Deutsch: ""Holz""
-Français: ""histoire"" - Deutsch: ""","[29954, 402, 7376, 5009, 7999, 6328, 1879]",Geschichte,"[2918, 298, 18434, 9825, 3603, 7251, 670, 29882, 4955, 22880, 16211]",history,histoire
+Français: ""histoire"" - Deutsch: ""","[5009, 7999, 29954, 6328, 402, 7376, 1879]",Geschichte,"[670, 7251, 3603, 2918, 9825, 16211, 29882, 18434, 4955, 22880, 298]",history,histoire
 "Français: ""quatre"" - Deutsch: ""vier""
 Français: ""océan"" - Deutsch: ""Ozean""
 Français: ""thé"" - Deutsch: ""Tee""
 Français: ""ménage"" - Deutsch: ""Haushalt""
-Français: ""vallée"" - Deutsch: ""","[323, 10288, 10523, 29911]",Tal,"[659, 1564, 29894, 22044, 28519, 2947, 791, 325, 19599]",valley,vallée
+Français: ""vallée"" - Deutsch: ""","[10288, 10523, 323, 29911]",Tal,"[29894, 19599, 791, 1564, 28519, 659, 325, 2947, 22044]",valley,vallée
 "Français: ""cravate"" - Deutsch: ""Krawatte""
 Français: ""groupe"" - Deutsch: ""Gruppe""
 Français: ""lac"" - Deutsch: ""See""
 Français: ""deux"" - Deutsch: ""zwei""
-Français: ""carré"" - Deutsch: ""","[751, 29984, 2182, 660]",Quadrat,"[26613, 29879, 269, 17619, 18074, 10674, 3044, 6862]",square,carré
+Français: ""carré"" - Deutsch: ""","[660, 29984, 2182, 751]",Quadrat,"[3044, 18074, 6862, 26613, 10674, 17619, 269, 29879]",square,carré
 "Français: ""vitesse"" - Deutsch: ""Geschwindigkeit""
 Français: ""paire"" - Deutsch: ""Paar""
 Français: ""cœur"" - Deutsch: ""Herz""
 Français: ""gauche"" - Deutsch: ""links""
-Français: ""sud"" - Deutsch: ""","[29903, 11711, 317, 17110, 26585]",Süden,"[577, 29879, 269, 578, 13267, 3669, 7062]",south,sud
+Français: ""sud"" - Deutsch: ""","[17110, 317, 26585, 11711, 29903]",Süden,"[577, 7062, 3669, 13267, 269, 578, 29879]",south,sud
 "Français: ""vallée"" - Deutsch: ""Tal""
 Français: ""histoire"" - Deutsch: ""Geschichte""
 Français: ""rouge"" - Deutsch: ""rot""
 Français: ""porte"" - Deutsch: ""Tür""
-Français: ""vertu"" - Deutsch: ""","[12603, 323, 23215, 29911]",Tugend,"[29894, 10636, 2405, 4610, 15389, 325, 3516, 1403, 27935]",virtue,vertu
+Français: ""vertu"" - Deutsch: ""","[12603, 23215, 323, 29911]",Tugend,"[29894, 2405, 27935, 1403, 15389, 325, 4610, 10636, 3516]",virtue,vertu
 "Français: ""thé"" - Deutsch: ""Tee""
 Français: ""mère"" - Deutsch: ""Mutter""
 Français: ""tour"" - Deutsch: ""Turm""
 Français: ""nord"" - Deutsch: ""Norden""
-Français: ""tribu"" - Deutsch: ""","[855, 29903, 7434, 317, 624]",Stamm,"[29563, 260, 3626, 29873, 509, 534, 3367, 9434]",tribe,tribu
+Français: ""tribu"" - Deutsch: ""","[855, 624, 317, 7434, 29903]",Stamm,"[509, 29873, 9434, 260, 3626, 3367, 534, 29563]",tribe,tribu
 "Français: ""ménage"" - Deutsch: ""Haushalt""
 Français: ""œil"" - Deutsch: ""Auge""
 Français: ""champ"" - Deutsch: ""Feld""
 Français: ""supprimer"" - Deutsch: ""löschen""
-Français: ""ville"" - Deutsch: ""","[855, 29903, 5587, 7434, 317, 10347, 624]",Stadt,"[12690, 4583, 7537, 274, 29883, 4272, 20752, 455]",city,ville
+Français: ""ville"" - Deutsch: ""","[10347, 5587, 855, 624, 317, 7434, 29903]",Stadt,"[7537, 4583, 20752, 274, 12690, 29883, 4272, 455]",city,ville
 "Français: ""enfant"" - Deutsch: ""Kind""
 Français: ""visage"" - Deutsch: ""Gesicht""
 Français: ""mot"" - Deutsch: ""Wort""
 Français: ""grotte"" - Deutsch: ""Höhle""
-Français: ""vitesse"" - Deutsch: ""","[29954, 402, 5009, 7999, 6328, 1879]",Geschwindigkeit,"[19322, 961, 805, 269, 29879, 1028, 5965, 6210]",speed,vitesse
+Français: ""vitesse"" - Deutsch: ""","[5009, 7999, 29954, 6328, 402, 1879]",Geschwindigkeit,"[805, 19322, 6210, 1028, 961, 269, 29879, 5965]",speed,vitesse
 "Français: ""point"" - Deutsch: ""Punkt""
 Français: ""histoire"" - Deutsch: ""Geschichte""
 Français: ""vertu"" - Deutsch: ""Tugend""
 Français: ""machine"" - Deutsch: ""Maschine""
-Français: ""sol"" - Deutsch: ""","[8431, 1952, 19929, 350, 29933]",Boden,"[29887, 629, 867, 330, 4071, 5962, 17170, 2057]",ground,sol
+Français: ""sol"" - Deutsch: ""","[1952, 350, 29933, 8431, 19929]",Boden,"[2057, 5962, 629, 867, 29887, 17170, 330, 4071]",ground,sol
 "Français: ""cravate"" - Deutsch: ""Krawatte""
 Français: ""siège"" - Deutsch: ""Sitz""
 Français: ""défaite"" - Deutsch: ""Niederlage""
 Français: ""bourse"" - Deutsch: ""Börse""
-Français: ""tentative"" - Deutsch: ""","[1798, 10138, 29963, 478, 8980, 6565]",Versuch,"[29874, 263, 271, 21609, 1098, 1131, 4218, 15127, 472]",attempt,tentative
+Français: ""tentative"" - Deutsch: ""","[10138, 29963, 1798, 478, 8980, 6565]",Versuch,"[29874, 263, 21609, 15127, 1098, 4218, 271, 472, 1131]",attempt,tentative
 "Français: ""groupe"" - Deutsch: ""Gruppe""
 Français: ""nord"" - Deutsch: ""Norden""
 Français: ""beauté"" - Deutsch: ""Schönheit""
 Français: ""mère"" - Deutsch: ""Mutter""
-Français: ""défaite"" - Deutsch: ""","[405, 16501, 24052, 19166, 15981, 29940]",Niederlage,"[311, 29881, 8686, 1753, 316, 822, 20653, 270]",defeat,défaite
+Français: ""défaite"" - Deutsch: ""","[19166, 405, 15981, 29940, 16501, 24052]",Niederlage,"[316, 1753, 822, 311, 270, 20653, 29881, 8686]",defeat,défaite
 "Français: ""sol"" - Deutsch: ""Boden""
 Français: ""gauche"" - Deutsch: ""links""
 Français: ""mot"" - Deutsch: ""Wort""
 Français: ""bouche"" - Deutsch: ""Mund""
-Français: ""queue"" - Deutsch: ""","[2522, 4421, 29903, 9234, 317, 1102, 4504]",Schwanz,"[260, 941, 11062, 29873, 18237, 12464]",tail,queue
+Français: ""queue"" - Deutsch: ""","[1102, 4421, 317, 2522, 9234, 29903, 4504]",Schwanz,"[18237, 941, 11062, 29873, 260, 12464]",tail,queue
 "Français: ""un"" - Deutsch: ""eins""
 Français: ""été"" - Deutsch: ""Sommer""
 Français: ""étang"" - Deutsch: ""Teich""
 Français: ""milieu"" - Deutsch: ""Mitte""
-Français: ""mère"" - Deutsch: ""","[341, 29924, 8229, 22411, 20749]",Mutter,"[4346, 25550, 286, 5637, 2730, 14817, 29885, 3184]",mother,mère
+Français: ""mère"" - Deutsch: ""","[8229, 29924, 22411, 20749, 341]",Mutter,"[3184, 5637, 286, 25550, 2730, 29885, 14817, 4346]",mother,mère
 "Français: ""couleur"" - Deutsch: ""Farbe""
 Français: ""océan"" - Deutsch: ""Ozean""
 Français: ""ville"" - Deutsch: ""Stadt""
 Français: ""bouche"" - Deutsch: ""Mund""
-Français: ""est"" - Deutsch: ""","[24768, 6657, 11334, 26569, 29949, 438]",Osten,"[321, 29872, 9755, 11248, 23027, 2240]",east,est
+Français: ""est"" - Deutsch: ""","[438, 29949, 11334, 24768, 6657, 26569]",Osten,"[321, 23027, 29872, 2240, 9755, 11248]",east,est
 "Français: ""point"" - Deutsch: ""Punkt""
 Français: ""sol"" - Deutsch: ""Boden""
 Français: ""bouche"" - Deutsch: ""Mund""
 Français: ""tête"" - Deutsch: ""Kopf""
-Français: ""discours"" - Deutsch: ""","[390, 9039, 29934, 1123, 830, 4367]",Rede,"[961, 269, 29879, 1028, 5965, 12032, 805]",speech,discours
+Français: ""discours"" - Deutsch: ""","[390, 29934, 1123, 9039, 830, 4367]",Rede,"[805, 12032, 1028, 961, 269, 29879, 5965]",speech,discours
 "Français: ""bouche"" - Deutsch: ""Mund""
 Français: ""grille"" - Deutsch: ""Gitter""
 Français: ""sept"" - Deutsch: ""sieben""
 Français: ""discours"" - Deutsch: ""Rede""
-Français: ""enfant"" - Deutsch: ""","[16540, 476, 29968, 20311, 11885, 13187]",Kind,"[5145, 274, 305, 18558, 521, 2278, 29883, 4161]",child,enfant
+Français: ""enfant"" - Deutsch: ""","[29968, 11885, 13187, 16540, 20311, 476]",Kind,"[274, 305, 2278, 521, 29883, 4161, 5145, 18558]",child,enfant
 "Français: ""village"" - Deutsch: ""Dorf""
 Français: ""tête"" - Deutsch: ""Kopf""
 Français: ""neuf"" - Deutsch: ""neun""
 Français: ""dix"" - Deutsch: ""zehn""
-Français: ""tour"" - Deutsch: ""","[12603, 323, 23215, 5383, 29911]",Turm,"[260, 517, 29873, 19372, 304]",tower,tour
+Français: ""tour"" - Deutsch: ""","[12603, 23215, 5383, 323, 29911]",Turm,"[304, 29873, 517, 260, 19372]",tower,tour
 "Français: ""mer"" - Deutsch: ""Meer""
 Français: ""océan"" - Deutsch: ""Ozean""
 Français: ""ville"" - Deutsch: ""Stadt""
 Français: ""étang"" - Deutsch: ""Teich""
-Français: ""ménage"" - Deutsch: ""","[379, 10727, 5952, 24704, 29950]",Haushalt,"[10774, 1251, 5089, 298, 9261, 22329, 29882, 3699, 8697]",household,ménage
+Français: ""ménage"" - Deutsch: ""","[29950, 379, 10727, 5952, 24704]",Haushalt,"[22329, 8697, 1251, 10774, 9261, 29882, 3699, 5089, 298]",household,ménage
 "Français: ""beauté"" - Deutsch: ""Schönheit""
 Français: ""temps"" - Deutsch: ""Zeit""
 Français: ""gare"" - Deutsch: ""Bahnhof""
 Français: ""six"" - Deutsch: ""sechs""
-Français: ""section"" - Deutsch: ""","[1976, 319, 29909, 24650, 4920]",Abschnitt,"[8803, 2042, 29879, 269, 344, 409, 21149, 5226, 3471, 4004]",section,section
+Français: ""section"" - Deutsch: ""","[4920, 1976, 24650, 319, 29909]",Abschnitt,"[8803, 21149, 344, 409, 2042, 3471, 5226, 269, 29879, 4004]",section,section
 "Français: ""tête"" - Deutsch: ""Kopf""
 Français: ""cinq"" - Deutsch: ""fünf""
 Français: ""bois"" - Deutsch: ""Holz""
 Français: ""bouche"" - Deutsch: ""Mund""
-Français: ""bureau"" - Deutsch: ""","[15455, 350, 29933, 16144]",Büro,"[29877, 8034, 288, 974, 2696, 310, 3344, 20205, 1283]",office,bureau
+Français: ""bureau"" - Deutsch: ""","[16144, 350, 29933, 15455]",Büro,"[3344, 974, 310, 8034, 288, 29877, 20205, 2696, 1283]",office,bureau
 "Français: ""cravate"" - Deutsch: ""Krawatte""
 Français: ""maison"" - Deutsch: ""Haus""
 Français: ""nord"" - Deutsch: ""Norden""
 Français: ""quatre"" - Deutsch: ""vier""
-Français: ""hausse"" - Deutsch: ""","[21877, 319, 530, 2744, 29909]",Anstieg,"[14451, 3780, 374, 10107, 29878, 5161, 364]",rise,hausse
+Français: ""hausse"" - Deutsch: ""","[530, 2744, 21877, 319, 29909]",Anstieg,"[374, 10107, 364, 5161, 29878, 14451, 3780]",rise,hausse
 "Français: ""bourse"" - Deutsch: ""Börse""
 Français: ""vertu"" - Deutsch: ""Tugend""
 Français: ""deux"" - Deutsch: ""zwei""
 Français: ""dix"" - Deutsch: ""zehn""
-Français: ""pouvoir"" - Deutsch: ""","[341, 4326, 21870, 29924, 17197, 3219, 15735]",Macht,"[1129, 772, 13519, 282, 4764, 12248, 29886, 3081]",power,pouvoir
+Français: ""pouvoir"" - Deutsch: ""","[21870, 3219, 29924, 4326, 15735, 341, 17197]",Macht,"[3081, 13519, 1129, 772, 12248, 4764, 29886, 282]",power,pouvoir
 "Français: ""bourse"" - Deutsch: ""Börse""
 Français: ""temps"" - Deutsch: ""Zeit""
 Français: ""océan"" - Deutsch: ""Ozean""
 Français: ""sud"" - Deutsch: ""Süden""
-Français: ""été"" - Deutsch: ""","[29903, 22820, 6295, 317, 1105, 6254]",Sommer,"[11801, 29879, 269, 2146, 480, 22792, 2083, 2533]",summer,été
+Français: ""été"" - Deutsch: ""","[1105, 317, 6254, 29903, 6295, 22820]",Sommer,"[2533, 11801, 2083, 2146, 269, 480, 29879, 22792]",summer,été

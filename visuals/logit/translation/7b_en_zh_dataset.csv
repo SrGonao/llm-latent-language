@@ -3,659 +3,659 @@ prompt,out_token_id,out_token_str,latent_token_id,latent_token_str,in_token_str
 English: ""tea"" - 中文: ""茶""
 English: ""pond"" - 中文: ""池""
 English: ""version"" - 中文: ""版""
-English: ""book"" - 中文: ""","[31900, 231]",书,"[1045, 3143, 2909, 289, 833, 29890]",book,book
+English: ""book"" - 中文: ""","[31900, 231]",书,"[1045, 3143, 29890, 833, 2909, 289]",book,book
 "English: ""hundred"" - 中文: ""百""
 English: ""heart"" - 中文: ""心""
 English: ""house"" - 中文: ""屋""
 English: ""part"" - 中文: ""部""
-English: ""cloud"" - 中文: ""","[31784, 231]",云,"[15126, 9274, 23642, 1067, 29883, 9570, 274, 695, 17184]",cloud,cloud
+English: ""cloud"" - 中文: ""","[31784, 231]",云,"[29883, 695, 23642, 1067, 274, 9274, 9570, 17184, 15126]",cloud,cloud
 "English: ""ground"" - 中文: ""地""
 English: ""mother"" - 中文: ""母""
 English: ""north"" - 中文: ""北""
 English: ""wood"" - 中文: ""木""
-English: ""bag"" - 中文: ""","[31473, 232]",包,"[289, 9922, 2291, 19548, 29890, 23156]",bag,bag
+English: ""bag"" - 中文: ""","[31473, 232]",包,"[2291, 19548, 23156, 29890, 289, 9922]",bag,bag
 "English: ""point"" - 中文: ""点""
 English: ""structure"" - 中文: ""构""
 English: ""position"" - 中文: ""位""
 English: ""spring"" - 中文: ""春""
-English: ""mouth"" - 中文: ""","[30856, 232]",口,"[13394, 29442, 29885, 2730, 286, 21026, 4346]",mouth,mouth
+English: ""mouth"" - 中文: ""","[30856, 232]",口,"[286, 4346, 13394, 29442, 21026, 2730, 29885]",mouth,mouth
 "English: ""middle"" - 中文: ""中""
 English: ""city"" - 中文: ""城""
 English: ""rise"" - 中文: ""起""
 English: ""bridge"" - 中文: ""桥""
-English: ""soil"" - 中文: ""","[31181, 232]",土,"[22473, 578, 29879, 269, 577]",soil,soil
+English: ""soil"" - 中文: ""","[31181, 232]",土,"[22473, 29879, 578, 577, 269]",soil,soil
 "English: ""tribe"" - 中文: ""族""
 English: ""painting"" - 中文: ""画""
 English: ""child"" - 中文: ""子""
 English: ""structure"" - 中文: ""构""
-English: ""mountain"" - 中文: ""","[30329, 232]",山,"[14378, 29442, 5766, 29885, 2730, 286, 4346, 16476]",mountain,mountain
+English: ""mountain"" - 中文: ""","[30329, 232]",山,"[286, 4346, 14378, 5766, 16476, 29442, 2730, 29885]",mountain,mountain
 "English: ""north"" - 中文: ""北""
 English: ""flower"" - 中文: ""花""
 English: ""red"" - 中文: ""红""
 English: ""seat"" - 中文: ""座""
-English: ""cloth"" - 中文: ""","[31454, 232]",布,"[15126, 1067, 29883, 13950, 274, 695, 17184]",cloth,cloth
+English: ""cloth"" - 中文: ""","[31454, 232]",布,"[29883, 695, 1067, 274, 13950, 17184, 15126]",cloth,cloth
 "English: ""shop"" - 中文: ""店""
 English: ""tail"" - 中文: ""尾""
 English: ""dance"" - 中文: ""舞""
 English: ""cloth"" - 中文: ""布""
-English: ""heart"" - 中文: ""","[30869, 232]",心,"[5192, 8293, 298, 354, 540, 23057, 29882]",heart,heart
+English: ""heart"" - 中文: ""","[30869, 232]",心,"[29882, 23057, 540, 8293, 298, 354, 5192]",heart,heart
 "English: ""water"" - 中文: ""水""
 English: ""bridge"" - 中文: ""桥""
 English: ""tea"" - 中文: ""茶""
 English: ""four"" - 中文: ""四""
-English: ""hand"" - 中文: ""","[30880, 233]",手,"[3179, 5905, 5403, 447, 298, 1361, 29882, 2350]",hand,hand
+English: ""hand"" - 中文: ""","[30880, 233]",手,"[5403, 2350, 3179, 5905, 447, 298, 1361, 29882]",hand,hand
 "English: ""rock"" - 中文: ""岩""
 English: ""city"" - 中文: ""城""
 English: ""power"" - 中文: ""力""
 English: ""four"" - 中文: ""四""
-English: ""day"" - 中文: ""","[30325, 233]",日,"[29881, 1146, 270, 1388, 2462, 3250]",day,day
+English: ""day"" - 中文: ""","[30325, 233]",日,"[1388, 2462, 270, 1146, 29881, 3250]",day,day
 "English: ""fruit"" - 中文: ""果""
 English: ""beauty"" - 中文: ""美""
 English: ""middle"" - 中文: ""中""
 English: ""forest"" - 中文: ""林""
-English: ""star"" - 中文: ""","[30900, 233]",星,"[380, 29879, 8508, 269, 5173, 9523, 303, 5810]",star,star
+English: ""star"" - 中文: ""","[30900, 233]",星,"[9523, 8508, 29879, 5173, 5810, 380, 269, 303]",star,star
 "English: ""tower"" - 中文: ""塔""
 English: ""lake"" - 中文: ""湖""
 English: ""return"" - 中文: ""回""
 English: ""shop"" - 中文: ""店""
-English: ""spring"" - 中文: ""","[31031, 233]",春,"[1028, 805, 29879, 15099, 269, 4278, 6709, 7689]",spring,spring
+English: ""spring"" - 中文: ""","[31031, 233]",春,"[1028, 4278, 7689, 29879, 15099, 269, 805, 6709]",spring,spring
 "English: ""fire"" - 中文: ""火""
 English: ""square"" - 中文: ""方""
 English: ""speech"" - 中文: ""话""
 English: ""cave"" - 中文: ""洞""
-English: ""moon"" - 中文: ""","[30534, 233]",月,"[29885, 2730, 286, 18786, 4346]",moon,moon
+English: ""moon"" - 中文: ""","[30534, 233]",月,"[286, 4346, 18786, 2730, 29885]",moon,moon
 "English: ""sound"" - 中文: ""音""
 English: ""hundred"" - 中文: ""百""
 English: ""point"" - 中文: ""点""
 English: ""flower"" - 中文: ""花""
-English: ""wood"" - 中文: ""","[30710, 233]",木,"[827, 6115, 8112, 281, 8879, 29893]",wood,wood
+English: ""wood"" - 中文: ""","[30710, 233]",木,"[827, 29893, 281, 6115, 8879, 8112]",wood,wood
 "English: ""tower"" - 中文: ""塔""
 English: ""book"" - 中文: ""书""
 English: ""head"" - 中文: ""头""
 English: ""gold"" - 中文: ""金""
-English: ""village"" - 中文: ""","[30402, 233]",村,"[4213, 28765, 21031, 29894, 11928, 17191, 325, 5720, 1403, 3516]",village,village
+English: ""village"" - 中文: ""","[30402, 233]",村,"[29894, 4213, 17191, 325, 11928, 1403, 28765, 21031, 3516, 5720]",village,village
 "English: ""section"" - 中文: ""段""
 English: ""field"" - 中文: ""场""
 English: ""bag"" - 中文: ""包""
 English: ""mouth"" - 中文: ""口""
-English: ""forest"" - 中文: ""","[30853, 233]",林,"[1701, 1454, 13569, 1181, 1079, 285, 26839, 29888, 363]",forest,forest
+English: ""forest"" - 中文: ""","[30853, 233]",林,"[1701, 13569, 1181, 1454, 1079, 26839, 363, 29888, 285]",forest,forest
 "English: ""wave"" - 中文: ""波""
 English: ""middle"" - 中文: ""中""
 English: ""tower"" - 中文: ""塔""
 English: ""four"" - 中文: ""四""
-English: ""fruit"" - 中文: ""","[30801, 233]",果,"[1424, 285, 15774, 29888, 1341]",fruit,fruit
+English: ""fruit"" - 中文: ""","[30801, 233]",果,"[15774, 1424, 1341, 29888, 285]",fruit,fruit
 "English: ""time"" - 中文: ""时""
 English: ""city"" - 中文: ""城""
 English: ""wood"" - 中文: ""木""
 English: ""middle"" - 中文: ""中""
-English: ""grid"" - 中文: ""","[31168, 233]",格,"[29887, 629, 330, 867, 6856, 7720]",grid,grid
+English: ""grid"" - 中文: ""","[31168, 233]",格,"[29887, 6856, 629, 7720, 867, 330]",grid,grid
 "English: ""lake"" - 中文: ""湖""
 English: ""horse"" - 中文: ""马""
 English: ""school"" - 中文: ""校""
 English: ""tea"" - 中文: ""茶""
-English: ""song"" - 中文: ""","[31173, 233]",歌,"[578, 29879, 21453, 269, 4823, 1100, 577, 1487]",song,song
+English: ""song"" - 中文: ""","[31173, 233]",歌,"[1100, 29879, 21453, 4823, 578, 1487, 577, 269]",song,song
 "English: ""one"" - 中文: ""一""
 English: ""head"" - 中文: ""头""
 English: ""left"" - 中文: ""左""
 English: ""city"" - 中文: ""城""
-English: ""water"" - 中文: ""","[30716, 233]",水,"[4094, 13405, 2766, 11324, 16699, 281, 29893]",water,water
+English: ""water"" - 中文: ""","[30716, 233]",水,"[4094, 29893, 13405, 11324, 16699, 281, 2766]",water,water
 "English: ""head"" - 中文: ""头""
 English: ""cave"" - 中文: ""洞""
 English: ""talent"" - 中文: ""才""
 English: ""field"" - 中文: ""场""
-English: ""pond"" - 中文: ""","[31853, 233]",池,"[1129, 282, 1112, 2818, 29886, 12509, 772]",pond,pond
+English: ""pond"" - 中文: ""","[31853, 233]",池,"[12509, 29886, 1129, 1112, 282, 772, 2818]",pond,pond
 "English: ""law"" - 中文: ""法""
 English: ""tea"" - 中文: ""茶""
 English: ""language"" - 中文: ""语""
 English: ""exchange"" - 中文: ""交""
-English: ""sand"" - 中文: ""","[31476, 233]",沙,"[28455, 4977, 9753, 29879, 872, 269, 11982]",sand,sand
+English: ""sand"" - 中文: ""","[31476, 233]",沙,"[28455, 9753, 11982, 29879, 4977, 872, 269]",sand,sand
 "English: ""sea"" - 中文: ""海""
 English: ""grid"" - 中文: ""格""
 English: ""return"" - 中文: ""回""
 English: ""machine"" - 中文: ""机""
-English: ""river"" - 中文: ""","[30828, 233]",河,"[8580, 374, 3511, 1150, 10107, 4401, 9050, 364, 29878]",river,river
+English: ""river"" - 中文: ""","[30828, 233]",河,"[374, 10107, 29878, 9050, 1150, 364, 4401, 3511, 8580]",river,river
 "English: ""middle"" - 中文: ""中""
 English: ""sun"" - 中文: ""阳""
 English: ""fruit"" - 中文: ""果""
 English: ""strip"" - 中文: ""条""
-English: ""law"" - 中文: ""","[30545, 233]",法,"[425, 4307, 10653, 433, 301, 29880]",law,law
+English: ""law"" - 中文: ""","[30545, 233]",法,"[4307, 433, 10653, 29880, 301, 425]",law,law
 "English: ""day"" - 中文: ""日""
 English: ""painting"" - 中文: ""画""
 English: ""advance"" - 中文: ""进""
 English: ""tie"" - 中文: ""结""
-English: ""wave"" - 中文: ""","[31529, 233]",波,"[10742, 2766, 11324, 281, 27766, 29893]",wave,wave
+English: ""wave"" - 中文: ""","[31529, 233]",波,"[10742, 29893, 11324, 27766, 281, 2766]",wave,wave
 "English: ""defeat"" - 中文: ""败""
 English: ""law"" - 中文: ""法""
 English: ""seat"" - 中文: ""座""
 English: ""hundred"" - 中文: ""百""
-English: ""ocean"" - 中文: ""","[31534, 233]",洋,"[288, 25802, 12954, 23474, 542, 29877]",ocean,ocean
+English: ""ocean"" - 中文: ""","[31534, 233]",洋,"[288, 25802, 12954, 542, 23474, 29877]",ocean,ocean
 "English: ""judge"" - 中文: ""判""
 English: ""hair"" - 中文: ""发""
 English: ""middle"" - 中文: ""中""
 English: ""horse"" - 中文: ""马""
-English: ""cave"" - 中文: ""","[31886, 233]",洞,"[18346, 29883, 274, 24230, 5777, 1113]",cave,cave
+English: ""cave"" - 中文: ""","[31886, 233]",洞,"[24230, 29883, 5777, 18346, 274, 1113]",cave,cave
 "English: ""school"" - 中文: ""校""
 English: ""painting"" - 中文: ""画""
 English: ""benefit"" - 中文: ""利""
 English: ""mountain"" - 中文: ""山""
-English: ""sea"" - 中文: ""","[30581, 233]",海,"[29879, 344, 7205, 269, 409]",sea,sea
+English: ""sea"" - 中文: ""","[30581, 233]",海,"[344, 409, 29879, 7205, 269]",sea,sea
 "English: ""cloth"" - 中文: ""布""
 English: ""city"" - 中文: ""城""
 English: ""advance"" - 中文: ""进""
 English: ""two"" - 中文: ""二""
-English: ""lake"" - 中文: ""","[31496, 233]",湖,"[19437, 425, 24591, 433, 301, 29880, 18170]",lake,lake
+English: ""lake"" - 中文: ""","[31496, 233]",湖,"[433, 19437, 18170, 29880, 301, 24591, 425]",lake,lake
 "English: ""word"" - 中文: ""字""
 English: ""language"" - 中文: ""语""
 English: ""ocean"" - 中文: ""洋""
 English: ""strip"" - 中文: ""条""
-English: ""source"" - 中文: ""","[31193, 233]",源,"[4993, 2752, 578, 29879, 269, 577, 3669]",source,source
+English: ""source"" - 中文: ""","[31193, 233]",源,"[29879, 578, 4993, 2752, 3669, 577, 269]",source,source
 "English: ""song"" - 中文: ""歌""
 English: ""foot"" - 中文: ""足""
 English: ""person"" - 中文: ""人""
 English: ""net"" - 中文: ""网""
-English: ""fire"" - 中文: ""","[31313, 234]",火,"[28034, 13734, 5713, 3974, 8696, 7241, 285, 29888]",fire,fire
+English: ""fire"" - 中文: ""","[31313, 234]",火,"[5713, 13734, 8696, 7241, 28034, 3974, 29888, 285]",fire,fire
 "English: ""five"" - 中文: ""五""
 English: ""talent"" - 中文: ""才""
 English: ""eye"" - 中文: ""目""
 English: ""one"" - 中文: ""一""
-English: ""point"" - 中文: ""","[30940, 234]",点,"[3149, 1298, 1129, 282, 11899, 29886, 772]",point,point
+English: ""point"" - 中文: ""","[30940, 234]",点,"[3149, 29886, 11899, 1129, 1298, 282, 772]",point,point
 "English: ""soil"" - 中文: ""土""
 English: ""water"" - 中文: ""水""
 English: ""wood"" - 中文: ""木""
 English: ""benefit"" - 中文: ""利""
-English: ""version"" - 中文: ""","[30845, 234]",版,"[345, 29894, 1224, 1147, 3259, 2453, 325, 874, 1873, 369]",version,version
+English: ""version"" - 中文: ""","[30845, 234]",版,"[29894, 345, 1224, 874, 325, 1147, 369, 2453, 1873, 3259]",version,version
 "English: ""book"" - 中文: ""书""
 English: ""eight"" - 中文: ""八""
 English: ""six"" - 中文: ""六""
 English: ""tie"" - 中文: ""结""
-English: ""ball"" - 中文: ""","[31539, 234]",球,"[289, 5521, 9922, 6411, 2291, 8287, 29890, 2135]",ball,ball
+English: ""ball"" - 中文: ""","[31539, 234]",球,"[2291, 2135, 29890, 5521, 6411, 289, 9922, 8287]",ball,ball
 "English: ""history"" - 中文: ""史""
 English: ""door"" - 中文: ""门""
 English: ""house"" - 中文: ""屋""
 English: ""speed"" - 中文: ""速""
-English: ""painting"" - 中文: ""","[31046, 234]",画,"[282, 6788, 10675, 3274, 3300, 29886, 20413]",painting,painting
+English: ""painting"" - 中文: ""","[31046, 234]",画,"[3274, 10675, 29886, 20413, 3300, 282, 6788]",painting,painting
 "English: ""hair"" - 中文: ""发""
 English: ""day"" - 中文: ""日""
 English: ""ocean"" - 中文: ""洋""
 English: ""seven"" - 中文: ""七""
-English: ""station"" - 中文: ""","[31433, 234]",站,"[380, 5073, 19569, 29879, 1002, 269, 5173, 23436, 9523, 303, 6112]",station,station
+English: ""station"" - 中文: ""","[31433, 234]",站,"[9523, 19569, 29879, 6112, 5073, 303, 5173, 380, 1002, 269, 23436]",station,station
 "English: ""soil"" - 中文: ""土""
 English: ""river"" - 中文: ""河""
 English: ""hair"" - 中文: ""发""
 English: ""child"" - 中文: ""子""
-English: ""rice"" - 中文: ""","[31902, 234]",米,"[19408, 9597, 374, 11674, 10107, 2200, 364, 29878]",rice,rice
+English: ""rice"" - 中文: ""","[31902, 234]",米,"[374, 10107, 29878, 364, 19408, 9597, 11674, 2200]",rice,rice
 "English: ""six"" - 中文: ""六""
 English: ""square"" - 中文: ""方""
 English: ""structure"" - 中文: ""构""
 English: ""painting"" - 中文: ""画""
-English: ""red"" - 中文: ""","[31869, 234]",红,"[337, 2654, 29878, 1127, 364, 276]",red,red
+English: ""red"" - 中文: ""","[31869, 234]",红,"[1127, 29878, 364, 276, 2654, 337]",red,red
 "English: ""pair"" - 中文: ""双""
 English: ""history"" - 中文: ""史""
 English: ""version"" - 中文: ""版""
 English: ""kind"" - 中文: ""种""
-English: ""line"" - 中文: ""","[31532, 234]",线,"[1220, 1196, 619, 1915, 492, 301, 29880, 6276]",line,line
+English: ""line"" - 中文: ""","[31532, 234]",线,"[492, 619, 1220, 6276, 29880, 1915, 301, 1196]",line,line
 "English: ""mountain"" - 中文: ""山""
 English: ""source"" - 中文: ""源""
 English: ""rock"" - 中文: ""岩""
 English: ""tie"" - 中文: ""结""
-English: ""net"" - 中文: ""","[31222, 234]",网,"[452, 302, 484, 7787, 29876, 1212]",net,net
+English: ""net"" - 中文: ""","[31222, 234]",网,"[1212, 484, 29876, 302, 7787, 452]",net,net
 "English: ""ball"" - 中文: ""球""
 English: ""rock"" - 中文: ""岩""
 English: ""mother"" - 中文: ""母""
 English: ""door"" - 中文: ""门""
-English: ""flower"" - 中文: ""","[30830, 235]",花,"[1579, 1731, 28149, 5685, 1652, 4972, 285, 29888]",flower,flower
+English: ""flower"" - 中文: ""","[30830, 235]",花,"[1731, 28149, 1652, 5685, 1579, 4972, 29888, 285]",flower,flower
 "English: ""sun"" - 中文: ""阳""
 English: ""kind"" - 中文: ""种""
 English: ""position"" - 中文: ""位""
 English: ""seven"" - 中文: ""七""
-English: ""tea"" - 中文: ""","[31954, 235]",茶,"[260, 23429, 371, 29873, 734]",tea,tea
+English: ""tea"" - 中文: ""","[31954, 235]",茶,"[734, 23429, 260, 29873, 371]",tea,tea
 "English: ""gold"" - 中文: ""金""
 English: ""cloth"" - 中文: ""布""
 English: ""hand"" - 中文: ""手""
 English: ""generation"" - 中文: ""代""
-English: ""foot"" - 中文: ""","[31722, 235]",足,"[1701, 1181, 7953, 3661, 5431, 6661, 285, 29888]",foot,foot
+English: ""foot"" - 中文: ""","[31722, 235]",足,"[1701, 7953, 1181, 6661, 3661, 5431, 29888, 285]",foot,foot
 "English: ""advance"" - 中文: ""进""
 English: ""structure"" - 中文: ""构""
 English: ""defeat"" - 中文: ""败""
 English: ""machine"" - 中文: ""机""
-English: ""gold"" - 中文: ""","[30659, 236]",金,"[748, 29887, 1484, 330, 15192, 7684]",gold,gold
+English: ""gold"" - 中文: ""","[30659, 236]",金,"[748, 7684, 29887, 15192, 1484, 330]",gold,gold
 "English: ""law"" - 中文: ""法""
 English: ""north"" - 中文: ""北""
 English: ""item"" - 中文: ""项""
 English: ""book"" - 中文: ""书""
-English: ""door"" - 中文: ""","[31649, 236]",门,"[1867, 29881, 270, 3050, 17433, 437]",door,door
+English: ""door"" - 中文: ""","[31649, 236]",门,"[17433, 270, 3050, 29881, 1867, 437]",door,door
 "English: ""power"" - 中文: ""力""
 English: ""bag"" - 中文: ""包""
 English: ""talent"" - 中文: ""才""
 English: ""lake"" - 中文: ""湖""
-English: ""snow"" - 中文: ""","[31731, 236]",雪,"[16586, 29879, 269, 15007, 5807]",snow,snow
+English: ""snow"" - 中文: ""","[31731, 236]",雪,"[29879, 16586, 269, 5807, 15007]",snow,snow
 "English: ""structure"" - 中文: ""构""
 English: ""dance"" - 中文: ""舞""
 English: ""six"" - 中文: ""六""
 English: ""day"" - 中文: ""日""
-English: ""horse"" - 中文: ""","[31530, 236]",马,"[2015, 10435, 4029, 11231, 298, 1251, 29882, 5089]",horse,horse
+English: ""horse"" - 中文: ""","[31530, 236]",马,"[2015, 4029, 1251, 5089, 10435, 298, 29882, 11231]",horse,horse
 "English: ""soil"" - 中文: ""土""
 English: ""point"" - 中文: ""点""
 English: ""flower"" - 中文: ""花""
 English: ""four"" - 中文: ""四""
-English: ""one"" - 中文: ""","[30287, 231]",一,"[288, 373, 650, 29877, 265, 697]",one,one
+English: ""one"" - 中文: ""","[30287, 231]",一,"[288, 265, 697, 373, 650, 29877]",one,one
 "English: ""language"" - 中文: ""语""
 English: ""household"" - 中文: ""户""
 English: ""generation"" - 中文: ""代""
 English: ""part"" - 中文: ""部""
-English: ""two"" - 中文: ""","[30685, 231]",二,"[3252, 260, 7516, 1023, 29873, 10184]",two,two
+English: ""two"" - 中文: ""","[30685, 231]",二,"[7516, 10184, 260, 1023, 3252, 29873]",two,two
 "English: ""time"" - 中文: ""时""
 English: ""six"" - 中文: ""六""
 English: ""lake"" - 中文: ""湖""
 English: ""pond"" - 中文: ""池""
-English: ""three"" - 中文: ""","[30457, 231]",三,"[17536, 260, 12455, 2211, 386, 1468, 29873, 266]",three,three
+English: ""three"" - 中文: ""","[30457, 231]",三,"[2211, 266, 12455, 260, 386, 1468, 17536, 29873]",three,three
 "English: ""province"" - 中文: ""省""
 English: ""tie"" - 中文: ""结""
 English: ""attempt"" - 中文: ""试""
 English: ""spring"" - 中文: ""春""
-English: ""four"" - 中文: ""","[30928, 232]",四,"[1701, 3023, 1181, 17823, 12584, 285, 29888]",four,four
+English: ""four"" - 中文: ""","[30928, 232]",四,"[1701, 17823, 1181, 3023, 12584, 29888, 285]",four,four
 "English: ""point"" - 中文: ""点""
 English: ""flower"" - 中文: ""花""
 English: ""meeting"" - 中文: ""会""
 English: ""gold"" - 中文: ""金""
-English: ""five"" - 中文: ""","[30904, 231]",五,"[5713, 5320, 20818, 7241, 285, 29888]",five,five
+English: ""five"" - 中文: ""","[30904, 231]",五,"[5713, 20818, 7241, 5320, 29888, 285]",five,five
 "English: ""beauty"" - 中文: ""美""
 English: ""tie"" - 中文: ""结""
 English: ""spring"" - 中文: ""春""
 English: ""five"" - 中文: ""五""
-English: ""six"" - 中文: ""","[31304, 232]",六,"[1354, 28319, 29879, 269, 1039, 4832]",six,six
+English: ""six"" - 中文: ""","[31304, 232]",六,"[29879, 1354, 28319, 4832, 1039, 269]",six,six
 "English: ""beauty"" - 中文: ""美""
 English: ""item"" - 中文: ""项""
 English: ""word"" - 中文: ""字""
 English: ""defeat"" - 中文: ""败""
-English: ""seven"" - 中文: ""","[31425, 231]",七,"[29879, 9881, 269, 344, 409]",seven,seven
+English: ""seven"" - 中文: ""","[31425, 231]",七,"[344, 409, 29879, 9881, 269]",seven,seven
 "English: ""time"" - 中文: ""时""
 English: ""one"" - 中文: ""一""
 English: ""water"" - 中文: ""水""
 English: ""beauty"" - 中文: ""美""
-English: ""eight"" - 中文: ""","[31044, 232]",八,"[321, 9475, 10096, 29872, 15761, 29319]",eight,eight
+English: ""eight"" - 中文: ""","[31044, 232]",八,"[321, 9475, 15761, 29872, 10096, 29319]",eight,eight
 "English: ""color"" - 中文: ""色""
 English: ""office"" - 中文: ""局""
 English: ""red"" - 中文: ""红""
 English: ""sand"" - 中文: ""沙""
-English: ""nine"" - 中文: ""","[31321, 231]",九,"[302, 6836, 29876, 17081, 1240, 14183]",nine,nine
+English: ""nine"" - 中文: ""","[31321, 231]",九,"[6836, 14183, 29876, 302, 1240, 17081]",nine,nine
 "English: ""wave"" - 中文: ""波""
 English: ""soil"" - 中文: ""土""
 English: ""meeting"" - 中文: ""会""
 English: ""three"" - 中文: ""三""
-English: ""ten"" - 中文: ""","[30802, 232]",十,"[260, 371, 3006, 841, 29873, 734]",ten,ten
+English: ""ten"" - 中文: ""","[30802, 232]",十,"[3006, 734, 260, 29873, 841, 371]",ten,ten
 "English: ""foot"" - 中文: ""足""
 English: ""one"" - 中文: ""一""
 English: ""light"" - 中文: ""光""
 English: ""left"" - 中文: ""左""
-English: ""head"" - 中文: ""","[31584, 232]",头,"[2343, 298, 354, 540, 29882, 2813]",head,head
+English: ""head"" - 中文: ""","[31584, 232]",头,"[2343, 540, 2813, 298, 354, 29882]",head,head
 "English: ""south"" - 中文: ""南""
 English: ""mountain"" - 中文: ""山""
 English: ""gold"" - 中文: ""金""
 English: ""wood"" - 中文: ""木""
-English: ""shop"" - 中文: ""","[31758, 232]",店,"[18296, 17394, 29879, 269, 19032, 845, 528]",shop,shop
+English: ""shop"" - 中文: ""","[31758, 232]",店,"[18296, 29879, 17394, 528, 269, 845, 19032]",shop,shop
 "English: ""hundred"" - 中文: ""百""
 English: ""line"" - 中文: ""线""
 English: ""mother"" - 中文: ""母""
 English: ""forest"" - 中文: ""林""
-English: ""strip"" - 中文: ""","[31217, 233]",条,"[380, 17820, 10076, 29879, 269, 303, 710, 851, 17010]",strip,strip
+English: ""strip"" - 中文: ""","[31217, 233]",条,"[17010, 17820, 851, 29879, 710, 380, 10076, 303, 269]",strip,strip
 "English: ""version"" - 中文: ""版""
 English: ""benefit"" - 中文: ""利""
 English: ""three"" - 中文: ""三""
 English: ""speed"" - 中文: ""速""
-English: ""street"" - 中文: ""","[30813, 235]",街,"[380, 29879, 29352, 11952, 269, 13045, 303, 12243, 710, 851]",street,street
+English: ""street"" - 中文: ""","[30813, 235]",街,"[11952, 29352, 851, 29879, 710, 12243, 380, 13045, 269, 303]",street,street
 "English: ""defeat"" - 中文: ""败""
 English: ""friend"" - 中文: ""友""
 English: ""east"" - 中文: ""东""
 English: ""return"" - 中文: ""回""
-English: ""part"" - 中文: ""","[30636, 236]",部,"[1595, 282, 862, 3274, 760, 610, 3300, 29886]",part,part
+English: ""part"" - 中文: ""","[30636, 236]",部,"[610, 3274, 862, 29886, 3300, 282, 760, 1595]",part,part
 "English: ""strip"" - 中文: ""条""
 English: ""school"" - 中文: ""校""
 English: ""city"" - 中文: ""城""
 English: ""mother"" - 中文: ""母""
-English: ""eye"" - 中文: ""","[30895, 234]",目,"[1032, 321, 29872, 10977]",eye,eye
+English: ""eye"" - 中文: ""","[30895, 234]",目,"[321, 1032, 29872, 10977]",eye,eye
 "English: ""point"" - 中文: ""点""
 English: ""seat"" - 中文: ""座""
 English: ""eye"" - 中文: ""目""
 English: ""section"" - 中文: ""段""
-English: ""field"" - 中文: ""","[31632, 232]",场,"[5713, 2671, 7241, 29607, 285, 29888, 1746]",field,field
+English: ""field"" - 中文: ""","[31632, 232]",场,"[5713, 2671, 7241, 1746, 29607, 29888, 285]",field,field
 "English: ""structure"" - 中文: ""构""
 English: ""heart"" - 中文: ""心""
 English: ""field"" - 中文: ""场""
 English: ""machine"" - 中文: ""机""
-English: ""site"" - 中文: ""","[31702, 232]",址,"[1354, 2746, 29879, 269, 3268, 7845, 1039]",site,site
+English: ""site"" - 中文: ""","[31702, 232]",址,"[7845, 29879, 1354, 3268, 1039, 269, 2746]",site,site
 "English: ""mouth"" - 中文: ""口""
 English: ""wood"" - 中文: ""木""
 English: ""square"" - 中文: ""方""
 English: ""eye"" - 中文: ""目""
-English: ""dance"" - 中文: ""","[31939, 235]",舞,"[6025, 18386, 29881, 1146, 270, 17948, 1388]",dance,dance
+English: ""dance"" - 中文: ""","[31939, 235]",舞,"[1388, 18386, 29881, 6025, 17948, 270, 1146]",dance,dance
 "English: ""generation"" - 中文: ""代""
 English: ""six"" - 中文: ""六""
 English: ""hair"" - 中文: ""发""
 English: ""nine"" - 中文: ""九""
-English: ""word"" - 中文: ""","[30578, 232]",字,"[1742, 827, 13762, 1734, 281, 8879, 6365, 29893]",word,word
+English: ""word"" - 中文: ""","[30578, 232]",字,"[827, 13762, 6365, 29893, 1734, 8879, 281, 1742]",word,word
 "English: ""speech"" - 中文: ""话""
 English: ""field"" - 中文: ""场""
 English: ""mountain"" - 中文: ""山""
 English: ""nine"" - 中文: ""九""
-English: ""pair"" - 中文: ""","[31960, 232]",双,"[18784, 5101, 282, 3274, 3300, 29886]",pair,pair
+English: ""pair"" - 中文: ""","[31960, 232]",双,"[3274, 29886, 18784, 3300, 282, 5101]",pair,pair
 "English: ""day"" - 中文: ""日""
 English: ""virtue"" - 中文: ""德""
 English: ""judge"" - 中文: ""判""
 English: ""example"" - 中文: ""例""
-English: ""seat"" - 中文: ""","[31780, 232]",座,"[29879, 12949, 269, 7205, 344, 409]",seat,seat
+English: ""seat"" - 中文: ""","[31780, 232]",座,"[344, 409, 29879, 7205, 269, 12949]",seat,seat
 "English: ""forest"" - 中文: ""林""
 English: ""book"" - 中文: ""书""
 English: ""attempt"" - 中文: ""试""
 English: ""left"" - 中文: ""左""
-English: ""light"" - 中文: ""","[30867, 232]",光,"[14172, 3578, 619, 3473, 492, 4366, 301, 29880]",light,light
+English: ""light"" - 中文: ""","[30867, 232]",光,"[492, 619, 4366, 29880, 3473, 301, 14172, 3578]",light,light
 "English: ""field"" - 中文: ""场""
 English: ""kind"" - 中文: ""种""
 English: ""mouth"" - 中文: ""口""
 English: ""structure"" - 中文: ""构""
-English: ""thousand"" - 中文: ""","[31159, 232]",千,"[260, 10405, 386, 29873, 7693, 12595, 266]",thousand,thousand
+English: ""thousand"" - 中文: ""","[31159, 232]",千,"[266, 260, 12595, 10405, 386, 29873, 7693]",thousand,thousand
 "English: ""virtue"" - 中文: ""德""
 English: ""mother"" - 中文: ""母""
 English: ""net"" - 中文: ""网""
 English: ""province"" - 中文: ""省""
-English: ""north"" - 中文: ""","[30662, 232]",北,"[6641, 694, 15459, 302, 29876, 3643, 1217]",north,north
+English: ""north"" - 中文: ""","[30662, 232]",北,"[6641, 29876, 302, 3643, 694, 15459, 1217]",north,north
 "English: ""history"" - 中文: ""史""
 English: ""village"" - 中文: ""村""
 English: ""language"" - 中文: ""语""
 English: ""north"" - 中文: ""北""
-English: ""machine"" - 中文: ""","[31429, 233]",机,"[5825, 655, 23523, 7672, 29885, 4933, 611, 286, 8628]",machine,machine
+English: ""machine"" - 中文: ""","[31429, 233]",机,"[286, 7672, 611, 4933, 23523, 8628, 655, 29885, 5825]",machine,machine
 "English: ""three"" - 中文: ""三""
 English: ""eye"" - 中文: ""目""
 English: ""friend"" - 中文: ""友""
 English: ""history"" - 中文: ""史""
-English: ""time"" - 中文: ""","[30594, 233]",时,"[931, 5335, 260, 9346, 19538, 2034, 29873, 2230]",time,time
+English: ""time"" - 中文: ""","[30594, 233]",时,"[19538, 5335, 931, 260, 9346, 29873, 2230, 2034]",time,time
 "English: ""lake"" - 中文: ""湖""
 English: ""attempt"" - 中文: ""试""
 English: ""fruit"" - 中文: ""果""
 English: ""painting"" - 中文: ""画""
-English: ""benefit"" - 中文: ""","[31107, 232]",利,"[13982, 289, 3856, 7795, 14169, 1785, 915, 29890, 367]",benefit,benefit
+English: ""benefit"" - 中文: ""","[31107, 232]",利,"[367, 915, 1785, 3856, 13982, 14169, 29890, 7795, 289]",benefit,benefit
 "English: ""square"" - 中文: ""方""
 English: ""head"" - 中文: ""头""
 English: ""sun"" - 中文: ""阳""
 English: ""middle"" - 中文: ""中""
-English: ""position"" - 中文: ""","[30956, 231]",位,"[1129, 282, 2602, 1066, 926, 3283, 29886, 13686, 772]",position,position
+English: ""position"" - 中文: ""","[30956, 231]",位,"[926, 2602, 29886, 1129, 3283, 1066, 13686, 282, 772]",position,position
 "English: ""north"" - 中文: ""北""
 English: ""cave"" - 中文: ""洞""
 English: ""platform"" - 中文: ""台""
 English: ""group"" - 中文: ""群""
-English: ""province"" - 中文: ""","[31600, 234]",省,"[1326, 282, 558, 771, 8482, 410, 12291, 544, 29886, 16123]",province,province
+English: ""province"" - 中文: ""","[31600, 234]",省,"[771, 558, 8482, 29886, 1326, 16123, 544, 282, 410, 12291]",province,province
 "English: ""delete"" - 中文: ""删""
 English: ""hair"" - 中文: ""发""
 English: ""summer"" - 中文: ""夏""
 English: ""foot"" - 中文: ""足""
-English: ""exchange"" - 中文: ""","[31398, 231]",交,"[321, 14523, 735, 429, 29872, 5566, 6543]",exchange,exchange
+English: ""exchange"" - 中文: ""","[31398, 231]",交,"[6543, 321, 14523, 29872, 5566, 735, 429]",exchange,exchange
 "English: ""city"" - 中文: ""城""
 English: ""point"" - 中文: ""点""
 English: ""square"" - 中文: ""方""
 English: ""official"" - 中文: ""官""
-English: ""middle"" - 中文: ""","[30275, 231]",中,"[17662, 29885, 6563, 286, 7256, 3737, 2460, 7145]",middle,middle
+English: ""middle"" - 中文: ""","[30275, 231]",中,"[7256, 286, 17662, 7145, 2460, 6563, 3737, 29885]",middle,middle
 "English: ""exchange"" - 中文: ""交""
 English: ""source"" - 中文: ""源""
 English: ""example"" - 中文: ""例""
 English: ""person"" - 中文: ""人""
-English: ""friend"" - 中文: ""","[31373, 232]",友,"[5121, 7932, 1424, 18326, 285, 29888, 1341, 3484]",friend,friend
+English: ""friend"" - 中文: ""","[31373, 232]",友,"[3484, 7932, 18326, 1424, 1341, 29888, 5121, 285]",friend,friend
 "English: ""tail"" - 中文: ""尾""
 English: ""star"" - 中文: ""星""
 English: ""forest"" - 中文: ""林""
 English: ""summer"" - 中文: ""夏""
-English: ""color"" - 中文: ""","[31085, 235]",色,"[1302, 2780, 29883, 1054, 274, 784, 2927, 10965, 1111]",color,color
+English: ""color"" - 中文: ""","[31085, 235]",色,"[29883, 10965, 1302, 274, 2780, 784, 1111, 2927, 1054]",color,color
 "English: ""door"" - 中文: ""门""
 English: ""four"" - 中文: ""四""
 English: ""flower"" - 中文: ""花""
 English: ""section"" - 中文: ""段""
-English: ""kind"" - 中文: ""","[31893, 234]",种,"[19015, 14380, 1984, 8506, 2924, 9089, 413, 29895]",kind,kind
+English: ""kind"" - 中文: ""","[31893, 234]",种,"[9089, 8506, 1984, 413, 19015, 29895, 2924, 14380]",kind,kind
 "English: ""day"" - 中文: ""日""
 English: ""mountain"" - 中文: ""山""
 English: ""east"" - 中文: ""东""
 English: ""section"" - 中文: ""段""
-English: ""judge"" - 中文: ""","[31791, 232]",判,"[3623, 17675, 6577, 29926, 16833, 432, 4900]",judge,judge
+English: ""judge"" - 中文: ""","[31791, 232]",判,"[29926, 16833, 17675, 6577, 3623, 4900, 432]",judge,judge
 "English: ""cave"" - 中文: ""洞""
 English: ""heart"" - 中文: ""心""
 English: ""item"" - 中文: ""项""
 English: ""net"" - 中文: ""网""
-English: ""school"" - 中文: ""","[31071, 233]",校,"[3762, 885, 1364, 29879, 27041, 269, 816, 1557]",school,school
+English: ""school"" - 中文: ""","[31071, 233]",校,"[1557, 27041, 3762, 29879, 1364, 885, 269, 816]",school,school
 "English: ""one"" - 中文: ""一""
 English: ""tower"" - 中文: ""塔""
 English: ""snow"" - 中文: ""雪""
 English: ""power"" - 中文: ""力""
-English: ""structure"" - 中文: ""","[31901, 233]",构,"[380, 6220, 10582, 29879, 269, 2281, 3829, 23905, 303, 710, 4984, 851]",structure,structure
+English: ""structure"" - 中文: ""","[31901, 233]",构,"[851, 29879, 4984, 710, 23905, 380, 6220, 2281, 3829, 269, 10582, 303]",structure,structure
 "English: ""fire"" - 中文: ""火""
 English: ""sun"" - 中文: ""阳""
 English: ""dance"" - 中文: ""舞""
 English: ""village"" - 中文: ""村""
-English: ""tie"" - 中文: ""","[31320, 234]",结,"[260, 22134, 19538, 2034, 29873]",tie,tie
+English: ""tie"" - 中文: ""","[31320, 234]",结,"[19538, 260, 22134, 29873, 2034]",tie,tie
 "English: ""speech"" - 中文: ""话""
 English: ""cloth"" - 中文: ""布""
 English: ""rise"" - 中文: ""起""
 English: ""moon"" - 中文: ""月""
-English: ""example"" - 中文: ""","[31507, 231]",例,"[1342, 321, 4392, 735, 429, 29872, 4773]",example,example
+English: ""example"" - 中文: ""","[31507, 231]",例,"[1342, 4392, 321, 29872, 4773, 735, 429]",example,example
 "English: ""advance"" - 中文: ""进""
 English: ""official"" - 中文: ""官""
 English: ""red"" - 中文: ""红""
 English: ""tie"" - 中文: ""结""
-English: ""face"" - 中文: ""","[30806, 236]",面,"[2258, 2161, 5444, 4024, 285, 3700, 29888, 17470]",face,face
+English: ""face"" - 中文: ""","[30806, 236]",面,"[4024, 5444, 2258, 17470, 2161, 3700, 29888, 285]",face,face
 "English: ""site"" - 中文: ""址""
 English: ""eye"" - 中文: ""目""
 English: ""hair"" - 中文: ""发""
 English: ""tea"" - 中文: ""茶""
-English: ""bridge"" - 中文: ""","[31749, 233]",桥,"[18419, 289, 28635, 1182, 12945, 1506, 19515, 29890]",bridge,bridge
+English: ""bridge"" - 中文: ""","[31749, 233]",桥,"[1182, 18419, 28635, 1506, 29890, 289, 12945, 19515]",bridge,bridge
 "English: ""meeting"" - 中文: ""会""
 English: ""village"" - 中文: ""村""
 English: ""five"" - 中文: ""五""
 English: ""office"" - 中文: ""局""
-English: ""item"" - 中文: ""","[31888, 236]",项,"[2944, 667, 29875, 568, 474, 372, 277]",item,item
+English: ""item"" - 中文: ""","[31888, 236]",项,"[29875, 372, 2944, 667, 474, 277, 568]",item,item
 "English: ""gold"" - 中文: ""金""
 English: ""history"" - 中文: ""史""
 English: ""water"" - 中文: ""水""
 English: ""power"" - 中文: ""力""
-English: ""delete"" - 中文: ""","[31916, 232]",删,"[316, 29881, 628, 270, 8143, 6144, 311, 5217, 7374]",delete,delete
+English: ""delete"" - 中文: ""","[31916, 232]",删,"[6144, 316, 8143, 628, 270, 5217, 311, 29881, 7374]",delete,delete
 "English: ""rice"" - 中文: ""米""
 English: ""gold"" - 中文: ""金""
 English: ""tea"" - 中文: ""茶""
 English: ""return"" - 中文: ""回""
-English: ""group"" - 中文: ""","[31829, 234]",群,"[17170, 29887, 629, 2972, 330, 4071, 867, 2318]",group,group
+English: ""group"" - 中文: ""","[31829, 234]",群,"[29887, 2318, 17170, 629, 2972, 4071, 867, 330]",group,group
 "English: ""friend"" - 中文: ""友""
 English: ""exchange"" - 中文: ""交""
 English: ""three"" - 中文: ""三""
 English: ""sand"" - 中文: ""沙""
-English: ""talent"" - 中文: ""","[31979, 233]",才,"[5969, 260, 941, 17694, 20411, 24242, 29873, 11062]",talent,talent
+English: ""talent"" - 中文: ""","[31979, 233]",才,"[20411, 24242, 11062, 941, 17694, 260, 5969, 29873]",talent,talent
 "English: ""rock"" - 中文: ""岩""
 English: ""speech"" - 中文: ""话""
 English: ""power"" - 中文: ""力""
 English: ""person"" - 中文: ""人""
-English: ""beauty"" - 中文: ""","[30630, 234]",美,"[289, 15409, 915, 6562, 29890, 367]",beauty,beauty
+English: ""beauty"" - 中文: ""","[30630, 234]",美,"[367, 15409, 6562, 29890, 915, 289]",beauty,beauty
 "English: ""dance"" - 中文: ""舞""
 English: ""group"" - 中文: ""群""
 English: ""school"" - 中文: ""校""
 English: ""hair"" - 中文: ""发""
-English: ""platform"" - 中文: ""","[31037, 232]",台,"[13974, 282, 7481, 18870, 715, 12120, 2174, 29886, 572]",platform,platform
+English: ""platform"" - 中文: ""","[31037, 232]",台,"[12120, 7481, 29886, 13974, 715, 572, 282, 2174, 18870]",platform,platform
 "English: ""song"" - 中文: ""歌""
 English: ""cloud"" - 中文: ""云""
 English: ""attempt"" - 中文: ""试""
 English: ""grid"" - 中文: ""格""
-English: ""house"" - 中文: ""","[31654, 232]",屋,"[8697, 9261, 3699, 298, 1251, 29882, 5089, 10774]",house,house
+English: ""house"" - 中文: ""","[31654, 232]",屋,"[29882, 3699, 5089, 1251, 298, 8697, 10774, 9261]",house,house
 "English: ""official"" - 中文: ""官""
 English: ""net"" - 中文: ""网""
 English: ""mother"" - 中文: ""母""
 English: ""mountain"" - 中文: ""山""
-English: ""sun"" - 中文: ""","[31430, 236]",阳,"[480, 11445, 2146, 29879, 269, 6575]",sun,sun
+English: ""sun"" - 中文: ""","[31430, 236]",阳,"[11445, 29879, 2146, 6575, 480, 269]",sun,sun
 "English: ""language"" - 中文: ""语""
 English: ""four"" - 中文: ""四""
 English: ""five"" - 中文: ""五""
 English: ""strip"" - 中文: ""条""
-English: ""meeting"" - 中文: ""","[30437, 231]",会,"[592, 1004, 29885, 17897, 286, 5870, 11781]",meeting,meeting
+English: ""meeting"" - 中文: ""","[30437, 231]",会,"[286, 11781, 1004, 17897, 5870, 592, 29885]",meeting,meeting
 "English: ""pair"" - 中文: ""双""
 English: ""square"" - 中文: ""方""
 English: ""attempt"" - 中文: ""试""
 English: ""part"" - 中文: ""部""
-English: ""history"" - 中文: ""","[30911, 232]",史,"[7251, 3603, 16211, 298, 18434, 4955, 2918, 9825, 29882, 22880, 670]",history,history
+English: ""history"" - 中文: ""","[30911, 232]",史,"[16211, 9825, 22880, 3603, 2918, 670, 4955, 7251, 298, 18434, 29882]",history,history
 "English: ""station"" - 中文: ""站""
 English: ""delete"" - 中文: ""删""
 English: ""example"" - 中文: ""例""
 English: ""cloth"" - 中文: ""布""
-English: ""valley"" - 中文: ""","[31112, 235]",谷,"[659, 19599, 29894, 28519, 1564, 2947, 325, 791, 22044]",valley,valley
+English: ""valley"" - 中文: ""","[31112, 235]",谷,"[28519, 29894, 22044, 659, 325, 1564, 791, 2947, 19599]",valley,valley
 "English: ""item"" - 中文: ""项""
 English: ""city"" - 中文: ""城""
 English: ""structure"" - 中文: ""构""
 English: ""bag"" - 中文: ""包""
-English: ""square"" - 中文: ""","[30525, 233]",方,"[10674, 6862, 18074, 26613, 29879, 269, 3044, 17619]",square,square
+English: ""square"" - 中文: ""","[30525, 233]",方,"[29879, 3044, 10674, 18074, 6862, 17619, 269, 26613]",square,square
 "English: ""face"" - 中文: ""面""
 English: ""structure"" - 中文: ""构""
 English: ""shop"" - 中文: ""店""
 English: ""item"" - 中文: ""项""
-English: ""generation"" - 中文: ""","[30690, 231]",代,"[330, 12623, 1885, 29887, 479, 2531, 1176, 1737, 18530, 4738]",generation,generation
+English: ""generation"" - 中文: ""","[30690, 231]",代,"[330, 1885, 18530, 479, 12623, 1737, 2531, 29887, 4738, 1176]",generation,generation
 "English: ""dance"" - 中文: ""舞""
 English: ""speech"" - 中文: ""话""
 English: ""forest"" - 中文: ""林""
 English: ""time"" - 中文: ""时""
-English: ""south"" - 中文: ""","[30601, 232]",南,"[578, 13267, 29879, 269, 7062, 577, 3669]",south,south
+English: ""south"" - 中文: ""","[30601, 232]",南,"[29879, 578, 13267, 7062, 3669, 577, 269]",south,south
 "English: ""line"" - 中文: ""线""
 English: ""forest"" - 中文: ""林""
 English: ""fruit"" - 中文: ""果""
 English: ""official"" - 中文: ""官""
-English: ""virtue"" - 中文: ""","[31169, 232]",德,"[29894, 27935, 15389, 325, 10636, 1403, 2405, 4610, 3516]",virtue,virtue
+English: ""virtue"" - 中文: ""","[31169, 232]",德,"[29894, 27935, 325, 10636, 4610, 1403, 2405, 3516, 15389]",virtue,virtue
 "English: ""water"" - 中文: ""水""
 English: ""painting"" - 中文: ""画""
 English: ""head"" - 中文: ""头""
 English: ""two"" - 中文: ""二""
-English: ""tribe"" - 中文: ""","[30999, 233]",族,"[29563, 3367, 260, 9434, 534, 509, 3626, 29873]",tribe,tribe
+English: ""tribe"" - 中文: ""","[30999, 233]",族,"[9434, 29563, 3626, 260, 3367, 534, 509, 29873]",tribe,tribe
 "English: ""rice"" - 中文: ""米""
 English: ""painting"" - 中文: ""画""
 English: ""book"" - 中文: ""书""
 English: ""speed"" - 中文: ""速""
-English: ""city"" - 中文: ""","[30626, 232]",城,"[4272, 455, 4583, 29883, 12690, 274, 7537, 20752]",city,city
+English: ""city"" - 中文: ""","[30626, 232]",城,"[29883, 12690, 274, 455, 7537, 4272, 4583, 20752]",city,city
 "English: ""beauty"" - 中文: ""美""
 English: ""dance"" - 中文: ""舞""
 English: ""judge"" - 中文: ""判""
 English: ""face"" - 中文: ""面""
-English: ""language"" - 中文: ""","[31505, 235]",语,"[11675, 425, 6361, 4086, 6468, 3893, 433, 10906, 301, 29880]",language,language
+English: ""language"" - 中文: ""","[31505, 235]",语,"[4086, 3893, 433, 6468, 10906, 29880, 301, 11675, 425, 6361]",language,language
 "English: ""east"" - 中文: ""东""
 English: ""friend"" - 中文: ""友""
 English: ""water"" - 中文: ""水""
 English: ""six"" - 中文: ""六""
-English: ""speed"" - 中文: ""","[31859, 236]",速,"[1028, 6210, 805, 29879, 5965, 269, 961, 19322]",speed,speed
+English: ""speed"" - 中文: ""","[31859, 236]",速,"[1028, 29879, 6210, 19322, 961, 5965, 269, 805]",speed,speed
 "English: ""snow"" - 中文: ""雪""
 English: ""tail"" - 中文: ""尾""
 English: ""flower"" - 中文: ""花""
 English: ""sea"" - 中文: ""海""
-English: ""ground"" - 中文: ""","[30533, 232]",地,"[17170, 29887, 629, 330, 4071, 867, 2057, 5962]",ground,ground
+English: ""ground"" - 中文: ""","[30533, 232]",地,"[29887, 2057, 17170, 629, 5962, 4071, 867, 330]",ground,ground
 "English: ""snow"" - 中文: ""雪""
 English: ""version"" - 中文: ""版""
 English: ""three"" - 中文: ""三""
 English: ""ocean"" - 中文: ""洋""
-English: ""advance"" - 中文: ""","[31174, 235]",进,"[328, 594, 17263, 263, 3061, 6564, 29874]",advance,advance
+English: ""advance"" - 中文: ""","[31174, 235]",进,"[17263, 263, 6564, 29874, 594, 3061, 328]",advance,advance
 "English: ""summer"" - 中文: ""夏""
 English: ""station"" - 中文: ""站""
 English: ""painting"" - 中文: ""画""
 English: ""rock"" - 中文: ""岩""
-English: ""attempt"" - 中文: ""","[31787, 235]",试,"[4218, 472, 263, 1098, 1131, 271, 15127, 21609, 29874]",attempt,attempt
+English: ""attempt"" - 中文: ""","[31787, 235]",试,"[472, 263, 21609, 1098, 1131, 15127, 271, 29874, 4218]",attempt,attempt
 "English: ""heart"" - 中文: ""心""
 English: ""tower"" - 中文: ""塔""
 English: ""foot"" - 中文: ""足""
 English: ""lake"" - 中文: ""湖""
-English: ""defeat"" - 中文: ""","[31955, 235]",败,"[8686, 20653, 316, 29881, 270, 1753, 311, 822]",defeat,defeat
+English: ""defeat"" - 中文: ""","[31955, 235]",败,"[8686, 29881, 316, 270, 20653, 822, 311, 1753]",defeat,defeat
 "English: ""lake"" - 中文: ""湖""
 English: ""five"" - 中文: ""五""
 English: ""head"" - 中文: ""头""
 English: ""horse"" - 中文: ""马""
-English: ""tail"" - 中文: ""","[31631, 232]",尾,"[11062, 260, 941, 18237, 12464, 29873]",tail,tail
+English: ""tail"" - 中文: ""","[31631, 232]",尾,"[11062, 12464, 941, 18237, 260, 29873]",tail,tail
 "English: ""four"" - 中文: ""四""
 English: ""horse"" - 中文: ""马""
 English: ""ground"" - 中文: ""地""
 English: ""star"" - 中文: ""星""
-English: ""mother"" - 中文: ""","[31763, 233]",母,"[14817, 5637, 29885, 3184, 2730, 286, 4346, 25550]",mother,mother
+English: ""mother"" - 中文: ""","[31763, 233]",母,"[286, 4346, 25550, 5637, 14817, 3184, 2730, 29885]",mother,mother
 "English: ""sound"" - 中文: ""音""
 English: ""ocean"" - 中文: ""洋""
 English: ""rock"" - 中文: ""岩""
 English: ""child"" - 中文: ""子""
-English: ""east"" - 中文: ""","[30979, 231]",东,"[11248, 321, 2240, 23027, 29872, 9755]",east,east
+English: ""east"" - 中文: ""","[30979, 231]",东,"[11248, 321, 2240, 29872, 9755, 23027]",east,east
 "English: ""pair"" - 中文: ""双""
 English: ""door"" - 中文: ""门""
 English: ""day"" - 中文: ""日""
 English: ""hundred"" - 中文: ""百""
-English: ""return"" - 中文: ""","[30742, 232]",回,"[2457, 364, 3240, 337, 2267, 29878, 276, 736]",return,return
+English: ""return"" - 中文: ""","[30742, 232]",回,"[29878, 364, 736, 3240, 276, 2267, 2457, 337]",return,return
 "English: ""office"" - 中文: ""局""
 English: ""platform"" - 中文: ""台""
 English: ""rock"" - 中文: ""岩""
 English: ""talent"" - 中文: ""才""
-English: ""speech"" - 中文: ""","[31852, 235]",话,"[1028, 805, 29879, 5965, 269, 12032, 961]",speech,speech
+English: ""speech"" - 中文: ""","[31852, 235]",话,"[1028, 29879, 12032, 961, 5965, 269, 805]",speech,speech
 "English: ""attempt"" - 中文: ""试""
 English: ""painting"" - 中文: ""画""
 English: ""face"" - 中文: ""面""
 English: ""fruit"" - 中文: ""果""
-English: ""child"" - 中文: ""","[30319, 232]",子,"[18558, 305, 29883, 274, 5145, 2278, 521, 4161]",child,child
+English: ""child"" - 中文: ""","[30319, 232]",子,"[29883, 274, 18558, 5145, 521, 4161, 2278, 305]",child,child
 "English: ""street"" - 中文: ""街""
 English: ""law"" - 中文: ""法""
 English: ""thousand"" - 中文: ""千""
 English: ""face"" - 中文: ""面""
-English: ""tower"" - 中文: ""","[31831, 232]",塔,"[260, 517, 19372, 304, 29873]",tower,tower
+English: ""tower"" - 中文: ""","[31831, 232]",塔,"[304, 517, 260, 29873, 19372]",tower,tower
 "English: ""rock"" - 中文: ""岩""
 English: ""star"" - 中文: ""星""
 English: ""lake"" - 中文: ""湖""
 English: ""official"" - 中文: ""官""
-English: ""hair"" - 中文: ""","[30910, 232]",发,"[11315, 447, 298, 29882, 23535, 2350]",hair,hair
+English: ""hair"" - 中文: ""","[30910, 232]",发,"[11315, 2350, 447, 298, 23535, 29882]",hair,hair
 "English: ""tower"" - 中文: ""塔""
 English: ""tail"" - 中文: ""尾""
 English: ""word"" - 中文: ""字""
 English: ""machine"" - 中文: ""机""
-English: ""household"" - 中文: ""","[31229, 233]",户,"[8697, 9261, 3699, 298, 1251, 29882, 22329, 5089, 10774]",household,household
+English: ""household"" - 中文: ""","[31229, 233]",户,"[29882, 22329, 3699, 5089, 1251, 10774, 298, 8697, 9261]",household,household
 "English: ""strip"" - 中文: ""条""
 English: ""province"" - 中文: ""省""
 English: ""example"" - 中文: ""例""
 English: ""version"" - 中文: ""版""
-English: ""person"" - 中文: ""","[30313, 231]",人,"[10532, 282, 3736, 546, 1236, 2022, 412, 29886, 639, 6774]",person,person
+English: ""person"" - 中文: ""","[30313, 231]",人,"[2022, 29886, 412, 639, 10532, 3736, 1236, 546, 282, 6774]",person,person
 "English: ""ocean"" - 中文: ""洋""
 English: ""seat"" - 中文: ""座""
 English: ""history"" - 中文: ""史""
 English: ""law"" - 中文: ""法""
-English: ""section"" - 中文: ""","[31559, 233]",段,"[8803, 2042, 21149, 4004, 29879, 269, 344, 3471, 5226, 409]",section,section
+English: ""section"" - 中文: ""","[31559, 233]",段,"[3471, 8803, 344, 409, 29879, 2042, 5226, 4004, 269, 21149]",section,section
 "English: ""school"" - 中文: ""校""
 English: ""painting"" - 中文: ""画""
 English: ""law"" - 中文: ""法""
 English: ""tie"" - 中文: ""结""
-English: ""official"" - 中文: ""","[31694, 232]",官,"[288, 3344, 1283, 29877, 974, 29158, 2696, 310, 6221]",official,official
+English: ""official"" - 中文: ""","[31694, 232]",官,"[288, 29158, 310, 974, 1283, 2696, 6221, 3344, 29877]",official,official
 "English: ""red"" - 中文: ""红""
 English: ""time"" - 中文: ""时""
 English: ""flower"" - 中文: ""花""
 English: ""platform"" - 中文: ""台""
-English: ""hundred"" - 中文: ""","[31047, 234]",百,"[22888, 298, 6893, 29882, 6905, 9074]",hundred,hundred
+English: ""hundred"" - 中文: ""","[31047, 234]",百,"[6905, 22888, 298, 6893, 9074, 29882]",hundred,hundred
 "English: ""cloud"" - 中文: ""云""
 English: ""child"" - 中文: ""子""
 English: ""kind"" - 中文: ""种""
 English: ""line"" - 中文: ""线""
-English: ""office"" - 中文: ""","[31655, 232]",局,"[288, 3344, 1283, 29877, 974, 20205, 2696, 310, 8034]",office,office
+English: ""office"" - 中文: ""","[31655, 232]",局,"[288, 310, 8034, 974, 1283, 2696, 20205, 3344, 29877]",office,office
 "English: ""valley"" - 中文: ""谷""
 English: ""day"" - 中文: ""日""
 English: ""spring"" - 中文: ""春""
 English: ""horse"" - 中文: ""马""
-English: ""rock"" - 中文: ""","[31753, 232]",岩,"[364, 20821, 307, 7679, 10198, 696, 29878]",rock,rock
+English: ""rock"" - 中文: ""","[31753, 232]",岩,"[307, 10198, 29878, 696, 364, 20821, 7679]",rock,rock
 "English: ""structure"" - 中文: ""构""
 English: ""pond"" - 中文: ""池""
 English: ""item"" - 中文: ""项""
 English: ""office"" - 中文: ""局""
-English: ""rise"" - 中文: ""","[31558, 235]",起,"[3780, 374, 10107, 14451, 5161, 364, 29878]",rise,rise
+English: ""rise"" - 中文: ""","[31558, 235]",起,"[374, 10107, 29878, 3780, 364, 5161, 14451]",rise,rise
 "English: ""structure"" - 中文: ""构""
 English: ""child"" - 中文: ""子""
 English: ""foot"" - 中文: ""足""
 English: ""four"" - 中文: ""四""
-English: ""left"" - 中文: ""","[31651, 232]",左,"[454, 1563, 280, 2175, 25874, 301, 29880]",left,left
+English: ""left"" - 中文: ""","[31651, 232]",左,"[454, 25874, 29880, 280, 301, 2175, 1563]",left,left
 "English: ""rock"" - 中文: ""岩""
 English: ""generation"" - 中文: ""代""
 English: ""speed"" - 中文: ""速""
 English: ""north"" - 中文: ""北""
-English: ""sound"" - 中文: ""","[30941, 236]",音,"[578, 29802, 29879, 269, 6047, 577, 3669]",sound,sound
+English: ""sound"" - 中文: ""","[30941, 236]",音,"[29879, 6047, 578, 29802, 3669, 577, 269]",sound,sound
 "English: ""two"" - 中文: ""二""
 English: ""tail"" - 中文: ""尾""
 English: ""water"" - 中文: ""水""
 English: ""judge"" - 中文: ""判""
-English: ""power"" - 中文: ""","[31074, 232]",力,"[12248, 4764, 282, 1129, 3081, 13519, 29886, 772]",power,power
+English: ""power"" - 中文: ""","[31074, 232]",力,"[13519, 3081, 29886, 1129, 12248, 4764, 282, 772]",power,power
 "English: ""day"" - 中文: ""日""
 English: ""speed"" - 中文: ""速""
 English: ""source"" - 中文: ""源""
 English: ""school"" - 中文: ""校""
-English: ""summer"" - 中文: ""","[31241, 232]",夏,"[480, 2146, 2083, 2533, 29879, 269, 22792, 11801]",summer,summer
+English: ""summer"" - 中文: ""","[31241, 232]",夏,"[11801, 29879, 2146, 2533, 22792, 480, 269, 2083]",summer,summer

@@ -3,599 +3,599 @@ prompt,out_token_id,out_token_str,latent_token_id,latent_token_str,in_token_str
 Deutsch: ""Haus"" - 中文: ""屋""
 Deutsch: ""Berg"" - 中文: ""山""
 Deutsch: ""eins"" - 中文: ""一""
-Deutsch: ""Buch"" - 中文: ""","[31900, 231]",书,"[1045, 3143, 2909, 289, 833, 29890]",book,Buch
+Deutsch: ""Buch"" - 中文: ""","[31900, 231]",书,"[2909, 3143, 833, 1045, 289, 29890]",book,Buch
 "Deutsch: ""Plattform"" - 中文: ""台""
 Deutsch: ""vier"" - 中文: ""四""
 Deutsch: ""Gitter"" - 中文: ""格""
 Deutsch: ""Wasser"" - 中文: ""水""
-Deutsch: ""Wolke"" - 中文: ""","[31784, 231]",云,"[15126, 695, 9274, 9570, 29883, 274, 17184, 1067, 23642]",cloud,Wolke
+Deutsch: ""Wolke"" - 中文: ""","[31784, 231]",云,"[9570, 15126, 9274, 1067, 29883, 695, 23642, 274, 17184]",cloud,Wolke
 "Deutsch: ""Freund"" - 中文: ""友""
 Deutsch: ""See"" - 中文: ""湖""
 Deutsch: ""Meer"" - 中文: ""海""
 Deutsch: ""Paar"" - 中文: ""双""
-Deutsch: ""Tasche"" - 中文: ""","[31473, 232]",包,"[9922, 2291, 19548, 289, 29890, 23156]",bag,Tasche
+Deutsch: ""Tasche"" - 中文: ""","[31473, 232]",包,"[19548, 289, 2291, 9922, 29890, 23156]",bag,Tasche
 "Deutsch: ""Kopf"" - 中文: ""头""
 Deutsch: ""Mitte"" - 中文: ""中""
 Deutsch: ""Bahnhof"" - 中文: ""站""
 Deutsch: ""Kind"" - 中文: ""子""
-Deutsch: ""Mund"" - 中文: ""","[30856, 232]",口,"[4346, 2730, 13394, 286, 29442, 29885, 21026]",mouth,Mund
+Deutsch: ""Mund"" - 中文: ""","[30856, 232]",口,"[286, 29885, 2730, 13394, 4346, 21026, 29442]",mouth,Mund
 "Deutsch: ""Provinz"" - 中文: ""省""
 Deutsch: ""Netz"" - 中文: ""网""
 Deutsch: ""Schwanz"" - 中文: ""尾""
 Deutsch: ""neun"" - 中文: ""九""
-Deutsch: ""Boden"" - 中文: ""","[31181, 232]",土,"[269, 578, 577, 29879, 22473]",soil,Boden
+Deutsch: ""Boden"" - 中文: ""","[31181, 232]",土,"[269, 29879, 578, 577, 22473]",soil,Boden
 "Deutsch: ""Bahnhof"" - 中文: ""站""
 Deutsch: ""Meer"" - 中文: ""海""
 Deutsch: ""Punkt"" - 中文: ""点""
 Deutsch: ""sechs"" - 中文: ""六""
-Deutsch: ""Berg"" - 中文: ""","[30329, 232]",山,"[4346, 2730, 286, 14378, 5766, 16476, 29442, 29885]",mountain,Berg
+Deutsch: ""Berg"" - 中文: ""","[30329, 232]",山,"[286, 14378, 16476, 29885, 2730, 5766, 4346, 29442]",mountain,Berg
 "Deutsch: ""Provinz"" - 中文: ""省""
 Deutsch: ""Netz"" - 中文: ""网""
 Deutsch: ""Herz"" - 中文: ""心""
 Deutsch: ""Rede"" - 中文: ""话""
-Deutsch: ""Tuch"" - 中文: ""","[31454, 232]",布,"[15126, 13950, 695, 29883, 274, 17184, 1067]",cloth,Tuch
+Deutsch: ""Tuch"" - 中文: ""","[31454, 232]",布,"[13950, 15126, 1067, 29883, 695, 274, 17184]",cloth,Tuch
 "Deutsch: ""Schnee"" - 中文: ""雪""
 Deutsch: ""Feder"" - 中文: ""春""
 Deutsch: ""Version"" - 中文: ""版""
 Deutsch: ""Beispiel"" - 中文: ""例""
-Deutsch: ""Herz"" - 中文: ""","[30869, 232]",心,"[5192, 540, 23057, 354, 298, 8293, 29882]",heart,Herz
+Deutsch: ""Herz"" - 中文: ""","[30869, 232]",心,"[23057, 8293, 540, 5192, 29882, 298, 354]",heart,Herz
 "Deutsch: ""Höhle"" - 中文: ""洞""
 Deutsch: ""neun"" - 中文: ""九""
 Deutsch: ""Tuch"" - 中文: ""布""
 Deutsch: ""Ball"" - 中文: ""球""
-Deutsch: ""Hand"" - 中文: ""","[30880, 233]",手,"[5905, 3179, 447, 1361, 298, 2350, 29882, 5403]",hand,Hand
+Deutsch: ""Hand"" - 中文: ""","[30880, 233]",手,"[447, 5905, 1361, 29882, 2350, 3179, 5403, 298]",hand,Hand
 "Deutsch: ""Generation"" - 中文: ""代""
 Deutsch: ""Teich"" - 中文: ""池""
 Deutsch: ""löschen"" - 中文: ""删""
 Deutsch: ""Gegenstand"" - 中文: ""项""
-Deutsch: ""Tag"" - 中文: ""","[30325, 233]",日,"[29881, 270, 1388, 1146, 3250, 2462]",day,Tag
+Deutsch: ""Tag"" - 中文: ""","[30325, 233]",日,"[1388, 3250, 2462, 1146, 29881, 270]",day,Tag
 "Deutsch: ""Art"" - 中文: ""种""
 Deutsch: ""Niederlage"" - 中文: ""败""
 Deutsch: ""Feder"" - 中文: ""春""
 Deutsch: ""Tal"" - 中文: ""谷""
-Deutsch: ""Stern"" - 中文: ""","[30900, 233]",星,"[5173, 380, 269, 29879, 9523, 303, 8508, 5810]",star,Stern
+Deutsch: ""Stern"" - 中文: ""","[30900, 233]",星,"[380, 269, 8508, 29879, 9523, 5810, 5173, 303]",star,Stern
 "Deutsch: ""Reis"" - 中文: ""米""
 Deutsch: ""Schule"" - 中文: ""校""
 Deutsch: ""Holz"" - 中文: ""木""
 Deutsch: ""vier"" - 中文: ""四""
-Deutsch: ""Feder"" - 中文: ""","[31031, 233]",春,"[6709, 269, 1028, 15099, 7689, 29879, 4278, 805]",spring,Feder
+Deutsch: ""Feder"" - 中文: ""","[31031, 233]",春,"[7689, 269, 1028, 6709, 4278, 29879, 15099, 805]",spring,Feder
 "Deutsch: ""Anstieg"" - 中文: ""起""
 Deutsch: ""Generation"" - 中文: ""代""
 Deutsch: ""Berg"" - 中文: ""山""
 Deutsch: ""links"" - 中文: ""左""
-Deutsch: ""Mond"" - 中文: ""","[30534, 233]",月,"[4346, 18786, 2730, 286, 29885]",moon,Mond
+Deutsch: ""Mond"" - 中文: ""","[30534, 233]",月,"[286, 18786, 29885, 2730, 4346]",moon,Mond
 "Deutsch: ""Meer"" - 中文: ""海""
 Deutsch: ""Schnee"" - 中文: ""雪""
 Deutsch: ""Tuch"" - 中文: ""布""
 Deutsch: ""sechs"" - 中文: ""六""
-Deutsch: ""Holz"" - 中文: ""","[30710, 233]",木,"[8879, 827, 281, 8112, 6115, 29893]",wood,Holz
+Deutsch: ""Holz"" - 中文: ""","[30710, 233]",木,"[29893, 827, 6115, 281, 8879, 8112]",wood,Holz
 "Deutsch: ""Kopf"" - 中文: ""头""
 Deutsch: ""Anstieg"" - 中文: ""起""
 Deutsch: ""Provinz"" - 中文: ""省""
 Deutsch: ""zehn"" - 中文: ""十""
-Deutsch: ""Dorf"" - 中文: ""","[30402, 233]",村,"[5720, 325, 28765, 21031, 1403, 4213, 17191, 3516, 11928, 29894]",village,Dorf
+Deutsch: ""Dorf"" - 中文: ""","[30402, 233]",村,"[1403, 325, 3516, 28765, 5720, 17191, 29894, 4213, 21031, 11928]",village,Dorf
 "Deutsch: ""Fuß"" - 中文: ""足""
 Deutsch: ""Büro"" - 中文: ""局""
 Deutsch: ""Börse"" - 中文: ""交""
 Deutsch: ""Boden"" - 中文: ""土""
-Deutsch: ""Wald"" - 中文: ""","[30853, 233]",林,"[285, 13569, 29888, 1079, 363, 26839, 1701, 1181, 1454]",forest,Wald
+Deutsch: ""Wald"" - 中文: ""","[30853, 233]",林,"[29888, 1701, 13569, 285, 1454, 363, 26839, 1181, 1079]",forest,Wald
 "Deutsch: ""Blume"" - 中文: ""花""
 Deutsch: ""Welle"" - 中文: ""波""
 Deutsch: ""Wald"" - 中文: ""林""
 Deutsch: ""Stern"" - 中文: ""星""
-Deutsch: ""Gitter"" - 中文: ""","[31168, 233]",格,"[7720, 629, 867, 6856, 330, 29887]",grid,Gitter
+Deutsch: ""Gitter"" - 中文: ""","[31168, 233]",格,"[330, 6856, 629, 7720, 29887, 867]",grid,Gitter
 "Deutsch: ""Schule"" - 中文: ""校""
 Deutsch: ""fünf"" - 中文: ""五""
 Deutsch: ""Tuch"" - 中文: ""布""
 Deutsch: ""Auge"" - 中文: ""目""
-Deutsch: ""Lied"" - 中文: ""","[31173, 233]",歌,"[4823, 21453, 1100, 269, 1487, 578, 577, 29879]",song,Lied
+Deutsch: ""Lied"" - 中文: ""","[31173, 233]",歌,"[269, 4823, 29879, 578, 577, 1100, 21453, 1487]",song,Lied
 "Deutsch: ""Ozean"" - 中文: ""洋""
 Deutsch: ""Richter"" - 中文: ""判""
 Deutsch: ""Macht"" - 中文: ""力""
 Deutsch: ""fünf"" - 中文: ""五""
-Deutsch: ""Wasser"" - 中文: ""","[30716, 233]",水,"[11324, 281, 2766, 16699, 13405, 4094, 29893]",water,Wasser
+Deutsch: ""Wasser"" - 中文: ""","[30716, 233]",水,"[11324, 29893, 4094, 16699, 2766, 13405, 281]",water,Wasser
 "Deutsch: ""Art"" - 中文: ""种""
 Deutsch: ""sieben"" - 中文: ""七""
 Deutsch: ""Holz"" - 中文: ""木""
 Deutsch: ""Zeit"" - 中文: ""时""
-Deutsch: ""Teich"" - 中文: ""","[31853, 233]",池,"[282, 1112, 1129, 12509, 2818, 772, 29886]",pond,Teich
+Deutsch: ""Teich"" - 中文: ""","[31853, 233]",池,"[772, 12509, 1112, 29886, 2818, 282, 1129]",pond,Teich
 "Deutsch: ""Stern"" - 中文: ""星""
 Deutsch: ""Börse"" - 中文: ""交""
 Deutsch: ""Tugend"" - 中文: ""德""
 Deutsch: ""Freund"" - 中文: ""友""
-Deutsch: ""Sand"" - 中文: ""","[31476, 233]",沙,"[11982, 9753, 269, 872, 28455, 29879, 4977]",sand,Sand
+Deutsch: ""Sand"" - 中文: ""","[31476, 233]",沙,"[269, 11982, 4977, 872, 29879, 9753, 28455]",sand,Sand
 "Deutsch: ""eins"" - 中文: ""一""
 Deutsch: ""Sitz"" - 中文: ""座""
 Deutsch: ""acht"" - 中文: ""八""
 Deutsch: ""Feuer"" - 中文: ""火""
-Deutsch: ""Fluss"" - 中文: ""","[30828, 233]",河,"[1150, 10107, 29878, 374, 4401, 3511, 9050, 8580, 364]",river,Fluss
+Deutsch: ""Fluss"" - 中文: ""","[30828, 233]",河,"[4401, 374, 9050, 10107, 29878, 364, 1150, 8580, 3511]",river,Fluss
 "Deutsch: ""zehn"" - 中文: ""十""
 Deutsch: ""Wort"" - 中文: ""字""
 Deutsch: ""Berg"" - 中文: ""山""
 Deutsch: ""Wasser"" - 中文: ""水""
-Deutsch: ""Gesetz"" - 中文: ""","[30545, 233]",法,"[29880, 10653, 433, 4307, 425, 301]",law,Gesetz
+Deutsch: ""Gesetz"" - 中文: ""","[30545, 233]",法,"[425, 10653, 29880, 433, 4307, 301]",law,Gesetz
 "Deutsch: ""vier"" - 中文: ""四""
 Deutsch: ""Börse"" - 中文: ""交""
 Deutsch: ""zehn"" - 中文: ""十""
 Deutsch: ""Quadrat"" - 中文: ""方""
-Deutsch: ""Welle"" - 中文: ""","[31529, 233]",波,"[11324, 281, 2766, 27766, 10742, 29893]",wave,Welle
+Deutsch: ""Welle"" - 中文: ""","[31529, 233]",波,"[11324, 29893, 2766, 27766, 281, 10742]",wave,Welle
 "Deutsch: ""See"" - 中文: ""湖""
 Deutsch: ""Norden"" - 中文: ""北""
 Deutsch: ""tausend"" - 中文: ""千""
 Deutsch: ""Bahnhof"" - 中文: ""站""
-Deutsch: ""Ozean"" - 中文: ""","[31534, 233]",洋,"[288, 23474, 25802, 542, 12954, 29877]",ocean,Ozean
+Deutsch: ""Ozean"" - 中文: ""","[31534, 233]",洋,"[12954, 542, 29877, 288, 25802, 23474]",ocean,Ozean
 "Deutsch: ""Standort"" - 中文: ""址""
 Deutsch: ""Gegenstand"" - 中文: ""项""
 Deutsch: ""Mond"" - 中文: ""月""
 Deutsch: ""Geschichte"" - 中文: ""史""
-Deutsch: ""Höhle"" - 中文: ""","[31886, 233]",洞,"[24230, 1113, 5777, 29883, 274, 18346]",cave,Höhle
+Deutsch: ""Höhle"" - 中文: ""","[31886, 233]",洞,"[24230, 29883, 1113, 5777, 274, 18346]",cave,Höhle
 "Deutsch: ""Tag"" - 中文: ""日""
 Deutsch: ""Holz"" - 中文: ""木""
 Deutsch: ""Blume"" - 中文: ""花""
 Deutsch: ""acht"" - 中文: ""八""
-Deutsch: ""Meer"" - 中文: ""","[30581, 233]",海,"[409, 344, 269, 29879, 7205]",sea,Meer
+Deutsch: ""Meer"" - 中文: ""","[30581, 233]",海,"[269, 7205, 409, 29879, 344]",sea,Meer
 "Deutsch: ""Licht"" - 中文: ""光""
 Deutsch: ""Ball"" - 中文: ""球""
 Deutsch: ""Süden"" - 中文: ""南""
 Deutsch: ""Version"" - 中文: ""版""
-Deutsch: ""See"" - 中文: ""","[31496, 233]",湖,"[19437, 29880, 18170, 24591, 433, 425, 301]",lake,See
+Deutsch: ""See"" - 中文: ""","[31496, 233]",湖,"[425, 18170, 29880, 433, 24591, 19437, 301]",lake,See
 "Deutsch: ""Generation"" - 中文: ""代""
 Deutsch: ""Teil"" - 中文: ""部""
 Deutsch: ""Tuch"" - 中文: ""布""
 Deutsch: ""Niederlage"" - 中文: ""败""
-Deutsch: ""Quelle"" - 中文: ""","[31193, 233]",源,"[4993, 269, 578, 577, 29879, 3669, 2752]",source,Quelle
+Deutsch: ""Quelle"" - 中文: ""","[31193, 233]",源,"[269, 2752, 29879, 578, 4993, 577, 3669]",source,Quelle
 "Deutsch: ""Nutzen"" - 中文: ""利""
 Deutsch: ""Straße"" - 中文: ""街""
 Deutsch: ""Turm"" - 中文: ""塔""
 Deutsch: ""Teil"" - 中文: ""部""
-Deutsch: ""Feuer"" - 中文: ""","[31313, 234]",火,"[285, 29888, 13734, 28034, 5713, 3974, 8696, 7241]",fire,Feuer
+Deutsch: ""Feuer"" - 中文: ""","[31313, 234]",火,"[29888, 5713, 8696, 13734, 285, 3974, 7241, 28034]",fire,Feuer
 "Deutsch: ""Wolke"" - 中文: ""云""
 Deutsch: ""Mutter"" - 中文: ""母""
 Deutsch: ""Tee"" - 中文: ""茶""
 Deutsch: ""fünf"" - 中文: ""五""
-Deutsch: ""Punkt"" - 中文: ""","[30940, 234]",点,"[11899, 282, 1298, 3149, 1129, 772, 29886]",point,Punkt
+Deutsch: ""Punkt"" - 中文: ""","[30940, 234]",点,"[1298, 772, 11899, 29886, 282, 1129, 3149]",point,Punkt
 "Deutsch: ""Richter"" - 中文: ""判""
 Deutsch: ""Teich"" - 中文: ""池""
 Deutsch: ""Gemälde"" - 中文: ""画""
 Deutsch: ""See"" - 中文: ""湖""
-Deutsch: ""Version"" - 中文: ""","[30845, 234]",版,"[369, 1224, 345, 874, 3259, 1873, 325, 1147, 2453, 29894]",version,Version
+Deutsch: ""Version"" - 中文: ""","[30845, 234]",版,"[2453, 1147, 3259, 325, 1224, 345, 874, 29894, 369, 1873]",version,Version
 "Deutsch: ""Pferd"" - 中文: ""马""
 Deutsch: ""acht"" - 中文: ""八""
 Deutsch: ""Turm"" - 中文: ""塔""
 Deutsch: ""drei"" - 中文: ""三""
-Deutsch: ""Ball"" - 中文: ""","[31539, 234]",球,"[9922, 2291, 5521, 289, 8287, 6411, 29890, 2135]",ball,Ball
+Deutsch: ""Ball"" - 中文: ""","[31539, 234]",球,"[8287, 289, 9922, 2291, 5521, 6411, 29890, 2135]",ball,Ball
 "Deutsch: ""Feld"" - 中文: ""场""
 Deutsch: ""Gesicht"" - 中文: ""面""
 Deutsch: ""Blume"" - 中文: ""花""
 Deutsch: ""Haar"" - 中文: ""发""
-Deutsch: ""Gemälde"" - 中文: ""","[31046, 234]",画,"[282, 29886, 10675, 3300, 20413, 3274, 6788]",painting,Gemälde
+Deutsch: ""Gemälde"" - 中文: ""","[31046, 234]",画,"[10675, 3274, 3300, 20413, 6788, 29886, 282]",painting,Gemälde
 "Deutsch: ""Richter"" - 中文: ""判""
 Deutsch: ""Fluss"" - 中文: ""河""
 Deutsch: ""Feuer"" - 中文: ""火""
 Deutsch: ""löschen"" - 中文: ""删""
-Deutsch: ""Bahnhof"" - 中文: ""","[31433, 234]",站,"[5173, 380, 269, 23436, 6112, 9523, 1002, 5073, 29879, 303, 19569]",station,Bahnhof
+Deutsch: ""Bahnhof"" - 中文: ""","[31433, 234]",站,"[380, 269, 19569, 5073, 29879, 23436, 6112, 9523, 1002, 5173, 303]",station,Bahnhof
 "Deutsch: ""rot"" - 中文: ""红""
 Deutsch: ""eins"" - 中文: ""一""
 Deutsch: ""Zeit"" - 中文: ""时""
 Deutsch: ""Feder"" - 中文: ""春""
-Deutsch: ""Reis"" - 中文: ""","[31902, 234]",米,"[11674, 2200, 9597, 19408, 10107, 29878, 374, 364]",rice,Reis
+Deutsch: ""Reis"" - 中文: ""","[31902, 234]",米,"[9597, 11674, 374, 2200, 10107, 29878, 364, 19408]",rice,Reis
 "Deutsch: ""Generation"" - 中文: ""代""
 Deutsch: ""Art"" - 中文: ""种""
 Deutsch: ""Tee"" - 中文: ""茶""
 Deutsch: ""Haus"" - 中文: ""屋""
-Deutsch: ""rot"" - 中文: ""","[31869, 234]",红,"[337, 29878, 1127, 276, 2654, 364]",red,rot
+Deutsch: ""rot"" - 中文: ""","[31869, 234]",红,"[337, 29878, 364, 2654, 276, 1127]",red,rot
 "Deutsch: ""Farbe"" - 中文: ""色""
 Deutsch: ""Rede"" - 中文: ""话""
 Deutsch: ""Haar"" - 中文: ""发""
 Deutsch: ""Auge"" - 中文: ""目""
-Deutsch: ""Linie"" - 中文: ""","[31532, 234]",线,"[29880, 1220, 619, 6276, 1196, 492, 301, 1915]",line,Linie
+Deutsch: ""Linie"" - 中文: ""","[31532, 234]",线,"[1915, 6276, 492, 1196, 29880, 1220, 619, 301]",line,Linie
 "Deutsch: ""Quelle"" - 中文: ""源""
 Deutsch: ""Versuch"" - 中文: ""试""
 Deutsch: ""Welle"" - 中文: ""波""
 Deutsch: ""Provinz"" - 中文: ""省""
-Deutsch: ""Netz"" - 中文: ""","[31222, 234]",网,"[452, 7787, 29876, 302, 1212, 484]",net,Netz
+Deutsch: ""Netz"" - 中文: ""","[31222, 234]",网,"[1212, 452, 302, 7787, 484, 29876]",net,Netz
 "Deutsch: ""Süden"" - 中文: ""南""
 Deutsch: ""Quadrat"" - 中文: ""方""
 Deutsch: ""Paar"" - 中文: ""双""
 Deutsch: ""Teich"" - 中文: ""池""
-Deutsch: ""Blume"" - 中文: ""","[30830, 235]",花,"[1652, 1579, 285, 29888, 1731, 28149, 4972, 5685]",flower,Blume
+Deutsch: ""Blume"" - 中文: ""","[30830, 235]",花,"[29888, 5685, 28149, 1652, 4972, 1731, 285, 1579]",flower,Blume
 "Deutsch: ""Teil"" - 中文: ""部""
 Deutsch: ""Auge"" - 中文: ""目""
 Deutsch: ""Gesicht"" - 中文: ""面""
 Deutsch: ""Ball"" - 中文: ""球""
-Deutsch: ""Tee"" - 中文: ""","[31954, 235]",茶,"[734, 260, 371, 29873, 23429]",tea,Tee
+Deutsch: ""Tee"" - 中文: ""","[31954, 235]",茶,"[23429, 734, 371, 29873, 260]",tea,Tee
 "Deutsch: ""Rede"" - 中文: ""话""
 Deutsch: ""Schwanz"" - 中文: ""尾""
 Deutsch: ""Sonne"" - 中文: ""阳""
 Deutsch: ""drei"" - 中文: ""三""
-Deutsch: ""Fuß"" - 中文: ""","[31722, 235]",足,"[3661, 285, 5431, 29888, 6661, 1701, 1181, 7953]",foot,Fuß
+Deutsch: ""Fuß"" - 中文: ""","[31722, 235]",足,"[3661, 29888, 1701, 5431, 6661, 285, 7953, 1181]",foot,Fuß
 "Deutsch: ""Mond"" - 中文: ""月""
 Deutsch: ""tausend"" - 中文: ""千""
 Deutsch: ""Netz"" - 中文: ""网""
 Deutsch: ""zwei"" - 中文: ""二""
-Deutsch: ""Gold"" - 中文: ""","[30659, 236]",金,"[1484, 7684, 748, 15192, 330, 29887]",gold,Gold
+Deutsch: ""Gold"" - 中文: ""","[30659, 236]",金,"[748, 330, 7684, 1484, 15192, 29887]",gold,Gold
 "Deutsch: ""Ball"" - 中文: ""球""
 Deutsch: ""Büro"" - 中文: ""局""
 Deutsch: ""Norden"" - 中文: ""北""
 Deutsch: ""Mutter"" - 中文: ""母""
-Deutsch: ""Tür"" - 中文: ""","[31649, 236]",门,"[3050, 29881, 1867, 270, 437, 17433]",door,Tür
+Deutsch: ""Tür"" - 中文: ""","[31649, 236]",门,"[17433, 437, 1867, 3050, 29881, 270]",door,Tür
 "Deutsch: ""Gemälde"" - 中文: ""画""
 Deutsch: ""Turm"" - 中文: ""塔""
 Deutsch: ""Süden"" - 中文: ""南""
 Deutsch: ""Maschine"" - 中文: ""机""
-Deutsch: ""Schnee"" - 中文: ""","[31731, 236]",雪,"[269, 5807, 29879, 16586, 15007]",snow,Schnee
+Deutsch: ""Schnee"" - 中文: ""","[31731, 236]",雪,"[269, 16586, 29879, 5807, 15007]",snow,Schnee
 "Deutsch: ""Haus"" - 中文: ""屋""
 Deutsch: ""Büro"" - 中文: ""局""
 Deutsch: ""Tuch"" - 中文: ""布""
 Deutsch: ""Netz"" - 中文: ""网""
-Deutsch: ""Pferd"" - 中文: ""","[31530, 236]",马,"[10435, 5089, 1251, 2015, 298, 11231, 4029, 29882]",horse,Pferd
+Deutsch: ""Pferd"" - 中文: ""","[31530, 236]",马,"[2015, 1251, 10435, 29882, 4029, 11231, 298, 5089]",horse,Pferd
 "Deutsch: ""Tuch"" - 中文: ""布""
 Deutsch: ""Generation"" - 中文: ""代""
 Deutsch: ""Gold"" - 中文: ""金""
 Deutsch: ""Kind"" - 中文: ""子""
-Deutsch: ""eins"" - 中文: ""","[30287, 231]",一,"[288, 697, 650, 265, 373, 29877]",one,eins
+Deutsch: ""eins"" - 中文: ""","[30287, 231]",一,"[29877, 265, 650, 288, 697, 373]",one,eins
 "Deutsch: ""Fluss"" - 中文: ""河""
 Deutsch: ""Schule"" - 中文: ""校""
 Deutsch: ""Feder"" - 中文: ""春""
 Deutsch: ""Tugend"" - 中文: ""德""
-Deutsch: ""zwei"" - 中文: ""","[30685, 231]",二,"[7516, 260, 10184, 29873, 1023, 3252]",two,zwei
+Deutsch: ""zwei"" - 中文: ""","[30685, 231]",二,"[1023, 29873, 10184, 260, 7516, 3252]",two,zwei
 "Deutsch: ""Haus"" - 中文: ""屋""
 Deutsch: ""Buch"" - 中文: ""书""
 Deutsch: ""Ball"" - 中文: ""球""
 Deutsch: ""Gemälde"" - 中文: ""画""
-Deutsch: ""drei"" - 中文: ""","[30457, 231]",三,"[266, 17536, 260, 2211, 1468, 29873, 386, 12455]",three,drei
+Deutsch: ""drei"" - 中文: ""","[30457, 231]",三,"[1468, 12455, 386, 2211, 29873, 260, 266, 17536]",three,drei
 "Deutsch: ""Rede"" - 中文: ""话""
 Deutsch: ""Quelle"" - 中文: ""源""
 Deutsch: ""tausend"" - 中文: ""千""
 Deutsch: ""Ozean"" - 中文: ""洋""
-Deutsch: ""vier"" - 中文: ""","[30928, 232]",四,"[285, 29888, 3023, 12584, 1701, 1181, 17823]",four,vier
+Deutsch: ""vier"" - 中文: ""","[30928, 232]",四,"[3023, 29888, 1701, 12584, 17823, 285, 1181]",four,vier
 "Deutsch: ""Art"" - 中文: ""种""
 Deutsch: ""Freund"" - 中文: ""友""
 Deutsch: ""Höhle"" - 中文: ""洞""
 Deutsch: ""Feuer"" - 中文: ""火""
-Deutsch: ""fünf"" - 中文: ""","[30904, 231]",五,"[285, 29888, 5713, 20818, 7241, 5320]",five,fünf
+Deutsch: ""fünf"" - 中文: ""","[30904, 231]",五,"[29888, 5713, 20818, 285, 7241, 5320]",five,fünf
 "Deutsch: ""Geschwindigkeit"" - 中文: ""速""
 Deutsch: ""Tee"" - 中文: ""茶""
 Deutsch: ""Wolke"" - 中文: ""云""
 Deutsch: ""Sand"" - 中文: ""沙""
-Deutsch: ""sechs"" - 中文: ""","[31304, 232]",六,"[1354, 269, 29879, 28319, 1039, 4832]",six,sechs
+Deutsch: ""sechs"" - 中文: ""","[31304, 232]",六,"[269, 28319, 29879, 1354, 4832, 1039]",six,sechs
 "Deutsch: ""Büro"" - 中文: ""局""
 Deutsch: ""Fuß"" - 中文: ""足""
 Deutsch: ""Blume"" - 中文: ""花""
 Deutsch: ""Börse"" - 中文: ""交""
-Deutsch: ""sieben"" - 中文: ""","[31425, 231]",七,"[9881, 409, 344, 269, 29879]",seven,sieben
+Deutsch: ""sieben"" - 中文: ""","[31425, 231]",七,"[269, 409, 29879, 9881, 344]",seven,sieben
 "Deutsch: ""Richter"" - 中文: ""判""
 Deutsch: ""Gemälde"" - 中文: ""画""
 Deutsch: ""Punkt"" - 中文: ""点""
 Deutsch: ""Feuer"" - 中文: ""火""
-Deutsch: ""acht"" - 中文: ""","[31044, 232]",八,"[9475, 29872, 29319, 10096, 15761, 321]",eight,acht
+Deutsch: ""acht"" - 中文: ""","[31044, 232]",八,"[15761, 321, 29319, 10096, 29872, 9475]",eight,acht
 "Deutsch: ""Fuß"" - 中文: ""足""
 Deutsch: ""Mund"" - 中文: ""口""
 Deutsch: ""Gitter"" - 中文: ""格""
 Deutsch: ""Schwanz"" - 中文: ""尾""
-Deutsch: ""neun"" - 中文: ""","[31321, 231]",九,"[29876, 302, 6836, 1240, 14183, 17081]",nine,neun
+Deutsch: ""neun"" - 中文: ""","[31321, 231]",九,"[302, 6836, 17081, 14183, 1240, 29876]",nine,neun
 "Deutsch: ""Stern"" - 中文: ""星""
 Deutsch: ""Maschine"" - 中文: ""机""
 Deutsch: ""Norden"" - 中文: ""北""
 Deutsch: ""Schwanz"" - 中文: ""尾""
-Deutsch: ""zehn"" - 中文: ""","[30802, 232]",十,"[734, 3006, 841, 260, 371, 29873]",ten,zehn
+Deutsch: ""zehn"" - 中文: ""","[30802, 232]",十,"[734, 371, 3006, 29873, 260, 841]",ten,zehn
 "Deutsch: ""Talent"" - 中文: ""才""
 Deutsch: ""Macht"" - 中文: ""力""
 Deutsch: ""Feder"" - 中文: ""春""
 Deutsch: ""Sommer"" - 中文: ""夏""
-Deutsch: ""Kopf"" - 中文: ""","[31584, 232]",头,"[540, 354, 298, 2813, 2343, 29882]",head,Kopf
+Deutsch: ""Kopf"" - 中文: ""","[31584, 232]",头,"[540, 29882, 2343, 2813, 298, 354]",head,Kopf
 "Deutsch: ""Schnee"" - 中文: ""雪""
 Deutsch: ""löschen"" - 中文: ""删""
 Deutsch: ""Haus"" - 中文: ""屋""
 Deutsch: ""Gruppe"" - 中文: ""群""
-Deutsch: ""Streifen"" - 中文: ""","[31217, 233]",条,"[710, 17820, 17010, 380, 10076, 269, 29879, 303, 851]",strip,Streifen
+Deutsch: ""Streifen"" - 中文: ""","[31217, 233]",条,"[380, 269, 10076, 29879, 17010, 710, 17820, 851, 303]",strip,Streifen
 "Deutsch: ""Pferd"" - 中文: ""马""
 Deutsch: ""See"" - 中文: ""湖""
 Deutsch: ""Börse"" - 中文: ""交""
 Deutsch: ""Reis"" - 中文: ""米""
-Deutsch: ""Straße"" - 中文: ""","[30813, 235]",街,"[710, 11952, 380, 269, 13045, 29352, 29879, 303, 12243, 851]",street,Straße
+Deutsch: ""Straße"" - 中文: ""","[30813, 235]",街,"[380, 269, 11952, 13045, 29352, 12243, 29879, 710, 851, 303]",street,Straße
 "Deutsch: ""Versuch"" - 中文: ""试""
 Deutsch: ""Provinz"" - 中文: ""省""
 Deutsch: ""Büro"" - 中文: ""局""
 Deutsch: ""Teich"" - 中文: ""池""
-Deutsch: ""Teil"" - 中文: ""","[30636, 236]",部,"[282, 3300, 3274, 1595, 610, 862, 760, 29886]",part,Teil
+Deutsch: ""Teil"" - 中文: ""","[30636, 236]",部,"[1595, 610, 282, 3274, 3300, 29886, 760, 862]",part,Teil
 "Deutsch: ""Tee"" - 中文: ""茶""
 Deutsch: ""Gesetz"" - 中文: ""法""
 Deutsch: ""Plattform"" - 中文: ""台""
 Deutsch: ""Feuer"" - 中文: ""火""
-Deutsch: ""Auge"" - 中文: ""","[30895, 234]",目,"[29872, 1032, 10977, 321]",eye,Auge
+Deutsch: ""Auge"" - 中文: ""","[30895, 234]",目,"[10977, 1032, 321, 29872]",eye,Auge
 "Deutsch: ""Schnee"" - 中文: ""雪""
 Deutsch: ""Gold"" - 中文: ""金""
 Deutsch: ""Schönheit"" - 中文: ""美""
 Deutsch: ""Mitte"" - 中文: ""中""
-Deutsch: ""Feld"" - 中文: ""","[31632, 232]",场,"[2671, 285, 29607, 29888, 5713, 1746, 7241]",field,Feld
+Deutsch: ""Feld"" - 中文: ""","[31632, 232]",场,"[29888, 5713, 1746, 2671, 285, 7241, 29607]",field,Feld
 "Deutsch: ""Richter"" - 中文: ""判""
 Deutsch: ""Gesicht"" - 中文: ""面""
 Deutsch: ""Schwanz"" - 中文: ""尾""
 Deutsch: ""Schule"" - 中文: ""校""
-Deutsch: ""Standort"" - 中文: ""","[31702, 232]",址,"[1354, 269, 29879, 7845, 1039, 2746, 3268]",site,Standort
+Deutsch: ""Standort"" - 中文: ""","[31702, 232]",址,"[269, 7845, 2746, 3268, 29879, 1354, 1039]",site,Standort
 "Deutsch: ""Pferd"" - 中文: ""马""
 Deutsch: ""Fluss"" - 中文: ""河""
 Deutsch: ""Welle"" - 中文: ""波""
 Deutsch: ""Feuer"" - 中文: ""火""
-Deutsch: ""Wort"" - 中文: ""","[30578, 232]",字,"[8879, 827, 6365, 1742, 281, 1734, 13762, 29893]",word,Wort
+Deutsch: ""Wort"" - 中文: ""","[30578, 232]",字,"[29893, 827, 13762, 1742, 6365, 281, 1734, 8879]",word,Wort
 "Deutsch: ""Quelle"" - 中文: ""源""
 Deutsch: ""Bahnhof"" - 中文: ""站""
 Deutsch: ""Rede"" - 中文: ""话""
 Deutsch: ""Richter"" - 中文: ""判""
-Deutsch: ""Paar"" - 中文: ""","[31960, 232]",双,"[18784, 282, 5101, 3300, 3274, 29886]",pair,Paar
+Deutsch: ""Paar"" - 中文: ""","[31960, 232]",双,"[5101, 18784, 3274, 3300, 29886, 282]",pair,Paar
 "Deutsch: ""Herz"" - 中文: ""心""
 Deutsch: ""drei"" - 中文: ""三""
 Deutsch: ""Quadrat"" - 中文: ""方""
 Deutsch: ""Punkt"" - 中文: ""点""
-Deutsch: ""Sitz"" - 中文: ""","[31780, 232]",座,"[409, 344, 269, 29879, 12949, 7205]",seat,Sitz
+Deutsch: ""Sitz"" - 中文: ""","[31780, 232]",座,"[269, 7205, 409, 29879, 344, 12949]",seat,Sitz
 "Deutsch: ""Ball"" - 中文: ""球""
 Deutsch: ""Teil"" - 中文: ""部""
 Deutsch: ""Gold"" - 中文: ""金""
 Deutsch: ""Plattform"" - 中文: ""台""
-Deutsch: ""Licht"" - 中文: ""","[30867, 232]",光,"[3578, 4366, 29880, 14172, 619, 3473, 492, 301]",light,Licht
+Deutsch: ""Licht"" - 中文: ""","[30867, 232]",光,"[492, 3473, 3578, 4366, 29880, 619, 14172, 301]",light,Licht
 "Deutsch: ""Wasser"" - 中文: ""水""
 Deutsch: ""zwei"" - 中文: ""二""
 Deutsch: ""Anstieg"" - 中文: ""起""
 Deutsch: ""Mund"" - 中文: ""口""
-Deutsch: ""tausend"" - 中文: ""","[31159, 232]",千,"[266, 10405, 12595, 260, 29873, 386, 7693]",thousand,tausend
+Deutsch: ""tausend"" - 中文: ""","[31159, 232]",千,"[10405, 266, 386, 29873, 260, 12595, 7693]",thousand,tausend
 "Deutsch: ""Welle"" - 中文: ""波""
 Deutsch: ""sieben"" - 中文: ""七""
 Deutsch: ""Tee"" - 中文: ""茶""
 Deutsch: ""Art"" - 中文: ""种""
-Deutsch: ""Norden"" - 中文: ""","[30662, 232]",北,"[6641, 694, 15459, 302, 29876, 1217, 3643]",north,Norden
+Deutsch: ""Norden"" - 中文: ""","[30662, 232]",北,"[694, 6641, 302, 1217, 3643, 15459, 29876]",north,Norden
 "Deutsch: ""Standort"" - 中文: ""址""
 Deutsch: ""Tür"" - 中文: ""门""
 Deutsch: ""Gegenstand"" - 中文: ""项""
 Deutsch: ""Herz"" - 中文: ""心""
-Deutsch: ""Maschine"" - 中文: ""","[31429, 233]",机,"[4933, 29885, 23523, 655, 286, 5825, 8628, 611, 7672]",machine,Maschine
+Deutsch: ""Maschine"" - 中文: ""","[31429, 233]",机,"[286, 5825, 611, 29885, 7672, 23523, 4933, 655, 8628]",machine,Maschine
 "Deutsch: ""Farbe"" - 中文: ""色""
 Deutsch: ""Maschine"" - 中文: ""机""
 Deutsch: ""Welle"" - 中文: ""波""
 Deutsch: ""Feuer"" - 中文: ""火""
-Deutsch: ""Zeit"" - 中文: ""","[30594, 233]",时,"[2034, 2230, 9346, 260, 5335, 29873, 931, 19538]",time,Zeit
+Deutsch: ""Zeit"" - 中文: ""","[30594, 233]",时,"[19538, 5335, 2034, 29873, 931, 260, 9346, 2230]",time,Zeit
 "Deutsch: ""Mutter"" - 中文: ""母""
 Deutsch: ""Tugend"" - 中文: ""德""
 Deutsch: ""Mund"" - 中文: ""口""
 Deutsch: ""fünf"" - 中文: ""五""
-Deutsch: ""Nutzen"" - 中文: ""","[31107, 232]",利,"[367, 14169, 289, 1785, 13982, 3856, 29890, 7795, 915]",benefit,Nutzen
+Deutsch: ""Nutzen"" - 中文: ""","[31107, 232]",利,"[3856, 915, 7795, 13982, 289, 367, 14169, 1785, 29890]",benefit,Nutzen
 "Deutsch: ""acht"" - 中文: ""八""
 Deutsch: ""drei"" - 中文: ""三""
 Deutsch: ""Anstieg"" - 中文: ""起""
 Deutsch: ""Niederlage"" - 中文: ""败""
-Deutsch: ""Provinz"" - 中文: ""","[31600, 234]",省,"[558, 1326, 771, 282, 8482, 410, 16123, 544, 29886, 12291]",province,Provinz
+Deutsch: ""Provinz"" - 中文: ""","[31600, 234]",省,"[16123, 1326, 771, 544, 12291, 8482, 410, 29886, 282, 558]",province,Provinz
 "Deutsch: ""Macht"" - 中文: ""力""
 Deutsch: ""Haushalt"" - 中文: ""户""
 Deutsch: ""Wort"" - 中文: ""字""
 Deutsch: ""Brücke"" - 中文: ""桥""
-Deutsch: ""Börse"" - 中文: ""","[31398, 231]",交,"[29872, 321, 735, 6543, 14523, 429, 5566]",exchange,Börse
+Deutsch: ""Börse"" - 中文: ""","[31398, 231]",交,"[14523, 429, 321, 735, 6543, 29872, 5566]",exchange,Börse
 "Deutsch: ""Art"" - 中文: ""种""
 Deutsch: ""Abschnitt"" - 中文: ""段""
 Deutsch: ""Beispiel"" - 中文: ""例""
 Deutsch: ""Netz"" - 中文: ""网""
-Deutsch: ""Mitte"" - 中文: ""","[30275, 231]",中,"[7145, 17662, 7256, 6563, 286, 3737, 2460, 29885]",middle,Mitte
+Deutsch: ""Mitte"" - 中文: ""","[30275, 231]",中,"[286, 7145, 29885, 17662, 7256, 6563, 3737, 2460]",middle,Mitte
 "Deutsch: ""eins"" - 中文: ""一""
 Deutsch: ""Wald"" - 中文: ""林""
 Deutsch: ""Höhle"" - 中文: ""洞""
 Deutsch: ""Tal"" - 中文: ""谷""
-Deutsch: ""Freund"" - 中文: ""","[31373, 232]",友,"[285, 1424, 29888, 18326, 1341, 3484, 5121, 7932]",friend,Freund
+Deutsch: ""Freund"" - 中文: ""","[31373, 232]",友,"[29888, 5121, 3484, 1424, 1341, 7932, 18326, 285]",friend,Freund
 "Deutsch: ""Teil"" - 中文: ""部""
 Deutsch: ""Geschwindigkeit"" - 中文: ""速""
 Deutsch: ""Wald"" - 中文: ""林""
 Deutsch: ""Welle"" - 中文: ""波""
-Deutsch: ""Farbe"" - 中文: ""","[31085, 235]",色,"[1111, 2780, 1302, 1054, 29883, 2927, 274, 10965, 784]",color,Farbe
+Deutsch: ""Farbe"" - 中文: ""","[31085, 235]",色,"[784, 1111, 1054, 29883, 10965, 2780, 274, 1302, 2927]",color,Farbe
 "Deutsch: ""Süden"" - 中文: ""南""
 Deutsch: ""Mitte"" - 中文: ""中""
 Deutsch: ""Mutter"" - 中文: ""母""
 Deutsch: ""Wasser"" - 中文: ""水""
-Deutsch: ""Art"" - 中文: ""","[31893, 234]",种,"[19015, 14380, 8506, 9089, 1984, 2924, 29895, 413]",kind,Art
+Deutsch: ""Art"" - 中文: ""","[31893, 234]",种,"[8506, 19015, 1984, 413, 9089, 2924, 14380, 29895]",kind,Art
 "Deutsch: ""Schwanz"" - 中文: ""尾""
 Deutsch: ""Quadrat"" - 中文: ""方""
 Deutsch: ""Auge"" - 中文: ""目""
 Deutsch: ""Tee"" - 中文: ""茶""
-Deutsch: ""Richter"" - 中文: ""","[31791, 232]",判,"[3623, 432, 29926, 6577, 16833, 4900, 17675]",judge,Richter
+Deutsch: ""Richter"" - 中文: ""","[31791, 232]",判,"[16833, 432, 6577, 4900, 17675, 3623, 29926]",judge,Richter
 "Deutsch: ""Richter"" - 中文: ""判""
 Deutsch: ""Paar"" - 中文: ""双""
 Deutsch: ""Meer"" - 中文: ""海""
 Deutsch: ""Blume"" - 中文: ""花""
-Deutsch: ""Schule"" - 中文: ""","[31071, 233]",校,"[27041, 3762, 269, 816, 1557, 29879, 885, 1364]",school,Schule
+Deutsch: ""Schule"" - 中文: ""","[31071, 233]",校,"[269, 27041, 885, 29879, 1364, 1557, 3762, 816]",school,Schule
 "Deutsch: ""fünf"" - 中文: ""五""
 Deutsch: ""Stadt"" - 中文: ""城""
 Deutsch: ""Mutter"" - 中文: ""母""
 Deutsch: ""acht"" - 中文: ""八""
-Deutsch: ""Krawatte"" - 中文: ""","[31320, 234]",结,"[2034, 260, 29873, 22134, 19538]",tie,Krawatte
+Deutsch: ""Krawatte"" - 中文: ""","[31320, 234]",结,"[22134, 19538, 2034, 29873, 260]",tie,Krawatte
 "Deutsch: ""Wald"" - 中文: ""林""
 Deutsch: ""Punkt"" - 中文: ""点""
 Deutsch: ""Blume"" - 中文: ""花""
 Deutsch: ""Straße"" - 中文: ""街""
-Deutsch: ""Beispiel"" - 中文: ""","[31507, 231]",例,"[4773, 4392, 29872, 735, 429, 321, 1342]",example,Beispiel
+Deutsch: ""Beispiel"" - 中文: ""","[31507, 231]",例,"[4392, 29872, 429, 321, 735, 1342, 4773]",example,Beispiel
 "Deutsch: ""Anstieg"" - 中文: ""起""
 Deutsch: ""Stern"" - 中文: ""星""
 Deutsch: ""sechs"" - 中文: ""六""
 Deutsch: ""Kind"" - 中文: ""子""
-Deutsch: ""Gesicht"" - 中文: ""","[30806, 236]",面,"[2258, 285, 5444, 29888, 3700, 17470, 2161, 4024]",face,Gesicht
+Deutsch: ""Gesicht"" - 中文: ""","[30806, 236]",面,"[29888, 4024, 5444, 2161, 285, 17470, 3700, 2258]",face,Gesicht
 "Deutsch: ""Ball"" - 中文: ""球""
 Deutsch: ""Reis"" - 中文: ""米""
 Deutsch: ""zehn"" - 中文: ""十""
 Deutsch: ""Gesetz"" - 中文: ""法""
-Deutsch: ""Brücke"" - 中文: ""","[31749, 233]",桥,"[28635, 18419, 19515, 12945, 289, 1506, 29890, 1182]",bridge,Brücke
+Deutsch: ""Brücke"" - 中文: ""","[31749, 233]",桥,"[1182, 18419, 1506, 19515, 289, 28635, 12945, 29890]",bridge,Brücke
 "Deutsch: ""Farbe"" - 中文: ""色""
 Deutsch: ""Niederlage"" - 中文: ""败""
 Deutsch: ""Berg"" - 中文: ""山""
 Deutsch: ""Generation"" - 中文: ""代""
-Deutsch: ""Gegenstand"" - 中文: ""","[31888, 236]",项,"[277, 474, 372, 2944, 29875, 568, 667]",item,Gegenstand
+Deutsch: ""Gegenstand"" - 中文: ""","[31888, 236]",项,"[667, 372, 474, 29875, 277, 2944, 568]",item,Gegenstand
 "Deutsch: ""Generation"" - 中文: ""代""
 Deutsch: ""Version"" - 中文: ""版""
 Deutsch: ""Geschwindigkeit"" - 中文: ""速""
 Deutsch: ""Schule"" - 中文: ""校""
-Deutsch: ""löschen"" - 中文: ""","[31916, 232]",删,"[311, 29881, 628, 270, 6144, 316, 5217, 8143, 7374]",delete,löschen
+Deutsch: ""löschen"" - 中文: ""","[31916, 232]",删,"[311, 5217, 316, 8143, 6144, 7374, 628, 29881, 270]",delete,löschen
 "Deutsch: ""Auge"" - 中文: ""目""
 Deutsch: ""Kopf"" - 中文: ""头""
 Deutsch: ""Fuß"" - 中文: ""足""
 Deutsch: ""Linie"" - 中文: ""线""
-Deutsch: ""Gruppe"" - 中文: ""","[31829, 234]",群,"[4071, 2972, 2318, 629, 867, 17170, 330, 29887]",group,Gruppe
+Deutsch: ""Gruppe"" - 中文: ""","[31829, 234]",群,"[17170, 330, 629, 4071, 2318, 2972, 29887, 867]",group,Gruppe
 "Deutsch: ""Haar"" - 中文: ""发""
 Deutsch: ""Provinz"" - 中文: ""省""
 Deutsch: ""Fuß"" - 中文: ""足""
 Deutsch: ""Büro"" - 中文: ""局""
-Deutsch: ""Talent"" - 中文: ""","[31979, 233]",才,"[24242, 5969, 11062, 20411, 941, 17694, 260, 29873]",talent,Talent
+Deutsch: ""Talent"" - 中文: ""","[31979, 233]",才,"[11062, 5969, 17694, 941, 24242, 29873, 260, 20411]",talent,Talent
 "Deutsch: ""tausend"" - 中文: ""千""
 Deutsch: ""Freund"" - 中文: ""友""
 Deutsch: ""Ozean"" - 中文: ""洋""
 Deutsch: ""Feder"" - 中文: ""春""
-Deutsch: ""Schönheit"" - 中文: ""","[30630, 234]",美,"[367, 6562, 15409, 289, 29890, 915]",beauty,Schönheit
+Deutsch: ""Schönheit"" - 中文: ""","[30630, 234]",美,"[915, 15409, 289, 367, 6562, 29890]",beauty,Schönheit
 "Deutsch: ""zwei"" - 中文: ""二""
 Deutsch: ""Tür"" - 中文: ""门""
 Deutsch: ""Art"" - 中文: ""种""
 Deutsch: ""Gegenstand"" - 中文: ""项""
-Deutsch: ""Plattform"" - 中文: ""","[31037, 232]",台,"[282, 18870, 7481, 715, 13974, 2174, 12120, 29886, 572]",platform,Plattform
+Deutsch: ""Plattform"" - 中文: ""","[31037, 232]",台,"[13974, 7481, 715, 2174, 12120, 18870, 29886, 282, 572]",platform,Plattform
 "Deutsch: ""Sommer"" - 中文: ""夏""
 Deutsch: ""Versuch"" - 中文: ""试""
 Deutsch: ""Tee"" - 中文: ""茶""
 Deutsch: ""Quadrat"" - 中文: ""方""
-Deutsch: ""Haus"" - 中文: ""","[31654, 232]",屋,"[5089, 29882, 1251, 9261, 10774, 298, 3699, 8697]",house,Haus
+Deutsch: ""Haus"" - 中文: ""","[31654, 232]",屋,"[8697, 3699, 1251, 29882, 10774, 5089, 9261, 298]",house,Haus
 "Deutsch: ""Rede"" - 中文: ""话""
 Deutsch: ""Reis"" - 中文: ""米""
 Deutsch: ""Berg"" - 中文: ""山""
 Deutsch: ""Wort"" - 中文: ""字""
-Deutsch: ""Sonne"" - 中文: ""","[31430, 236]",阳,"[2146, 6575, 11445, 480, 269, 29879]",sun,Sonne
+Deutsch: ""Sonne"" - 中文: ""","[31430, 236]",阳,"[269, 2146, 29879, 480, 6575, 11445]",sun,Sonne
 "Deutsch: ""Sitz"" - 中文: ""座""
 Deutsch: ""Schwanz"" - 中文: ""尾""
 Deutsch: ""Richter"" - 中文: ""判""
 Deutsch: ""Standort"" - 中文: ""址""
-Deutsch: ""Geschichte"" - 中文: ""","[30911, 232]",史,"[18434, 4955, 670, 2918, 16211, 7251, 298, 22880, 3603, 9825, 29882]",history,Geschichte
+Deutsch: ""Geschichte"" - 中文: ""","[30911, 232]",史,"[3603, 4955, 22880, 16211, 670, 9825, 2918, 7251, 29882, 18434, 298]",history,Geschichte
 "Deutsch: ""Sommer"" - 中文: ""夏""
 Deutsch: ""Teich"" - 中文: ""池""
 Deutsch: ""Abschnitt"" - 中文: ""段""
 Deutsch: ""Bahnhof"" - 中文: ""站""
-Deutsch: ""Tal"" - 中文: ""","[31112, 235]",谷,"[19599, 659, 791, 325, 22044, 28519, 29894, 2947, 1564]",valley,Tal
+Deutsch: ""Tal"" - 中文: ""","[31112, 235]",谷,"[19599, 325, 659, 791, 28519, 22044, 29894, 1564, 2947]",valley,Tal
 "Deutsch: ""Haushalt"" - 中文: ""户""
 Deutsch: ""Feld"" - 中文: ""场""
 Deutsch: ""Abschnitt"" - 中文: ""段""
 Deutsch: ""Haar"" - 中文: ""发""
-Deutsch: ""Quadrat"" - 中文: ""","[30525, 233]",方,"[6862, 10674, 18074, 269, 17619, 29879, 26613, 3044]",square,Quadrat
+Deutsch: ""Quadrat"" - 中文: ""","[30525, 233]",方,"[18074, 269, 17619, 10674, 29879, 26613, 3044, 6862]",square,Quadrat
 "Deutsch: ""Wort"" - 中文: ""字""
 Deutsch: ""Brücke"" - 中文: ""桥""
 Deutsch: ""Person"" - 中文: ""人""
 Deutsch: ""Sommer"" - 中文: ""夏""
-Deutsch: ""Generation"" - 中文: ""","[30690, 231]",代,"[479, 1176, 29887, 1885, 330, 12623, 1737, 4738, 18530, 2531]",generation,Generation
+Deutsch: ""Generation"" - 中文: ""","[30690, 231]",代,"[1885, 12623, 29887, 2531, 1176, 479, 18530, 4738, 330, 1737]",generation,Generation
 "Deutsch: ""Norden"" - 中文: ""北""
 Deutsch: ""Freund"" - 中文: ""友""
 Deutsch: ""Zeit"" - 中文: ""时""
 Deutsch: ""Person"" - 中文: ""人""
-Deutsch: ""Süden"" - 中文: ""","[30601, 232]",南,"[7062, 269, 578, 577, 29879, 13267, 3669]",south,Süden
+Deutsch: ""Süden"" - 中文: ""","[30601, 232]",南,"[269, 13267, 29879, 578, 577, 3669, 7062]",south,Süden
 "Deutsch: ""Schönheit"" - 中文: ""美""
 Deutsch: ""Wort"" - 中文: ""字""
 Deutsch: ""Dorf"" - 中文: ""村""
 Deutsch: ""See"" - 中文: ""湖""
-Deutsch: ""Tugend"" - 中文: ""","[31169, 232]",德,"[4610, 15389, 27935, 2405, 325, 10636, 1403, 3516, 29894]",virtue,Tugend
+Deutsch: ""Tugend"" - 中文: ""","[31169, 232]",德,"[1403, 2405, 325, 3516, 10636, 29894, 4610, 27935, 15389]",virtue,Tugend
 "Deutsch: ""Reis"" - 中文: ""米""
 Deutsch: ""Sitz"" - 中文: ""座""
 Deutsch: ""Mitte"" - 中文: ""中""
 Deutsch: ""acht"" - 中文: ""八""
-Deutsch: ""Stamm"" - 中文: ""","[30999, 233]",族,"[3367, 260, 29563, 9434, 29873, 534, 509, 3626]",tribe,Stamm
+Deutsch: ""Stamm"" - 中文: ""","[30999, 233]",族,"[509, 3626, 3367, 29563, 29873, 9434, 260, 534]",tribe,Stamm
 "Deutsch: ""sieben"" - 中文: ""七""
 Deutsch: ""Mond"" - 中文: ""月""
 Deutsch: ""Börse"" - 中文: ""交""
 Deutsch: ""Geschichte"" - 中文: ""史""
-Deutsch: ""Stadt"" - 中文: ""","[30626, 232]",城,"[455, 7537, 4272, 4583, 29883, 274, 12690, 20752]",city,Stadt
+Deutsch: ""Stadt"" - 中文: ""","[30626, 232]",城,"[12690, 4272, 455, 29883, 20752, 4583, 7537, 274]",city,Stadt
 "Deutsch: ""Mutter"" - 中文: ""母""
 Deutsch: ""Abschnitt"" - 中文: ""段""
 Deutsch: ""Macht"" - 中文: ""力""
 Deutsch: ""Holz"" - 中文: ""木""
-Deutsch: ""Sprache"" - 中文: ""","[31505, 235]",语,"[4086, 29880, 10906, 6361, 3893, 11675, 433, 425, 6468, 301]",language,Sprache
+Deutsch: ""Sprache"" - 中文: ""","[31505, 235]",语,"[10906, 425, 11675, 3893, 6361, 4086, 29880, 433, 6468, 301]",language,Sprache
 "Deutsch: ""Haushalt"" - 中文: ""户""
 Deutsch: ""Gruppe"" - 中文: ""群""
 Deutsch: ""fünf"" - 中文: ""五""
 Deutsch: ""sieben"" - 中文: ""七""
-Deutsch: ""Geschwindigkeit"" - 中文: ""","[31859, 236]",速,"[5965, 19322, 961, 269, 1028, 29879, 805, 6210]",speed,Geschwindigkeit
+Deutsch: ""Geschwindigkeit"" - 中文: ""","[31859, 236]",速,"[269, 1028, 5965, 29879, 805, 6210, 19322, 961]",speed,Geschwindigkeit
 "Deutsch: ""Wolke"" - 中文: ""云""
 Deutsch: ""Freund"" - 中文: ""友""
 Deutsch: ""Talent"" - 中文: ""才""
 Deutsch: ""Schwanz"" - 中文: ""尾""
-Deutsch: ""Boden"" - 中文: ""","[30533, 232]",地,"[4071, 330, 5962, 629, 867, 17170, 2057, 29887]",ground,Boden
+Deutsch: ""Boden"" - 中文: ""","[30533, 232]",地,"[5962, 17170, 330, 2057, 629, 4071, 29887, 867]",ground,Boden
 "Deutsch: ""Generation"" - 中文: ""代""
 Deutsch: ""Linie"" - 中文: ""线""
 Deutsch: ""Gesetz"" - 中文: ""法""
 Deutsch: ""Schwanz"" - 中文: ""尾""
-Deutsch: ""Versuch"" - 中文: ""","[31787, 235]",试,"[472, 21609, 271, 263, 4218, 1131, 15127, 1098, 29874]",attempt,Versuch
+Deutsch: ""Versuch"" - 中文: ""","[31787, 235]",试,"[271, 21609, 472, 1098, 1131, 15127, 263, 29874, 4218]",attempt,Versuch
 "Deutsch: ""Ball"" - 中文: ""球""
 Deutsch: ""Fluss"" - 中文: ""河""
 Deutsch: ""Tal"" - 中文: ""谷""
 Deutsch: ""Mond"" - 中文: ""月""
-Deutsch: ""Niederlage"" - 中文: ""","[31955, 235]",败,"[311, 1753, 29881, 20653, 270, 316, 8686, 822]",defeat,Niederlage
+Deutsch: ""Niederlage"" - 中文: ""","[31955, 235]",败,"[822, 311, 316, 1753, 8686, 20653, 29881, 270]",defeat,Niederlage
 "Deutsch: ""Versuch"" - 中文: ""试""
 Deutsch: ""Turm"" - 中文: ""塔""
 Deutsch: ""Netz"" - 中文: ""网""
 Deutsch: ""Macht"" - 中文: ""力""
-Deutsch: ""Schwanz"" - 中文: ""","[31631, 232]",尾,"[18237, 11062, 941, 260, 29873, 12464]",tail,Schwanz
+Deutsch: ""Schwanz"" - 中文: ""","[31631, 232]",尾,"[12464, 11062, 941, 29873, 18237, 260]",tail,Schwanz
 "Deutsch: ""Generation"" - 中文: ""代""
 Deutsch: ""Anstieg"" - 中文: ""起""
 Deutsch: ""Turm"" - 中文: ""塔""
 Deutsch: ""Tal"" - 中文: ""谷""
-Deutsch: ""Mutter"" - 中文: ""","[31763, 233]",母,"[4346, 3184, 2730, 25550, 5637, 14817, 286, 29885]",mother,Mutter
+Deutsch: ""Mutter"" - 中文: ""","[31763, 233]",母,"[286, 3184, 29885, 25550, 2730, 5637, 14817, 4346]",mother,Mutter
 "Deutsch: ""Talent"" - 中文: ""才""
 Deutsch: ""See"" - 中文: ""湖""
 Deutsch: ""Dorf"" - 中文: ""村""
 Deutsch: ""Macht"" - 中文: ""力""
-Deutsch: ""Osten"" - 中文: ""","[30979, 231]",东,"[23027, 29872, 2240, 9755, 11248, 321]",east,Osten
+Deutsch: ""Osten"" - 中文: ""","[30979, 231]",东,"[23027, 11248, 9755, 321, 2240, 29872]",east,Osten
 "Deutsch: ""Haar"" - 中文: ""发""
 Deutsch: ""Tag"" - 中文: ""日""
 Deutsch: ""Pferd"" - 中文: ""马""
 Deutsch: ""sieben"" - 中文: ""七""
-Deutsch: ""Rede"" - 中文: ""","[31852, 235]",话,"[5965, 12032, 961, 269, 1028, 29879, 805]",speech,Rede
+Deutsch: ""Rede"" - 中文: ""","[31852, 235]",话,"[269, 1028, 5965, 29879, 805, 961, 12032]",speech,Rede
 "Deutsch: ""eins"" - 中文: ""一""
 Deutsch: ""Höhle"" - 中文: ""洞""
 Deutsch: ""Abschnitt"" - 中文: ""段""
 Deutsch: ""Tee"" - 中文: ""茶""
-Deutsch: ""Kind"" - 中文: ""","[30319, 232]",子,"[521, 4161, 5145, 2278, 18558, 29883, 274, 305]",child,Kind
+Deutsch: ""Kind"" - 中文: ""","[30319, 232]",子,"[5145, 521, 2278, 305, 18558, 29883, 274, 4161]",child,Kind
 "Deutsch: ""Stern"" - 中文: ""星""
 Deutsch: ""Mitte"" - 中文: ""中""
 Deutsch: ""links"" - 中文: ""左""
 Deutsch: ""See"" - 中文: ""湖""
-Deutsch: ""Turm"" - 中文: ""","[31831, 232]",塔,"[304, 517, 260, 29873, 19372]",tower,Turm
+Deutsch: ""Turm"" - 中文: ""","[31831, 232]",塔,"[29873, 517, 260, 304, 19372]",tower,Turm
 "Deutsch: ""Schule"" - 中文: ""校""
 Deutsch: ""Art"" - 中文: ""种""
 Deutsch: ""Quadrat"" - 中文: ""方""
 Deutsch: ""Feder"" - 中文: ""春""
-Deutsch: ""Haar"" - 中文: ""","[30910, 232]",发,"[447, 23535, 298, 11315, 2350, 29882]",hair,Haar
+Deutsch: ""Haar"" - 中文: ""","[30910, 232]",发,"[447, 23535, 29882, 11315, 2350, 298]",hair,Haar
 "Deutsch: ""Brücke"" - 中文: ""桥""
 Deutsch: ""Wald"" - 中文: ""林""
 Deutsch: ""Gemälde"" - 中文: ""画""
 Deutsch: ""Anstieg"" - 中文: ""起""
-Deutsch: ""Haushalt"" - 中文: ""","[31229, 233]",户,"[8697, 22329, 5089, 29882, 1251, 9261, 10774, 298, 3699]",household,Haushalt
+Deutsch: ""Haushalt"" - 中文: ""","[31229, 233]",户,"[8697, 3699, 22329, 1251, 29882, 10774, 5089, 9261, 298]",household,Haushalt
 "Deutsch: ""Börse"" - 中文: ""交""
 Deutsch: ""Gesetz"" - 中文: ""法""
 Deutsch: ""Süden"" - 中文: ""南""
 Deutsch: ""Gesicht"" - 中文: ""面""
-Deutsch: ""Person"" - 中文: ""","[30313, 231]",人,"[2022, 282, 412, 546, 6774, 10532, 3736, 639, 1236, 29886]",person,Person
+Deutsch: ""Person"" - 中文: ""","[30313, 231]",人,"[412, 10532, 639, 1236, 2022, 3736, 6774, 29886, 282, 546]",person,Person
 "Deutsch: ""Dorf"" - 中文: ""村""
 Deutsch: ""Tal"" - 中文: ""谷""
 Deutsch: ""eins"" - 中文: ""一""
 Deutsch: ""Buch"" - 中文: ""书""
-Deutsch: ""Abschnitt"" - 中文: ""","[31559, 233]",段,"[409, 2042, 8803, 5226, 344, 269, 4004, 29879, 3471, 21149]",section,Abschnitt
+Deutsch: ""Abschnitt"" - 中文: ""","[31559, 233]",段,"[269, 21149, 4004, 3471, 409, 29879, 2042, 344, 8803, 5226]",section,Abschnitt
 "Deutsch: ""Quelle"" - 中文: ""源""
 Deutsch: ""Standort"" - 中文: ""址""
 Deutsch: ""Turm"" - 中文: ""塔""
 Deutsch: ""Meer"" - 中文: ""海""
-Deutsch: ""Büro"" - 中文: ""","[31655, 232]",局,"[288, 974, 20205, 3344, 8034, 1283, 310, 29877, 2696]",office,Büro
+Deutsch: ""Büro"" - 中文: ""","[31655, 232]",局,"[2696, 3344, 1283, 29877, 20205, 288, 8034, 310, 974]",office,Büro
 "Deutsch: ""Ozean"" - 中文: ""洋""
 Deutsch: ""zehn"" - 中文: ""十""
 Deutsch: ""Stadt"" - 中文: ""城""
 Deutsch: ""Tee"" - 中文: ""茶""
-Deutsch: ""Anstieg"" - 中文: ""","[31558, 235]",起,"[14451, 3780, 5161, 29878, 10107, 374, 364]",rise,Anstieg
+Deutsch: ""Anstieg"" - 中文: ""","[31558, 235]",起,"[5161, 374, 10107, 3780, 29878, 364, 14451]",rise,Anstieg
 "Deutsch: ""Ozean"" - 中文: ""洋""
 Deutsch: ""Teil"" - 中文: ""部""
 Deutsch: ""fünf"" - 中文: ""五""
 Deutsch: ""Feuer"" - 中文: ""火""
-Deutsch: ""links"" - 中文: ""","[31651, 232]",左,"[29880, 280, 454, 1563, 25874, 2175, 301]",left,links
+Deutsch: ""links"" - 中文: ""","[31651, 232]",左,"[1563, 2175, 280, 29880, 454, 25874, 301]",left,links
 "Deutsch: ""Sand"" - 中文: ""沙""
 Deutsch: ""Netz"" - 中文: ""网""
 Deutsch: ""Geschichte"" - 中文: ""史""
 Deutsch: ""Boden"" - 中文: ""地""
-Deutsch: ""Macht"" - 中文: ""","[31074, 232]",力,"[282, 4764, 12248, 1129, 772, 3081, 29886, 13519]",power,Macht
+Deutsch: ""Macht"" - 中文: ""","[31074, 232]",力,"[13519, 772, 3081, 12248, 4764, 29886, 282, 1129]",power,Macht
 "Deutsch: ""Farbe"" - 中文: ""色""
 Deutsch: ""Feld"" - 中文: ""场""
 Deutsch: ""Plattform"" - 中文: ""台""
 Deutsch: ""See"" - 中文: ""湖""
-Deutsch: ""Sommer"" - 中文: ""","[31241, 232]",夏,"[2146, 22792, 2533, 480, 269, 2083, 11801, 29879]",summer,Sommer
+Deutsch: ""Sommer"" - 中文: ""","[31241, 232]",夏,"[269, 2083, 29879, 2146, 480, 2533, 22792, 11801]",summer,Sommer
