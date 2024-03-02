@@ -1,0 +1,601 @@
+prompt,out_token_id,out_token_str,latent_token_id,latent_token_str,in_token_str
+"Deutsch: ""Streifen"" - English: ""strip""
+Deutsch: ""Haus"" - English: ""house""
+Deutsch: ""Berg"" - English: ""mountain""
+Deutsch: ""eins"" - English: ""one""
+Deutsch: ""Buch"" - English: ""","[67, 3305, 2399]",book,"[67, 3305, 2399]",book,Buch
+"Deutsch: ""Plattform"" - English: ""platform""
+Deutsch: ""vier"" - English: ""four""
+Deutsch: ""Gitter"" - English: ""grid""
+Deutsch: ""Wasser"" - English: ""water""
+Deutsch: ""Wolke"" - English: ""","[498, 68, 45679, 18534]",cloud,"[498, 68, 45679, 18534]",cloud,Wolke
+"Deutsch: ""Freund"" - English: ""friend""
+Deutsch: ""See"" - English: ""lake""
+Deutsch: ""Meer"" - English: ""sea""
+Deutsch: ""Paar"" - English: ""pair""
+Deutsch: ""Tasche"" - English: ""","[67, 5830, 22738]",bag,"[67, 5830, 22738]",bag,Tasche
+"Deutsch: ""Kopf"" - English: ""head""
+Deutsch: ""Mitte"" - English: ""middle""
+Deutsch: ""Bahnhof"" - English: ""station""
+Deutsch: ""Kind"" - English: ""child""
+Deutsch: ""Mund"" - English: ""","[6972, 19845, 78]",mouth,"[6972, 19845, 78]",mouth,Mund
+"Deutsch: ""Provinz"" - English: ""province""
+Deutsch: ""Netz"" - English: ""net""
+Deutsch: ""Schwanz"" - English: ""tail""
+Deutsch: ""neun"" - English: ""nine""
+Deutsch: ""Boden"" - English: ""","[84, 601]",soil,"[84, 601]",soil,Boden
+"Deutsch: ""Bahnhof"" - English: ""station""
+Deutsch: ""Meer"" - English: ""sea""
+Deutsch: ""Punkt"" - English: ""point""
+Deutsch: ""sechs"" - English: ""six""
+Deutsch: ""Berg"" - English: ""","[6972, 16285, 78]",mountain,"[6972, 16285, 78]",mountain,Berg
+"Deutsch: ""Provinz"" - English: ""province""
+Deutsch: ""Netz"" - English: ""net""
+Deutsch: ""Herz"" - English: ""heart""
+Deutsch: ""Rede"" - English: ""speech""
+Deutsch: ""Tuch"" - English: ""","[498, 45313, 68, 45679]",cloth,"[498, 45313, 68, 45679]",cloth,Tuch
+"Deutsch: ""Schnee"" - English: ""snow""
+Deutsch: ""Feder"" - English: ""spring""
+Deutsch: ""Version"" - English: ""version""
+Deutsch: ""Beispiel"" - English: ""example""
+Deutsch: ""Herz"" - English: ""","[21071, 73, 14387, 248]",heart,"[21071, 73, 14387, 248]",heart,Herz
+"Deutsch: ""Höhle"" - English: ""cave""
+Deutsch: ""neun"" - English: ""nine""
+Deutsch: ""Tuch"" - English: ""cloth""
+Deutsch: ""Ball"" - English: ""ball""
+Deutsch: ""Hand"" - English: ""","[73, 5582, 4608, 3227]",hand,"[73, 5582, 4608, 3227]",hand,Hand
+"Deutsch: ""Generation"" - English: ""generation""
+Deutsch: ""Teich"" - English: ""pond""
+Deutsch: ""löschen"" - English: ""delete""
+Deutsch: ""Gegenstand"" - English: ""item""
+Deutsch: ""Tag"" - English: ""","[69, 1473, 1201]",day,"[69, 1473, 1201]",day,Tag
+"Deutsch: ""Art"" - English: ""kind""
+Deutsch: ""Niederlage"" - English: ""defeat""
+Deutsch: ""Feder"" - English: ""spring""
+Deutsch: ""Tal"" - English: ""valley""
+Deutsch: ""Stern"" - English: ""","[7873, 18233, 84, 296]",star,"[7873, 18233, 84, 296]",star,Stern
+"Deutsch: ""Reis"" - English: ""rice""
+Deutsch: ""Schule"" - English: ""school""
+Deutsch: ""Holz"" - English: ""wood""
+Deutsch: ""vier"" - English: ""four""
+Deutsch: ""Feder"" - English: ""","[84, 1033, 10167, 27375]",spring,"[84, 1033, 10167, 27375]",spring,Feder
+"Deutsch: ""Anstieg"" - English: ""rise""
+Deutsch: ""Generation"" - English: ""generation""
+Deutsch: ""Berg"" - English: ""mountain""
+Deutsch: ""links"" - English: ""left""
+Deutsch: ""Mond"" - English: ""","[6972, 78]",moon,"[6972, 78]",moon,Mond
+"Deutsch: ""Meer"" - English: ""sea""
+Deutsch: ""Schnee"" - English: ""snow""
+Deutsch: ""Tuch"" - English: ""cloth""
+Deutsch: ""sechs"" - English: ""six""
+Deutsch: ""Holz"" - English: ""","[88, 680, 5308]",wood,"[88, 680, 5308]",wood,Holz
+"Deutsch: ""Kopf"" - English: ""head""
+Deutsch: ""Anstieg"" - English: ""rise""
+Deutsch: ""Provinz"" - English: ""province""
+Deutsch: ""zehn"" - English: ""ten""
+Deutsch: ""Dorf"" - English: ""","[87, 33745, 40579, 6584]",village,"[87, 33745, 40579, 6584]",village,Dorf
+"Deutsch: ""Fuß"" - English: ""foot""
+Deutsch: ""Büro"" - English: ""office""
+Deutsch: ""Börse"" - English: ""exchange""
+Deutsch: ""Boden"" - English: ""soil""
+Deutsch: ""Wald"" - English: ""","[71, 1542, 922, 38250, 4786]",forest,"[71, 1542, 922, 38250, 4786]",forest,Wald
+"Deutsch: ""Blume"" - English: ""flower""
+Deutsch: ""Welle"" - English: ""wave""
+Deutsch: ""Wald"" - English: ""forest""
+Deutsch: ""Stern"" - English: ""star""
+Deutsch: ""Gitter"" - English: ""","[15476, 72, 737]",grid,"[15476, 72, 737]",grid,Gitter
+"Deutsch: ""Schule"" - English: ""school""
+Deutsch: ""fünf"" - English: ""five""
+Deutsch: ""Tuch"" - English: ""cloth""
+Deutsch: ""Auge"" - English: ""eye""
+Deutsch: ""Lied"" - English: ""","[1665, 32429, 84, 601]",song,"[1665, 32429, 84, 601]",song,Lied
+"Deutsch: ""Ozean"" - English: ""ocean""
+Deutsch: ""Richter"" - English: ""judge""
+Deutsch: ""Macht"" - English: ""power""
+Deutsch: ""fünf"" - English: ""five""
+Deutsch: ""Wasser"" - English: ""","[88, 7779, 8754, 16526]",water,"[88, 7779, 8754, 16526]",water,Wasser
+"Deutsch: ""Art"" - English: ""kind""
+Deutsch: ""sieben"" - English: ""seven""
+Deutsch: ""Holz"" - English: ""wood""
+Deutsch: ""Zeit"" - English: ""time""
+Deutsch: ""Teich"" - English: ""","[81, 5367]",pond,"[81, 5367]",pond,Teich
+"Deutsch: ""Stern"" - English: ""star""
+Deutsch: ""Börse"" - English: ""exchange""
+Deutsch: ""Tugend"" - English: ""virtue""
+Deutsch: ""Freund"" - English: ""friend""
+Deutsch: ""Sand"" - English: ""","[84, 26125, 40728, 6678]",sand,"[84, 26125, 40728, 6678]",sand,Sand
+"Deutsch: ""eins"" - English: ""one""
+Deutsch: ""Sitz"" - English: ""seat""
+Deutsch: ""acht"" - English: ""eight""
+Deutsch: ""Feuer"" - English: ""fire""
+Deutsch: ""Fluss"" - English: ""","[1069, 363, 83, 6606, 9878]",river,"[1069, 363, 83, 6606, 9878]",river,Fluss
+"Deutsch: ""zehn"" - English: ""ten""
+Deutsch: ""Wort"" - English: ""word""
+Deutsch: ""Berg"" - English: ""mountain""
+Deutsch: ""Wasser"" - English: ""water""
+Deutsch: ""Gesetz"" - English: ""","[77, 6937, 4123]",law,"[77, 6937, 4123]",law,Gesetz
+"Deutsch: ""vier"" - English: ""four""
+Deutsch: ""Börse"" - English: ""exchange""
+Deutsch: ""zehn"" - English: ""ten""
+Deutsch: ""Quadrat"" - English: ""square""
+Deutsch: ""Welle"" - English: ""","[88, 15007, 8754]",wave,"[88, 15007, 8754]",wave,Welle
+"Deutsch: ""See"" - English: ""lake""
+Deutsch: ""Norden"" - English: ""north""
+Deutsch: ""tausend"" - English: ""thousand""
+Deutsch: ""Bahnhof"" - English: ""station""
+Deutsch: ""Ozean"" - English: ""","[406, 80]",ocean,"[406, 80]",ocean,Ozean
+"Deutsch: ""Standort"" - English: ""site""
+Deutsch: ""Gegenstand"" - English: ""item""
+Deutsch: ""Mond"" - English: ""moon""
+Deutsch: ""Geschichte"" - English: ""history""
+Deutsch: ""Höhle"" - English: ""","[68, 6357, 43205]",cave,"[68, 6357, 43205]",cave,Höhle
+"Deutsch: ""Tag"" - English: ""day""
+Deutsch: ""Holz"" - English: ""wood""
+Deutsch: ""Blume"" - English: ""flower""
+Deutsch: ""acht"" - English: ""eight""
+Deutsch: ""Meer"" - English: ""","[339, 84, 15681]",sea,"[339, 84, 15681]",sea,Meer
+"Deutsch: ""Licht"" - English: ""light""
+Deutsch: ""Ball"" - English: ""ball""
+Deutsch: ""Süden"" - English: ""south""
+Deutsch: ""Version"" - English: ""version""
+Deutsch: ""See"" - English: ""","[77, 4123, 48212]",lake,"[77, 4123, 48212]",lake,See
+"Deutsch: ""Generation"" - English: ""generation""
+Deutsch: ""Teil"" - English: ""part""
+Deutsch: ""Tuch"" - English: ""cloth""
+Deutsch: ""Niederlage"" - English: ""defeat""
+Deutsch: ""Quelle"" - English: ""","[6756, 84, 601]",source,"[6756, 84, 601]",source,Quelle
+"Deutsch: ""Nutzen"" - English: ""benefit""
+Deutsch: ""Straße"" - English: ""street""
+Deutsch: ""Turm"" - English: ""tower""
+Deutsch: ""Teil"" - English: ""part""
+Deutsch: ""Feuer"" - English: ""","[71, 11342, 11125]",fire,"[71, 11342, 11125]",fire,Feuer
+"Deutsch: ""Wolke"" - English: ""cloud""
+Deutsch: ""Mutter"" - English: ""mother""
+Deutsch: ""Tee"" - English: ""tea""
+Deutsch: ""fünf"" - English: ""five""
+Deutsch: ""Punkt"" - English: ""","[81, 5367, 3659]",point,"[81, 5367, 3659]",point,Punkt
+"Deutsch: ""Richter"" - English: ""judge""
+Deutsch: ""Teich"" - English: ""pond""
+Deutsch: ""Gemälde"" - English: ""painting""
+Deutsch: ""See"" - English: ""lake""
+Deutsch: ""Version"" - English: ""","[332, 87, 735, 306, 4149]",version,"[332, 87, 735, 306, 4149]",version,Version
+"Deutsch: ""Pferd"" - English: ""horse""
+Deutsch: ""acht"" - English: ""eight""
+Deutsch: ""Turm"" - English: ""tower""
+Deutsch: ""drei"" - English: ""three""
+Deutsch: ""Ball"" - English: ""","[67, 7187, 5830, 2910]",ball,"[67, 7187, 5830, 2910]",ball,Ball
+"Deutsch: ""Feld"" - English: ""field""
+Deutsch: ""Gesicht"" - English: ""face""
+Deutsch: ""Blume"" - English: ""flower""
+Deutsch: ""Haar"" - English: ""hair""
+Deutsch: ""Gemälde"" - English: ""","[81, 31406, 4904]",painting,"[81, 31406, 4904]",painting,Gemälde
+"Deutsch: ""Richter"" - English: ""judge""
+Deutsch: ""Fluss"" - English: ""river""
+Deutsch: ""Feuer"" - English: ""fire""
+Deutsch: ""löschen"" - English: ""delete""
+Deutsch: ""Bahnhof"" - English: ""","[18233, 84, 8766, 296, 20502]",station,"[18233, 84, 8766, 296, 20502]",station,Bahnhof
+"Deutsch: ""rot"" - English: ""red""
+Deutsch: ""eins"" - English: ""one""
+Deutsch: ""Zeit"" - English: ""time""
+Deutsch: ""Feder"" - English: ""spring""
+Deutsch: ""Reis"" - English: ""","[363, 83, 695, 23804]",rice,"[363, 83, 695, 23804]",rice,Reis
+"Deutsch: ""Generation"" - English: ""generation""
+Deutsch: ""Art"" - English: ""kind""
+Deutsch: ""Tee"" - English: ""tea""
+Deutsch: ""Haus"" - English: ""house""
+Deutsch: ""rot"" - English: ""","[433, 83, 250]",red,"[433, 83, 250]",red,rot
+"Deutsch: ""Farbe"" - English: ""color""
+Deutsch: ""Rede"" - English: ""speech""
+Deutsch: ""Haar"" - English: ""hair""
+Deutsch: ""Auge"" - English: ""eye""
+Deutsch: ""Linie"" - English: ""","[77, 1282, 3642, 965]",line,"[77, 1282, 3642, 965]",line,Linie
+"Deutsch: ""Quelle"" - English: ""source""
+Deutsch: ""Versuch"" - English: ""attempt""
+Deutsch: ""Welle"" - English: ""wave""
+Deutsch: ""Provinz"" - English: ""province""
+Deutsch: ""Netz"" - English: ""","[79, 3024, 570]",net,"[79, 3024, 570]",net,Netz
+"Deutsch: ""Süden"" - English: ""south""
+Deutsch: ""Quadrat"" - English: ""square""
+Deutsch: ""Paar"" - English: ""pair""
+Deutsch: ""Teich"" - English: ""pond""
+Deutsch: ""Blume"" - English: ""","[33179, 40591, 71, 1258, 5449]",flower,"[33179, 40591, 71, 1258, 5449]",flower,Blume
+"Deutsch: ""Teil"" - English: ""part""
+Deutsch: ""Auge"" - English: ""eye""
+Deutsch: ""Gesicht"" - English: ""face""
+Deutsch: ""Ball"" - English: ""ball""
+Deutsch: ""Tee"" - English: ""","[85, 442]",tea,"[85, 442]",tea,Tee
+"Deutsch: ""Rede"" - English: ""speech""
+Deutsch: ""Schwanz"" - English: ""tail""
+Deutsch: ""Sonne"" - English: ""sun""
+Deutsch: ""drei"" - English: ""three""
+Deutsch: ""Fuß"" - English: ""","[12110, 71, 8938, 4786]",foot,"[12110, 71, 8938, 4786]",foot,Fuß
+"Deutsch: ""Mond"" - English: ""moon""
+Deutsch: ""tausend"" - English: ""thousand""
+Deutsch: ""Netz"" - English: ""net""
+Deutsch: ""zwei"" - English: ""two""
+Deutsch: ""Gold"" - English: ""","[72, 2184, 27716, 32651]",gold,"[72, 2184, 27716, 32651]",gold,Gold
+"Deutsch: ""Ball"" - English: ""ball""
+Deutsch: ""Büro"" - English: ""office""
+Deutsch: ""Norden"" - English: ""north""
+Deutsch: ""Mutter"" - English: ""mother""
+Deutsch: ""Tür"" - English: ""","[3088, 69, 11806]",door,"[3088, 69, 11806]",door,Tür
+"Deutsch: ""Gemälde"" - English: ""painting""
+Deutsch: ""Turm"" - English: ""tower""
+Deutsch: ""Süden"" - English: ""south""
+Deutsch: ""Maschine"" - English: ""machine""
+Deutsch: ""Schnee"" - English: ""","[11489, 84]",snow,"[11489, 84]",snow,Schnee
+"Deutsch: ""Haus"" - English: ""house""
+Deutsch: ""Büro"" - English: ""office""
+Deutsch: ""Tuch"" - English: ""cloth""
+Deutsch: ""Netz"" - English: ""net""
+Deutsch: ""Pferd"" - English: ""","[73, 4210, 33647, 1688, 1689]",horse,"[73, 4210, 33647, 1688, 1689]",horse,Pferd
+"Deutsch: ""Tuch"" - English: ""cloth""
+Deutsch: ""Generation"" - English: ""generation""
+Deutsch: ""Gold"" - English: ""gold""
+Deutsch: ""Kind"" - English: ""child""
+Deutsch: ""eins"" - English: ""","[80, 251, 531]",one,"[80, 251, 531]",one,eins
+"Deutsch: ""Fluss"" - English: ""river""
+Deutsch: ""Schule"" - English: ""school""
+Deutsch: ""Feder"" - English: ""spring""
+Deutsch: ""Tugend"" - English: ""virtue""
+Deutsch: ""zwei"" - English: ""","[85, 9389, 7553]",two,"[85, 9389, 7553]",two,zwei
+"Deutsch: ""Haus"" - English: ""house""
+Deutsch: ""Buch"" - English: ""book""
+Deutsch: ""Ball"" - English: ""ball""
+Deutsch: ""Gemälde"" - English: ""painting""
+Deutsch: ""drei"" - English: ""","[85, 13524, 394]",three,"[85, 13524, 394]",three,drei
+"Deutsch: ""Rede"" - English: ""speech""
+Deutsch: ""Quelle"" - English: ""source""
+Deutsch: ""tausend"" - English: ""thousand""
+Deutsch: ""Ozean"" - English: ""ocean""
+Deutsch: ""vier"" - English: ""","[71, 4786, 12496]",four,"[71, 4786, 12496]",four,vier
+"Deutsch: ""Art"" - English: ""kind""
+Deutsch: ""Freund"" - English: ""friend""
+Deutsch: ""Höhle"" - English: ""cave""
+Deutsch: ""Feuer"" - English: ""fire""
+Deutsch: ""fünf"" - English: ""","[12071, 71, 11125]",five,"[12071, 71, 11125]",five,fünf
+"Deutsch: ""Geschwindigkeit"" - English: ""speed""
+Deutsch: ""Tee"" - English: ""tea""
+Deutsch: ""Wolke"" - English: ""cloud""
+Deutsch: ""Sand"" - English: ""sand""
+Deutsch: ""sechs"" - English: ""","[17182, 84, 9245]",six,"[17182, 84, 9245]",six,sechs
+"Deutsch: ""Büro"" - English: ""office""
+Deutsch: ""Fuß"" - English: ""foot""
+Deutsch: ""Blume"" - English: ""flower""
+Deutsch: ""Börse"" - English: ""exchange""
+Deutsch: ""sieben"" - English: ""","[23587, 46731, 339, 84]",seven,"[23587, 46731, 339, 84]",seven,sieben
+"Deutsch: ""Richter"" - English: ""judge""
+Deutsch: ""Gemälde"" - English: ""painting""
+Deutsch: ""Punkt"" - English: ""point""
+Deutsch: ""Feuer"" - English: ""fire""
+Deutsch: ""acht"" - English: ""","[70, 19521, 27116]",eight,"[70, 19521, 27116]",eight,acht
+"Deutsch: ""Fuß"" - English: ""foot""
+Deutsch: ""Mund"" - English: ""mouth""
+Deutsch: ""Gitter"" - English: ""grid""
+Deutsch: ""Schwanz"" - English: ""tail""
+Deutsch: ""neun"" - English: ""","[79, 8311, 27248]",nine,"[79, 8311, 27248]",nine,neun
+"Deutsch: ""Stern"" - English: ""star""
+Deutsch: ""Maschine"" - English: ""machine""
+Deutsch: ""Norden"" - English: ""north""
+Deutsch: ""Schwanz"" - English: ""tail""
+Deutsch: ""zehn"" - English: ""","[85, 1866, 442]",ten,"[85, 1866, 442]",ten,zehn
+"Deutsch: ""Talent"" - English: ""talent""
+Deutsch: ""Macht"" - English: ""power""
+Deutsch: ""Feder"" - English: ""spring""
+Deutsch: ""Sommer"" - English: ""summer""
+Deutsch: ""Kopf"" - English: ""","[21071, 73, 248, 2522]",head,"[21071, 73, 248, 2522]",head,Kopf
+"Deutsch: ""Schnee"" - English: ""snow""
+Deutsch: ""löschen"" - English: ""delete""
+Deutsch: ""Haus"" - English: ""house""
+Deutsch: ""Gruppe"" - English: ""group""
+Deutsch: ""Streifen"" - English: ""","[84, 32182, 296, 25763, 1344]",strip,"[84, 32182, 296, 25763, 1344]",strip,Streifen
+"Deutsch: ""Pferd"" - English: ""horse""
+Deutsch: ""See"" - English: ""lake""
+Deutsch: ""Börse"" - English: ""exchange""
+Deutsch: ""Reis"" - English: ""rice""
+Deutsch: ""Straße"" - English: ""","[84, 32565, 296, 1344, 33151]",street,"[84, 32565, 296, 1344, 33151]",street,Straße
+"Deutsch: ""Versuch"" - English: ""attempt""
+Deutsch: ""Provinz"" - English: ""province""
+Deutsch: ""Büro"" - English: ""office""
+Deutsch: ""Teich"" - English: ""pond""
+Deutsch: ""Teil"" - English: ""","[1148, 81, 2003, 4904]",part,"[1148, 81, 2003, 4904]",part,Teil
+"Deutsch: ""Tee"" - English: ""tea""
+Deutsch: ""Gesetz"" - English: ""law""
+Deutsch: ""Plattform"" - English: ""platform""
+Deutsch: ""Feuer"" - English: ""fire""
+Deutsch: ""Auge"" - English: ""","[2653, 30978, 70]",eye,"[2653, 30978, 70]",eye,Auge
+"Deutsch: ""Schnee"" - English: ""snow""
+Deutsch: ""Gold"" - English: ""gold""
+Deutsch: ""Schönheit"" - English: ""beauty""
+Deutsch: ""Mitte"" - English: ""middle""
+Deutsch: ""Feld"" - English: ""","[71, 11125, 3423]",field,"[71, 11125, 3423]",field,Feld
+"Deutsch: ""Richter"" - English: ""judge""
+Deutsch: ""Gesicht"" - English: ""face""
+Deutsch: ""Schwanz"" - English: ""tail""
+Deutsch: ""Schule"" - English: ""school""
+Deutsch: ""Standort"" - English: ""","[84, 9245, 12198, 11264]",site,"[84, 9245, 12198, 11264]",site,Standort
+"Deutsch: ""Pferd"" - English: ""horse""
+Deutsch: ""Fluss"" - English: ""river""
+Deutsch: ""Welle"" - English: ""wave""
+Deutsch: ""Feuer"" - English: ""fire""
+Deutsch: ""Wort"" - English: ""","[88, 680, 42108, 3418]",word,"[88, 680, 42108, 3418]",word,Wort
+"Deutsch: ""Quelle"" - English: ""source""
+Deutsch: ""Bahnhof"" - English: ""station""
+Deutsch: ""Rede"" - English: ""speech""
+Deutsch: ""Richter"" - English: ""judge""
+Deutsch: ""Paar"" - English: ""","[81, 4904, 13934]",pair,"[81, 4904, 13934]",pair,Paar
+"Deutsch: ""Herz"" - English: ""heart""
+Deutsch: ""drei"" - English: ""three""
+Deutsch: ""Quadrat"" - English: ""square""
+Deutsch: ""Punkt"" - English: ""point""
+Deutsch: ""Sitz"" - English: ""","[339, 84, 36443, 15681]",seat,"[339, 84, 36443, 15681]",seat,Sitz
+"Deutsch: ""Ball"" - English: ""ball""
+Deutsch: ""Teil"" - English: ""part""
+Deutsch: ""Gold"" - English: ""gold""
+Deutsch: ""Plattform"" - English: ""platform""
+Deutsch: ""Licht"" - English: ""","[77, 3372, 3243, 965]",light,"[77, 3372, 3243, 965]",light,Licht
+"Deutsch: ""Wasser"" - English: ""water""
+Deutsch: ""zwei"" - English: ""two""
+Deutsch: ""Anstieg"" - English: ""rise""
+Deutsch: ""Mund"" - English: ""mouth""
+Deutsch: ""tausend"" - English: ""","[85, 394]",thousand,"[85, 394]",thousand,tausend
+"Deutsch: ""Welle"" - English: ""wave""
+Deutsch: ""sieben"" - English: ""seven""
+Deutsch: ""Tee"" - English: ""tea""
+Deutsch: ""Art"" - English: ""kind""
+Deutsch: ""Norden"" - English: ""","[79, 15387, 37436, 2369]",north,"[79, 15387, 37436, 2369]",north,Norden
+"Deutsch: ""Standort"" - English: ""site""
+Deutsch: ""Tür"" - English: ""door""
+Deutsch: ""Gegenstand"" - English: ""item""
+Deutsch: ""Herz"" - English: ""heart""
+Deutsch: ""Maschine"" - English: ""","[12432, 28936, 785, 78]",machine,"[12432, 28936, 785, 78]",machine,Maschine
+"Deutsch: ""Farbe"" - English: ""color""
+Deutsch: ""Maschine"" - English: ""machine""
+Deutsch: ""Welle"" - English: ""wave""
+Deutsch: ""Feuer"" - English: ""fire""
+Deutsch: ""Zeit"" - English: ""","[85, 12292, 6811, 2606]",time,"[85, 12292, 6811, 2606]",time,Zeit
+"Deutsch: ""Mutter"" - English: ""mother""
+Deutsch: ""Tugend"" - English: ""virtue""
+Deutsch: ""Mund"" - English: ""mouth""
+Deutsch: ""fünf"" - English: ""five""
+Deutsch: ""Nutzen"" - English: ""","[31891, 67, 7564, 1257]",benefit,"[31891, 67, 7564, 1257]",benefit,Nutzen
+"Deutsch: ""acht"" - English: ""eight""
+Deutsch: ""drei"" - English: ""three""
+Deutsch: ""Anstieg"" - English: ""rise""
+Deutsch: ""Niederlage"" - English: ""defeat""
+Deutsch: ""Provinz"" - English: ""","[81, 1087, 856, 11404]",province,"[81, 1087, 856, 11404]",province,Provinz
+"Deutsch: ""Macht"" - English: ""power""
+Deutsch: ""Haushalt"" - English: ""household""
+Deutsch: ""Wort"" - English: ""word""
+Deutsch: ""Brücke"" - English: ""bridge""
+Deutsch: ""Börse"" - English: ""","[70, 35757, 36688, 911]",exchange,"[70, 35757, 36688, 911]",exchange,Börse
+"Deutsch: ""Art"" - English: ""kind""
+Deutsch: ""Abschnitt"" - English: ""section""
+Deutsch: ""Beispiel"" - English: ""example""
+Deutsch: ""Netz"" - English: ""net""
+Deutsch: ""Mitte"" - English: ""","[7373, 7893, 78, 16389]",middle,"[7373, 7893, 78, 16389]",middle,Mitte
+"Deutsch: ""eins"" - English: ""one""
+Deutsch: ""Wald"" - English: ""forest""
+Deutsch: ""Höhle"" - English: ""cave""
+Deutsch: ""Tal"" - English: ""valley""
+Deutsch: ""Freund"" - English: ""","[925, 71, 8471]",friend,"[925, 71, 8471]",friend,Freund
+"Deutsch: ""Teil"" - English: ""part""
+Deutsch: ""Geschwindigkeit"" - English: ""speed""
+Deutsch: ""Wald"" - English: ""forest""
+Deutsch: ""Welle"" - English: ""wave""
+Deutsch: ""Farbe"" - English: ""","[1940, 4897, 2052, 68]",color,"[1940, 4897, 2052, 68]",color,Farbe
+"Deutsch: ""Süden"" - English: ""south""
+Deutsch: ""Mitte"" - English: ""middle""
+Deutsch: ""Mutter"" - English: ""mother""
+Deutsch: ""Wasser"" - English: ""water""
+Deutsch: ""Art"" - English: ""","[5914, 11258, 76, 5985]",kind,"[5914, 11258, 76, 5985]",kind,Art
+"Deutsch: ""Schwanz"" - English: ""tail""
+Deutsch: ""Quadrat"" - English: ""square""
+Deutsch: ""Auge"" - English: ""eye""
+Deutsch: ""Tee"" - English: ""tea""
+Deutsch: ""Richter"" - English: ""","[75, 7589, 47075, 6881]",judge,"[75, 7589, 47075, 6881]",judge,Richter
+"Deutsch: ""Richter"" - English: ""judge""
+Deutsch: ""Paar"" - English: ""pair""
+Deutsch: ""Meer"" - English: ""sea""
+Deutsch: ""Blume"" - English: ""flower""
+Deutsch: ""Schule"" - English: ""","[10629, 1026, 84, 19221]",school,"[10629, 1026, 84, 19221]",school,Schule
+"Deutsch: ""fünf"" - English: ""five""
+Deutsch: ""Stadt"" - English: ""city""
+Deutsch: ""Mutter"" - English: ""mother""
+Deutsch: ""acht"" - English: ""eight""
+Deutsch: ""Krawatte"" - English: ""","[85, 6811, 37678]",tie,"[85, 6811, 37678]",tie,Krawatte
+"Deutsch: ""Wald"" - English: ""forest""
+Deutsch: ""Punkt"" - English: ""point""
+Deutsch: ""Blume"" - English: ""flower""
+Deutsch: ""Straße"" - English: ""street""
+Deutsch: ""Beispiel"" - English: ""","[11667, 70, 911]",example,"[11667, 70, 911]",example,Beispiel
+"Deutsch: ""Anstieg"" - English: ""rise""
+Deutsch: ""Stern"" - English: ""star""
+Deutsch: ""sechs"" - English: ""six""
+Deutsch: ""Kind"" - English: ""child""
+Deutsch: ""Gesicht"" - English: ""","[6855, 1664, 71, 28402]",face,"[6855, 1664, 71, 28402]",face,Gesicht
+"Deutsch: ""Ball"" - English: ""ball""
+Deutsch: ""Reis"" - English: ""rice""
+Deutsch: ""zehn"" - English: ""ten""
+Deutsch: ""Gesetz"" - English: ""law""
+Deutsch: ""Brücke"" - English: ""","[67, 1288, 7807, 8298]",bridge,"[67, 1288, 7807, 8298]",bridge,Brücke
+"Deutsch: ""Farbe"" - English: ""color""
+Deutsch: ""Niederlage"" - English: ""defeat""
+Deutsch: ""Berg"" - English: ""mountain""
+Deutsch: ""Generation"" - English: ""generation""
+Deutsch: ""Gegenstand"" - English: ""","[614, 4835, 74, 262]",item,"[614, 4835, 74, 262]",item,Gegenstand
+"Deutsch: ""Generation"" - English: ""generation""
+Deutsch: ""Version"" - English: ""version""
+Deutsch: ""Geschwindigkeit"" - English: ""speed""
+Deutsch: ""Schule"" - English: ""school""
+Deutsch: ""löschen"" - English: ""","[7555, 16435, 69, 615]",delete,"[7555, 16435, 69, 615]",delete,löschen
+"Deutsch: ""Auge"" - English: ""eye""
+Deutsch: ""Kopf"" - English: ""head""
+Deutsch: ""Fuß"" - English: ""foot""
+Deutsch: ""Linie"" - English: ""line""
+Deutsch: ""Gruppe"" - English: ""","[72, 26817, 4399, 737]",group,"[72, 26817, 4399, 737]",group,Gruppe
+"Deutsch: ""Haar"" - English: ""hair""
+Deutsch: ""Provinz"" - English: ""province""
+Deutsch: ""Fuß"" - English: ""foot""
+Deutsch: ""Büro"" - English: ""office""
+Deutsch: ""Talent"" - English: ""","[85, 22559, 893]",talent,"[85, 22559, 893]",talent,Talent
+"Deutsch: ""tausend"" - English: ""thousand""
+Deutsch: ""Freund"" - English: ""friend""
+Deutsch: ""Ozean"" - English: ""ocean""
+Deutsch: ""Feder"" - English: ""spring""
+Deutsch: ""Schönheit"" - English: ""","[67, 1257]",beauty,"[67, 1257]",beauty,Schönheit
+"Deutsch: ""zwei"" - English: ""two""
+Deutsch: ""Tür"" - English: ""door""
+Deutsch: ""Art"" - English: ""kind""
+Deutsch: ""Gegenstand"" - English: ""item""
+Deutsch: ""Plattform"" - English: ""","[81, 446, 19161]",platform,"[81, 446, 19161]",platform,Plattform
+"Deutsch: ""Sommer"" - English: ""summer""
+Deutsch: ""Versuch"" - English: ""attempt""
+Deutsch: ""Tee"" - English: ""tea""
+Deutsch: ""Quadrat"" - English: ""square""
+Deutsch: ""Haus"" - English: ""","[73, 14451, 1689, 5967]",house,"[73, 14451, 1689, 5967]",house,Haus
+"Deutsch: ""Rede"" - English: ""speech""
+Deutsch: ""Reis"" - English: ""rice""
+Deutsch: ""Berg"" - English: ""mountain""
+Deutsch: ""Wort"" - English: ""word""
+Deutsch: ""Sonne"" - English: ""","[84, 13998, 3467]",sun,"[84, 13998, 3467]",sun,Sonne
+"Deutsch: ""Sitz"" - English: ""seat""
+Deutsch: ""Schwanz"" - English: ""tail""
+Deutsch: ""Richter"" - English: ""judge""
+Deutsch: ""Standort"" - English: ""site""
+Deutsch: ""Geschichte"" - English: ""","[8701, 73, 15700, 22328, 5801, 29059]",history,"[8701, 73, 15700, 22328, 5801, 29059]",history,Geschichte
+"Deutsch: ""Sommer"" - English: ""summer""
+Deutsch: ""Teich"" - English: ""pond""
+Deutsch: ""Abschnitt"" - English: ""section""
+Deutsch: ""Bahnhof"" - English: ""station""
+Deutsch: ""Tal"" - English: ""","[87, 1208, 42089, 6156]",valley,"[87, 1208, 42089, 6156]",valley,Tal
+"Deutsch: ""Haushalt"" - English: ""household""
+Deutsch: ""Feld"" - English: ""field""
+Deutsch: ""Abschnitt"" - English: ""section""
+Deutsch: ""Haar"" - English: ""hair""
+Deutsch: ""Quadrat"" - English: ""","[23600, 15044, 84, 18858]",square,"[23600, 15044, 84, 18858]",square,Quadrat
+"Deutsch: ""Wort"" - English: ""word""
+Deutsch: ""Brücke"" - English: ""bridge""
+Deutsch: ""Person"" - English: ""person""
+Deutsch: ""Sommer"" - English: ""summer""
+Deutsch: ""Generation"" - English: ""","[20857, 8719, 72, 1541, 463, 14520]",generation,"[20857, 8719, 72, 1541, 463, 14520]",generation,Generation
+"Deutsch: ""Norden"" - English: ""north""
+Deutsch: ""Freund"" - English: ""friend""
+Deutsch: ""Zeit"" - English: ""time""
+Deutsch: ""Person"" - English: ""person""
+Deutsch: ""Süden"" - English: ""","[34542, 84, 601]",south,"[34542, 84, 601]",south,Süden
+"Deutsch: ""Schönheit"" - English: ""beauty""
+Deutsch: ""Wort"" - English: ""word""
+Deutsch: ""Dorf"" - English: ""village""
+Deutsch: ""See"" - English: ""lake""
+Deutsch: ""Tugend"" - English: ""","[12855, 87, 42446, 6584]",virtue,"[12855, 87, 42446, 6584]",virtue,Tugend
+"Deutsch: ""Reis"" - English: ""rice""
+Deutsch: ""Sitz"" - English: ""seat""
+Deutsch: ""Mitte"" - English: ""middle""
+Deutsch: ""acht"" - English: ""eight""
+Deutsch: ""Stamm"" - English: ""","[85, 12512, 1206]",tribe,"[85, 12512, 1206]",tribe,Stamm
+"Deutsch: ""sieben"" - English: ""seven""
+Deutsch: ""Mond"" - English: ""moon""
+Deutsch: ""Börse"" - English: ""exchange""
+Deutsch: ""Geschichte"" - English: ""history""
+Deutsch: ""Stadt"" - English: ""","[21280, 5297, 68, 10179]",city,"[21280, 5297, 68, 10179]",city,Stadt
+"Deutsch: ""Mutter"" - English: ""mother""
+Deutsch: ""Abschnitt"" - English: ""section""
+Deutsch: ""Macht"" - English: ""power""
+Deutsch: ""Holz"" - English: ""wood""
+Deutsch: ""Sprache"" - English: ""","[77, 8700, 4123, 12982, 13409]",language,"[77, 8700, 4123, 12982, 13409]",language,Sprache
+"Deutsch: ""Haushalt"" - English: ""household""
+Deutsch: ""Gruppe"" - English: ""group""
+Deutsch: ""fünf"" - English: ""five""
+Deutsch: ""sieben"" - English: ""seven""
+Deutsch: ""Geschwindigkeit"" - English: ""","[15507, 84, 1033, 9293]",speed,"[15507, 84, 1033, 9293]",speed,Geschwindigkeit
+"Deutsch: ""Wolke"" - English: ""cloud""
+Deutsch: ""Freund"" - English: ""friend""
+Deutsch: ""Talent"" - English: ""talent""
+Deutsch: ""Schwanz"" - English: ""tail""
+Deutsch: ""Boden"" - English: ""","[72, 26817, 737, 2595]",ground,"[72, 26817, 737, 2595]",ground,Boden
+"Deutsch: ""Generation"" - English: ""generation""
+Deutsch: ""Linie"" - English: ""line""
+Deutsch: ""Gesetz"" - English: ""law""
+Deutsch: ""Schwanz"" - English: ""tail""
+Deutsch: ""Versuch"" - English: ""","[66, 38839, 34015, 1595, 255]",attempt,"[66, 38839, 34015, 1595, 255]",attempt,Versuch
+"Deutsch: ""Ball"" - English: ""ball""
+Deutsch: ""Fluss"" - English: ""river""
+Deutsch: ""Tal"" - English: ""valley""
+Deutsch: ""Mond"" - English: ""moon""
+Deutsch: ""Niederlage"" - English: ""","[69, 1545, 615]",defeat,"[69, 1545, 615]",defeat,Niederlage
+"Deutsch: ""Versuch"" - English: ""attempt""
+Deutsch: ""Turm"" - English: ""tower""
+Deutsch: ""Netz"" - English: ""net""
+Deutsch: ""Macht"" - English: ""power""
+Deutsch: ""Schwanz"" - English: ""","[85, 14694, 893]",tail,"[85, 14694, 893]",tail,Schwanz
+"Deutsch: ""Generation"" - English: ""generation""
+Deutsch: ""Anstieg"" - English: ""rise""
+Deutsch: ""Turm"" - English: ""tower""
+Deutsch: ""Tal"" - English: ""valley""
+Deutsch: ""Mutter"" - English: ""","[6972, 24013, 78, 13875]",mother,"[6972, 24013, 78, 13875]",mother,Mutter
+"Deutsch: ""Talent"" - English: ""talent""
+Deutsch: ""See"" - English: ""lake""
+Deutsch: ""Dorf"" - English: ""village""
+Deutsch: ""Macht"" - English: ""power""
+Deutsch: ""Osten"" - English: ""","[14576, 19010, 26139, 70]",east,"[14576, 19010, 26139, 70]",east,Osten
+"Deutsch: ""Haar"" - English: ""hair""
+Deutsch: ""Tag"" - English: ""day""
+Deutsch: ""Pferd"" - English: ""horse""
+Deutsch: ""sieben"" - English: ""seven""
+Deutsch: ""Rede"" - English: ""","[48460, 84, 1033, 9293]",speech,"[48460, 84, 1033, 9293]",speech,Rede
+"Deutsch: ""eins"" - English: ""one""
+Deutsch: ""Höhle"" - English: ""cave""
+Deutsch: ""Abschnitt"" - English: ""section""
+Deutsch: ""Tee"" - English: ""tea""
+Deutsch: ""Kind"" - English: ""","[7003, 348, 68, 4635]",child,"[7003, 348, 68, 4635]",child,Kind
+"Deutsch: ""Stern"" - English: ""star""
+Deutsch: ""Mitte"" - English: ""middle""
+Deutsch: ""links"" - English: ""left""
+Deutsch: ""See"" - English: ""lake""
+Deutsch: ""Turm"" - English: ""","[85, 936, 32289]",tower,"[85, 936, 32289]",tower,Turm
+"Deutsch: ""Schule"" - English: ""school""
+Deutsch: ""Art"" - English: ""kind""
+Deutsch: ""Quadrat"" - English: ""square""
+Deutsch: ""Feder"" - English: ""spring""
+Deutsch: ""Haar"" - English: ""","[73, 41754, 16926, 3227]",hair,"[73, 41754, 16926, 3227]",hair,Haar
+"Deutsch: ""Brücke"" - English: ""bridge""
+Deutsch: ""Wald"" - English: ""forest""
+Deutsch: ""Gemälde"" - English: ""painting""
+Deutsch: ""Anstieg"" - English: ""rise""
+Deutsch: ""Haushalt"" - English: ""","[73, 14451, 1689, 5967]",household,"[73, 14451, 1689, 5967]",household,Haushalt
+"Deutsch: ""Börse"" - English: ""exchange""
+Deutsch: ""Gesetz"" - English: ""law""
+Deutsch: ""Süden"" - English: ""south""
+Deutsch: ""Gesicht"" - English: ""face""
+Deutsch: ""Person"" - English: ""","[10816, 81, 365, 5726, 468]",person,"[10816, 81, 365, 5726, 468]",person,Person
+"Deutsch: ""Dorf"" - English: ""village""
+Deutsch: ""Tal"" - English: ""valley""
+Deutsch: ""eins"" - English: ""one""
+Deutsch: ""Buch"" - English: ""book""
+Deutsch: ""Abschnitt"" - English: ""","[4674, 339, 1704, 84, 7338]",section,"[4674, 339, 1704, 84, 7338]",section,Abschnitt
+"Deutsch: ""Quelle"" - English: ""source""
+Deutsch: ""Standort"" - English: ""site""
+Deutsch: ""Turm"" - English: ""tower""
+Deutsch: ""Meer"" - English: ""sea""
+Deutsch: ""Büro"" - English: ""","[2727, 80, 30496, 19102, 1171]",office,"[2727, 80, 30496, 19102, 1171]",office,Büro
+"Deutsch: ""Ozean"" - English: ""ocean""
+Deutsch: ""zehn"" - English: ""ten""
+Deutsch: ""Stadt"" - English: ""city""
+Deutsch: ""Tee"" - English: ""tea""
+Deutsch: ""Anstieg"" - English: ""","[363, 83, 24078, 4448]",rise,"[363, 83, 24078, 4448]",rise,Anstieg
+"Deutsch: ""Ozean"" - English: ""ocean""
+Deutsch: ""Teil"" - English: ""part""
+Deutsch: ""fünf"" - English: ""five""
+Deutsch: ""Feuer"" - English: ""fire""
+Deutsch: ""links"" - English: ""","[282, 77, 1274]",left,"[282, 77, 1274]",left,links
+"Deutsch: ""Sand"" - English: ""sand""
+Deutsch: ""Netz"" - English: ""net""
+Deutsch: ""Geschichte"" - English: ""history""
+Deutsch: ""Boden"" - English: ""ground""
+Deutsch: ""Macht"" - English: ""","[81, 5367, 13029, 9177]",power,"[81, 5367, 13029, 9177]",power,Macht
+"Deutsch: ""Farbe"" - English: ""color""
+Deutsch: ""Feld"" - English: ""field""
+Deutsch: ""Plattform"" - English: ""platform""
+Deutsch: ""See"" - English: ""lake""
+Deutsch: ""Sommer"" - English: ""","[2204, 84, 44830, 3467]",summer,"[2204, 84, 44830, 3467]",summer,Sommer
