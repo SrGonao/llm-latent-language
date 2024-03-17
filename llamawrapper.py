@@ -155,9 +155,11 @@ class LlamaHelper:
         else:
             self.device = device
         self.tokenizer = AutoTokenizer.from_pretrained(dir, use_auth_token=hf_token,cache_dir="/mnt/ssd-1/hf_cache")
-        self.model = AutoModelForCausalLM.from_pretrained(dir, use_auth_token=hf_token,
-                                                          device_map=device_map,
-                                                          load_in_8bit=load_in_8bit,cache_dir="/mnt/ssd-1/hf_cache")
+        self.model = AutoModelForCausalLM.from_pretrained(dir, use_auth_token=hf_token,device_map={"": "cuda"},
+                revision="main",
+                torch_dtype="auto",
+                local_files_only="true",cache_dir="/mnt/ssd-1/hf_cache/"
+        )
         self.use_embed_head = True
         W = list(self.model.model.embed_tokens.parameters())[0].detach()
         self.head_embed = torch.nn.Linear(W.size(1), W.size(0), bias=False)
